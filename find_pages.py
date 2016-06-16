@@ -19,7 +19,11 @@ with open("data/wikiaEpisodes.csv", "w") as episodes_file:
             maybe_link = select(row, "a")
             if len(maybe_link) > 0:
                 writer.writerow([episode_number, "http://gameofthrones.wikia.com{0}".format(maybe_link[0].get("href"))])
-            episode_number += 1
+                episode_number += 1
+
+    writer.writerow([56, "http://gameofthrones.wikia.com/wiki/Blood_of_My_Blood"])
+    writer.writerow([57, "http://gameofthrones.wikia.com/wiki/The_Broken_Man"])
+    writer.writerow([58, "http://gameofthrones.wikia.com/wiki/No_One"])
 
 rows = select(wikipedia, "table tr.vevent")
 

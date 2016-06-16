@@ -4,8 +4,8 @@ from soupselect import select
 import bs4
 import csv
 
-wikipedia = BeautifulSoup(open("data/wikipedia/55", "r"), "html.parser")
-wikia = BeautifulSoup(open("data/wikia/55", "r"), "html.parser")
+wikipedia = BeautifulSoup(open("data/wikipedia/58", "r"), "html.parser")
+wikia = BeautifulSoup(open("data/wikia/58", "r"), "html.parser")
 
 rows = select(wikipedia, "table.infobox tr")
 
@@ -40,8 +40,10 @@ for section in [section for section in  select(wikipedia, "h3 span.mw-headline")
     for item in content:
         print item
         if item is not NavigableString:
-            print select(item, "a")
-
+            try:
+                print select(item, "a")
+            except AttributeError:
+                pass
 
 import sys
 sys.exit(1)
