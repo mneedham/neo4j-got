@@ -1,0 +1,2263 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.24" />
+<meta name="keywords" content="Game of Thrones Wiki,gameofthrones,Breaker of Chains,David Benioff,D.B. Weiss,Alex Graves,Episode Guide,The Lion and the Rose,Oathkeeper,Meereen,Dontos Hollard,Sansa Stark,King's Landing" />
+<meta name="description" content="&amp;quot;Breaker of Chains&amp;quot; is the third episode of the fourth season of Game of Thrones. It is the..." />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Wikia" />
+<meta name="twitter:url" content="http://gameofthrones.wikia.com/wiki/Breaker_of_Chains" />
+<meta name="twitter:title" content="Breaker of Chains - Game of Thrones Wiki - Wikia" />
+<meta name="twitter:description" content="&quot;Breaker of Chains&quot; is the third episode of the fourth season of Game of Thrones. It is the thirty-third episode of the series overall. It premiered on April 20, 2014. It was written by executive..." />
+<link rel="canonical" href="http://gameofthrones.wikia.com/wiki/Breaker_of_Chains" />
+<link rel="apple-touch-icon" href="http://img1.wikia.nocookie.net/__cb87/gameofthrones/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/gameofthrones/images/6/64/Favicon.ico/revision/latest?cb=20120302041013" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Game of Thrones Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://gameofthrones.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="Game of Thrones Wiki Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>Breaker of Chains - Game of Thrones Wiki - Wikia</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images2.wikia.nocookie.net/__am/1466073491/sasses/background-dynamic%3Dtrue%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb20150716154804%252Fgameofthrones%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1920%26color-body%3D%2523000%26color-body-middle%3D%2523000000%26color-buttons%3D%25231e5467%26color-header%3D%25235f4416%26color-links%3D%252347518e%26color-page%3D%2523d7cbab%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/skins/oasis/css/oasis.scss,extensions/wikia/Forum/css/ForumTag.scss,extensions/wikia/Recirculation/styles/recirculation.scss,extensions/wikia/PortableInfobox/styles/PortableInfobox.scss,extensions/wikia/VisualEditorTourExperiment/styles/VisualEditorTourExperimentInit.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationUserLoginDropdown.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationNotifications.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,extensions/wikia/GlobalNavigation/styles/GoogleSearchAPI.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/PageShare/styles/PageShare.scss,extensions/wikia/GlobalFooter/styles/GlobalFooter.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://slot1.images3.wikia.nocookie.net/__am/1466073491/sasses/background-dynamic%3Dtrue%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb20150716154804%252Fgameofthrones%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1920%26color-body%3D%2523000%26color-body-middle%3D%2523000000%26color-buttons%3D%25231e5467%26color-header%3D%25235f4416%26color-links%3D%252347518e%26color-page%3D%2523d7cbab%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/extensions/wikia/ARecoveryEngine/css/recoveryUnlock.scss" /><link rel="stylesheet" href="http://gameofthrones.wikia.com/__load/-/cb%3D1466073491%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: gameofthrones:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="tv",
+wgWikiCategories=[],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Join the Chat","chat-start-a-chat":"Start a Chat","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live! Chat","chat-edit-count":"$1 edits","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":1,"delayBtf":true,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true,"sourcePointDetectionUrl":"http://gameofthrones.wikia.com/__load/-/cb%3D1466073491%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/a47a3a8fae34dbafa7dfd2b0bbf6f4d1","yavliUrl":"http://gameofthrones.wikia.com/__load/-/cb%3D1466073491%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/cdb7b3a82727403b82ff127d59711c1a"},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"esrbRating":"teen","mappedVerticalName":"ent","pageArticleId":21621,"pageIsArticle":true,"pageName":"Breaker_of_Chains","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"media=tv;genre=fantasy;tv=hbo;sex=m;age=18-24;age=18-34;age=25-34;esrb=mature;media=books;gnre=action;gnre=adventure;theme=sword;theme=magic;gnre=drama;gnre=fighting;theme=dragon;theme=mature;theme=zombiesex=m;age=18-24;age=25-34;age=18-34;age=teen;media=tv;media=comics;media=books;gnre=action;theme=zombie;gnre=horror;theme=postapocalypse;gnre=3rdpersonshooter;pform=xbox360;pform=ps3;esrb=mature;tv=amc;sex=m;age=13-17;age=18-24;age=under18;age=kids;age=teen;gnre=anime;media=tv;media=comics;gnre=fighting;gnre=fantasyage=under18;age=18-24;age=teen;age=kids;media=tv;media=comics;media=cards;gnre=anime;gnre=fantasy;gnre=fighting;gnre=action;gnre=adventure;pform=xbox360;pform=ps3;pform=wii;pform=ds;esrb=teen;tv=cn;theme=heroes;tv=onhulu;tv=hulu","wikiDbName":"gameofthrones","wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"tv","newWikiCategories":["ent"]},"providers":{"evolve2":true,"rubiconFastlane":true,"taboola":true},"slots":{"exitstitial":true,"invisibleHighImpact":true},"forcedProvider":null},"runtime":{"sp":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[100056,100057,100058,100059,100397],
+wgWikiFactoryTagNames=["wow","t9","skyscraper","skyscrapperwow","en"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1466073491",
+wgDBname="gameofthrones",
+wgCityId="130814",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=21621,
+wgCategories=["Episodes","Season 4","Season 4 Episodes"],
+wgPageName="Breaker_of_Chains",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="tv_episode",
+wgNamespaceNumber=0,
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=true,
+wgStyleVersion="1466073491",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/complex","env":"prod","hostname":"ap-s213","php_version":"5.6.11","wiki":"gameofthrones","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"complex"},
+wgEnableOpenXSPC=true,
+wgEnableReviveSpotlights=true,
+wgSeoTestingBucket=1;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<!-- Nielsen is disabled --><script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1466073491&amp;c=130814&amp;lc=en&amp;lid=75&amp;x=gameofthrones&amp;y=c2&amp;u=0&amp;a=21621&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+		document.write('<img src="http://logs-01.loggly.com/inputs/88a88e56-77c6-49cc-af41-6f44f83fe7fe.gif?message=wikia_beacon_id%20is%20empty"/>');
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1466073491&amp;c=130814&amp;lc=en&amp;lid=75&amp;x=gameofthrones&amp;y=c2&amp;u=0&amp;a=21621&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1466073491%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__load/-/cb%3D1466073491%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1466073491/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine2_tracking_js,adengine2_amazon_match_js,adengine2_ox_bidder_js,adengine2_rubicon_fastlane_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="Game of Thrones Wiki" />
+	<meta property="og:title" content="Breaker of Chains" />
+	<meta property="og:description" content="&quot;Breaker of Chains&quot; is the third episode of the fourth season of Game of Thrones. It is the thirty-third episode of the series overall. It premiered on April 20, 2014. It was written by executive producers David Benioff and D.B. Weiss and directed by Alex Graves. In the frenzied aftermath of the royal wedding, Tyrion gets a visit from a loyal subject. Meanwhile, Tywin offers to work for the common good with a presumed enemy; Sam takes stock of the personnel at Castle Black; the Hound gives..." />
+	<meta property="og:url" content="http://gameofthrones.wikia.com/wiki/Breaker_of_Chains" />
+	<meta property="og:image" content="http://vignette1.wikia.nocookie.net/gameofthrones/images/5/5a/Daenerys-in-Breaker-of-Chains.jpg/revision/latest/scale-to-width-down/2000?cb=20141112054350" />
+<meta name="apple-itunes-app" content="app-id=920825172, app-arguments=http://gameofthrones.wikia.com/wiki/Breaker_of_Chains">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Breaker_of_Chains  TOC_hide oasis-breakpoints wikinav2 skin-oasis  user-anon background-fixed background-not-tiled background-dynamic wiki-gameofthrones" >
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fgameofthrones.wikia.com%2Fwiki%2FBreaker_of_Chains%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for RubiconFastlane, page_view -->
+<script id="analytics-provider-rubicon-fastlane">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.rubiconFastlane")
+	], function (geo, instantGlobals, rubiconFastlane) {
+		if (geo.isProperGeo(instantGlobals["wgAdDriverRubiconFastlaneCountries"])) {
+			rubiconFastlane.call();
+		};
+	});
+</script>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.amazonMatch"),
+	], function (geo, globals, amazon) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (geo.isProperGeo(ac)) {
+			amazon.call();
+		}
+	});
+</script>
+
+<!-- Start for OpenXBidder, page_view -->
+<script id="analytics-provider-openx-bidder">
+	require([
+		"wikia.geo",
+		"wikia.querystring",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.openXBidder")
+	], function (geo, Querystring, globals, oxBidder) {
+		var ac = globals["wgAdDriverOpenXBidderCountries"],
+			qs = new Querystring();
+
+		if (geo.isProperGeo(ac) || qs.getVal('oxbidder', '0') === '1') {
+			oxBidder.call();
+		};
+	});
+</script>
+<!-- Begin Krux Tag -->
+<script type="text/javascript">
+	require(['wikia.krux'], function (krux) {
+		krux.load('JU3_GW1b');
+	});
+</script>
+<!-- End Krux Tag -->
+<!-- Begin IVW3 Tag -->
+<script type="text/javascript">
+	var iam_data = {
+		st: 'wikia',
+		cp: 'tv/pc',
+		sv: 'i2'
+	};
+
+	if (window.Wikia &&
+		window.Wikia.InstantGlobals &&
+		!window.Wikia.InstantGlobals.wgSitewideDisableIVW3 &&
+		window.Wikia.geo.isProperGeo(["AT","CH","DE"])
+	) {
+		window.ivw3Initialized = true;
+		document.write('<script type="text/javascript" src="https://script.ioam.de/iam.js"><\/script>');
+		document.write('<script type="text/javascript">window.iom.c(iam_data, 2);<\/script>');
+	}
+</script>
+<!-- End IVW3 Tag -->
+<!-- Unsupported language for AnalyticsProviderIVW2 --><div class="WikiaSiteWrapper">
+	
+	<h2>Wikia</h2>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_LEADERBOARD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_BUTTON_WIDE"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["INVISIBLE_SKIN"]);
+	</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+<div id="InvisibleHighImpactWrapper" class="hidden">
+	<div class="background"></div>
+	<a class="close">
+		<div class="close-button"></div>
+	</a>
+	<div class="label">Advertisement</div>
+	<div id="INVISIBLE_HIGH_IMPACT_2" class="wikia-ad noprint"></div>
+</div>
+<nav class="global-navigation" id="globalNavigation">
+	<div class="global-navigation-container">
+		<div class="wikia-logo-container table-cell">
+			<a href="http://www.wikia.com/fandom"
+				class="wikia-logo final-url"
+				rel="nofollow"
+				data-id="wikia-logo">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+					height="24"
+					width="91"
+					alt="Wikia"
+					title="Wikia">
+									<span class="wikia-logo__subtitle">The Home of Fandom</span>
+							</a >
+		</div >
+					<div class="table-cell hubs-links" data-visibility="desktop">
+									<a class="cell-link top-level" href="http://fandom.wikia.com/games"
+					   data-tracking-label="hub-games">
+						Games					</a>
+									<a class="cell-link top-level" href="http://fandom.wikia.com/movies"
+					   data-tracking-label="hub-movies">
+						Movies					</a>
+									<a class="cell-link top-level" href="http://fandom.wikia.com/tv"
+					   data-tracking-label="hub-tv">
+						TV					</a>
+							</div>
+				<div class="table-cell">
+			<div class="explore-wikia-entry-point" id="exploreWikiaEntryPoint">
+				<a class="cell-link top-level final-url"
+					href="http://www.wikia.com/explore"
+					data-tracking-label="explore-wikia">
+					Explore Wikia					<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+				</a>
+				<ul class="explore-wikia-dropdown" id="exploreWikiaDropdown">
+																		<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://fandom.wikia.com/games"
+								   data-tracking-label="hub-games">
+									Games								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://fandom.wikia.com/movies"
+								   data-tracking-label="hub-movies">
+									Movies								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://fandom.wikia.com/tv"
+								   data-tracking-label="hub-tv">
+									TV								</a>
+							</li>
+																						<li>
+							<a class="cell-link"
+							   href="http://www.wikia.com/WAM"
+							   data-tracking-label="top-communities">
+								Trending Wikias							</a>
+						</li>
+											<li>
+							<a class="cell-link"
+							   href="http://community.wikia.com"
+							   data-tracking-label="community-central">
+								Community Central							</a>
+						</li>
+									</ul>
+			</div>
+		</div>
+		<div class="search-container table-cell">
+			<div class="search-form-wrapper">
+	<form action="http://gameofthrones.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search Game of Thrones Wiki..." data-search-url="http://gameofthrones.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search Game of Thrones Wiki..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+		</div>
+		<div class="account-navigation-container table-cell">
+			<ul id="AccountNavigation" class="AccountNavigation table-cell  ">
+	<li class="account-navigation-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/wiki/Special:UserLogin?returnto=Breaker_of_Chains" rel="nofollow" title="Log in" class="ajaxLogin table-cell" accesskey="o">			<div class="avatar-container anon-avatar-placeholder">
+							</div>
+		</a>
+						<span class="auth-label auth-link sign-in">Sign In</span>
+						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+			</div>
+	<div id="UserLoginDropdown" class="UserLoginDropdown global-nav-dropdown">
+	<div class="ajaxRegisterContainer"><a data-id="register" href="/wiki/Special:UserSignup" rel="nofollow" title="Register" class="ajaxRegister">Register</a></div>
+	
+<form action="/wiki/Special:UserLogin" method="post" class="WikiaForm">
+	<fieldset>
+		
+					<div class="input-group error general-errors">
+				<div class="error-msg"></div>
+			</div>
+		
+		
+									
+									<input type="hidden" name="loginToken" value="">
+											
+									<input type="hidden" name="returnto" value="Breaker_of_Chains">
+											
+									<input type="hidden" name="returntoquery" value="">
+											
+															<div class="input-group hide-label required">
+					
+													<label>Username</label>
+						
+						
+																												<input type="text" class="hide-label" id="usernameInput" name="username" tabindex="1" placeholder="Username">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group hide-label required">
+					
+													<label>Password</label>
+						
+						
+														<input type="password" class="hide-label" id="passwordInput" name="password" tabindex="2" placeholder="Password">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group">
+					
+						
+						
+														<a href="#" class="forgot-password" tabindex="0">
+	Forgot your password?</a>							
+						
+						
+											</div>
+					
+											
+															<div class="input-group keep-logged-in">
+					
+						
+													<label>
+						
+														<input type="checkbox" class="keep-logged-in" name="keeploggedin" value="1" tabindex="3">
+								
+						
+													Stay logged in</label>
+						
+											</div>
+					
+											
+															<div class="input-group login-button">
+					
+						
+						
+														<input type="submit" class="login-button" value="Log in" tabindex="4">
+							
+						
+						
+											</div>
+					
+										</fieldset>
+
+	</form>
+	<div class="sso-login hidden">
+		<div class="sso-login-divider">
+			<span>Or</span>
+		</div>
+
+					<a href="#" class="wikia-button wikia-button-facebook sso-login-facebook"  data-id="facebook" tabindex="5" ><img alt="" class="sprite facebook" height="14" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="15" /> Connect</a>
+	</div>
+</div>
+	</li>
+</ul>
+		</div>
+				<div class="start-wikia-container table-cell">
+			<a href="http://www.wikia.com/Special:CreateNewWiki"
+			   class="start-wikia"
+			   title="Start a wikia"
+			   data-id="start-wikia">
+				<span>Start a wikia</span>
+			</a>
+		</div>
+			</div>
+</nav>
+
+	<!-- BEGIN CONTAINER: TOP_LEADERBOARD_AB -->
+	<div id="TOP_LEADERBOARD_AB">
+		<script>
+			window.adslots2.push(["TOP_LEADERBOARD_AB"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: TOP_LEADERBOARD_AB -->
+
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h2 class="wordmark medium graphic ">
+	<a accesskey="z" href="/wiki/Game_of_Thrones_Wiki">
+					<img src="http://img1.wikia.nocookie.net/__cb87/gameofthrones/images/8/89/Wiki-wordmark.png" alt="Game of Thrones Wiki"  width="250" height="65" >
+			</a>
+</h2>
+	<nav class="WikiNav">
+					<h2>Game of Thrones Wiki Navigation</h2>
+				<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Images" data-canonical="images">Images</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Blogs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum" data-canonical="forum">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="/wiki/Category:Episodes">Episodes</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Season_1">Season 1<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Winter_is_Coming">1 - Winter is Coming</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Kingsroad">2 - The Kingsroad</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Lord_Snow">3 - Lord Snow</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Cripples,_Bastards_and_Broken_Things">4 - Cripples, Bastards and Broken Things</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Wolf_and_the_Lion">5 - The Wolf and the Lion</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/A_Golden_Crown">6 - A Golden Crown</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/You_Win_or_You_Die">7 - You Win or You Die</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Pointy_End">8 - The Pointy End</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Baelor">9 - Baelor</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Fire_and_Blood">10 - Fire and Blood</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Season_2">Season 2<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_North_Remembers">1 - The North Remembers</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Night_Lands">2 - The Night Lands</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/What_is_Dead_May_Never_Die">3 - What is Dead May Never Die</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Garden_of_Bones">4 - Garden of Bones</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Ghost_of_Harrenhal">5 - The Ghost of Harrenhal</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Old_Gods_and_the_New">6 - The Old Gods and the New</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/A_Man_Without_Honor">7 - A Man Without Honor</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Prince_of_Winterfell">8 - The Prince of Winterfell</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Blackwater">9 - Blackwater</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Valar_Morghulis">10 - Valar Morghulis</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Season_3">Season 3<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Valar_Dohaeris">1 - Valar Dohaeris</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Dark_Wings,_Dark_Words">2 - Dark Wings, Dark Words</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Walk_of_Punishment">3 - Walk of Punishment</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/And_Now_His_Watch_is_Ended">4 - And Now His Watch is Ended</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kissed_by_Fire">5 - Kissed by Fire</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Climb">6 - The Climb</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Bear_and_the_Maiden_Fair_(episode)">7 - The Bear and the Maiden Fair</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Second_Sons_(episode)">8 - Second Sons</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Rains_of_Castamere_(episode)">9 - The Rains of Castamere</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Mhysa">10 - Mhysa</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Season_4">Season 4<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Two_Swords">1 - Two Swords</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Lion_and_the_Rose">2 - The Lion and the Rose</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Breaker_of_Chains">3 - Breaker of Chains</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Oathkeeper">4 - Oathkeeper</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/First_of_His_Name">5 - First of His Name</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Laws_of_Gods_and_Men">6 - The Laws of Gods and Men</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Mockingbird">7 - Mockingbird</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Mountain_and_the_Viper">8 - The Mountain and the Viper</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Watchers_on_the_Wall">9 - The Watchers on the Wall</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Children">10 - The Children</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Season_5">Season 5<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Wars_to_Come">1 - The Wars to Come</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_House_of_Black_and_White">2 - The House of Black and White</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/High_Sparrow_(episode)">3 - High Sparrow</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Sons_of_the_Harpy_(episode)">4 - Sons of the Harpy</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kill_the_Boy">5 - Kill the Boy</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Unbowed,_Unbent,_Unbroken">6 - Unbowed, Unbent, Unbroken</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Gift_(episode)">7 - The Gift</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Hardhome_(episode)">8 - Hardhome</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Dance_of_Dragons">9 - The Dance of Dragons</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Mother%27s_Mercy">10 - Mother's Mercy</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Season_6">Season 6<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Red_Woman">1 - The Red Woman</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Home">2 - Home</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Oathbreaker">3 - Oathbreaker</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Book_of_the_Stranger">4 - Book of the Stranger</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Door">5 - The Door</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Blood_of_My_Blood">6 - Blood of My Blood</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Broken_Man">7 - The Broken Man</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/No_One">8 - No One</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Battle_of_the_Bastards_(episode)">9 - Battle of the Bastards</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Winds_of_Winter">10 - The Winds of Winter</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Extras">Extras<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Histories_%26_Lore">Histories & Lore</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Telltale%27s_Game_of_Thrones_Super_Walkthrough">Telltale video game navigation sub-portal</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Iron_From_Ice">1 - Iron From Ice</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Lost_Lords">2 - The Lost Lords</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Sword_in_the_Darkness">3 - The Sword in the Darkness</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Sons_of_Winter">4 - Sons of Winter</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/A_Nest_of_Vipers">5 - A Nest of Vipers</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Ice_Dragon">6 - The Ice Dragon</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Category:Characters">Characters</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/House_Stark">Stark<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Eddard_Stark">Eddard Stark</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Catelyn_Stark">Catelyn Stark</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Robb_Stark">Robb Stark</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Sansa_Stark">Sansa Stark</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Arya_Stark">Arya Stark</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Bran_Stark">Bran Stark</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Rickon_Stark">Rickon Stark</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jon_Snow">Jon Snow</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Brynden_Tully">Brynden Tully</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Edmure_Tully">Edmure Tully</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/House_Lannister">Lannister<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tywin_Lannister">Tywin Lannister</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Cersei_Lannister">Cersei Lannister</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jaime_Lannister">Jaime Lannister</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tyrion_Lannister">Tyrion Lannister</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Joffrey_Baratheon">Joffrey Baratheon</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Myrcella_Baratheon">Myrcella Baratheon</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tommen_Baratheon">Tommen Baratheon</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kevan_Lannister">Kevan Lannister</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Lancel_Lannister">Lancel Lannister</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Gregor_Clegane">Gregor Clegane</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/House_Tyrell">Tyrell<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Mace_Tyrell">Mace Tyrell</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Olenna_Tyrell">Olenna Tyrell</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Margaery_Tyrell">Margaery Tyrell</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Loras_Tyrell">Loras Tyrell</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Tarly">House Tarly</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Randyll_Tarly">Randyll Tarly</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Melessa_Tarly">Melessa Tarly</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Samwell_Tarly">Samwell Tarly</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Dickon_Tarly">Dickon Tarly</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Talla_Tarly">Talla Tarly</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/House_Targaryen">Targaryen<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Daenerys_Targaryen">Daenerys Targaryen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Viserys_Targaryen">Viserys Targaryen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Aerys_II_Targaryen">Aerys II Targaryen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Rhaegar_Targaryen">Rhaegar Targaryen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Aemon">Maester Aemon</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Varys">Varys</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Missandei">Missandei</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Grey_Worm">Grey Worm</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Daario_Naharis">Daario Naharis</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jorah_Mormont">Jorah Mormont</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Red_Wedding">Bolton & Frey<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Bolton">House Bolton</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Roose_Bolton">Roose Bolton</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Ramsay_Bolton">Ramsay Bolton</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Walda_Bolton">"Fat Walda" Frey</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Harald_Karstark">Harald Karstark</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Frey">House Frey</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Walder_Frey">Walder Frey</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Lothar_Frey">"Lame Lothar" Frey</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Walder_Rivers">"Black Walder" Rivers</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Roslin_Frey">Roslin Frey</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/House_Greyjoy">Greyjoy<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Theon_Greyjoy">Theon Greyjoy</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Yara_Greyjoy">Yara Greyjoy</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Balon_Greyjoy">Balon Greyjoy</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Euron_Greyjoy">Euron Greyjoy</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Aeron_Greyjoy">Aeron "Damp Hair" Greyjoy</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Brotherhood_Without_Banners">Allies&Enemies<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Brienne_of_Tarth">Brienne of Tarth</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Bronn">Ser Bronn</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Pycelle">Grand Maester Pycelle</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Melisandre">Melisandre</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Arryn">House Arryn</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Petyr_Baelish">Petyr "Littlefinger" Baelish</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Baratheon">House Baratheon</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Davos_Seaworth">Davos Seaworth</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Gendry">Gendry</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Martell">House Martell</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Category:Culture_%26_Society">Culture&Society</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Timeline">Timeline<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Dawn_Age">Dawn Age</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Long_Night">The Long Night</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Andal_Invasion">Andal Invasion</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Doom_of_Valyria">Doom of Valyria</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/War_of_Conquest">The Targaryen Conquest</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Robert%27s_Rebellion">Robert's Rebellion</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Greyjoy_Rebellion">Greyjoy Rebellion</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/War_of_the_Five_Kings">War of the Five Kings</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Conflict_Beyond_the_Wall">Conflict Beyond the Wall</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Liberation_of_Slaver%27s_Bay">Targaryen campaign in Slaver's Bay</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Organizations">Organizations<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Night%27s_Watch">Night's Watch</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Maesters">Order of Maesters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Small_Council">Small Council</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/City_Watch">City Watch ("Gold Cloaks")</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kingsguard">Kingsguard</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Iron_Bank_of_Braavos">Iron Bank of Braavos</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Faceless_Men">Faceless Men</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Warlocks_of_Qarth">Warlocks of Qarth</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Unsullied">Unsullied</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Brotherhood_Without_Banners">Brotherhood Without Banners</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Religion">Religions<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Old_Gods_of_the_Forest">Old Gods of the Forest</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Faith_of_the_Seven">Faith of the Seven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Drowned_God">Drowned God</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/R%27hllor">R'hllor, the Lord of Light</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/God_of_Death">The Many-faced God of Death</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Great_Stallion">Great Stallion</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Great_Shepherd">Great Shepherd</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Ghiscari_religion">Ghiscari religion</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Bearded_Priests_of_Norvos">Bearded Priests of Norvos</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Black_Goat_of_Qohor">Black Goat of Qohor</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Social_groups">Groups<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Great_Houses">Great Houses</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Noble_houses">Noble Houses</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Bastardy">Bastardy</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Knighthood">Knighthood</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Ward">Ward</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Smallfolk">Smallfolk</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Handmaiden">Handmaiden</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Mercenary">Mercenary</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Prostitution">Prostitution</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Slavery">Slavery</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Laws_and_Customs">Customs<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Heraldry">Heraldry</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_words">House words</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Guest_right">Guest right</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Science_and_Technology">Science and Technology</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Currency">Currency</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Food_and_Drink">Food and Drink</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Languages">Languages</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Magic">Magic</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Armament">Armament</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Animals_and_Plants">Animals and Plants</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Westeros">Westeros<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/First_Men">First Men</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Andals">Andals</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Ironborn">Ironborn</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Dornishmen">Dornishmen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Northmen">Northmen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Crannogmen">Crannogmen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Hill_tribes">Hill tribes</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Free_Folk">Wildlings</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/White_Walkers">White Walkers</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Children_of_the_Forest">Children of the Forest</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Essos">Essos<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Free_Cities">Free Cities</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Valyrian_Freehold">Valyrian Freehold</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Slaver%27s_Bay">Slaver's Bay</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Rhoynar">Rhoynar</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Lhazareen">Lhazareen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Dothraki">Dothraki</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Qarth">Qarth</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Yi_Ti">Yi Ti</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Asshai">Asshai</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Sothoryos">Sothoryos</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Category:Production">Production</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Writer">Writers<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/George_R.R._Martin">George R.R. Martin</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/David_Benioff">David Benioff</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/D.B._Weiss">D.B. Weiss</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Bryan_Cogman">Bryan Cogman</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jane_Espenson">Jane Espenson (Season 1, episode 6)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Vanessa_Taylor">Vanessa Taylor (Seasons 2-3)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Dave_Hill">Dave Hill</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Director">Directors 1-3<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Daniel_Minahan">Daniel Minahan</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/David_Nutter">David Nutter</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Alan_Taylor">Alan Taylor</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/David_Petrarca">David Petrarca</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Brian_Kirk">Brian Kirk</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tim_van_Patten">Tim van Patten</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Thomas_McCarthy">Thomas McCarthy</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Director">Directors 4-5<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Michael_Slovis">Michael Slovis</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Mark_Mylod">Mark Mylod</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jeremy_Podeswa">Jeremy Podeswa</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Miguel_Sapochnik">Miguel Sapochnik</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/David_Nutter">David Nutter</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Alex_Graves">Alex Graves</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Michelle_MacLaren">Michelle MacLaren</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Alik_Sakharov">Alik Sakharov</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Neil_Marshall">Neil Marshall</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Production">Crew<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Gemma_Jackson">Gemma Jackson - Set designer (Seasons 1-3)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Deborah_Riley">Deborah Riley - Set designer (Season 4 onwards)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Michele_Clapton">Michele Clapton - Costume designer (Seasons 1-5)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/April_Ferry">April Ferry - Costume designer (Season 6 onwards)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/David_J._Peterson">David J. Peterson - Language creator (Dothraki, Valyrian)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/William_Simpson">William Simpson - Storyboard artist</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jim_Stanes">Jim Stanes - Graphic artist, heraldry and handwriting design</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Ramin_Djawadi">Ramin Djawadi - Music composer</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kimberley_Pope">Kimberley Pope - Concept artist</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tommy_Dunne">Tommy Dunne - Weapons master</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Starring_cast_appearances">Actors<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Peter_Dinklage">Peter Dinklage</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kit_Harington">Kit Harington</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Emilia_Clarke">Emilia Clarke</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Maisie_Williams">Maisie Williams</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Sophie_Turner">Sophie Turner</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Lena_Headey">Lena Headey</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Nikolaj_Coster-Waldau">Nikolaj Coster-Waldau</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Natalie_Dormer">Natalie Dormer</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Gwendoline_Christie">Gwendoline Christie</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Rose_Leslie">Rose Leslie</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Production">Production<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Game_of_Thrones_(TV_series)">Game of Thrones (TV series)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tales_of_Dunk_and_Egg">Tales of Dunk and Egg prequel</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Differences_between_books_and_TV_series">Differences between books & TV series</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Costumes">Costumes</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Title_sequence">Title sequence</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Filming_locations">Filming locations</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Pronunciation_guide">Pronunciation guide</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Visual_effects_production_companies">Visual effects production companies</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Sexposition">Sexposition</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/List_of_references_to_Game_of_Thrones_in_other_media">List of references to Game of Thrones in other media</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Merchandise">Merchandise<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/A_Song_of_Ice_and_Fire">A Song of Ice and Fire novel series</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Merchandise#Blu-ray_and_DVD_releases">Blu ray & DVD releases by TV Season</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Soundtracks">Soundtracks by TV Season</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Merchandise#Action_figures">Action figures</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Inside_HBO%27s_Game_of_Thrones">Inside HBO's Game of Thrones (Seasons 1 & 2)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Inside_HBO%27s_Game_of_Thrones:_Seasons_3_%26_4">Inside HBO's Game of Thrones: Seasons 3 & 4</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Living_Language_Dothraki">Living Language Dothraki</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Computer_games">Video games</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Game_of_Thrones:_A_Telltale_Games_Series">Game of Thrones: A Telltale Games Series</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>	</nav>
+			<div class="buttons">
+			<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Special:Maps"  data-id="maps"   class="wikia-maps-create-map">Create a Map</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+		</div>
+		<div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent changes</a>	</div>
+</header>
+		
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+					<header id="WikiaPageHeader" class="WikiaPageHeader wikia-page-header">
+		<div class="header-container">
+			<div class="header-column header-title">
+				<h1>Breaker of Chains</h1>
+							</div>
+			<div class="header-column header-tally">
+				<div id="PageShareContainer" class="page-share-container">
+									</div>
+									<div class="tally"><em>3,296</em><span>pages on<br /> this wiki</span></div>
+							</div>
+		</div>
+		<nav class="wikia-menu-button" >
+	<a   href="/wiki/Breaker_of_Chains?action=edit" data-id="source" id="ca-viewsource">
+		<img alt="" class="sprite lock" height="12" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="9" /> View source	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Breaker_of_Chains?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="/wiki/Talk:Breaker_of_Chains" class="wikia-button comments secondary talk" rel="nofollow" data-id="comment"> Talk<span class="commentsbubble">16</span></a>
+	</header>
+	
+
+												<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+										
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text">
+<aside class="portable-infobox pi-background pi-theme-episode pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title">Breaker of Chains</h2>
+<section class="pi-item pi-group pi-border-color"><table class="pi-horizontal-group pi-horizontal-group-no-labels">
+	
+	
+	<tbody>
+	<tr>
+	
+		<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing">Season 4</td>
+	
+		<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing">Episode 3</td>
+	
+	</tr>
+	</tbody>
+</table>
+</section>
+<figure class="pi-item pi-image">
+	<a href="http://vignette1.wikia.nocookie.net/gameofthrones/images/5/5a/Daenerys-in-Breaker-of-Chains.jpg/revision/latest?cb=20141112054350" class="image image-thumbnail"
+	   title="">
+		<img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/5/5a/Daenerys-in-Breaker-of-Chains.jpg/revision/latest/scale-to-width-down/270?cb=20141112054350" class="pi-image-thumbnail" alt="" width="270" height="180"
+		     data-image-key="Daenerys-in-Breaker-of-Chains.jpg" data-image-name="Daenerys-in-Breaker-of-Chains.jpg"/>
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Air date</h3>
+	
+	<div class="pi-data-value pi-font">April 20, 2014</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Written by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/David_Benioff" title="David Benioff">David Benioff</a> & <a href="/wiki/D.B._Weiss" title="D.B. Weiss">D.B. Weiss</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Directed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Alex_Graves" title="Alex Graves">Alex Graves</a></div>
+</div>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><a href="/wiki/Episode_Guide" title="Episode Guide" class="mw-redirect">Episode Guide</a></nav>
+<section class="pi-item pi-group pi-border-color"><table class="pi-horizontal-group">
+	
+	
+	<thead>
+		<tr>
+		
+			<th class="pi-horizontal-group-item pi-data-label pi-secondary-font pi-border-color pi-item-spacing">Previous</th>
+		
+			<th class="pi-horizontal-group-item pi-data-label pi-secondary-font pi-border-color pi-item-spacing">Next</th>
+		
+		</tr>
+	</thead>
+	
+	<tbody>
+	<tr>
+	
+		<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing">"<a href="/wiki/The_Lion_and_the_Rose" title="The Lion and the Rose">The Lion and the Rose</a>"</td>
+	
+		<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing">"<a href="/wiki/Oathkeeper" title="Oathkeeper">Oathkeeper</a>"</td>
+	
+	</tr>
+	</tbody>
+</table>
+</section></aside>
+
+<p>"<b>Breaker of Chains</b>" is the third episode of the <a href="/wiki/Season_4" title="Season 4">fourth season</a> of <i><a href="/wiki/Game_of_Thrones" title="Game of Thrones" class="mw-redirect">Game of Thrones</a></i>. It is the thirty-third episode of the series overall. It premiered on April 20, 2014. It was written by executive producers <a href="/wiki/David_Benioff" title="David Benioff">David Benioff</a> and <a href="/wiki/D.B._Weiss" title="D.B. Weiss">D.B. Weiss</a> and directed by <a href="/wiki/Alex_Graves" title="Alex Graves">Alex Graves</a>.
+</p>
+<nav id="toc" class="toc"><div id="toctitle"><h2>Contents</h2><span class="toctoggle">[<a href="#" class="internal" id="togglelink" data-show="show" data-hide="hide">show</a>]</span></div><ol></ol></nav>
+<h2><span class="mw-headline" id="Plot">Plot</span></h2>
+<p>In the frenzied aftermath of the <a href="/wiki/Purple_Wedding" title="Purple Wedding">royal wedding</a>, <a href="/wiki/Tyrion_Lannister" title="Tyrion Lannister">Tyrion</a> gets a visit from a <a href="/wiki/Podrick_Payne" title="Podrick Payne">loyal subject</a>. Meanwhile, <a href="/wiki/Tywin_Lannister" title="Tywin Lannister">Tywin</a> offers to work for the common good with a <a href="/wiki/Oberyn_Martell" title="Oberyn Martell">presumed enemy</a>; <a href="/wiki/Samwell_Tarly" title="Samwell Tarly">Sam</a> takes stock of the personnel at <a href="/wiki/Castle_Black" title="Castle Black">Castle Black</a>; <a href="/wiki/Sandor_Clegane" title="Sandor Clegane">the Hound</a> gives another life lesson to <a href="/wiki/Arya_Stark" title="Arya Stark">Arya</a>; and <a href="/wiki/Daenerys_Targaryen" title="Daenerys Targaryen">Daenerys</a> makes a decision outside the walls of <a href="/wiki/Meereen" title="Meereen">Meereen</a>.
+</p>
+
+
+
+
+
+<script>
+    if (typeof(Wikia.geo) !== 'undefined' && ['US'].indexOf(Wikia.geo.getCountryCode()) >= 0) {
+        document.write('<aside id="monetization-amazon_video-in_content" class="monetization-module amazon-video hide-for-edit in-content amazon-video-full" data-mon-type="amazon_video" data-mon-slot="in_content"><div class="affiliate" data-mon-pid="B00HV2BQCQ" data-mon-ptag="gameofthrones-breaker_of_chai-130814-21621-B00HV2BQCQ-piv-fl-npr-ic-f" data-mon-pname="Game of Thrones: Season 3"><div class="affiliate-header"><a class="product-thumb" target="_blank" href="http://www.amazon.com/gp/product/B00HV2BQCQ/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=gameofthrones-breaker_of_chai-130814-21621-B00HV2BQCQ-piv-fl-npr-ic-f"><img  src="http://ecx.images-amazon.com/images/I/41iUz4aNrmL._SX320_SY240_.jpg"></a></div><a class="product-name" target="_blank" href="http://www.amazon.com/gp/product/B00HV2BQCQ/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=gameofthrones-breaker_of_chai-130814-21621-B00HV2BQCQ-piv-fl-npr-ic-f"><span class="product-title">Game of Thrones: Season 3</span><span class="product-detail">Season 3</span><span class="rating-bar"><span class="rating" style="width: 100.0%"></span></span></a><div class="product-button non-prime"><a class="amazon-logo" target="_blank" href="http://www.amazon.com/gp/product/B00HV2BQCQ/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=gameofthrones-breaker_of_chai-130814-21621-B00HV2BQCQ-piv-fl-npr-ic-f"></a><a class="product-btn" target="_blank" href="http://www.amazon.com/gp/product/B00HV2BQCQ/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=gameofthrones-breaker_of_chai-130814-21621-B00HV2BQCQ-piv-fl-npr-ic-f"></a></div></div></aside>');
+    } else 
+
+
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['AU','CA','DE','GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write('<div id="monetization-adunit-in_content" class="monetization-module adunit hide-for-edit in-content" data-mon-type="adunit" data-mon-slot="in_content"><div class="ad-header">Advertisement</div><div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><ins class="adsbygoogle ad-responsive-ic" style="display:inline-block;" data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_ic_fsm_ffa mon_hub_tv mon_sl_ic" data-ad-type="text" data-font-size="medium"data-font-face="arial" data-color-bg="#d7cbab" data-color-border="#d7cbab" data-color-link="#47518e" data-color-url="#47518e" data-color-text="#3a3a3a" ></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt></div></div>');
+}
+</script><h2><span class="mw-headline" id="Summary">Summary</span></h2>
+<h3><span class="mw-headline" id="At_King.27s_Landing">At King's Landing</span></h3>
+<p>With King <a href="/wiki/Joffrey_Baratheon" title="Joffrey Baratheon">Joffrey</a> dead, <a href="/wiki/Cersei_Lannister" title="Cersei Lannister">Cersei</a> mourns the death of her elder son with the heir apparent, Prince <a href="/wiki/Tommen_Baratheon" title="Tommen Baratheon">Tommen Baratheon</a>, in the <a href="/wiki/Great_Sept_of_Baelor" title="Great Sept of Baelor">Great Sept of Baelor</a>. Tywin Lannister, also present, immediately begins instructing the young prince on the qualities of a good king. As Tywin and Tommen leave, Jaime enters to see Cersei calling for the death of the accused Tyrion and his wife, Sansa Stark. Jaime sends the septon and septas away so he can be alone with Cersei. He tries to comfort her through his affections. She refuses initially, but Jaime is aggressive. Cersei insists that the sept during a private viewing of their son's corpse is a highly inappropriate place for sex, and asks Jaime to stop, saying "It isn't right, it isn't right..." and Jaime refuses to stop, saying, "I don't care, I don't care...". He then rapes her next to their dead son's corpse.
+</p><p>A flashback to the wedding reveals <a href="/wiki/Sansa_Stark" title="Sansa Stark">Sansa Stark</a> escaping with Ser <a href="/wiki/Dontos_Hollard" title="Dontos Hollard">Dontos Hollard</a> from <a href="/wiki/King%27s_Landing" title="King's Landing">King's Landing</a> to a <a href="/wiki/Ships" title="Ships">ship</a> off the coast. As Sansa is taken aboard, she is greeted by Lord <a href="/wiki/Petyr_Baelish" title="Petyr Baelish">Petyr "Littlefinger" Baelish</a>. He remembers that he still owes Dontos his fee, but Baelish has two men kill him with crossbows. He explains to Sansa that Ser Dontos was a drunken fool and an unreliable ally who only helped Sansa for money and would turn her in for money. To prove his point, he shows that the priceless necklace Dontos gave her was actually made a few weeks ago on Baelish's orders. Sansa is confused and horrified, but Baelish promises to keep her safe.
+</p><p>Tywin interrupts <a href="/wiki/Oberyn_Martell" title="Oberyn Martell">Oberyn Martell</a> and his group sex act with <a href="/wiki/Ellaria_Sand" title="Ellaria Sand">Ellaria Sand</a> and <a href="/wiki/Olyvar" title="Olyvar">Olyvar</a> to discuss <a href="/wiki/Tyrion_Lannister" title="Tyrion Lannister">Tyrion's</a> up-coming trial for the murder of Joffrey. Tywin brings up Oberyn's knowledge of poisons and the link between that and Joffrey's death – as some say the King was poisoned – and wonders whether Oberyn had helped Tyrion. The topic changes to the murder of Oberyn's sister <a href="/wiki/Elia_Targaryen" title="Elia Targaryen" class="mw-redirect">Elia</a> by Tywin's "pet," <a href="/wiki/Gregor_Clegane" title="Gregor Clegane">the Mountain</a>, during the <a href="/wiki/Sack_of_King%27s_Landing" title="Sack of King's Landing">Sack of King's Landing</a>. Tywin denies ordering her death, but promises to arrange a meeting between Oberyn and the Mountain so he can have his justice. He also offers Oberyn a position on the <a href="/wiki/Small_Council" title="Small Council">Small Council</a>, if Oberyn agrees to be the third judge at Tyrion's trial. He explains that he is eager to bring <a href="/wiki/Dorne" title="Dorne">Dorne</a> back into the fold, wanting to unite the Seven Kingdoms against more obvious threats; the <a href="/wiki/House_Greyjoy" title="House Greyjoy">Greyjoys</a> are in rebellion, a<a href="/wiki/Wildlings" title="Wildlings" class="mw-redirect"> Wildling army</a> is advancing on the Wall, and there is a <a href="/wiki/Daenerys_Targaryen" title="Daenerys Targaryen">Targaryen girl</a> in <a href="/wiki/Essos" title="Essos">the East</a> with a powerful army and three <a href="/wiki/Dragon" title="Dragon" class="mw-redirect">dragons</a>, who will eventually threaten Westeros. Tywin observes that only the Dornish successfully resisted <a href="/wiki/Aegon_Targaryen" title="Aegon Targaryen" class="mw-redirect">Aegon Targaryen</a>'s dragons during his invasion of Westeros three centuries ago; Oberyn dryly notes it must be hard for Tywin to admit he needs the Dornish for help.
+</p><p><span style="background-color:transparent;"><a href="/wiki/Tyrion_Lannister" title="Tyrion Lannister">Tyrion</a> is in a cell in <a href="/wiki/King%27s_Landing" title="King's Landing">King's Landing</a>. He is visited by his squire, <a href="/wiki/Podrick_Payne" title="Podrick Payne">Podrick Payne</a>, who has smuggled in some food and other items for him. Pod has been asked to compile a list of Tyrion's witnesses. He names his wife, <a href="/wiki/Sansa_Lannister" title="Sansa Lannister" class="mw-redirect">Sansa</a>, but Pod informs him that she disappeared moments after <a href="/wiki/Joffrey" title="Joffrey" class="mw-redirect">Joffrey</a>'s death. He cannot speak to <a href="/wiki/Bronn" title="Bronn">Bronn</a> either because, as a close associate of Tyrion, he is also under investigation. Pod confirms that there has been no word of <a href="/wiki/Shae" title="Shae">Shae</a>, which Tyrion takes as good news. Tyrion then asks to speak with <a href="/wiki/Jaime" title="Jaime" class="mw-redirect">Jaime</a>. He also warns Pod to be aware of his surroundings and watch out for "They," "They" being the spies of <a href="/wiki/Tywin" title="Tywin" class="mw-redirect">Tywin</a>, <a href="/wiki/Cersei" title="Cersei" class="mw-redirect">Cersei</a>, <a href="/wiki/Varys" title="Varys">Varys</a> or more or less anyone else. He opines that many people had a motive for killing Joffrey. Cersei is the only person he rules out. He urges Pod to get out of King's Landing as he would be in much danger due to his close relations with Tyrion, especially after refusing to testify against Tyrion, despite the offer of a <a href="/wiki/Knighthood" title="Knighthood">knighthood</a>. As Pod is about to leave, Tyrion calls him back and tells him that "</span><i>there has never lived a more loyal squire."</i>
+</p>
+<h3><span class="mw-headline" id="In_the_Riverlands">In the Riverlands</span></h3>
+<p>Meanwhile, <a href="/wiki/Arya_Stark" title="Arya Stark">Arya Stark</a> and the <a href="/wiki/Sandor_Clegane" title="Sandor Clegane">Hound</a>, crossing the <a href="/wiki/Riverlands" title="Riverlands" class="mw-redirect">Riverlands</a>, are spotted by a <a href="/wiki/Farmer_(Breaker_of_Chains)" title="Farmer (Breaker of Chains)" class="mw-redirect">farmer</a> and his <a href="/wiki/Sally" title="Sally">young daughter</a> while making their way to the <a href="/wiki/Vale_of_Arryn" title="Vale of Arryn" class="mw-redirect">Vale</a> where Arya can be ransomed to her "rich" aunt, <a href="/wiki/Lysa_Tully" title="Lysa Tully" class="mw-redirect">Lysa Tully</a>. Arya quickly fabricates a story that the Hound and she are father and daughter, with Clegane as a knight in service of House Tully.  The farmer believes it and allows the pair to stay the night in his home and share a meal. Famished, Arya and the Hound scarf the food down hastily. Arya wakes the following morning to hear the farmer's daughter screaming. Clegane has assaulted the farmer and taken his silver. Confused and horrified, Arya demands to know why Clegane did that. He simply states, "a dead man doesn't need his silver," claiming the farmer is weak and he and his daughter will not survive the upcoming winter.
+</p>
+<h3><span class="mw-headline" id="At_Dragonstone">At Dragonstone</span></h3>
+<p>On <a href="/wiki/Dragonstone" title="Dragonstone" class="mw-redirect">Dragonstone Isle</a>, <a href="/wiki/Stannis_Baratheon" title="Stannis Baratheon">Stannis Baratheon</a> learns of Joffrey's death and warns Ser <a href="/wiki/Davos_Seaworth" title="Davos Seaworth">Davos</a> that their time to lay claim to the Iron throne dwindles if no army can be secured to wage war again. Shortly after, when Ser Davos begins his reading lessons with princess <a href="/wiki/Shireen_Baratheon" title="Shireen Baratheon">Shireen Baratheon</a>, he realizes a possible ally across the Narrow Sea, the <a href="/wiki/Iron_Bank_of_Braavos" title="Iron Bank of Braavos">Iron Bank of Braavos</a>. 
+</p>
+<h3><span class="mw-headline" id="At_the_Wall_and_the_North">At the Wall and the North</span></h3>
+<p>At <a href="/wiki/Castle_Black" title="Castle Black">Castle Black</a>, <a href="/wiki/Samwell_Tarly" title="Samwell Tarly">Samwell Tarly</a> fears for the safety of <a href="/wiki/Gilly" title="Gilly">Gilly</a> and moves her to a vassal town that frequently services the Nights Watch brothers in bodily vices. Sam is resolute in keeping Gilly safe from all harm however and pledges to visit Gilly as much as possible, instructing the inn at which he leaves her, that she will not be touched. Meanwhile, a village south of the wall is attacked by raiding <a href="/wiki/Free_Folk" title="Free Folk">wildlings</a> under <a href="/wiki/Tormund" title="Tormund">Tormund</a> and the cannibalistic <a href="/wiki/Thenn" title="Thenn" class="mw-redirect">Thenns</a>. While the village is massacred, a lone boy is sent by the <a href="/wiki/Styr" title="Styr">Styr</a> as a messenger to Castle Black to relay an account of the massacre and also a warning that more would follow. The Lord Commander states that they do not have the manpower to afford venturing away from the Wall. They are interrupted when two rangers, <a href="/wiki/Eddison_Tollett" title="Eddison Tollett">Edd</a> and <a href="/wiki/Grenn" title="Grenn">Grenn</a>, arrive back at Castle Black after escaping <a href="/wiki/Craster%27s_Keep" title="Craster's Keep">Craster's Keep</a>. Jon reveals he told <a href="/wiki/Mance_Rayder" title="Mance Rayder">Mance Rayder</a> that a thousand men armed Castle Black and therefore points out that when Mance reaches Craster's Keep, <a href="/wiki/Rast" title="Rast">Rast</a> and <a href="/wiki/Karl" title="Karl" class="mw-redirect">Karl</a> will not hesitate in revealing the truth. Jon then insists the Night's Watch send a party to Craster's Keep to kill their traitor brothers before Mance gets to them first.
+</p>
+<h3><span class="mw-headline" id=".E2.80.8BAcross_the_Narrow_Sea">​Across the Narrow Sea</span></h3>
+<p>In <a href="/wiki/Slaver%27s_Bay" title="Slaver's Bay">Slaver's Bay</a>, Daenerys Targaryen marches on the city of <a href="/wiki/Meereen" title="Meereen">Meereen</a> as she begins her siege of the slave city. She is faced with a champion's duel where a riding <a href="/wiki/Oznak_zo_Pahl" title="Oznak zo Pahl">knight</a> of Meereen challenges her to choose a champion that will fight for her. Grey Worm, Jorah and Barristan all volunteer to stand as her champion; she refuses all three as too valuable to her. <a href="/wiki/Daario_Naharis" title="Daario Naharis">Daario Naharis</a>, commander of the <a href="/wiki/Second_Sons" title="Second Sons">Second Sons</a>, then volunteers to be Dany's champion, and she accepts. As Naharis quickly dispatches the Meereen champion, Dany begins her siege of the city by speaking of freedom to the gathered slaves and then catapulting the broken chains of those she has freed across the city walls, demonstrating her previous successes. As the slaves examine the broken chains, the Great Masters look on, perhaps in fear.
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span></h2>
+<dl><dd><i>Main: <a href="/wiki/Breaker_of_Chains/Appearances" title="Breaker of Chains/Appearances">Breaker of Chains/Appearances</a></i>
+</dd></dl>
+<h3><span class="mw-headline" id="First">First</span></h3>
+<ul><li><a href="/wiki/Farmer" title="Farmer" class="mw-redirect">Farmer</a>
+</li><li><a href="/wiki/Sally" title="Sally">Sally</a>
+</li><li><a href="/wiki/Mole%27s_Town_whore" title="Mole's Town whore">Mole's Town whore</a>
+</li><li><a href="/wiki/Mole%27s_Town_madam" title="Mole's Town madam">Mole's Town madam</a>
+</li><li><a href="/wiki/Whore_(Breaker_of_Chains)" title="Whore (Breaker of Chains)" class="mw-redirect">Whore</a>
+</li><li><a href="/wiki/Olly" title="Olly">Olly</a>
+</li><li><a href="/wiki/Guymon" title="Guymon">Guymon</a>
+</li><li><a href="/wiki/Olly%27s_mother" title="Olly's mother">Olly's mother</a>
+</li><li><a href="/wiki/Oznak_zo_Pahl" title="Oznak zo Pahl">Oznak zo Pahl</a>
+</li><li><a href="/wiki/Hizdahr_zo_Loraq" title="Hizdahr zo Loraq">Hizdahr zo Loraq</a>
+</li><li><a href="/wiki/Hizdahr_zo_Loraq%27s_manservant" title="Hizdahr zo Loraq's manservant">Hizdahr zo Loraq's manservant</a>
+</li><li><a href="/wiki/Great_Master_1" title="Great Master 1" class="mw-redirect">Slave master</a>
+</li><li><a href="/wiki/Great_Master_2" title="Great Master 2" class="mw-redirect">Slave master</a>
+</li><li><a href="/wiki/Slave_(Breaker_of_Chains)" title="Slave (Breaker of Chains)">Slave</a>
+</li><li><a href="/wiki/Great_Master_3" title="Great Master 3" class="mw-redirect">Slave master</a>
+</li></ul>
+<h3><span class="mw-headline" id="Deaths">Deaths</span></h3>
+<ul><li>Ser<a href="/wiki/Dontos_Hollard" title="Dontos Hollard"> Dontos Hollard</a>
+</li><li><a href="/wiki/Guymon" title="Guymon">Guymon</a>
+</li><li><a href="/wiki/Olly%27s_mother" title="Olly's mother">Olly's mother</a>
+</li><li><a href="/wiki/Oznak_zo_Pahl" title="Oznak zo Pahl">Oznak zo Pahl</a>
+</li></ul>
+<h2><span class="mw-headline" id="Production">Production</span></h2>
+<h3><span class="mw-headline" id="Cast">Cast</span></h3>
+<table class="" style="background-color:transparent; color:inherit; width:100%;">
+
+<tr>
+<td style="vertical-align: top; width:50%;">
+<p><b>Starring</b>
+</p>
+<ul><li><a href="/wiki/Peter_Dinklage" title="Peter Dinklage">Peter Dinklage</a> as <a href="/wiki/Tyrion_Lannister" title="Tyrion Lannister">Tyrion Lannister</a>
+</li><li><a href="/wiki/Nikolaj_Coster-Waldau" title="Nikolaj Coster-Waldau">Nikolaj Coster-Waldau</a> as Ser <a href="/wiki/Jaime_Lannister" title="Jaime Lannister">Jaime Lannister</a>
+</li><li><a href="/wiki/Lena_Headey" title="Lena Headey">Lena Headey</a> as Queen <a href="/wiki/Cersei_Lannister" title="Cersei Lannister">Cersei Lannister</a>
+</li><li><a href="/wiki/Emilia_Clarke" title="Emilia Clarke">Emilia Clarke</a> as Queen <a href="/wiki/Daenerys_Targaryen" title="Daenerys Targaryen">Daenerys Targaryen</a>
+</li><li><a href="/wiki/Kit_Harington" title="Kit Harington">Kit Harington</a> as <a href="/wiki/Jon_Snow" title="Jon Snow">Jon Snow</a>
+</li><li><a href="/wiki/Aidan_Gillen" title="Aidan Gillen">Aidan Gillen</a> as Lord <a href="/wiki/Petyr_Baelish" title="Petyr Baelish">Petyr Baelish</a>
+</li><li><a href="/wiki/Charles_Dance" title="Charles Dance">Charles Dance</a> as Lord <a href="/wiki/Tywin_Lannister" title="Tywin Lannister">Tywin Lannister</a>
+</li><li><a href="/wiki/Natalie_Dormer" title="Natalie Dormer">Natalie Dormer</a> as Lady <a href="/wiki/Margaery_Tyrell" title="Margaery Tyrell">Margaery Tyrell</a>
+</li><li><a href="/wiki/Liam_Cunningham" title="Liam Cunningham">Liam Cunningham</a> as Ser <a href="/wiki/Davos_Seaworth" title="Davos Seaworth">Davos Seaworth</a>
+</li><li><a href="/wiki/Stephen_Dillane" title="Stephen Dillane">Stephen Dillane</a> as King <a href="/wiki/Stannis_Baratheon" title="Stannis Baratheon">Stannis Baratheon</a>
+</li><li><a href="/wiki/Jack_Gleeson" title="Jack Gleeson">Jack Gleeson</a> as King <a href="/wiki/Joffrey_Baratheon" title="Joffrey Baratheon">Joffrey Baratheon</a>
+</li><li><a href="/wiki/Sophie_Turner" title="Sophie Turner">Sophie Turner</a> as Princess <a href="/wiki/Sansa_Stark" title="Sansa Stark">Sansa Stark</a>
+</li><li><a href="/wiki/Maisie_Williams" title="Maisie Williams">Maisie Williams</a> as Princess <a href="/wiki/Arya_Stark" title="Arya Stark">Arya Stark</a>
+</li><li><a href="/wiki/Rory_McCann" title="Rory McCann">Rory McCann</a> as <a href="/wiki/Sandor_Clegane" title="Sandor Clegane">Sandor Clegane</a>
+</li><li><a href="/wiki/John_Bradley" title="John Bradley" class="mw-redirect">John Bradley</a> as <a href="/wiki/Samwell_Tarly" title="Samwell Tarly">Samwell Tarly</a>
+</li><li><a href="/wiki/Rose_Leslie" title="Rose Leslie">Rose Leslie</a> as <a href="/wiki/Ygritte" title="Ygritte">Ygritte</a>
+</li><li><a href="/wiki/Kristofer_Hivju" title="Kristofer Hivju">Kristofer Hivju</a> as <a href="/wiki/Tormund_Giantsbane" title="Tormund Giantsbane" class="mw-redirect">Tormund Giantsbane</a>
+</li><li><a href="/wiki/Hannah_Murray" title="Hannah Murray">Hannah Murray</a> as <a href="/wiki/Gilly" title="Gilly">Gilly</a>
+</li><li><a href="/wiki/Gwendoline_Christie" title="Gwendoline Christie">Gwendoline Christie</a> as <a href="/wiki/Brienne_of_Tarth" title="Brienne of Tarth">Brienne of Tarth</a>
+</li><li><a href="/wiki/Conleth_Hill" title="Conleth Hill">Conleth Hill</a> as Lord <a href="/wiki/Varys" title="Varys">Varys</a>
+</li><li>with <a href="/wiki/Iain_Glen" title="Iain Glen">Iain Glen</a> as Ser <a href="/wiki/Jorah_Mormont" title="Jorah Mormont">Jorah Mormont</a>
+</li></ul>
+</td><td style="vertical-align: top; width:50%;">
+<p><b>Guest starring</b>
+</p>
+<ul><li><a href="/wiki/Diana_Rigg" title="Diana Rigg">Diana Rigg</a> as Lady <a href="/wiki/Olenna_Tyrell" title="Olenna Tyrell">Olenna Tyrell</a>
+</li><li><a href="/wiki/Pedro_Pascal" title="Pedro Pascal">Pedro Pascal</a> as Prince <a href="/wiki/Oberyn_Martell" title="Oberyn Martell">Oberyn Martell</a>
+</li><li><a href="/wiki/Indira_Varma" title="Indira Varma">Indira Varma</a> as <a href="/wiki/Ellaria_Sand" title="Ellaria Sand">Ellaria Sand</a>
+</li><li><a href="/wiki/Michiel_Huisman" title="Michiel Huisman">Michiel Huisman</a> as <a href="/wiki/Daario_Naharis" title="Daario Naharis">Daario Naharis</a>
+</li><li><a href="/wiki/Peter_Vaughan" title="Peter Vaughan">Peter Vaughan</a> as Maester <a href="/wiki/Aemon" title="Aemon">Aemon</a>
+</li><li><a href="/wiki/Ian_McElhinney" title="Ian McElhinney">Ian McElhinney</a> as Ser <a href="/wiki/Barristan_Selmy" title="Barristan Selmy">Barristan Selmy</a>
+</li><li><a href="/wiki/Julian_Glover" title="Julian Glover">Julian Glover</a> as <a href="/wiki/Grand_Maester" title="Grand Maester">Grand Maester</a> <a href="/wiki/Pycelle" title="Pycelle">Pycelle</a>
+</li><li><a href="/wiki/Owen_Teale" title="Owen Teale">Owen Teale</a> as Ser <a href="/wiki/Alliser_Thorne" title="Alliser Thorne">Alliser Thorne</a>
+</li><li><a href="/wiki/Yuri_Kolokolnikov" title="Yuri Kolokolnikov">Yuri Kolokolnikov</a> as <a href="/wiki/Styr" title="Styr">Styr</a>, the <a href="/wiki/Magnar" title="Magnar">Magnar</a> of <a href="/wiki/Thenn" title="Thenn" class="mw-redirect">Thenn</a>
+</li><li><a href="/wiki/Dominic_Carter" title="Dominic Carter">Dominic Carter</a> as Lord <a href="/wiki/Janos_Slynt" title="Janos Slynt">Janos Slynt</a>
+</li><li><a href="/wiki/Jacob_Anderson" title="Jacob Anderson">Jacob Anderson</a> as <a href="/wiki/Grey_Worm" title="Grey Worm">Grey Worm</a>
+</li><li><a href="/wiki/Nathalie_Emmanuel" title="Nathalie Emmanuel">Nathalie Emmanuel</a> as <a href="/wiki/Missandei" title="Missandei">Missandei</a>
+</li><li><a href="/wiki/Mark_Stanley" title="Mark Stanley">Mark Stanley</a> as <a href="/wiki/Grenn" title="Grenn">Grenn</a>
+</li><li><a href="/wiki/Ben_Crompton" title="Ben Crompton">Ben Crompton</a> as <a href="/wiki/Eddison_Tollett" title="Eddison Tollett">Eddison Tollett</a>
+</li><li><a href="/wiki/Daniel_Portman" title="Daniel Portman">Daniel Portman</a> as <a href="/wiki/Podrick_Payne" title="Podrick Payne">Podrick Payne</a>
+</li><li><a href="/wiki/Tony_Way" title="Tony Way">Tony Way</a> as <a href="/wiki/Dontos_Hollard" title="Dontos Hollard">Dontos Hollard</a>
+</li><li><a href="/wiki/Will_Tudor" title="Will Tudor">Will Tudor</a> as <a href="/wiki/Olyvar" title="Olyvar">Olyvar</a>
+</li><li><a href="/wiki/Dean-Charles_Chapman" title="Dean-Charles Chapman">Dean-Charles Chapman</a> as Prince <a href="/wiki/Tommen_Baratheon" title="Tommen Baratheon">Tommen Baratheon</a>
+</li><li><a href="/wiki/Josef_Altin" title="Josef Altin">Josef Altin</a> as <a href="/wiki/Pypar" title="Pypar">Pypar</a>
+</li><li><a href="/wiki/Ian_Beattie" title="Ian Beattie">Ian Beattie</a> as Ser <a href="/wiki/Meryn_Trant" title="Meryn Trant">Meryn Trant</a>
+</li><li><a href="/wiki/Joel_Fry" title="Joel Fry">Joel Fry</a> as <a href="/wiki/Hizdahr_zo_Loraq" title="Hizdahr zo Loraq">Hizdahr zo Loraq</a>
+</li><li><a href="/wiki/Finbar_Lynch" title="Finbar Lynch">Finbar Lynch</a> as <a href="/wiki/Farmer_Hamlet" title="Farmer Hamlet">Farmer Hamlet</a>
+</li><li><a href="/wiki/Kerry_Ingram" title="Kerry Ingram">Kerry Ingram</a> as Princess <a href="/wiki/Shireen_Baratheon" title="Shireen Baratheon">Shireen Baratheon</a>
+</li><li><a href="/wiki/Brenock_O%27Connor" title="Brenock O'Connor">Brenock O'Connor</a> as <a href="/wiki/Olly" title="Olly">Olly</a>
+</li><li><a href="/wiki/Jem_Wall" title="Jem Wall">Jem Wall</a> as <a href="/wiki/Guymon" title="Guymon">Guymon</a>
+</li><li><a href="/wiki/Raewyn_Lippert" title="Raewyn Lippert">Raewyn Lippert</a> as <a href="/wiki/Olly%27s_mother" title="Olly's mother">Olly's mother</a>
+</li><li><a href="/wiki/Lois_Winstone" title="Lois Winstone">Lois Winstone</a> as a <a href="/wiki/Mole%27s_Town_whore" title="Mole's Town whore">Mole's Town whore</a>
+</li><li><a href="/wiki/Lu_Corfield" title="Lu Corfield">Lu Corfield</a> as a <a href="/wiki/Mole%27s_Town_madam" title="Mole's Town madam">Mole's Town madam</a>
+</li><li><a href="/wiki/Joseph_Gatt" title="Joseph Gatt">Joseph Gatt</a> as a <a href="/wiki/Thenn_warg" title="Thenn warg">Thenn warg</a>
+</li><li><a href="/wiki/Brian_Fortune" title="Brian Fortune">Brian Fortune</a> as <a href="/wiki/Othell_Yarwyck" title="Othell Yarwyck">Othell Yarwyck</a>
+</li><li><a href="/wiki/Paul_Bentley" title="Paul Bentley">Paul Bentley</a> as the <a href="/wiki/High_Septon_(After_the_Riot_of_King%E2%80%99s_Landing)" title="High Septon (After the Riot of King’s Landing)" class="mw-redirect">High Septon</a>
+</li><li><a href="/wiki/Patrick_Molloy" title="Patrick Molloy">Patrick Molloy</a> as a <a href="/wiki/Night%27s_Watch_man_(Breaker_of_Chains)" title="Night's Watch man (Breaker of Chains)">Night's Watch man</a>
+</li><li><a href="/wiki/Emilio_Doorgasingh" title="Emilio Doorgasingh">Emilio Doorgasingh</a> as a <a href="/wiki/Great_Master_1" title="Great Master 1" class="mw-redirect">slave master</a>
+</li><li><a href="/wiki/Trixiebelle_Harrowell" title="Trixiebelle Harrowell">Trixiebelle Harrowell</a> as <a href="/wiki/Sally" title="Sally">Sally</a>
+</li><li><a href="/wiki/Josephine_Gillan" title="Josephine Gillan">Josephine Gillan</a> as <a href="/wiki/Marei" title="Marei">Marei</a>
+</li><li><a href="/wiki/Xena_Avramidis" title="Xena Avramidis">Xena Avramidis</a> as a <a href="/wiki/Whore_(Breaker_of_Chains)" title="Whore (Breaker of Chains)" class="mw-redirect">whore</a>
+</li><li><a href="/wiki/Derek_Horsham" title="Derek Horsham">Derek Horsham</a> as a <a href="/wiki/Great_Master_2" title="Great Master 2" class="mw-redirect">slave master</a>
+</li><li><a href="/wiki/Joshua_Sher" title="Joshua Sher">Joshua Sher</a> as a <a href="/wiki/Slave_(Breaker_of_Chains)" title="Slave (Breaker of Chains)">slave</a>
+</li><li><a href="/wiki/Conor_Watters" title="Conor Watters">Conor Watters</a> as a <a href="/wiki/Hizdahr_zo_Loraq%27s_manservant" title="Hizdahr zo Loraq's manservant">Hizdahr zo Loraq's manservant</a>
+</li></ul>
+<p><b>Uncredited</b>
+</p>
+<ul><li><a href="/wiki/Daniel_Naprous" title="Daniel Naprous">Daniel Naprous</a> as <a href="/wiki/Oznak_zo_Pahl" title="Oznak zo Pahl">Oznak zo Pahl</a> (credited as Stunt Performer)
+</li><li><a href="/wiki/James_Bleakney" title="James Bleakney">James Bleakney</a> as Mole's Town Brothel Patron
+</li><li><a href="/wiki/Michael_Stuart" title="Michael Stuart">Michael Stuart</a> as Night's Watch Officer
+</li><li><a href="/wiki/Laurence_Doherty" title="Laurence Doherty">Laurence Doherty</a> as <a href="/wiki/Great_Master_3" title="Great Master 3" class="mw-redirect">slave master</a><sup id="cite_ref-0" class="reference"><a href="#cite_note-0">[1]</a></sup>
+</li></ul>
+</td></tr></table>
+<h4><span class="mw-headline" id="Cast_notes">Cast notes</span></h4>
+<ul><li>21 of 27 cast members for the fourth season appear in this episode.
+</li><li>Starring cast members <a href="/wiki/Alfie_Allen" title="Alfie Allen">Alfie Allen</a> (<a href="/wiki/Theon_Greyjoy" title="Theon Greyjoy">Theon Greyjoy</a>), <a href="/wiki/Jerome_Flynn" title="Jerome Flynn">Jerome Flynn</a> (<a href="/wiki/Bronn" title="Bronn">Bronn</a>), <a href="/wiki/Isaac_Hempstead-Wright" title="Isaac Hempstead-Wright">Isaac Hempstead-Wright</a> (<a href="/wiki/Bran_Stark" title="Bran Stark">Bran Stark</a>), <a href="/wiki/Sibel_Kekilli" title="Sibel Kekilli">Sibel Kekilli</a> (<a href="/wiki/Shae" title="Shae">Shae</a>), <a href="/wiki/Iwan_Rheon" title="Iwan Rheon">Iwan Rheon</a> (<a href="/wiki/Ramsay_Snow" title="Ramsay Snow" class="mw-redirect">Ramsay Snow</a>), and <a href="/wiki/Carice_van_Houten" title="Carice van Houten">Carice van Houten</a> (<a href="/wiki/Melisandre" title="Melisandre">Melisandre</a>) are not credited and do not appear in this episode. <a href="/wiki/Conleth_Hill" title="Conleth Hill">Conleth Hill</a> (<a href="/wiki/Varys" title="Varys">Varys</a>) and <a href="/wiki/Gwendoline_Christie" title="Gwendoline Christie">Gwendoline Christie</a> (<a href="/wiki/Brienne_of_Tarth" title="Brienne of Tarth">Brienne of Tarth</a>) very briefly appear among the wedding crowd in the background of the first scene.
+</li><li><a href="/wiki/Ian_McElhinney" title="Ian McElhinney">Ian McElhinney</a> is, mistakenly, not credited for his role as <a href="/wiki/Barristan_Selmy" title="Barristan Selmy">Barristan Selmy</a> in this episode. This was later corrected on the DVD and Blu-Ray release.
+</li><li>This episode is the final appearance of starring cast member <a href="/wiki/Jack_Gleeson" title="Jack Gleeson">Jack Gleeson</a> (<a href="/wiki/Joffrey_Baratheon" title="Joffrey Baratheon">Joffrey Baratheon</a>) due to the death of his character at the end of the previous episode.
+</li><li><a href="/wiki/Hannah_Murray" title="Hannah Murray">Hannah Murray</a> is added to the main cast and her name appears in the <a href="/wiki/Title_sequence" title="Title sequence">opening credits</a> starting with this episode. She previously recurred in the second and third season.
+</li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span></h2>
+<ul><li>The title of the episode is a reference to one of the honorifics <a href="/wiki/Daenerys_Targaryen" title="Daenerys Targaryen">Daenerys Targaryen</a> assumes after the <a href="/wiki/Sack_of_Astapor" title="Sack of Astapor">Sack of Astapor</a>: "Breaker of Chains."
+</li><li><a href="/wiki/Jack_Gleeson" title="Jack Gleeson">Jack Gleeson</a> returns to "play" <a href="/wiki/Joffrey_Baratheon" title="Joffrey Baratheon">Joffrey Baratheon</a>'s corpse as it lies in state in the <a href="/wiki/Great_Sept_of_Baelor" title="Great Sept of Baelor">Great Sept of Baelor</a>. He filmed this scene before filming for his actual death scene last episode. As Gleeson recounted, he had a wonderful time during the shooting of this scene (despite the fact that it involves his character's parents having sex right next to his dead body), noting that he was being paid to just take a nap during an entire day of filming.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[2]</a></sup>
+</li><li>While mourning Joffrey in the Great Sept of Baelor, Cersei repeats the words that Tyrion said to her in "<a href="/wiki/The_Prince_of_Winterfell" title="The Prince of Winterfell">The Prince of Winterfell</a>": "I will hurt you for this. The day will come when you think you're safe and happy, and your joy will turn to ashes in your mouth... and you will know the debt is paid." This was not actually a threat from Tyrion, but was merely meant to convince Cersei that she had found his whore. In fact, she had not found <a href="/wiki/Shae" title="Shae">Shae</a>, but mistakenly thought <a href="/wiki/Ros" title="Ros">Ros</a> was his lover.
+</li><li>There is no character named "<a href="/wiki/Elyo_Grivas" title="Elyo Grivas">Elyo Grivas</a>" in the books. The character is most likely named after Elio Garcia, who runs the Westeros.org fansite, and who co-authored the <i>World of Ice and Fire</i> sourcebook along with his partner Linda.
+</li><li>There is no "King Orys the First" in the books. The only character by that name is <a href="/wiki/Orys_Baratheon" title="Orys Baratheon">Orys Baratheon</a>, but he never was a king. There is the possibility that he was a local king before the Seven Kingdoms were unified, in spite of the Valyrian-sounding name. Nor does any Targaryen king match the description given for him: enacting well-received reforms but ruling less than a year before his own brother murdered him in his sleep.
+<ul><li>As Elio Garcia of Westros.org, co-author of the <i>World of Ice and Fire</i> sourcebook explained, this was also not simply a matter of Charles Dance (Tywin) mispronouncing a name, because he had seen the broadcast script, and it clearly said "Orys the First" (the on-screen subtitles also spell this name the same way). Garcia stated that Benioff and Weiss had apparently just invented this "Orys the First" and he doesn't correspond to any character from the books. In order to reconcile this, Garcia said that this "Orys the First" should probably be interpreted as just a king of the independent <a href="/wiki/Kingdom_of_the_Stormlands" title="Kingdom of the Stormlands">Kingdom of the Stormlands</a>, from long before the Targaryen Conquest - in which case he was not one of the established Targaryen kings but a local king of <a href="/wiki/House_Durrandon" title="House Durrandon">House Durrandon</a>. This would make his full name "<a href="/wiki/Orys_I_Durrandon" title="Orys I Durrandon" class="mw-redirect">Orys I Durrandon</a>." Tywin therefore wasn't citing him as a king who sat on the Iron Throne, but an infamous example of a (local) king, remembered over three centuries later for how his own brother murdered him. Garcia also pointed out that "Orys" was not a common name used in the Stormlands until <i>after</i> Orys Baratheon became their new ruler during the Targaryen Conquest.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[3]</a></sup>
+</li></ul>
+</li><li>In the books, Daenerys's army had no siege engines, nor was there enough surrounding timber to construct any. To construct siege engines to take Meereen, she had her army disassemble <a href="/wiki/Balerion_(ship)" title="Balerion (ship)">the ship</a> which she sailed to <a href="/wiki/Astapor" title="Astapor">Astapor</a> in, which had been following her army north along the coast. In the TV series, Daario Naharis explicitly remarks in "<a href="/wiki/Second_Sons_(episode)" title="Second Sons (episode)">Second Sons</a>" that her Unsullied besieging <a href="/wiki/Yunkai" title="Yunkai">Yunkai</a> have no siege weapons - yet her army has mysteriously acquired multiple catapults since they left Yunkai. It is possible that they were acquired from either the Second Sons or the Yunkish, or constructed from timber acquired on the road.
+</li><li>Sam mentioned <a href="/wiki/Mole%27s_Town" title="Mole's Town">Mole's Town</a> back in Season 1, when he complained to Jon that some of the Night's Watch members would sneak off to visit the brothel there.
+</li><li>Though Sam doesn't mention it, there's a song about the dangers for women at the Wall: "Brave" Danny Flint was a girl who dressed as a boy to serve in the <a href="/wiki/Night%27s_Watch" title="Night's Watch">Night's Watch</a>. She was raped and murdered at the <a href="/wiki/Nightfort" title="Nightfort" class="mw-redirect">Nightfort</a> by unknown people.
+</li><li>As a New World crop, potatoes (aka "taters") do not exist in Westeros in the books, because Westeros is based on medieval Europe. This marks at least the third time that the TV series had mentioned them in passing (see: <a href="/wiki/Food_and_Drink#New_World_crops" title="Food and Drink">Food and Drink#New World crops</a>).
+</li><li><figure class="article-thumb tright show-info-icon" style="width: 180px"> 	<a href="http://vignette3.wikia.nocookie.net/gameofthrones/images/d/d0/The_Riverlands.png/revision/latest?cb=20120719200633" 	class="image image-thumbnail" 	 	 	><img src="http://vignette3.wikia.nocookie.net/gameofthrones/images/d/d0/The_Riverlands.png/revision/latest/scale-to-width-down/180?cb=20120719200633" 	 alt="The Riverlands"  	class="thumbimage " 	 	data-image-key="The_Riverlands.png" 	data-image-name="The Riverlands.png" 	 	 width="180"  	 height="168"  	 	 	 	></a>  	<figcaption> 		 			<a href="/wiki/File:The_Riverlands.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Fairmarket is located along the Blue Fork of the Trident.</p> 		 	</figcaption> </figure>As the Hound previously explained, he is crossing back south from <a href="/wiki/The_Twins" title="The Twins">the Twins</a> through the Riverlands so he can reach <a href="/wiki/The_Vale_of_Arryn" title="The Vale of Arryn">the Vale of Arryn</a> and ransom Arya back to her only remaining free and wealthy relative, her aunt <a href="/wiki/Lysa_Arryn" title="Lysa Arryn">Lysa Arryn</a> at <a href="/wiki/The_Eyrie" title="The Eyrie">the Eyrie</a>. The Twins bridge over the Green Fork of the <a href="/wiki/Trident" title="Trident" class="mw-redirect">Trident</a> River. The quickest way from the Twins to the <a href="/wiki/Bloody_Gate" title="Bloody Gate">Bloody Gate</a> (the mountain pass that leads into the Vale) is to travel south along the <a href="/wiki/Kingsroad" title="Kingsroad">Kingsroad</a>, located east of the Green Fork. In this episode, Arya asks where they are, and Sandor says he thinks they are near the town of <a href="/wiki/Fairmarket" title="Fairmarket">Fairmarket</a>, which is located along the Blue Fork of the <a href="/wiki/Trident" title="Trident" class="mw-redirect">Trident</a> River. The Blue Fork itself is west of the Green Fork. Arya and the Hound are therefore traveling south, then east, instead of east, then south along the Kingsroad. The Hound must have chosen to avoid taking the main highway in the region, for fear of Lannister patrols, in favor of slowly making his way through the back country (explaining why it took him the second half of Season 3 to travel from the mouth of the Trident to the Twins, but it is taking all of Season 4 to travel back).
+</li><li>When discussing with Oberyn his sister <a href="/wiki/Elia_Martell" title="Elia Martell">Elia Martell</a>'s rape and murder by <a href="/wiki/Gregor_Clegane" title="Gregor Clegane">Gregor Clegane</a>, Tywin insists that soldiers commit atrocities all the time in war without being ordered to do so by their commanders. In the novels, Gregor was tasked with killing Rhaegar's children but Tywin simply gave him no specific orders about what to do with his wife Elia. It is unclear if he non-verbally <i>implied</i> that he wanted her killed. However, in a rare break with his usual stoicism, Tywin firmly denies to Tyrion that he ever wanted Gregor to <i>rape</i> Elia. Even if Tywin didn't want Elia killed, he never punished Gregor for it, because that would imply that Tywin was somehow at fault for what happened. Whatever the case, Tywin's denial in this episode is hypocritical: in Season 1's "<a href="/wiki/Baelor" title="Baelor">Baelor</a>," Tyrion complained that the hill tribesmen he hired as sellswords were fighting each other, and Tywin chastised him that when soldiers act in an undisciplined manner their commander is <i>always</i> responsible.
+</li><li>Prince Oberyn's line that some people think the sky is blue because the world is inside the eye of a giant is a reference to a line <a href="/wiki/Robb_Stark" title="Robb Stark">Robb Stark</a> said exactly thirty episodes ago, in Season 1's "<a href="/wiki/Cripples,_Bastards_and_Broken_Things" title="Cripples, Bastards and Broken Things">Cripples, Bastards and Broken Things</a>". Robb chided his brother <a href="/wiki/Bran_Stark" title="Bran Stark">Bran</a> not to pay heed to all of <a href="/wiki/Old_Nan" title="Old Nan">Old Nan</a>'s nursery stories, as one of them was that the whole world is inside the eye of a blue-eyed giant named Macumber. No mention of this myth has been made in the books.
+</li><li>The first time that <a href="/wiki/Samwell_Tarly" title="Samwell Tarly">Samwell Tarly</a>'s nickname "the Slayer" is mentioned.
+</li><li>Sansa Stark leaves King's Landing for the first time since her arrival in Season 1's "<a href="/wiki/Lord_Snow" title="Lord Snow">Lord Snow</a>." Her escape from the city marks the end of her brutal captivity at Joffrey's court, which lasted for over two years.
+</li><li>The first time that the phrase "Red Wedding" is used on the show as reference to the <a href="/wiki/Red_Wedding" title="Red Wedding">massacre</a> at the Twins.
+</li><li><a href="/wiki/Podrick_Payne" title="Podrick Payne">Podrick Payne</a> tells Tyrion that a man he didn't know tried to bribe him with a knighthood to testify against Tyrion, and say that he saw him buy a poison known as "<a href="/wiki/The_strangler" title="The strangler">The strangler</a>." This is the first time that the poison used to kill Joffrey is specifically named in the TV series, though Pycelle also identifies it later in Season 4. What isn't clear is who tried to bribe Podrick: the real assassins wanted to frame Tyrion to divert suspicion from themselves (as he points out), and only they would <i>already</i> know what kind of poison was used in the assassination. On the other hand, Pycelle might just have already determined what poison was used to kill Joffrey (in the past few hours or days), simply off-screen, after which he told Cersei - who is so convinced that Tyrion did it that she then had one of her agents try to bribe Podrick.
+</li><li>According to the show's linguist David Peterson, the Mereenese champion's insults are actually a translation of the French knight's insults from <i>Monty Python and the Holy Grail</i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[4]</a></sup>
+</li><li>When asked about memorable moments from filming in Season 4, <a href="/wiki/Pedro_Pascal" title="Pedro Pascal">Pedro Pascal</a> recounted that during the scene where Tywin interrupts the orgy that Oberyn is having at the brothel, one of the actresses playing one of the prostitutes (he didn't specify which one) wouldn't put her robe on between takes. This has been brought up by other actresses filming past nude scenes: repeatedly disrobing over and over again for multiple takes during an entire day of filming, as if performing a strip-tease for the filming crew each time, can actually be more stressful than just staying naked between takes. What Pascal thought was odd was that this was a long day of filming, and the actress would stay naked even during long breaks, to the point that she later sat around in the green room entirely naked, while playing Words With Friends on her iPhone with David Benioff.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[5]</a></sup>
+</li></ul>
+<h3><span class="mw-headline" id="The_Jaime.2FCersei_sex_scene_in_the_Great_Sept">The Jaime/Cersei sex scene in the Great Sept</span></h3>
+<dl><dd><i>See full sub-article <a href="/wiki/Breaker_of_Chains/Jaime-Cersei_sex_scene" title="Breaker of Chains/Jaime-Cersei sex scene">Breaker of Chains/Jaime-Cersei sex scene</a></i>
+</dd></dl>
+<figure class="article-thumb tright show-info-icon" style="width: 300px"> 	<a href="http://vignette1.wikia.nocookie.net/gameofthrones/images/2/2c/403kissing2.png/revision/latest?cb=20150406182615" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="403kissing2"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="403kissing2.png" 	data-image-name="403kissing2.png" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/2/2c/403kissing2.png/revision/latest/scale-to-width-down/300?cb=20150406182615"  	 width="300"  	 height="164"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/2/2c/403kissing2.png/revision/latest/scale-to-width-down/300?cb=20150406182615" 	 alt="403kissing2"  	class="thumbimage " 	 	data-image-key="403kissing2.png" 	data-image-name="403kissing2.png" 	 	 width="300"  	 height="164"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:403kissing2.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Freeze-frame clearly reveals that Lena Headey is embracing the back of Nikolaj Coster-Waldau's head to lean in for a kiss - indicating the actors were never instructed to play it as a non-consensual rape scene.  This was hidden by bad camerawork and bad editing.</p> 		 	</figcaption> </figure>
+<p>Multiple reviewers and websites were very confused and upset by the sex scene between <a href="/wiki/Jaime_Lannister" title="Jaime Lannister">Jaime Lannister</a> and <a href="/wiki/Cersei_Lannister" title="Cersei Lannister">Cersei Lannister</a> in the <a href="/wiki/Great_Sept_of_Baelor" title="Great Sept of Baelor">Great Sept of Baelor</a> in this episode - saying that it was apparently portraying Jaime raping Cersei. This allegation/interpretation was near-universal – not simply "on messageboards" but in every measurable manner, as a reaction seen on almost every major critic or review website. These ranged from io9 and the A.V. club,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[6]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[7]</a></sup>, to the front page of <i>Yahoo News</i>,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[8]</a></sup>, <i>Entertainment Weekly</i> and <i>Time</i> magazine,<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[9]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[10]</a></sup>, and even the front page of <i>The New York Times</i> itself.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[11]</a></sup>
+</p><p>What made this all the more baffling is that the sexual encounter between Jaime and Cersei in this scene in the books is presented as consensual.
+</p><p>TV-first viewers were offended, while book-first readers didn't understand why the TV show was, apparently, changing it into a rape scene – particularly because it simply didn't fit with Jaime's overall storyarc of redemption and trying to be a better person after losing his sword-hand. Moreover, Jaime in particular is a character who as a result of his backstory is horrified by rape: at King <a href="/wiki/Aerys_II_Targaryen" title="Aerys II Targaryen">Aerys II Targaryen</a>'s court, he was forced to stand guard outside the doors as the Mad King raped his wife Queen <a href="/wiki/Rhaella_Targaryen" title="Rhaella Targaryen">Rhaella</a>; later on and in the show itself, he saves <a href="/wiki/Brienne_of_Tarth" title="Brienne of Tarth">Brienne of Tarth</a> from being raped by <a href="/wiki/Locke" title="Locke">Locke</a>'s men even though she was his captor and he could easily have just let it happen.
+</p><p>The TV writers were slow to respond to such massive outcry, and what few statements they did make were very vague, leaving reviewers and critics even more confused and to draw their own conclusions. As the premiere of Season 5 neared, it became obvious that <b>the implication that Jaime was raping Cersei was never intended by the writers, not in the script, and purely the result of bad camerawork and bad editing</b>. Both the actors and director have publicly stated that they were never told this was intended as a rape scene <i>nor</i> did they play it as such. This is confirmed by closer freeze-frame analysis of the footage. Even George R.R. Martin wasn't informed that the scriptwriters ever intended such a massive change.
+</p><p>It is unknown why HBO did not simply re-edit and re-release the episode as soon as possible, <i>as has been done in the past</i> in Season 1. Apparently, one of two scenarios occurred: the first is that Benioff and Weiss were embarrassed by the bad editing, and somehow felt it was <i>more</i> embarrassing to admit the mistake happened on their watch, then to simply pretend that it was a controversial artistic choice they made <i>on purpose</i> - then they avoided making any further comment on the controversy, just hoping that with the passage of time it would fade from public memory without the need to give a clear answer. The second scenario is that Benioff and Weiss simply became honestly frightened that <i>anything</i> they said in response, i.e. "we never intended it as a rape scene", would be taken out of context and they would be accused of rape denial - in which case, apparently it didn't occur to them that while merely <i>saying</i> an explanation was no longer sufficient, re-editing and re-releasing the episode was still an option. Many critics were outright more upset and bewildered that the episode was not re-edited and re-released, and few if any said that re-editing it would be rape denial.
+</p><p>It is tacitly assumed that the executive producers or HBO will eventually realize that their silence only <i>inflamed</i> this controversy, which would not have happened if they had addressing it immediately as simply a technical error. It is assumed (or at least hoped) that at some point they will re-edit and re-release the scene and episode, just as they would for any other technical error.
+</p>
+<dl><dd>For a longer explanation of all of the evidence indicating that the scriptwriters could not possibly have intended this as a rape scene, and it only appears to be so due to bad camerawork and editing, see the longer sub-page: "<a href="/wiki/The_Jaime/Cersei_sex_scene_in_%22Breaker_of_Chains%22" title="The Jaime/Cersei sex scene in &quot;Breaker of Chains&quot;" class="mw-redirect">The Jaime/Cersei sex scene in "Breaker of Chains"</a>
+</dd></dl>
+<h2><span class="mw-headline" id="In_the_books">In the books</span></h2>
+<dl><dd> <i>See: <a href="/wiki/Differences_between_books_and_TV_series_-_Season_4" title="Differences between books and TV series - Season 4">Differences between books and TV series - Season 4#Breaker of Chains</a> </i>
+</dd></dl>
+<ul><li> The episode is adapted from the following chapters of <i>A Storm of Swords</i>:
+<ul><li> Chapter 48, Jon VI: <a href="/wiki/Jon" title="Jon">Jon</a> learns that <a href="/wiki/Jeor_Mormont" title="Jeor Mormont">Jeor Mormont</a> was betrayed and killed by the mutineers at Craster's Keep.
+</li><li> Chapter 55, Jon VII: Jon and the <a href="/wiki/Night%27s_Watch" title="Night's Watch">Night's Watch</a> prepare for the <a href="/wiki/Wildling" title="Wildling" class="mw-redirect">wildling</a> attack by <a href="/wiki/Styr" title="Styr">Styr</a>, <a href="/wiki/Ygritte" title="Ygritte">Ygritte</a> and the other raiders.
+</li><li> Chapter 57, Daenerys V: <a href="/wiki/Daenerys" title="Daenerys" class="mw-redirect">Daenerys</a> arrives at <a href="/wiki/Meereen" title="Meereen">Meereen</a> with <a href="/wiki/Jorah_Mormont" title="Jorah Mormont">Jorah Mormont</a>, <a href="/wiki/Barristan_Selmy" title="Barristan Selmy">Barristan Selmy</a>, <a href="/wiki/Missandei" title="Missandei">Missandei</a>, <a href="/wiki/Daario_Naharis" title="Daario Naharis">Daario Naharis</a>, <a href="/wiki/Grey_Worm" title="Grey Worm">Grey Worm</a> and the <a href="/wiki/Unsullied" title="Unsullied">Unsullied</a>. Meereen sends out <a href="/wiki/Oznak_zo_Pahl" title="Oznak zo Pahl">Oznak zo Pahl</a> as their hero, but he is promptly dispatched by <a href="/wiki/Daario_Naharis#In_the_books" title="Daario Naharis">Daenerys's champion</a>.
+</li><li> Chapter 61, Sansa V: <a href="/wiki/Sansa" title="Sansa" class="mw-redirect">Sansa</a> escapes from King's Landing in a small boat with <a href="/wiki/Dontos_Hollard" title="Dontos Hollard">Dontos Hollard</a>'s help. She arrives to a ship, where <a href="/wiki/Littlefinger" title="Littlefinger" class="mw-redirect">Littlefinger</a> reveals that he was the one who saved her. When Dontos asks for his reward of ten thousand gold dragons, Littlefinger commands him to be killed.
+</li><li> Chapter 62, Jaime VII: <a href="/wiki/Jaime" title="Jaime" class="mw-redirect">Jaime</a> and <a href="/wiki/Cersei" title="Cersei" class="mw-redirect">Cersei</a> meet at <a href="/wiki/Joffrey" title="Joffrey" class="mw-redirect">Joffrey</a>'s funeral in <a href="/wiki/Great_Sept_of_Baelor" title="Great Sept of Baelor">the Sept</a>. Cersei asks him to kill <a href="/wiki/Tyrion" title="Tyrion" class="mw-redirect">Tyrion</a> for murdering their son, and they have sex in front of Joffrey's corpse​.
+</li><li> Chapter 65: Arya XII: <a href="/wiki/Arya" title="Arya" class="mw-redirect">Arya</a> and <a href="/wiki/The_Hound" title="The Hound" class="mw-redirect">the Hound</a> find temporary refuge in a small village, in exchange for work.
+</li><li> Chapter 66, Tyrion IX: Imprisoned, Tyrion learns who his judges will be for his upcoming trial: his father <a href="/wiki/Tywin_Lannister" title="Tywin Lannister">Tywin</a>, <a href="/wiki/Mace_Tyrell" title="Mace Tyrell">Mace Tyrell</a> and <a href="/wiki/Oberyn_Martell" title="Oberyn Martell">Oberyn Martell</a>.
+</li></ul>
+</li></ul>
+<h2><span class="mw-headline" id="Memorable_Quotes"><span style="font-size:20px;">Memorable Quotes</span></span></h2>
+<p><b><a href="/wiki/Tyrion_Lannister" title="Tyrion Lannister">Tyrion&#160;Lannister</a>:</b> "Pod.... there has never lived a more loyal squire."
+</p>
+<hr style="width: 50%;" /><b><a href="/wiki/Tywin_Lannister" title="Tywin Lannister">Tywin Lannister</a>:</b> "So, we have a man who <a href="/wiki/Baelor_Targaryen" title="Baelor Targaryen">starves himself to death</a>, a man who <a href="/wiki/Orys_I" title="Orys I">lets his own brother murder him</a>, and a man who thinks that <a href="/wiki/Robert_Baratheon" title="Robert Baratheon">winning and ruling are the same thing</a>. What do they all lack?"<br />
+<p><b><a href="/wiki/Tommen_Baratheon" title="Tommen Baratheon">Tommen Baratheon</a>:</b> "Wisdom?"<br />
+<b>Tywin</b>: "Yes!"<br />
+<b>Tommen</b>: "Wisdom is what makes a good king.<br />
+<b>Tywin</b>: "Yes. But what is wisdom? Hmm? A house with great wealth and fertile lands asks you for your protection against another house with a strong navy that could one day oppose you. How do you know which choice is wise and which isn't? You've any experience of treasuries and granaries or shipyards and soldiers?"<br />
+<b>Tommen</b>: "No."<br />
+<b>Tywin</b>: "No, of course not. A wise king knows what he knows and what he doesn't. You're young. A wise young king listens to his counselors and heeds their advice until he comes of age. And the wisest kings continue to listen to them long afterwards. <a href="/wiki/Joffrey_Baratheon" title="Joffrey Baratheon">Your brother</a> was not a wise king. Your brother was not a good king. If he had been, perhaps he'd still be alive."<br />
+</p>
+<hr style="width: 50%;" /><b><a href="/wiki/Jaime_Lannister" title="Jaime Lannister">Jaime Lannister</a>:</b> "<a href="/wiki/Cersei_Lannister" title="Cersei Lannister">You're</a> a hateful woman. Why have the gods made me love a hateful woman?"
+<hr style="width: 50%;" /><b><a href="/wiki/Petyr_Baelish" title="Petyr Baelish">Petyr Baelish</a>:</b> "Money buys a man's silence for a time. A bolt in the heart buys it forever."
+<hr style="width: 50%;" /><b>Tywin</b>: "We are not <a href="/wiki/Seven_Kingdoms" title="Seven Kingdoms">Seven Kingdoms</a> until <a href="/wiki/Dorne" title="Dorne">Dorne</a> returns to the fold. The <a href="/wiki/Joffrey_Baratheon" title="Joffrey Baratheon">king</a> is dead, the <a href="/wiki/House_Greyjoy" title="House Greyjoy">Greyjoys</a> are in open rebellion, a <a href="/wiki/Wildling" title="Wildling" class="mw-redirect">wildling</a> army marches on <a href="/wiki/The_Wall" title="The Wall">the Wall</a> and in the <a href="/wiki/Essos" title="Essos">East</a>, a <a href="/wiki/House_Targaryen" title="House Targaryen">Targaryen</a> girl has three dragons. Before long, she will turn her eyes to <a href="/wiki/Westeros" title="Westeros">Westeros</a>. Only the Dornish managed to resist <a href="/wiki/Aegon_Targaryen" title="Aegon Targaryen" class="mw-redirect">Aegon Targaryen</a> and his dragons."<br />
+<p><b><a href="/wiki/Oberyn_Martell" title="Oberyn Martell">Oberyn Martell</a></b>: "You're saying you need us? That must be hard for you to admit."<br />
+<b>Tywin</b>: "We need each other. You help me serve justice to the King's assassins, and I will help you serve justice to <a href="/wiki/Elia_Martell" title="Elia Martell">Elia's</a>."<br />
+</p>
+<hr style="width: 50%;" /><i>[The Hound has just stolen silver from a <a href="/wiki/Farmer" title="Farmer" class="mw-redirect">farmer</a> with a <a href="/wiki/Sally" title="Sally">child</a>.]</i>
+<p><b><a href="/wiki/Arya_Stark" title="Arya Stark">Arya Stark</a>:</b> "You are the worst shit in the Seven Kingdoms!"<br />
+<b><a href="/wiki/Sandor_Clegane" title="Sandor Clegane">The Hound</a>:</b> "There's plenty worse than me. I just understand the way things are. How many Starks they got to behead before you figure it out?"
+</p>
+<hr style="width: 50%;" /><b><a href="/wiki/Olenna_Tyrell" title="Olenna Tyrell">Olenna Tyrell</a></b>: "Our alliance with the Lannisters remains every bit as necessary to them as it is unpleasant for us. You did wonderful work on Joffrey. The <a href="/wiki/Tommen_Baratheon" title="Tommen Baratheon">next one</a> should be easier."
+<h2><span class="mw-headline" id="Image_gallery">Image gallery</span></h2>
+<div id="gallery-0" hash="b49bd7e067e9ea4ebb734a22ce73f842" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium"><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="BreakerOfChainsS4EP03-png" style="position: relative; height:104px; width:185px;"><a class="image lightbox" href="/wiki/File:BreakerOfChainsS4EP03.png" title="BreakerOfChainsS4EP03.png (588 KB)" style="height:104px; width:185px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/gameofthrones/images/5/57/BreakerOfChainsS4EP03.png/revision/latest/scale-to-width-down/185?cb=20140521172858" title="BreakerOfChainsS4EP03.png (588 KB)" class="thumbimage" alt="BreakerOfChainsS4EP03" data-image-name="BreakerOfChainsS4EP03.png" data-image-key="BreakerOfChainsS4EP03.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="BreakerOfChainsS4EP03.png (588 KB)" class="thumbimage lzy lzyPlcHld" alt="BreakerOfChainsS4EP03" data-image-name="BreakerOfChainsS4EP03.png" data-image-key="BreakerOfChainsS4EP03.png" data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/5/57/BreakerOfChainsS4EP03.png/revision/latest/scale-to-width-down/185?cb=20140521172858" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Daenerys and her forces arrive at <a href="/wiki/Meereen" title="Meereen">Meereen</a></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="SansaAndDontosS4EP03-png" style="position: relative; height:101px; width:185px; top:1.5px;"><a class="image lightbox" href="/wiki/File:SansaAndDontosS4EP03.png" title="SansaAndDontosS4EP03.png (717 KB)" style="height:101px; width:185px;"><noscript><img style="" src="http://vignette4.wikia.nocookie.net/gameofthrones/images/6/69/SansaAndDontosS4EP03.png/revision/latest/scale-to-width-down/185?cb=20140622005908" title="SansaAndDontosS4EP03.png (717 KB)" class="thumbimage" alt="SansaAndDontosS4EP03" data-image-name="SansaAndDontosS4EP03.png" data-image-key="SansaAndDontosS4EP03.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="SansaAndDontosS4EP03.png (717 KB)" class="thumbimage lzy lzyPlcHld" alt="SansaAndDontosS4EP03" data-image-name="SansaAndDontosS4EP03.png" data-image-key="SansaAndDontosS4EP03.png" data-src="http://vignette4.wikia.nocookie.net/gameofthrones/images/6/69/SansaAndDontosS4EP03.png/revision/latest/scale-to-width-down/185?cb=20140622005908" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;"><a href="/wiki/Dontos_Hollard" title="Dontos Hollard">Dontos Hollard</a> and <a href="/wiki/Sansa_Stark" title="Sansa Stark">Sansa Stark</a> escape <a href="/wiki/King%27s_Landing" title="King's Landing">King's Landing</a></div></div><br /><a class="wikia-photogallery-add wikia-button noprint" style="display: none"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite photo" width="26" height="16" />Add a photo to this gallery</a></div><script>JSSnippetsStack.push({dependencies:[{"url":"http://slot1.images3.wikia.nocookie.net/__am/1465594453/group/-/wikia_photo_gallery_js","type":"js"},{"url":"http://slot1.images3.wikia.nocookie.net/__am/1465594453/sass/background-dynamic%3Dtrue%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb20150716154804%252Fgameofthrones%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1920%26color-body%3D%2523000%26color-body-middle%3D%2523000000%26color-buttons%3D%25231e5467%26color-header%3D%25235f4416%26color-links%3D%252347518e%26color-page%3D%2523d7cbab%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/extensions/wikia/WikiaPhotoGallery/css/gallery.scss","type":"css"}],callback:function(json){WikiaPhotoGalleryView.init(json)},id:"WikiaPhotoGalleryView.init"})</script>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul><li><a href="http://vignette1.wikia.nocookie.net/gameofthrones/images/7/7c/WP_favicon.PNG/revision/latest?cb=20150127010512" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="WP favicon"  	class="lzy lzyPlcHld " 	 	data-image-key="WP_favicon.PNG" 	data-image-name="WP favicon.PNG" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/7/7c/WP_favicon.PNG/revision/latest?cb=20150127010512"  	 width="25"  	 height="24"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/7/7c/WP_favicon.PNG/revision/latest?cb=20150127010512" 	 alt="WP favicon"  	class="" 	 	data-image-key="WP_favicon.PNG" 	data-image-name="WP favicon.PNG" 	 	 width="25"  	 height="24"  	 	 	 	></noscript></a> <a href="http://en.wikipedia.org/wiki/Breaker_of_Chains" class="extiw exitstitial" title="wikipedia:Breaker of Chains">Breaker of Chains</a> on <a href="http://en.wikipedia.org/wiki/Main_Page" class="extiw exitstitial" title="wikipedia:Main Page">Wikipedia</a>
+</li><li><a href="http://vignette4.wikia.nocookie.net/gameofthrones/images/4/40/Imdb2.PNG/revision/latest?cb=20150127011335" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Imdb2"  	class="lzy lzyPlcHld " 	 	data-image-key="Imdb2.PNG" 	data-image-name="Imdb2.PNG" 	 data-src="http://vignette4.wikia.nocookie.net/gameofthrones/images/4/40/Imdb2.PNG/revision/latest?cb=20150127011335"  	 width="25"  	 height="24"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette4.wikia.nocookie.net/gameofthrones/images/4/40/Imdb2.PNG/revision/latest?cb=20150127011335" 	 alt="Imdb2"  	class="" 	 	data-image-key="Imdb2.PNG" 	data-image-name="Imdb2.PNG" 	 	 width="25"  	 height="24"  	 	 	 	></noscript></a> <a rel="nofollow" class="external text exitstitial" href="http://www.imdb.com/title/tt2972426/">Breaker of Chains</a> on <a rel="nofollow" class="external text exitstitial" href="http://imdb.com">IMDb</a>
+</li></ul>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<div class="references-small">
+<ol class="references"><li id="cite_note-0"><a href="#cite_ref-0">↑</a> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="https://twitter.com/DocFourFour/status/458379621978107905/photo/1/large">[1]</a></span>
+</li>
+<li id="cite_note-1"><a href="#cite_ref-1">↑</a> <span class="reference-text"><a rel="nofollow" class="external autonumber exitstitial" href="http://watchersonthewall.com/new-blu-ray-video-extra-game-of-thrones-fallen-roundtable/">[2]</a></span>
+</li>
+<li id="cite_note-2"><a href="#cite_ref-2">↑</a> <span class="reference-text"><a rel="nofollow" class="external text exitstitial" href="http://asoiaf.westeros.org/index.php/topic/107962-spoilers-nitpicking-with-impunity/page-3#entry5673304">Westeros.org forum, "King Orys the First"?</a></span>
+</li>
+<li id="cite_note-3"><a href="#cite_ref-3">↑</a> <span class="reference-text"><a rel="nofollow" class="external free exitstitial" href="http://www.makinggameofthrones.com/production-diary/2014/5/8/interview-with-linguist-david-peterson">http://www.makinggameofthrones.com/production-diary/2014/5/8/interview-with-linguist-david-peterson</a></span>
+</li>
+<li id="cite_note-4"><a href="#cite_ref-4">↑</a> <span class="reference-text"><a rel="nofollow" class="external autonumber exitstitial" href="http://watchersonthewall.com/new-blu-ray-video-extra-game-of-thrones-fallen-roundtable/">[3]</a></span>
+</li>
+<li id="cite_note-5"><a href="#cite_ref-5">↑</a> <span class="reference-text"><a rel="nofollow" class="external autonumber exitstitial" href="http://io9.com/did-game-of-thrones-finally-go-too-far-1565473097">[4]</a></span>
+</li>
+<li id="cite_note-6"><a href="#cite_ref-6">↑</a> <span class="reference-text"><a rel="nofollow" class="external autonumber exitstitial" href="http://www.avclub.com/tvclub/game-thrones-experts-breaker-chains-203634">[5]</a></span>
+</li>
+<li id="cite_note-7"><a href="#cite_ref-7">↑</a> <span class="reference-text"><a rel="nofollow" class="external autonumber exitstitial" href="http://news.yahoo.com/game-thrones-wtf-sex-scene-020000935--politics.html">[6]</a></span>
+</li>
+<li id="cite_note-8"><a href="#cite_ref-8">↑</a> <span class="reference-text"><a rel="nofollow" class="external autonumber exitstitial" href="http://www.ew.com/article/2014/04/21/game-of-thrones-book-vs-show-jaime-cersei">[7]</a></span>
+</li>
+<li id="cite_note-9"><a href="#cite_ref-9">↑</a> <span class="reference-text"><a rel="nofollow" class="external autonumber exitstitial" href="http://time.com/70253/jaime-lannister-game-of-thrones-rape-scene/">[8]</a></span>
+</li>
+<li id="cite_note-10"><a href="#cite_ref-10">↑</a> <span class="reference-text"><a rel="nofollow" class="external autonumber exitstitial" href="http://www.nytimes.com/2014/05/03/arts/television/for-game-of-thrones-rising-unease-over-rapes-recurring-role.html?_r=0">[9]</a></span>
+</li></ol></div>
+<table class="nowraplinks navbox collapsible collapsed" cellspacing="0" style="width: 100%;">
+<tr>
+<th colspan="2" class="navbox-title"> <div style="padding-right:0em"><div style="float:left; text-align:left; width:6em;"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small;&#160;;"><a href="/wiki/Template:Episodes_navbox" title="Template:Episodes navbox"><span title="View this template" style=";">v</span></a>&#160;<span style="font-size: 80%;">•</span>&#160;<span class="plainlinks"><a  class="text" href="http://gameofthrones.wikia.com/wiki/Template_talk:Episodes_navbox"><span style=";" title="Discussion about this template">d</span></a></span>&#160;<span style="font-size: 80%;">•</span>&#160;<a  class="text" href="http://gameofthrones.wikia.com/wiki/Template:Episodes_navbox?action=edit"><span style=";" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><div style="text-align:centre"><span style="">Episodes</span></div></div>
+</th></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/Season_1" title="Season 1">Season 1</a>:</b>
+</td><td class="navbox-list" style="">
+<p><small>#1 "<a href="/wiki/Winter_is_Coming" title="Winter is Coming">Winter is Coming</a>" <b>·</b> #2 "<a href="/wiki/The_Kingsroad" title="The Kingsroad">The Kingsroad</a>" <b>·</b> #3 "<a href="/wiki/Lord_Snow" title="Lord Snow">Lord Snow</a>" <b>·</b> #4 "<a href="/wiki/Cripples,_Bastards,_and_Broken_Things" title="Cripples, Bastards, and Broken Things" class="mw-redirect">Cripples, Bastards, and Broken Things</a>" <b>·</b> #5 "<a href="/wiki/The_Wolf_and_the_Lion" title="The Wolf and the Lion">The Wolf and the Lion</a>" <b>·</b> #6 "<a href="/wiki/A_Golden_Crown" title="A Golden Crown">A Golden Crown</a>" <b>·</b> #7 "<a href="/wiki/You_Win_or_You_Die" title="You Win or You Die">You Win or You Die</a>" <b>·</b> #8 "<a href="/wiki/The_Pointy_End" title="The Pointy End">The Pointy End</a>"  <b>·</b> #9 "<a href="/wiki/Baelor" title="Baelor">Baelor</a>" <b>·</b> #10 "<a href="/wiki/Fire_and_Blood" title="Fire and Blood">Fire and Blood</a>"</small>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/Season_2" title="Season 2">Season 2</a>:</b>
+</td><td class="navbox-list" style="">
+<p><small>#1 "<a href="/wiki/The_North_Remembers" title="The North Remembers">The North Remembers</a>" <b>·</b> #2 "<a href="/wiki/The_Night_Lands" title="The Night Lands">The Night Lands</a>" <b>·</b> #3 "<a href="/wiki/What_is_Dead_May_Never_Die" title="What is Dead May Never Die">What is Dead May Never Die</a> <b>·</b> #4 "<a href="/wiki/Garden_of_Bones" title="Garden of Bones">Garden of Bones</a>" <b>·</b> #5 "<a href="/wiki/The_Ghost_of_Harrenhal" title="The Ghost of Harrenhal">The Ghost of Harrenhal</a>" <b>·</b> #6 "<a href="/wiki/The_Old_Gods_and_the_New" title="The Old Gods and the New">The Old Gods and the New</a>" <b>·</b> #7 "<a href="/wiki/A_Man_Without_Honor" title="A Man Without Honor">A Man Without Honor</a>" <b>·</b> #8 "<a href="/wiki/The_Prince_of_Winterfell" title="The Prince of Winterfell">The Prince of Winterfell</a>" <b>·</b> #9 "<a href="/wiki/Blackwater" title="Blackwater">Blackwater</a>" <b>·</b> #10 "<a href="/wiki/Valar_Morghulis" title="Valar Morghulis">Valar Morghulis</a>"</small>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/Season_3" title="Season 3">Season 3</a>:</b>
+</td><td class="navbox-list" style="">
+<p><small>#1 "<a href="/wiki/Valar_Dohaeris" title="Valar Dohaeris">Valar Dohaeris</a>" <b>·</b> #2 "<a href="/wiki/Dark_Wings,_Dark_Words" title="Dark Wings, Dark Words">Dark Wings, Dark Words</a>" <b>·</b> #3 "<a href="/wiki/Walk_of_Punishment" title="Walk of Punishment">Walk of Punishment</a>" <b>·</b> #4 "<a href="/wiki/And_Now_His_Watch_is_Ended" title="And Now His Watch is Ended">And Now His Watch is Ended</a>" <b>·</b> #5 "<a href="/wiki/Kissed_by_Fire" title="Kissed by Fire">Kissed by Fire</a>" <b>·</b> #6 "<a href="/wiki/The_Climb" title="The Climb">The Climb</a>" <b>·</b> #7 "<a href="/wiki/The_Bear_and_the_Maiden_Fair_(episode)" title="The Bear and the Maiden Fair (episode)">The Bear and the Maiden Fair</a>" <b>·</b> #8 "<a href="/wiki/Second_Sons_(episode)" title="Second Sons (episode)">Second Sons</a>" <b>·</b> #9 "<a href="/wiki/The_Rains_of_Castamere_(episode)" title="The Rains of Castamere (episode)">The Rains of Castamere</a>" <b>·</b> #10 "<a href="/wiki/Mhysa" title="Mhysa">Mhysa</a>"</small>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/Season_4" title="Season 4">Season 4</a>:</b>
+</td><td class="navbox-list" style="">
+<p><small>#1 "<a href="/wiki/Two_Swords" title="Two Swords">Two Swords</a>" <b>·</b> #2 "<a href="/wiki/The_Lion_and_the_Rose" title="The Lion and the Rose">The Lion and the Rose</a>" <b>·</b> #3 "<strong class="selflink">Breaker of Chains</strong>" <b>·</b> #4 "<a href="/wiki/Oathkeeper" title="Oathkeeper">Oathkeeper</a>" <b>·</b> #5 "<a href="/wiki/First_of_His_Name" title="First of His Name">First of His Name</a>" <b>·</b> #6 "<a href="/wiki/The_Laws_of_Gods_and_Men" title="The Laws of Gods and Men">The Laws of Gods and Men</a>" <b>·</b> #7 "<a href="/wiki/Mockingbird" title="Mockingbird">Mockingbird</a>" <b>·</b> #8 "<a href="/wiki/The_Mountain_and_the_Viper" title="The Mountain and the Viper">The Mountain and the Viper</a>" <b>·</b> #9 "<a href="/wiki/The_Watchers_on_the_Wall" title="The Watchers on the Wall">The Watchers on the Wall</a>" <b>·</b> #10 "<a href="/wiki/The_Children" title="The Children">The Children</a>"</small>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/Season_5" title="Season 5">Season 5</a>:</b>
+</td><td class="navbox-list" style="">
+<p><small>#1 "<a href="/wiki/The_Wars_to_Come" title="The Wars to Come">The Wars to Come</a>" <b>·</b> #2 "<a href="/wiki/The_House_of_Black_and_White" title="The House of Black and White">The House of Black and White</a>" <b>·</b> #3 "<a href="/wiki/High_Sparrow_(episode)" title="High Sparrow (episode)">High Sparrow</a>" <b>·</b> #4 "<a href="/wiki/Sons_of_the_Harpy_(episode)" title="Sons of the Harpy (episode)">Sons of the Harpy</a>" <b>·</b> #5 "<a href="/wiki/Kill_the_Boy" title="Kill the Boy">Kill the Boy</a>" <b>·</b> #6 "<a href="/wiki/Unbowed,_Unbent,_Unbroken" title="Unbowed, Unbent, Unbroken">Unbowed, Unbent, Unbroken</a>" <b>·</b> #7 "<a href="/wiki/The_Gift_(episode)" title="The Gift (episode)">The Gift</a>" <b>·</b> #8 "<a href="/wiki/Hardhome_(episode)" title="Hardhome (episode)">Hardhome</a>" <b>·</b> #9 "<a href="/wiki/The_Dance_of_Dragons" title="The Dance of Dragons">The Dance of Dragons</a>" <b>·</b> #10 "<a href="/wiki/Mother%27s_Mercy" title="Mother's Mercy">Mother’s Mercy</a>"</small>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/Season_6" title="Season 6">Season 6</a>:</b>
+</td><td class="navbox-list" style="">
+<p><small>#1 "<a href="/wiki/The_Red_Woman" title="The Red Woman">The Red Woman</a>" <b>·</b> #2 "<a href="/wiki/Home" title="Home">Home</a>" <b>·</b> #3 "<a href="/wiki/Oathbreaker" title="Oathbreaker">Oathbreaker</a>" <b>·</b> #4 "<a href="/wiki/Book_of_the_Stranger" title="Book of the Stranger">Book of the Stranger</a>" <b>·</b> #5 "<a href="/wiki/The_Door" title="The Door">The Door</a>" <b>·</b> #6 "<a href="/wiki/Blood_of_My_Blood" title="Blood of My Blood">Blood of My Blood</a>" <b>·</b> #7 "<a href="/wiki/The_Broken_Man" title="The Broken Man">The Broken Man</a>" <b>·</b> #8 "<a href="/wiki/No_One" title="No One">No One</a>" <b>·</b> #9 "<a href="/wiki/Battle_of_the_Bastards" title="Battle of the Bastards">Battle of the Bastards</a>" <b>·</b> #10 "<a href="/wiki/The_Winds_of_Winter" title="The Winds of Winter">The Winds of Winter</a>"</small> 
+</p>
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 699/300000
+Post‐expand include size: 23704/2097152 bytes
+Template argument size: 7412/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key gameofthrones:pcache:idhash:21621-0!*!0!!en!2!* -->
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1466073491/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1466073491/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://gameofthrones.wikia.com/wiki/Breaker_of_Chains?oldid=261501">http://gameofthrones.wikia.com/wiki/Breaker_of_Chains?oldid=261501</a>"</div>
+
+				</div>
+
+															<nav class="article-categories CategorySelect articlePage" id="articleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="Episodes" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Episodes" title="Category:Episodes">Episodes</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Season 4" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Season_4" title="Category:Season 4">Season 4</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Season 4 Episodes" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Season_4_Episodes" title="Category:Season 4 Episodes">Season 4 Episodes</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+					</ul>
+	</div>
+	</nav>									
+				<nav class="WikiaArticleInterlang">
+	<h3>Languages: </h3>
+	<ul>
+			<li><a href="http://de.gameofthrones.wikia.com/wiki/Sprengerin_der_Ketten_(Episode)">Deutsch</a></li>
+			<li><a href="http://ru.gameofthrones.wikia.com/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D1%83%D1%88%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D0%B0_%D1%86%D0%B5%D0%BF%D0%B5%D0%B9">Русский</a></li>
+		</ul>
+</nav>
+
+				
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+							<!-- BEGIN CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<div id="NATIVE_TABOOLA_ARTICLE">
+		<script>
+			window.adslots2.push(["NATIVE_TABOOLA_ARTICLE"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+<div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+								<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+										<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+						<div id="WikiaRail" class="WikiaRail">
+
+		<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+					<div class="loading"></div>
+		
+	</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	<!-- BEGIN SLOTNAME: BOTTOM_LEADERBOARD -->
+<div id="BOTTOM_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["BOTTOM_LEADERBOARD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: BOTTOM_LEADERBOARD -->
+	
+			<section>
+	<div class="header-container">
+		<h2>Around Wikia's network</h2>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/130814" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer">
+	<nav>
+		<div class="branding vertical-tv black">
+			<a class="wikia-logo" href="http://tvhub.wikia.com/wiki/TV_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>TV</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com/wiki/Help:Contents">Help</a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Sitemap">Global Sitemap</a>
+									</li>
+							<li>
+											<a href="/wiki/Special:AllPages">Local Sitemap</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Vacation like an Avenger. Visit real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;},{&quot;text&quot;:&quot;Vacation like an Avenger. Visit real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;},{&quot;text&quot;:&quot;Vacation like an Avenger. Visit real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;},{&quot;text&quot;:&quot;Vacation like an Avenger. Visit real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;},{&quot;text&quot;:&quot;Vacation like an Avenger. Visit real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1466073491/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1466073491/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1466073491/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["GPT_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: EVOLVE_FLUSH -->
+<div id="EVOLVE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["EVOLVE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: EVOLVE_FLUSH -->
+<!-- BEGIN SLOTNAME: HITMEDIA_FLUSH -->
+<div id="HITMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["HITMEDIA_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: HITMEDIA_FLUSH -->
+<!-- BEGIN SLOTNAME: TURTLE_FLUSH -->
+<div id="TURTLE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TURTLE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TURTLE_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1466073491/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1466073491/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"gameofthrones","kv_article_id":21621,"kv_wpage":"Breaker_of_Chains","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"media=tv;genre=fantasy;tv=hbo;sex=m;age=18-24;age=18-34;age=25-34;esrb=mature;media=books;gnre=action;gnre=adventure;theme=sword;theme=magic;gnre=drama;gnre=fighting;theme=dragon;theme=mature;theme=zombiesex=m;age=18-24;age=25-34;age=18-34;age=teen;media=tv;media=comics;media=books;gnre=action;theme=zombie;gnre=horror;theme=postapocalypse;gnre=3rdpersonshooter;pform=xbox360;pform=ps3;esrb=mature;tv=amc;sex=m;age=13-17;age=18-24;age=under18;age=kids;age=teen;gnre=anime;media=tv;media=comics;gnre=fighting;gnre=fantasyage=under18;age=18-24;age=teen;age=kids;media=tv;media=comics;media=cards;gnre=anime;gnre=fantasy;gnre=fighting;gnre=action;gnre=adventure;pform=xbox360;pform=ps3;pform=wii;pform=ds;esrb=teen;tv=cn;theme=heroes;tv=onhulu;tv=hulu","kv_domain":"gameofthrones.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://gameofthrones.wikia.com/__load/-/cb%3D1466073491%26debug%3Dfalse%26lang%3Den%26newve%3D1%26only%3Dscripts%26skin%3Doasis/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgPageName":"Breaker_of_Chains","wgTitle":"Breaker of Chains","wgCurRevisionId":261501,"wgArticleId":21621,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Episodes","Season 4","Season 4 Episodes"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Breaker_of_Chains","wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"true","background-image":"http://img4.wikia.nocookie.net/__cb20150716154804/gameofthrones/images/5/50/Wiki-background","background-image-height":"720","background-image-width":"1920","color-body":"#000","color-body-middle":"#000000","color-buttons":"#1e5467","color-header":"#5f4416","color-links":"#47518e","color-page":"#d7cbab","oasisTypography":1,"page-opacity":"100","widthType":0},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"Game of Thrones Wiki","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1466073491/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1466073491/common","wgSitename":"Game of Thrones Wiki","wgMWrevId":false,"wgRevisionId":261501,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableNewAuthModal":null,"wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgWikiaMaxNameChars":50,"wgMinimalPasswordLength":1,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=Breaker_of_Chains","fbReturnToTitle":"Breaker_of_Chains","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":[],"wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"1200":true,"500":true,"501":true,"502":true,"503":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":true,"interactiveMapsApiURL":"http://maps.wikia-services.com:80/api/v1","VignettePathPrefix":null,"reCaptchaPublicKey":"6LdDSA4TAAAAANZDWjPdTiQcYsTuge5fMPQTd7D_","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgEnablePortableInfoboxBuilderInVE":false,"wgEnableVisualEditorTourExperiment":true,"wgOasisResponsive":false,"wgOasisBreakpoints":true,"verticalName":"Entertainment","wgArticleInterlangList":["de:Sprengerin der Ketten (Episode)","ru:Разрушительница цепей"],"WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgContentReviewExtEnabled":true,"wgContentReviewTestModeEnabled":false,"wgReviewedScriptsTimestamp":"1441727506","wgScriptsTimestamp":"1332971928","wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"Breaker of Chains"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"editor":2,"enotifwallthread":2,"wallshowsource":false,"walldelete":false,"founderemails-joins-130814":0,"founderemails-edits-130814":0,"founderemails-views-digest-130814":0,"founderemails-complete-digest-130814":0,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true,"searchNs15":false,"searchNs110":false,"searchNs111":false,"searchNs500":false,
+"searchNs501":false,"searchNs502":false,"searchNs503":false,"searchNs828":false,"searchNs829":false,"searchNs1000":false,"searchNs1010":false,"searchNs1020":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"searchNs2000":false,"searchNs2001":false,"searchNs2002":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: gameofthrones:resourceloader:filter:minify-js:7:5ffb247b4f4ef073d23e4edf309a4c85 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikia.viewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.bannerNotifications","ext.cookiePolicyMessages","ext.userLogin"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1466073491/groups/-/oasis_shared_core_js,oasis_shared_js,oasis_anon_js,adengine2_oasis_exitstitial_js,adengine2_desktop_js,liftium_ads_js,liftium_ads_extra_js,adengine2_gcs_js,adengine2_taboola_js,adengine2_revcontent_js,adengine2_interactive_maps_js,recirculation_trackers_js,recirculation_js,toc_js,qualaroo_js,wikia_maps_contribution_button_create_map_js,spotlights_js,relatedpages_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1466073491/group/-/videos_module_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1466073491/group/-/auth_modal_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1466073491/group/-/cookie_policy_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1466073491/group/-/wikia_in_your_lang_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1466073491/group/-/portable_infobox_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1466073491/group/-/visit_source_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1466073491/group/-/visual_editor_tour_experiment_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=AdEngine%2CConfirmModal%2CImagePlaceholder%2COasis-generic%2CRecirculation%2CVideosModule&amp;uselang=en&amp;cb=1466073491.262519.0"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1466073491/group/-/monetization_module_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1466073491/group/-/global_navigation_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1466073491/group/-/page_share_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1466073491/group/-/global_footer_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://gameofthrones.wikia.com/__load/-/cb%3D1466073491%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://gameofthrones.wikia.com/__load/-/cb%3D1466073491%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26reviewed%3D1441727506%26skin%3Doasis/site"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1466073491/group/-/facebook_client_fbtags_js"></script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/Forum\/css\/ForumTag.scss","extensions\/wikia\/Recirculation\/styles\/recirculation.scss","extensions\/wikia\/PortableInfobox\/styles\/PortableInfobox.scss","extensions\/wikia\/VisualEditorTourExperiment\/styles\/VisualEditorTourExperimentInit.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModule.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationUserLoginDropdown.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationNotifications.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","extensions\/wikia\/GlobalNavigation\/styles\/GoogleSearchAPI.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/PageShare\/styles\/PageShare.scss","extensions\/wikia\/GlobalFooter\/styles\/GlobalFooter.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+</body>
+
+
+
+</html>

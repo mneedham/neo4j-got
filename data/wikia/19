@@ -1,0 +1,1350 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.24" />
+<meta name="keywords" content="Game of Thrones Wiki,gameofthrones,Blackwater,George R.R. Martin,Neil Marshall,Episode Guide,The Prince of Winterfell,Valar Morghulis,Blackwater (disambiguation),Season 2,Game of Thrones,King's Landing,Iron Throne" />
+<meta name="description" content="&amp;quot;Blackwater&amp;quot; is the ninth episode of the second season of Game of Thrones. It is the nineteenth..." />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Wikia" />
+<meta name="twitter:url" content="http://gameofthrones.wikia.com/wiki/Blackwater" />
+<meta name="twitter:title" content="Blackwater - Game of Thrones Wiki - Wikia" />
+<meta name="twitter:description" content="&quot;Blackwater&quot; is the ninth episode of the second season of Game of Thrones. It is the nineteenth episode of the series overall. It premiered on May 27, 2012. It was written by co-executive producer..." />
+<link rel="canonical" href="http://gameofthrones.wikia.com/wiki/Blackwater" />
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/wiki/Blackwater?action=edit" />
+<link rel="edit" title="Edit" href="/wiki/Blackwater?action=edit" />
+<link rel="apple-touch-icon" href="http://img1.wikia.nocookie.net/__cb87/gameofthrones/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/gameofthrones/images/6/64/Favicon.ico/revision/latest?cb=20120302041013" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Game of Thrones Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://gameofthrones.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="Game of Thrones Wiki Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>Blackwater - Game of Thrones Wiki - Wikia</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images3.wikia.nocookie.net/__am/1466085459/sasses/background-dynamic%3Dtrue%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb20150716154804%252Fgameofthrones%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1920%26color-body%3D%2523000%26color-body-middle%3D%2523000000%26color-buttons%3D%25231e5467%26color-header%3D%25235f4416%26color-links%3D%252347518e%26color-page%3D%2523d7cbab%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/skins/oasis/css/oasis.scss,extensions/wikia/Forum/css/ForumTag.scss,extensions/wikia/Recirculation/styles/recirculation.scss,extensions/wikia/PortableInfobox/styles/PortableInfobox.scss,extensions/wikia/VisualEditorTourExperiment/styles/VisualEditorTourExperimentInit.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationUserLoginDropdown.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationNotifications.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,extensions/wikia/GlobalNavigation/styles/GoogleSearchAPI.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/PageShare/styles/PageShare.scss,extensions/wikia/GlobalFooter/styles/GlobalFooter.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://slot1.images1.wikia.nocookie.net/__am/1466085459/sasses/background-dynamic%3Dtrue%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb20150716154804%252Fgameofthrones%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1920%26color-body%3D%2523000%26color-body-middle%3D%2523000000%26color-buttons%3D%25231e5467%26color-header%3D%25235f4416%26color-links%3D%252347518e%26color-page%3D%2523d7cbab%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/extensions/wikia/ARecoveryEngine/css/recoveryUnlock.scss" /><link rel="stylesheet" href="http://gameofthrones.wikia.com/__load/-/cb%3D1466085459%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: gameofthrones:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="tv",
+wgWikiCategories=[],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Join the Chat","chat-start-a-chat":"Start a Chat","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live! Chat","chat-edit-count":"$1 edits","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":1,"delayBtf":true,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true,"sourcePointDetectionUrl":"http://gameofthrones.wikia.com/__load/-/cb%3D1466085459%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/a47a3a8fae34dbafa7dfd2b0bbf6f4d1","yavliUrl":"http://gameofthrones.wikia.com/__load/-/cb%3D1466085459%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/cdb7b3a82727403b82ff127d59711c1a"},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"esrbRating":"teen","mappedVerticalName":"ent","pageArticleId":3336,"pageIsArticle":true,"pageName":"Blackwater","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"media=tv;genre=fantasy;tv=hbo;sex=m;age=18-24;age=18-34;age=25-34;esrb=mature;media=books;gnre=action;gnre=adventure;theme=sword;theme=magic;gnre=drama;gnre=fighting;theme=dragon;theme=mature;theme=zombiesex=m;age=18-24;age=25-34;age=18-34;age=teen;media=tv;media=comics;media=books;gnre=action;theme=zombie;gnre=horror;theme=postapocalypse;gnre=3rdpersonshooter;pform=xbox360;pform=ps3;esrb=mature;tv=amc;sex=m;age=13-17;age=18-24;age=under18;age=kids;age=teen;gnre=anime;media=tv;media=comics;gnre=fighting;gnre=fantasyage=under18;age=18-24;age=teen;age=kids;media=tv;media=comics;media=cards;gnre=anime;gnre=fantasy;gnre=fighting;gnre=action;gnre=adventure;pform=xbox360;pform=ps3;pform=wii;pform=ds;esrb=teen;tv=cn;theme=heroes;tv=onhulu;tv=hulu","wikiDbName":"gameofthrones","wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"tv","newWikiCategories":["ent"]},"providers":{"evolve2":true,"rubiconFastlane":true,"taboola":true},"slots":{"exitstitial":true,"invisibleHighImpact":true},"forcedProvider":null},"runtime":{"sp":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[100056,100057,100058,100059,100397],
+wgWikiFactoryTagNames=["wow","t9","skyscraper","skyscrapperwow","en"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1466085459",
+wgDBname="gameofthrones",
+wgCityId="130814",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=3336,
+wgCategories=["Episodes","Season 2","Season 2 Episodes"],
+wgPageName="Blackwater",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="tv_episode",
+wgNamespaceNumber=0,
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=true,
+wgStyleVersion="1466085459",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/complex","env":"prod","hostname":"ap-s160","php_version":"5.6.11","wiki":"gameofthrones","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"complex"},
+wgEnableOpenXSPC=true,
+wgEnableReviveSpotlights=true,
+wgSeoTestingBucket=4;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<!-- Nielsen is disabled --><script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1466085459&amp;c=130814&amp;lc=en&amp;lid=75&amp;x=gameofthrones&amp;y=c2&amp;u=0&amp;a=3336&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+		document.write('<img src="http://logs-01.loggly.com/inputs/88a88e56-77c6-49cc-af41-6f44f83fe7fe.gif?message=wikia_beacon_id%20is%20empty"/>');
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1466085459&amp;c=130814&amp;lc=en&amp;lid=75&amp;x=gameofthrones&amp;y=c2&amp;u=0&amp;a=3336&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://slot1.images2.wikia.nocookie.net/__load/-/cb%3D1466085459%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__load/-/cb%3D1466085459%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1466085459/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine2_tracking_js,adengine2_amazon_match_js,adengine2_ox_bidder_js,adengine2_rubicon_fastlane_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="Game of Thrones Wiki" />
+	<meta property="og:title" content="Blackwater" />
+	<meta property="og:description" content="&quot;Blackwater&quot; is the ninth episode of the second season of Game of Thrones. It is the nineteenth episode of the series overall. It premiered on May 27, 2012. It was written by co-executive producer and writer of the novels George R.R. Martin and directed by Neil Marshall. A massive battle rages for control of King's Landing and the Iron Throne." />
+	<meta property="og:url" content="http://gameofthrones.wikia.com/wiki/Blackwater" />
+	<meta property="og:image" content="http://vignette1.wikia.nocookie.net/gameofthrones/images/4/41/Wildfire_explosion.jpg/revision/latest?cb=20150328212702" />
+<meta name="apple-itunes-app" content="app-id=920825172, app-arguments=http://gameofthrones.wikia.com/wiki/Blackwater">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Blackwater  TOC_hide oasis-breakpoints wikinav2 skin-oasis  user-anon background-fixed background-not-tiled background-dynamic wiki-gameofthrones" >
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fgameofthrones.wikia.com%2Fwiki%2FBlackwater%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for RubiconFastlane, page_view -->
+<script id="analytics-provider-rubicon-fastlane">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.rubiconFastlane")
+	], function (geo, instantGlobals, rubiconFastlane) {
+		if (geo.isProperGeo(instantGlobals["wgAdDriverRubiconFastlaneCountries"])) {
+			rubiconFastlane.call();
+		};
+	});
+</script>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.amazonMatch"),
+	], function (geo, globals, amazon) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (geo.isProperGeo(ac)) {
+			amazon.call();
+		}
+	});
+</script>
+
+<!-- Start for OpenXBidder, page_view -->
+<script id="analytics-provider-openx-bidder">
+	require([
+		"wikia.geo",
+		"wikia.querystring",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.openXBidder")
+	], function (geo, Querystring, globals, oxBidder) {
+		var ac = globals["wgAdDriverOpenXBidderCountries"],
+			qs = new Querystring();
+
+		if (geo.isProperGeo(ac) || qs.getVal('oxbidder', '0') === '1') {
+			oxBidder.call();
+		};
+	});
+</script>
+<!-- Begin Krux Tag -->
+<script type="text/javascript">
+	require(['wikia.krux'], function (krux) {
+		krux.load('JU3_GW1b');
+	});
+</script>
+<!-- End Krux Tag -->
+<!-- Begin IVW3 Tag -->
+<script type="text/javascript">
+	var iam_data = {
+		st: 'wikia',
+		cp: 'tv/pc',
+		sv: 'i2'
+	};
+
+	if (window.Wikia &&
+		window.Wikia.InstantGlobals &&
+		!window.Wikia.InstantGlobals.wgSitewideDisableIVW3 &&
+		window.Wikia.geo.isProperGeo(["AT","CH","DE"])
+	) {
+		window.ivw3Initialized = true;
+		document.write('<script type="text/javascript" src="https://script.ioam.de/iam.js"><\/script>');
+		document.write('<script type="text/javascript">window.iom.c(iam_data, 2);<\/script>');
+	}
+</script>
+<!-- End IVW3 Tag -->
+<!-- Unsupported language for AnalyticsProviderIVW2 --><div class="WikiaSiteWrapper">
+	
+	<h2>Wikia</h2>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_LEADERBOARD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_BUTTON_WIDE"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["INVISIBLE_SKIN"]);
+	</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+<div id="InvisibleHighImpactWrapper" class="hidden">
+	<div class="background"></div>
+	<a class="close">
+		<div class="close-button"></div>
+	</a>
+	<div class="label">Advertisement</div>
+	<div id="INVISIBLE_HIGH_IMPACT_2" class="wikia-ad noprint"></div>
+</div>
+<nav class="global-navigation" id="globalNavigation">
+	<div class="global-navigation-container">
+		<div class="wikia-logo-container table-cell">
+			<a href="http://www.wikia.com/fandom"
+				class="wikia-logo final-url"
+				rel="nofollow"
+				data-id="wikia-logo">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+					height="24"
+					width="91"
+					alt="Wikia"
+					title="Wikia">
+									<span class="wikia-logo__subtitle">The Home of Fandom</span>
+							</a >
+		</div >
+					<div class="table-cell hubs-links" data-visibility="desktop">
+									<a class="cell-link top-level" href="http://fandom.wikia.com/games"
+					   data-tracking-label="hub-games">
+						Games					</a>
+									<a class="cell-link top-level" href="http://fandom.wikia.com/movies"
+					   data-tracking-label="hub-movies">
+						Movies					</a>
+									<a class="cell-link top-level" href="http://fandom.wikia.com/tv"
+					   data-tracking-label="hub-tv">
+						TV					</a>
+							</div>
+				<div class="table-cell">
+			<div class="explore-wikia-entry-point" id="exploreWikiaEntryPoint">
+				<a class="cell-link top-level final-url"
+					href="http://www.wikia.com/explore"
+					data-tracking-label="explore-wikia">
+					Explore Wikia					<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+				</a>
+				<ul class="explore-wikia-dropdown" id="exploreWikiaDropdown">
+																		<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://fandom.wikia.com/games"
+								   data-tracking-label="hub-games">
+									Games								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://fandom.wikia.com/movies"
+								   data-tracking-label="hub-movies">
+									Movies								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://fandom.wikia.com/tv"
+								   data-tracking-label="hub-tv">
+									TV								</a>
+							</li>
+																						<li>
+							<a class="cell-link"
+							   href="http://www.wikia.com/WAM"
+							   data-tracking-label="top-communities">
+								Trending Wikias							</a>
+						</li>
+											<li>
+							<a class="cell-link"
+							   href="http://community.wikia.com"
+							   data-tracking-label="community-central">
+								Community Central							</a>
+						</li>
+									</ul>
+			</div>
+		</div>
+		<div class="search-container table-cell">
+			<div class="search-form-wrapper">
+	<form action="http://gameofthrones.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search Game of Thrones Wiki..." data-search-url="http://gameofthrones.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search Game of Thrones Wiki..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+		</div>
+		<div class="account-navigation-container table-cell">
+			<ul id="AccountNavigation" class="AccountNavigation table-cell  ">
+	<li class="account-navigation-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/wiki/Special:UserLogin?returnto=Blackwater" rel="nofollow" title="Log in" class="ajaxLogin table-cell" accesskey="o">			<div class="avatar-container anon-avatar-placeholder">
+							</div>
+		</a>
+						<span class="auth-label auth-link sign-in">Sign In</span>
+						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+			</div>
+	<div id="UserLoginDropdown" class="UserLoginDropdown global-nav-dropdown">
+	<div class="ajaxRegisterContainer"><a data-id="register" href="/wiki/Special:UserSignup" rel="nofollow" title="Register" class="ajaxRegister">Register</a></div>
+	
+<form action="/wiki/Special:UserLogin" method="post" class="WikiaForm">
+	<fieldset>
+		
+					<div class="input-group error general-errors">
+				<div class="error-msg"></div>
+			</div>
+		
+		
+									
+									<input type="hidden" name="loginToken" value="">
+											
+									<input type="hidden" name="returnto" value="Blackwater">
+											
+									<input type="hidden" name="returntoquery" value="">
+											
+															<div class="input-group hide-label required">
+					
+													<label>Username</label>
+						
+						
+																												<input type="text" class="hide-label" id="usernameInput" name="username" tabindex="1" placeholder="Username">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group hide-label required">
+					
+													<label>Password</label>
+						
+						
+														<input type="password" class="hide-label" id="passwordInput" name="password" tabindex="2" placeholder="Password">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group">
+					
+						
+						
+														<a href="#" class="forgot-password" tabindex="0">
+	Forgot your password?</a>							
+						
+						
+											</div>
+					
+											
+															<div class="input-group keep-logged-in">
+					
+						
+													<label>
+						
+														<input type="checkbox" class="keep-logged-in" name="keeploggedin" value="1" tabindex="3">
+								
+						
+													Stay logged in</label>
+						
+											</div>
+					
+											
+															<div class="input-group login-button">
+					
+						
+						
+														<input type="submit" class="login-button" value="Log in" tabindex="4">
+							
+						
+						
+											</div>
+					
+										</fieldset>
+
+	</form>
+	<div class="sso-login hidden">
+		<div class="sso-login-divider">
+			<span>Or</span>
+		</div>
+
+					<a href="#" class="wikia-button wikia-button-facebook sso-login-facebook"  data-id="facebook" tabindex="5" ><img alt="" class="sprite facebook" height="14" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="15" /> Connect</a>
+	</div>
+</div>
+	</li>
+</ul>
+		</div>
+				<div class="start-wikia-container table-cell">
+			<a href="http://www.wikia.com/Special:CreateNewWiki"
+			   class="start-wikia"
+			   title="Start a wikia"
+			   data-id="start-wikia">
+				<span>Start a wikia</span>
+			</a>
+		</div>
+			</div>
+</nav>
+
+	<!-- BEGIN CONTAINER: TOP_LEADERBOARD_AB -->
+	<div id="TOP_LEADERBOARD_AB">
+		<script>
+			window.adslots2.push(["TOP_LEADERBOARD_AB"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: TOP_LEADERBOARD_AB -->
+
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h2 class="wordmark medium graphic ">
+	<a accesskey="z" href="/wiki/Game_of_Thrones_Wiki">
+					<img src="http://img1.wikia.nocookie.net/__cb87/gameofthrones/images/8/89/Wiki-wordmark.png" alt="Game of Thrones Wiki"  width="250" height="65" >
+			</a>
+</h2>
+	<nav class="WikiNav">
+					<h2>Game of Thrones Wiki Navigation</h2>
+				<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Images" data-canonical="images">Images</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Blogs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum" data-canonical="forum">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="#">Popular pages</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="#">Most visited articles<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Game_of_Thrones_Wiki">Game of Thrones Wiki</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Gregor_Clegane">Gregor Clegane</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Brynden_Tully">Brynden Tully</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/No_One">No One</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_6">Season 6</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Waif">Waif</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Edmure_Tully">Edmure Tully</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Characters">Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Daenerys_Targaryen">Daenerys Targaryen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Eddard_Stark">Eddard Stark</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tyrion_Lannister">Tyrion Lannister</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Joffrey_Baratheon">Joffrey Baratheon</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Arya_Stark">Arya Stark</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jon_Snow">Jon Snow</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Cersei_Lannister">Cersei Lannister</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Actor">Actor<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Emilia_Clarke">Emilia Clarke</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Sophie_Turner">Sophie Turner</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tamzin_Merchant">Tamzin Merchant</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jack_Gleeson">Jack Gleeson</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Maisie_Williams">Maisie Williams</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jason_Momoa">Jason Momoa</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Oona_Chaplin">Oona Chaplin</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Game_of_Thrones_Wiki:Community_Portal">Community</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Recent blog posts</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Forum:Index">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>	</nav>
+			<div class="buttons">
+			<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Blackwater?action=edit"  data-id="edit"  >Edit this Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Maps"  data-id="maps"   class="wikia-maps-create-map">Create a Map</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+		</div>
+		<div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent changes</a>	</div>
+</header>
+		
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+					<header id="WikiaPageHeader" class="WikiaPageHeader wikia-page-header">
+		<div class="header-container">
+			<div class="header-column header-title">
+				<h1>Blackwater</h1>
+							</div>
+			<div class="header-column header-tally">
+				<div id="PageShareContainer" class="page-share-container">
+									</div>
+									<div class="tally"><em>3,296</em><span>pages on<br /> this wiki</span></div>
+							</div>
+		</div>
+		<nav class="wikia-menu-button" >
+	<a accesskey="e"  href="/wiki/Blackwater?veaction=edit" data-id="ve-edit" id="ca-ve-edit">
+		<img alt="" class="sprite edit-pencil" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Edit	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Blackwater?action=edit"  accesskey="s" data-id="edit"   id="ca-edit">Classic editor</a>
+		</li>
+		<li>
+			<a href="/wiki/Blackwater?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="/wiki/Talk:Blackwater" class="wikia-button comments secondary talk" rel="nofollow" data-id="comment"> Talk<span class="commentsbubble">15</span></a>
+	</header>
+	
+
+												<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+										
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text"><dl><dd><i>This article is about the Season 2 episode, for other uses see <a href="/wiki/Blackwater_(disambiguation)" title="Blackwater (disambiguation)">Blackwater (disambiguation)</a>.</i>
+</dd></dl>
+
+<aside class="portable-infobox pi-background pi-theme-episode pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title">"Blackwater"</h2>
+<section class="pi-item pi-group pi-border-color"><table class="pi-horizontal-group pi-horizontal-group-no-labels">
+	
+	
+	<tbody>
+	<tr>
+	
+		<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing">Season 2</td>
+	
+		<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing">Episode 9</td>
+	
+	</tr>
+	</tbody>
+</table>
+</section>
+<figure class="pi-item pi-image">
+	<a href="http://vignette1.wikia.nocookie.net/gameofthrones/images/4/41/Wildfire_explosion.jpg/revision/latest?cb=20150328212702" class="image image-thumbnail"
+	   title="">
+		<img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/4/41/Wildfire_explosion.jpg/revision/latest/scale-to-width-down/270?cb=20150328212702" class="pi-image-thumbnail" alt="" width="270" height="152"
+		     data-image-key="Wildfire_explosion.jpg" data-image-name="Wildfire explosion.jpg"/>
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Air date</h3>
+	
+	<div class="pi-data-value pi-font">May 27, 2012</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Written by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/George_R.R._Martin" title="George R.R. Martin">George R.R. Martin</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Directed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Neil_Marshall" title="Neil Marshall">Neil Marshall</a></div>
+</div>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><a href="/wiki/Episode_Guide" title="Episode Guide" class="mw-redirect">Episode Guide</a></nav>
+<section class="pi-item pi-group pi-border-color"><table class="pi-horizontal-group">
+	
+	
+	<thead>
+		<tr>
+		
+			<th class="pi-horizontal-group-item pi-data-label pi-secondary-font pi-border-color pi-item-spacing">Previous</th>
+		
+			<th class="pi-horizontal-group-item pi-data-label pi-secondary-font pi-border-color pi-item-spacing">Next</th>
+		
+		</tr>
+	</thead>
+	
+	<tbody>
+	<tr>
+	
+		<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing">"<a href="/wiki/The_Prince_of_Winterfell" title="The Prince of Winterfell">The Prince of Winterfell</a>"</td>
+	
+		<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing">"<a href="/wiki/Valar_Morghulis" title="Valar Morghulis">Valar Morghulis</a>"</td>
+	
+	</tr>
+	</tbody>
+</table>
+</section></aside>
+
+<p><b>"Blackwater"</b> is the ninth episode of the <a href="/wiki/Season_2" title="Season 2">second season</a> of <i><a href="/wiki/Game_of_Thrones" title="Game of Thrones" class="mw-redirect">Game of Thrones</a></i>. It is the nineteenth episode of the series overall. It premiered on May 27, 2012. It was written by co-executive producer and writer of the novels <a href="/wiki/George_R.R._Martin" title="George R.R. Martin">George R.R. Martin</a> and directed by <a href="/wiki/Neil_Marshall" title="Neil Marshall">Neil Marshall</a>.
+</p>
+<nav id="toc" class="toc"><div id="toctitle"><h2>Contents</h2><span class="toctoggle">[<a href="#" class="internal" id="togglelink" data-show="show" data-hide="hide">show</a>]</span></div><ol></ol></nav>
+<h2><span class="mw-headline" id="Plot">Plot</span><span class="editsection"><a href="/wiki/Blackwater?action=edit&amp;section=1" title="Edit Plot section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<p>A massive battle rages for control of <a href="/wiki/King%27s_Landing" title="King's Landing">King's Landing</a> and the <a href="/wiki/Iron_Throne" title="Iron Throne">Iron Throne</a>.
+</p>
+
+
+
+
+
+<script>
+    if (typeof(Wikia.geo) !== 'undefined' && ['US'].indexOf(Wikia.geo.getCountryCode()) >= 0) {
+        document.write('<aside id="monetization-amazon_video-in_content" class="monetization-module amazon-video hide-for-edit in-content amazon-video-full" data-mon-type="amazon_video" data-mon-slot="in_content"><div class="affiliate" data-mon-pid="B007BVOEPI" data-mon-ptag="gameofthrones-blackwater-130814-3336-B007BVOEPI-piv-fl-npr-ic-f" data-mon-pname="Game of Thrones: Season 4"><div class="affiliate-header"><a class="product-thumb" target="_blank" href="http://www.amazon.com/gp/product/B007BVOEPI/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=gameofthrones-blackwater-130814-3336-B007BVOEPI-piv-fl-npr-ic-f"><img  src="http://ecx.images-amazon.com/images/I/51zb7bHVqhL._SX320_SY240_.jpg"></a></div><a class="product-name" target="_blank" href="http://www.amazon.com/gp/product/B007BVOEPI/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=gameofthrones-blackwater-130814-3336-B007BVOEPI-piv-fl-npr-ic-f"><span class="product-title">Game of Thrones: Season 4</span><span class="product-detail">Season 1</span><span class="rating-bar"><span class="rating" style="width: 90.0%"></span></span></a><div class="product-button non-prime"><a class="amazon-logo" target="_blank" href="http://www.amazon.com/gp/product/B007BVOEPI/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=gameofthrones-blackwater-130814-3336-B007BVOEPI-piv-fl-npr-ic-f"></a><a class="product-btn" target="_blank" href="http://www.amazon.com/gp/product/B007BVOEPI/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=gameofthrones-blackwater-130814-3336-B007BVOEPI-piv-fl-npr-ic-f"></a></div></div></aside>');
+    } else 
+
+
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['AU','CA','DE','GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write('<div id="monetization-adunit-in_content" class="monetization-module adunit hide-for-edit in-content" data-mon-type="adunit" data-mon-slot="in_content"><div class="ad-header">Advertisement</div><div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><ins class="adsbygoogle ad-responsive-ic" style="display:inline-block;" data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_ic_fss_ffv mon_hub_tv mon_sl_ic" data-ad-type="text" data-font-size="small"data-font-face="veranda" data-color-bg="#d7cbab" data-color-border="#d7cbab" data-color-link="#47518e" data-color-url="#47518e" data-color-text="#3a3a3a" ></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt></div></div>');
+}
+</script><h2><span class="mw-headline" id="Summary">Summary</span><span class="editsection"><a href="/wiki/Blackwater?action=edit&amp;section=2" title="Edit Summary section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<figure class="article-thumb tright show-info-icon" style="width: 180px"> 	<a href="http://vignette2.wikia.nocookie.net/gameofthrones/images/2/24/Bronn_singing.png/revision/latest?cb=20120528112401" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Bronn singing"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Bronn_singing.png" 	data-image-name="Bronn singing.png" 	 data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/2/24/Bronn_singing.png/revision/latest/scale-to-width-down/180?cb=20120528112401"  	 width="180"  	 height="101"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/2/24/Bronn_singing.png/revision/latest/scale-to-width-down/180?cb=20120528112401" 	 alt="Bronn singing"  	class="thumbimage " 	 	data-image-key="Bronn_singing.png" 	data-image-name="Bronn singing.png" 	 	 width="180"  	 height="101"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Bronn_singing.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Bronn singing with the Lannister soldiers</p> 		 	</figcaption> </figure>
+<figure class="article-thumb tright show-info-icon" style="width: 190px"> 	<a href="http://vignette4.wikia.nocookie.net/gameofthrones/images/6/6c/Bronn_2x09.png/revision/latest?cb=20120528180122" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Bronn 2x09"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Bronn_2x09.png" 	data-image-name="Bronn 2x09.png" 	 data-src="http://vignette4.wikia.nocookie.net/gameofthrones/images/6/6c/Bronn_2x09.png/revision/latest/scale-to-width-down/190?cb=20120528180122"  	 width="190"  	 height="105"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette4.wikia.nocookie.net/gameofthrones/images/6/6c/Bronn_2x09.png/revision/latest/scale-to-width-down/190?cb=20120528180122" 	 alt="Bronn 2x09"  	class="thumbimage " 	 	data-image-key="Bronn_2x09.png" 	data-image-name="Bronn 2x09.png" 	 	 width="190"  	 height="105"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Bronn_2x09.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Bronn fires the arrow that triggers the wildfire explosion.</p> 		 	</figcaption> </figure>
+<p><a href="/wiki/Tyrion_Lannister" title="Tyrion Lannister">Tyrion Lannister</a> leads the defense of <a href="/wiki/King%27s_Landing" title="King's Landing">King's Landing</a> against an assault by King <a href="/wiki/Stannis_Baratheon" title="Stannis Baratheon">Stannis Baratheon</a> in the <a href="/wiki/Battle_of_the_Blackwater" title="Battle of the Blackwater">Battle of the Blackwater</a>. He spends the night before the expected siege in bed with <a href="/wiki/Shae" title="Shae">Shae</a>, telling her she can still leave the city. Tyrion has <a href="/wiki/Varys" title="Varys">Varys</a> provide him with a map of the tunnel network beneath the city. Varys tells Tyrion that he is all that stands between them and defeat. Bronn drinks with the Lannister men and has a confrontation with the Hound, who is here first beginning to show the emotional and political fluctuations he will experience in the coming battle and which will shape his destiny for the rest of the series. Stannis plans a naval assault aiming to overcome the city's small defensive fleet and land his troops at the walls of the city near the <a href="/wiki/Mud_Gate" title="Mud Gate">Mud Gate</a>. From the battlements, <a href="/wiki/Joffrey_Baratheon" title="Joffrey Baratheon">Joffrey</a> berates Tyrion, demanding to know why his ships are not meeting Stannis's fleet. Tyrion has anticipated his strategy and does not field his fleet. Instead he sends a single ship filled with <a href="/wiki/Wildfire" title="Wildfire">Wildfire</a> into the heart of Stannis's fleet, leaking the volatile substance over the surface of the water. <a href="/wiki/Bronn" title="Bronn">Bronn has</a> been awaiting Tyrion's signal <span>outside the city on the shores of the bay, and when Tyrion tosses a torch</span> from the battlements, Bronn fires a flaming arrow triggering a massive, massive aquatic explosion. The ensuing conflagration devastates Stannis's fleet and destroys the ship of his high captain, <a href="/wiki/Davos_Seaworth" title="Davos Seaworth">Davos Seaworth</a>, as well as killing Davos's son, <a href="/wiki/Matthos_Seaworth" title="Matthos Seaworth">Matthos</a>.
+</p>
+<figure class="article-thumb tright show-info-icon" style="width: 180px"> 	<a href="http://vignette1.wikia.nocookie.net/gameofthrones/images/e/ea/Sandor_demoralised.jpg/revision/latest?cb=20120529040121" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Sandor demoralised"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Sandor_demoralised.jpg" 	data-image-name="Sandor demoralised.jpg" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/e/ea/Sandor_demoralised.jpg/revision/latest/scale-to-width-down/180?cb=20120529040121"  	 width="180"  	 height="101"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/e/ea/Sandor_demoralised.jpg/revision/latest/scale-to-width-down/180?cb=20120529040121" 	 alt="Sandor demoralised"  	class="thumbimage " 	 	data-image-key="Sandor_demoralised.jpg" 	data-image-name="Sandor demoralised.jpg" 	 	 width="180"  	 height="101"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Sandor_demoralised.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Sandor breaks down.</p> 		 	</figcaption> </figure>
+<p>Stannis responds by putting his men ashore inside row boats, landing further from the walls to avoid the still burning inner bay. With less protection for his troops he predicts that thousands will die. He leads the assault personally and is the first to reach the walls. Tyrion orders <a href="/wiki/Sandor_Clegane" title="Sandor Clegane">Sandor Clegane</a> to lead a sortie beyond the Mud Gate to repel the attackers. Sandor does as asked but is terrified by the fire and breaks down emotionally. Ser <a href="/wiki/Lancel_Lannister" title="Lancel Lannister" class="mw-redirect">Lancel Lannister</a> accompanies him and is wounded by an arrow. Bronn joins the fight in time to save the Hound's life. The Hound retreats after losing half of his men and refuses to go out again. He demands wine and walks away from the battle and his place in the Kingsguard, after saying in the presence of all, including the king, "Fuck the kings guard. Fuck the city. Fuck the king."
+</p><p>Queen Regent <a href="/wiki/Cersei_Lannister" title="Cersei Lannister">Cersei Lannister</a> offers protection to the ladies of the court in <a href="/wiki/Maegor%27s_Holdfast" title="Maegor's Holdfast">Maegor's Holdfast</a>. She had earlier obtained <a href="/wiki/Essence_of_Nightshade" title="Essence of Nightshade">Essence of Nightshade</a> (which is deadly unless taken in tiny amounts) from <a href="/wiki/Grand_Maester" title="Grand Maester">Grand Maester</a> <a href="/wiki/Pycelle" title="Pycelle">Pycelle</a> and keeps the headsman Ser <a href="/wiki/Ilyn_Payne" title="Ilyn Payne">Ilyn Payne</a> at her side at all times, preparing for the worst. She drinks wine heavily during the assault and seems, to simultaneously torment and mother her captive, <a href="/wiki/Sansa_Stark" title="Sansa Stark">Sansa Stark</a>, with a sort of cynical feminism involving dire descriptions of the rapes that will occur if the city falls. She also begins to question Shae, who seems to her perhaps an unlikely handmaiden. When Lancel comes to tell her that Stannis has reached the walls Cersei orders him to bring Joffrey back to the Red Keep, ignoring his protests that it would damage morale.
+</p>
+<figure class="article-thumb tright show-info-icon" style="width: 180px"> 	<a href="http://vignette2.wikia.nocookie.net/gameofthrones/images/2/2e/Tyrion_speech.jpg/revision/latest?cb=20120529080055" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Tyrion speech"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Tyrion_speech.jpg" 	data-image-name="Tyrion speech.jpg" 	 data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/2/2e/Tyrion_speech.jpg/revision/latest/scale-to-width-down/180?cb=20120529080055"  	 width="180"  	 height="101"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/2/2e/Tyrion_speech.jpg/revision/latest/scale-to-width-down/180?cb=20120529080055" 	 alt="Tyrion speech"  	class="thumbimage " 	 	data-image-key="Tyrion_speech.jpg" 	data-image-name="Tyrion speech.jpg" 	 	 width="180"  	 height="101"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Tyrion_speech.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Tyrion rallies the troops</p> 		 	</figcaption> </figure>
+<p>Joffrey willingly leaves the defensive line with Lancel and charges Ser <a href="/wiki/Mandon_Moore" title="Mandon Moore">Mandon Moore</a> and Ser <a href="/wiki/Boros_Blount" title="Boros Blount">Boros Blount</a> of the <a href="/wiki/Kingsguard" title="Kingsguard">Kingsguard</a> to fight in the King's name. The gold cloaks' morale is broken by his departure. Tyrion steels himself to lead a sortie of his own. He rallies his men by telling them to fight for their city, their homes and their women, if not for their king and utters his famous line, "Those are brave men are knocking at our door. Let's go kill them!" He leads his men through the tunnels beneath the city and is able to defeat Stannis's troops manning a battering ram at the Mud Gate. Tyrion is betrayed by Ser Mandon while fighting against a group of reinforcements. Mandon slashes Tyrion across the face with his sword. Before he can strike Tyrion again, Tyrion's squire <a href="/wiki/Podrick_Payne" title="Podrick Payne">Podrick Payne</a> kills Ser Mandon from behind with his spear. Tyrion, barely conscious and held by Podrick watches a battle that seems lost.
+</p>
+<figure class="article-thumb tright show-info-icon" style="width: 180px"> 	<a href="http://vignette2.wikia.nocookie.net/gameofthrones/images/d/d0/Lancel_shot_2x09.jpg/revision/latest?cb=20120529034541" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Lancel shot 2x09"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Lancel_shot_2x09.jpg" 	data-image-name="Lancel shot 2x09.jpg" 	 data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/d/d0/Lancel_shot_2x09.jpg/revision/latest/scale-to-width-down/180?cb=20120529034541"  	 width="180"  	 height="101"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/d/d0/Lancel_shot_2x09.jpg/revision/latest/scale-to-width-down/180?cb=20120529034541" 	 alt="Lancel shot 2x09"  	class="thumbimage " 	 	data-image-key="Lancel_shot_2x09.jpg" 	data-image-name="Lancel shot 2x09.jpg" 	 	 width="180"  	 height="101"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Lancel_shot_2x09.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Lancel wounded by arrow to shoulder</p> 		 	</figcaption> </figure>
+<figure class="article-thumb tright show-info-icon" style="width: 180px"> 	<a href="http://vignette1.wikia.nocookie.net/gameofthrones/images/b/bf/Cersei_and_Tommen_2x09.png/revision/latest?cb=20120528043148" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Cersei and Tommen 2x09"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Cersei_and_Tommen_2x09.png" 	data-image-name="Cersei and Tommen 2x09.png" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/b/bf/Cersei_and_Tommen_2x09.png/revision/latest/scale-to-width-down/180?cb=20120528043148"  	 width="180"  	 height="99"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/b/bf/Cersei_and_Tommen_2x09.png/revision/latest/scale-to-width-down/180?cb=20120528043148" 	 alt="Cersei and Tommen 2x09"  	class="thumbimage " 	 	data-image-key="Cersei_and_Tommen_2x09.png" 	data-image-name="Cersei and Tommen 2x09.png" 	 	 width="180"  	 height="99"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Cersei_and_Tommen_2x09.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Cersei and <a href="/wiki/Tommen_Baratheon" title="Tommen Baratheon">Tommen</a> on the Iron Throne as the battle rages.</p> 		 	</figcaption> </figure>
+<p>Lancel returns to Cersei to warn that they are defeated unless Joffrey returns. When Lancel tries to be firm with her, Cersei ignores his counsel, pushes him out of the way (deliberately causing him pain by hitting his injured side), and storms out. Sansa tries to keep up the morale of the other women, frightened by Cersei's sudden departure. Sansa leads them in singing a hymn. Cersei has taken <a href="/wiki/Tommen_Baratheon" title="Tommen Baratheon">Tommen</a> to the throne room. She sits with him on the <a href="/wiki/Iron_Throne" title="Iron Throne">Iron Throne</a>, and tells him a story about a young lion and how it did not need to fear other beasts of the forest, the wolf and the stag. As she does this, she readies the poison for herself and for her son. Shae tells Sansa to go to her chambers, lock herself in, and await Stannis, as he would not harm her, but Ser Ilyn might. Sansa finds the Hound waiting in her room. He offers to take her north to <a href="/wiki/Winterfell" title="Winterfell">Winterfell</a>, but she says she will be safe there when Stannis takes the throne. The Hound scares Sansa, but her tells her to look at him, saying that since the world is made up of killers like Stannis, her father, her brother Robb, and he himself, she better get used to looking at them. Though he promises to protect her, she is still too afraid of him to go with him. Cersei sits on the Iron Throne and prepares to poison Tommen in order to prevent him from being taken captive.
+</p>
+<figure class="article-thumb tright show-info-icon" style="width: 180px"> 	<a href="http://vignette1.wikia.nocookie.net/gameofthrones/images/7/7d/Tywin_and_Loras.jpg/revision/latest?cb=20120529080320" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Tywin and Loras"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Tywin_and_Loras.jpg" 	data-image-name="Tywin and Loras.jpg" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/7/7d/Tywin_and_Loras.jpg/revision/latest/scale-to-width-down/180?cb=20120529080320"  	 width="180"  	 height="101"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/7/7d/Tywin_and_Loras.jpg/revision/latest/scale-to-width-down/180?cb=20120529080320" 	 alt="Tywin and Loras"  	class="thumbimage " 	 	data-image-key="Tywin_and_Loras.jpg" 	data-image-name="Tywin and Loras.jpg" 	 	 width="180"  	 height="101"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Tywin_and_Loras.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Tywin and Loras lead their victorious forces into the throne room.</p> 		 	</figcaption> </figure>
+<p>The forces of <a href="/wiki/Tywin_Lannister" title="Tywin Lannister">Tywin Lannister</a> and, it is revealed, his new allies in <a href="/wiki/House_Tyrell" title="House Tyrell">House Tyrell</a> join the battle. Their cavalry charge is led by a warrior dressed in the armor of <a href="/wiki/Renly_Baratheon" title="Renly Baratheon">Renly Baratheon</a> and it decimates Stannis's army. The survivors flee to their ships. Stannis is dragged from the battle by his guards, screaming for his men to stand and fight. Tyrion collapses into unconsciousness as the battle turns in the Crown's favor. Tywin bursts into the throne room and announces their victory, just in time to stop Cersei from killing Tommen. Ser <a href="/wiki/Loras_Tyrell" title="Loras Tyrell">Loras Tyrell</a> reveals himself as the knight wearing Renly's armor.
+</p>
+<h2><span class="mw-headline" id="Recap">Recap</span><span class="editsection"><a href="/wiki/Blackwater?action=edit&amp;section=3" title="Edit Recap section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<dl><dd><i>Main: <a href="/wiki/Blackwater_recap" title="Blackwater recap">Blackwater recap</a></i>
+</dd></dl>
+<p>A detailed recap of the episode scene by scene.
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="editsection"><a href="/wiki/Blackwater?action=edit&amp;section=4" title="Edit Appearances section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<dl><dd><i>Main: <a href="/wiki/Blackwater/Appearances" title="Blackwater/Appearances">Blackwater/Appearances</a></i>
+</dd></dl>
+<h3><span class="mw-headline" id="First">First</span><span class="editsection"><a href="/wiki/Blackwater?action=edit&amp;section=5" title="Edit First section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h3>
+<ul><li>Ser <a href="/wiki/Boros_Blount" title="Boros Blount">Boros Blount</a> (first identified)
+</li><li>Ser <a href="/wiki/Imry_Florent" title="Imry Florent">Imry Florent</a>
+</li><li><a href="/wiki/Baratheon_officer" title="Baratheon officer">Baratheon Officer</a>
+</li></ul>
+<h3><span class="mw-headline" id="Deaths">Deaths</span><span class="editsection"><a href="/wiki/Blackwater?action=edit&amp;section=6" title="Edit Deaths section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h3>
+<ul><li><a href="/wiki/Matthos_Seaworth" title="Matthos Seaworth">Matthos Seaworth</a>
+</li><li>Ser <a href="/wiki/Mandon_Moore" title="Mandon Moore">Mandon Moore</a>
+</li><li><a href="/wiki/Baratheon_officer" title="Baratheon officer">Baratheon Officer</a>
+</li></ul>
+<h2><span class="mw-headline" id="Cast">Cast</span><span class="editsection"><a href="/wiki/Blackwater?action=edit&amp;section=7" title="Edit Cast section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<table class="" style="background-color:transparent; color:inherit; width:100%;">
+
+<tr>
+<td style="vertical-align: top; width:50%;">
+<p><b>Starring</b>
+</p>
+<ul><li><a href="/wiki/Peter_Dinklage" title="Peter Dinklage">Peter Dinklage</a> as <a href="/wiki/Tyrion_Lannister" title="Tyrion Lannister">Tyrion Lannister</a>
+</li><li><a href="/wiki/Lena_Headey" title="Lena Headey">Lena Headey</a> as Queen <a href="/wiki/Cersei_Lannister" title="Cersei Lannister">Cersei Lannister</a>
+</li><li><a href="/wiki/Charles_Dance" title="Charles Dance">Charles Dance</a> as Lord <a href="/wiki/Tywin_Lannister" title="Tywin Lannister">Tywin Lannister</a>
+</li><li><a href="/wiki/Liam_Cunningham" title="Liam Cunningham">Liam Cunningham</a> as Ser <a href="/wiki/Davos_Seaworth" title="Davos Seaworth">Davos Seaworth</a>
+</li><li><a href="/wiki/Jack_Gleeson" title="Jack Gleeson">Jack Gleeson</a> as King <a href="/wiki/Joffrey_Baratheon" title="Joffrey Baratheon">Joffrey Baratheon</a>
+</li><li><a href="/wiki/Sophie_Turner" title="Sophie Turner">Sophie Turner</a> as Princess <a href="/wiki/Sansa_Stark" title="Sansa Stark">Sansa Stark</a>
+</li><li><a href="/wiki/Rory_McCann" title="Rory McCann">Rory McCann</a> as <a href="/wiki/Sandor_Clegane" title="Sandor Clegane">Sandor Clegane</a>
+</li><li><a href="/wiki/Stephen_Dillane" title="Stephen Dillane">Stephen Dillane</a> as King <a href="/wiki/Stannis_Baratheon" title="Stannis Baratheon">Stannis Baratheon</a>
+</li><li><a href="/wiki/Jerome_Flynn" title="Jerome Flynn">Jerome Flynn</a> as <a href="/wiki/Bronn" title="Bronn">Bronn</a>
+</li><li><a href="/wiki/Conleth_Hill" title="Conleth Hill">Conleth Hill</a> as Lord <a href="/wiki/Varys" title="Varys">Varys</a>
+</li><li><a href="/wiki/Sibel_Kekilli" title="Sibel Kekilli">Sibel Kekilli</a> as <a href="/wiki/Shae" title="Shae">Shae</a>
+</li></ul>
+</td><td style="vertical-align: top; width:50%;">
+<p><b>Guest starring</b>
+</p>
+<ul><li><a href="/wiki/Roy_Dotrice" title="Roy Dotrice">Roy Dotrice</a> as Wisdom <a href="/wiki/Hallyne" title="Hallyne">Hallyne</a>
+</li><li><a href="/wiki/Julian_Glover" title="Julian Glover">Julian Glover</a> as Grand Maester <a href="/wiki/Pycelle" title="Pycelle">Pycelle</a>
+</li><li><a href="/wiki/Eugene_Simon" title="Eugene Simon">Eugene Simon</a> as Ser <a href="/wiki/Lancel_Lannister" title="Lancel Lannister" class="mw-redirect">Lancel Lannister</a>
+</li><li><a href="/wiki/Kerr_Logan" title="Kerr Logan">Kerr Logan</a> as <a href="/wiki/Matthos_Seaworth" title="Matthos Seaworth">Matthos Seaworth</a>
+</li><li><a href="/wiki/Finn_Jones" title="Finn Jones">Finn Jones</a> as Ser <a href="/wiki/Loras_Tyrell" title="Loras Tyrell">Loras Tyrell</a>
+</li><li><a href="/wiki/Sahara_Knite" title="Sahara Knite">Sahara Knite</a> as <a href="/wiki/Armeca" title="Armeca">Armeca</a>
+</li><li><a href="/wiki/Tony_Way" title="Tony Way">Tony Way</a> as <a href="/wiki/Dontos_Hollard" title="Dontos Hollard">Dontos Hollard</a>
+</li><li><a href="/wiki/Wilko_Johnson" title="Wilko Johnson">Wilko Johnson</a> as Ser <a href="/wiki/Ilyn_Payne" title="Ilyn Payne">Ilyn Payne</a>
+</li><li><a href="/wiki/Stephen_Swift" title="Stephen Swift">Stephen Swift</a> as <a href="/wiki/Singing_Lannister_soldier" title="Singing Lannister soldier">Singing Lannister soldier</a>
+</li><li><a href="/wiki/Callum_Wharry" title="Callum Wharry">Callum Wharry</a> as <a href="/wiki/Tommen_Baratheon" title="Tommen Baratheon">Tommen Baratheon</a>
+</li><li><a href="/wiki/Daniel_Portman" title="Daniel Portman">Daniel Portman</a> as <a href="/wiki/Podrick_Payne" title="Podrick Payne">Podrick Payne</a>
+</li><li><a href="/wiki/Gordan_Mahon" title="Gordan Mahon" class="mw-redirect">Gordan Mahon</a> as Ser <a href="/wiki/Imry_Florent" title="Imry Florent">Imry Florent</a>
+</li><li><a href="/wiki/James_Doran" title="James Doran">James Doran</a> as Ser <a href="/wiki/Mandon_Moore" title="Mandon Moore">Mandon Moore</a>
+</li><li><a href="/wiki/Kieran_Cunningham" title="Kieran Cunningham">Kieran Cunningham</a> as a <a href="/wiki/Baratheon_officer" title="Baratheon officer">Baratheon officer</a>
+</li><li><a href="/wiki/Michael_Grennell" title="Michael Grennell">Michael Grennell</a> as the <a href="/wiki/Captain_of_the_Archers" title="Captain of the Archers">Captain of the Archers</a>
+</li></ul>
+<p><b>Uncredited</b>
+</p>
+<ul><li><a href="/wiki/Hugh_Irvine" title="Hugh Irvine">Hugh Irvine</a> as Lannister Archer
+</li><li><a href="/wiki/Graeme_Peacock" title="Graeme Peacock">Graeme Peacock</a> as Market Trader
+</li><li><a href="/wiki/Darran_Watt" title="Darran Watt">Darran Watt</a> as Soldier
+</li><li>Unknown as Ser <a href="/wiki/Boros_Blount" title="Boros Blount">Boros Blount</a>
+</li></ul>
+</td></tr></table>
+<h3><span class="mw-headline" id="Cast_notes">Cast notes</span><span class="editsection"><a href="/wiki/Blackwater?action=edit&amp;section=8" title="Edit Cast notes section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h3>
+<ul><li>11 of 25 cast members for the second season appear in this episode.
+</li><li>Starring cast members <a href="/wiki/Alfie_Allen" title="Alfie Allen">Alfie Allen</a> (<a href="/wiki/Theon_Greyjoy" title="Theon Greyjoy">Theon Greyjoy</a>), <a href="/wiki/John_Bradley" title="John Bradley" class="mw-redirect">John Bradley</a> (<a href="/wiki/Samwell_Tarly" title="Samwell Tarly">Samwell Tarly</a>), <a href="/wiki/Emilia_Clarke" title="Emilia Clarke">Emilia Clarke</a> (<a href="/wiki/Daenerys_Targaryen" title="Daenerys Targaryen">Daenerys Targaryen</a>), <a href="/wiki/James_Cosmo" title="James Cosmo">James Cosmo</a> (<a href="/wiki/Jeor_Mormont" title="Jeor Mormont">Jeor Mormont</a>), <a href="/wiki/Nikolaj_Coster-Waldau" title="Nikolaj Coster-Waldau">Nikolaj Coster-Waldau</a> (<a href="/wiki/Jaime_Lannister" title="Jaime Lannister">Jaime Lannister</a>), <a href="/wiki/Natalie_Dormer" title="Natalie Dormer">Natalie Dormer</a> (<a href="/wiki/Margaery_Tyrell" title="Margaery Tyrell">Margaery Tyrell</a>), <a href="/wiki/Michelle_Fairley" title="Michelle Fairley">Michelle Fairley</a> (<a href="/wiki/Catelyn_Stark" title="Catelyn Stark">Catelyn Stark</a>), <a href="/wiki/Aidan_Gillen" title="Aidan Gillen">Aidan Gillen</a> (<a href="/wiki/Petyr_Baelish" title="Petyr Baelish">Petyr Baelish</a>), <a href="/wiki/Iain_Glen" title="Iain Glen">Iain Glen</a> (<a href="/wiki/Jorah_Mormont" title="Jorah Mormont">Jorah Mormont</a>), <a href="/wiki/Kit_Harington" title="Kit Harington">Kit Harington</a> (<a href="/wiki/Jon_Snow" title="Jon Snow">Jon Snow</a>), <a href="/wiki/Isaac_Hempstead-Wright" title="Isaac Hempstead-Wright">Isaac Hempstead-Wright</a> (<a href="/wiki/Bran_Stark" title="Bran Stark">Bran Stark</a>), <a href="/wiki/Richard_Madden" title="Richard Madden">Richard Madden</a> (<a href="/wiki/Robb_Stark" title="Robb Stark">Robb Stark</a>), <a href="/wiki/Carice_van_Houten" title="Carice van Houten">Carice van Houten</a> (<a href="/wiki/Melisandre" title="Melisandre">Melisandre</a>), and <a href="/wiki/Maisie_Williams" title="Maisie Williams">Maisie Williams</a> (<a href="/wiki/Arya_Stark" title="Arya Stark">Arya Stark</a>), and are not credited and do not appear in this episode.
+</li><li><a href="/wiki/Rory_McCann" title="Rory McCann">Rory McCann</a> is credited ahead of <a href="/wiki/Sibel_Kekilli" title="Sibel Kekilli">Sibel Kekilli</a> when he was credited after her when they last appeared together in "<a href="/wiki/The_Prince_of_Winterfell" title="The Prince of Winterfell">The Prince of Winterfell</a>."
+</li><li><a href="/wiki/Rory_McCann" title="Rory McCann">Rory McCann</a> is credited ahead of <a href="/wiki/Stephen_Dillane" title="Stephen Dillane">Stephen Dillane</a> and <a href="/wiki/Jerome_Flynn" title="Jerome Flynn">Jerome Flynn</a> when he was credited after them when they last appeared together in "<a href="/wiki/Garden_of_Bones" title="Garden of Bones">Garden of Bones</a>."
+</li><li><a href="/wiki/Jack_Gleeson" title="Jack Gleeson">Jack Gleeson</a> is credited ahead of <a href="/wiki/Sophie_Turner" title="Sophie Turner">Sophie Turner</a> when he was credited after her when they last appeared together in "<a href="/wiki/The_Old_Gods_and_the_New" title="The Old Gods and the New">The Old Gods and the New</a>."
+</li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="editsection"><a href="/wiki/Blackwater?action=edit&amp;section=9" title="Edit Notes section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<figure class="article-thumb tright show-info-icon" style="width: 200px"> 	<a href="http://vignette2.wikia.nocookie.net/gameofthrones/images/5/5f/GoT_Battle_of_Blackwater_Bay.jpg/revision/latest?cb=20120521232830" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="GoT Battle of Blackwater Bay"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="GoT_Battle_of_Blackwater_Bay.jpg" 	data-image-name="GoT Battle of Blackwater Bay.jpg" 	 data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/5/5f/GoT_Battle_of_Blackwater_Bay.jpg/revision/latest/scale-to-width-down/200?cb=20120521232830"  	 width="200"  	 height="296"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/5/5f/GoT_Battle_of_Blackwater_Bay.jpg/revision/latest/scale-to-width-down/200?cb=20120521232830" 	 alt="GoT Battle of Blackwater Bay"  	class="thumbimage " 	 	data-image-key="GoT_Battle_of_Blackwater_Bay.jpg" 	data-image-name="GoT Battle of Blackwater Bay.jpg" 	 	 width="200"  	 height="296"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:GoT_Battle_of_Blackwater_Bay.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">A promotional poster released by HBO to especially promote this episode.</p> 		 	</figcaption> </figure>
+<ul><li>The episode is named after the <a href="/wiki/Blackwater_Rush" title="Blackwater Rush">Blackwater Rush</a>. The <a href="/wiki/Battle_of_the_Blackwater" title="Battle of the Blackwater">battle</a> takes place where the Blackwater Rush pours its waters into <a href="/wiki/Blackwater_Bay" title="Blackwater Bay">Blackwater Bay</a>.
+</li><li>This is the second episode of the series written by <a href="/wiki/George_R.R._Martin" title="George R.R. Martin">George R.R. Martin</a>, the writer of the novels, following on from "<a href="/wiki/The_Pointy_End" title="The Pointy End">The Pointy End</a>" in the <a href="/wiki/Season_1" title="Season 1">first season</a>. It was also the first episode of the <a href="/wiki/Season_2" title="Season 2">second season</a> to be named, with Martin revealing the name "Blackwater" in a blog post on June 1, 2011, a year before broadcasting.<sup id="cite_ref-0" class="reference"><a href="#cite_note-0">[1]</a></sup>
+</li><li>George R.R. Martin especially announced on his blog that director <a href="/wiki/Neil_Marshall" title="Neil Marshall">Neil Marshall</a> would be helming this episode, noting that he was a fan of Marshall's feature film work, particularly the 2005 horror film <i>The Descent</i>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[2]</a></sup>
+</li><li>It was reported that co-producer Vince Gerardis had said that the titular and iconic Battle of the Blackwater will take up 16 minutes of the finished episode. However, this was later corrected to a general statement that it takes up a notable portion of the episode and is impressive, but likely not as impressive as some fans would like it to be.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[3]</a></sup>
+</li><li>Producers David Benioff and D.B. Weiss were disappointed at not being able to film the large-scale <a href="/wiki/Battle_of_the_Green_Fork" title="Battle of the Green Fork">Battle of the Green Fork</a> in Season 1, so always planned to shoot the Battle of the Blackwater. At one stage budgetary restrictions made it look like it would not be possible and the battle would have to take place off-screen, but the producers were able to convince HBO to provide a larger budget for the episode.<sup id="cite_ref-EW_3-0" class="reference"><a href="#cite_note-EW-3">[4]</a></sup>
+</li><li>Despite the larger budget and a creative decision to move the battle to the night, there was still not enough time or money to film the battle as depicted in the books. George R.R. Martin was aware of this and pared the battle down significantly in his script. However, it still retained several elements that the producers then had to remove to make the budget work.<sup id="cite_ref-EW_3-1" class="reference"><a href="#cite_note-EW-3">[4]</a></sup>
+</li><li>The original director for the episode pulled out at short notice. Neil Marshall was a last-minute replacement, although the producers were familiar with his feature work. Marshall ended up adding more elements and sequences to the battle than the producers had envisioned after the script rewrites.<sup id="cite_ref-EW_3-2" class="reference"><a href="#cite_note-EW-3">[4]</a></sup> Marshall has not read the books, but marathoned Season 1 for two weeks prior to the beginning of the month-long filming of the episode. According to Marshall, none of the specific instances of gore during the battle scenes were specifically written into the script (The Hound cutting a man in half, Stannis cutting the top of a man's head off), but were improvisations he was left to develop on his own.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[5]</a></sup>
+</li><li>This episode had the largest budget and largest number of visual effects of any episode of <i>Game of Thrones ​</i>​until the end of the fourth season with the episode <a href="/wiki/The_Watchers_on_the_Wall" title="The Watchers on the Wall">The Watchers on the Wall</a>, which is the current most expensive episode.<sup id="cite_ref-EW_3-3" class="reference"><a href="#cite_note-EW-3">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[6]</a></sup>
+</li><li>The song playing over the end credits is "<a href="/wiki/The_Rains_of_Castamere_(song)" title="The Rains of Castamere (song)">The Rains of Castamere</a>" performed by The National.
+</li><li>Jerome Flynn, who plays Bronn, sings "The Rains of Castamere" in this episode. Flynn had three British #1 singles in the 1990s as one half of the pop duo <a href="http://en.wikipedia.org/wiki/Robson_and_Jerome" class="extiw exitstitial" title="wikipedia:Robson and Jerome">Robson and Jerome</a>.
+</li><li>George R.R. Martin's original script featured both the chain and also large numbers of horses in the battle. The former was removed for budgetary reasons, the latter for pacing<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[7]</a></sup>.
+<ul><li>Actually, Martin specifies in the Blu-ray commentary for this episode that the chain was never included even in the earliest drafts he wrote of this episode. Producers Benioff &amp; Weiss told him right from the start that given all of the other expenses of the Battle of the Blackwater scenes (which had already broken their budget), they knew going in that the chain sequence was simply beyond their available price limit. Martin did include in the earliest draft a sequence from the books featuring three great trebuchets in the city known as the Three Whores, which Joffrey uses to launch Stannis-loyalists known as the Antler Men over the walls at the approaching army (they're called the "Antler Men" because in mockery Joffrey ordered his soldiers to physically nail deer antlers onto the men's heads, then shoot them over the walls as they're bleeding but still alive). Ultimately, the Three Whores and the Antler Men also had to be cut for budgetary reasons.
+</li></ul>
+</li><li>Martin also said in the Blu-ray commentary that Benioff and Weiss rewrote the dialogue in the final scene with Cersei and Tommen sitting on the Iron Throne, and he likes their revised version much more than what he had originally written.
+</li><li>Initially HBO asked the producers if they needed an extra $500,000 to film the battle. Benioff and Weiss ended up asking for $2,500,000, and got slightly more than $2,000,000. The conference call to discuss this was described as "intense"<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[8]</a></sup>.
+</li><li>The original director left due to his father being ill. Benioff and Weiss drafted in Neil Marshall at short notice: they asked him on a Saturday morning to start prep on the Monday. Marshall agreed, watching the entire first season back-to-back on the Sunday before getting on a plane. Benioff thought of Marshall due to his wife's fear of Marshall's movie, <i><a href="http://en.wikipedia.org/wiki/The_Descent_(film)" class="extiw exitstitial" title="wikipedia:The Descent (film)">The Descent</a></i><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[9]</a></sup>.
+</li><li>Marshall had a week and a half of prep before the start of shooting. Marshall was puzzled by the script, in which Stannis disappears once the fighting at the wall starts. The entire sequence of Stannis climbing the wall, fighting off the defenders and watching his army's defeat before being dragged from the field was added by Marshall<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[10]</a></sup>.
+</li><li>According to Martin's Blu-ray commentary, he didn't write the scene at the tavern before the battle between Bronn and Sandor Clegane. He enjoys this scene, but it was written by Benioff and Weiss.
+</li><li>The scene where Cersei prepares to poison Tommen was inspired by <a href="http://en.wikipedia.org/wiki/Magda_Goebbels" class="extiw exitstitial" title="wikipedia:Magda Goebbels">Magda Goebbels</a> poisoning her own children before committing suicide during the fall of Berlin in World War II<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[11]</a></sup>.
+</li><li>Martin in the Blu-ray commentary for this episode, as well as Benioff and Weiss in their Blu-ray commentary two episodes ago in "<a href="/wiki/A_Man_Without_Honor" title="A Man Without Honor">A Man Without Honor</a>", both state that despite all of Sansa Stark's scenes in Season 2 involving severe beatings, rapes, and threats of violence, easily the scene actress <a href="/wiki/Sophie_Turner" title="Sophie Turner">Sophie Turner</a> was most frightened of filming was the brief moment when she has to sing in front of everyone in this episode. All agreed that Turner actually has a good singing voice, and she really only sings three lines from the hymn <i><a href="/wiki/Gentle_Mother,_Font_of_Mercy" title="Gentle Mother, Font of Mercy">Gentle Mother, Font of Mercy</a></i>, but she was still quite terrified. Benioff and Weiss speculate that this is because while an attempted rape scene might seem scary to viewers, the actors rehearse the scene in so many alternate takes that they are no longer surprised by what is happening. In contrast, no matter how many takes are filmed, there is always the danger that you might perform badly while singing.
+</li><li>Benioff claimed that the battle at the end of the fourth season, now known as the <a href="/wiki/Battle_of_Castle_Black" title="Battle of Castle Black">Battle of Castle Black</a>, would dwarf the Battle of the Blackwater. He envisaged more complex negotiations to secure the budget for it<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[12]</a></sup>.
+</li><li>Cersei notes that <a href="/wiki/Shae" title="Shae">Shae</a> is from the Free City of <a href="/wiki/Lorath" title="Lorath">Lorath</a>, as she recognizes her accent from a Lorathi handmaiden she used to have. In the books, Shae isn't actually from the Free Cities at all, she's just a camp follower of the Lannister army and her backstory is never gone into in detail, but she is from Westeros. The TV producers stated that they changed it so that when she is introduced in Season 1, Shae is stated to be "from the Free Cities" (they hadn't settled on which one yet) because they enjoyed the audition of actress Sibel Kekilli, but wanted to have some explanation for why she speaks with a German accent. What's curious about this is that five novels into the series, no named characters, save from <a href="/wiki/Jaqen_H%27ghar" title="Jaqen H'ghar">Jaqen H'ghar</a>, whose origins are unknown, come from Lorath and very little is said about it, due to its relative lack of importance. Identifying Shae as Lorathi, however, also serves to explain Jaqen's similar accent.
+</li><li>The episode won two <a href="http://en.wikipedia.org/wiki/Creative_Arts_Emmy_Award" class="extiw exitstitial" title="wikipedia:Creative Arts Emmy Award">Creative Arts Emmy Awards</a>, for Sound Mixing and Sound Editing, in 2012.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[13]</a></sup> It went on to win the prestigious 2013 Hugo Award for Best Dramatic Presentation, Short Form.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[14]</a></sup> Previously, <a href="/wiki/Season_1" title="Season 1">Season 1</a> as a whole won the 2012 Hugo Award for Best Dramatic Presentation, Long Form, but no individual episode was nominated for Short Form. Conversely, <a href="/wiki/Season_2" title="Season 2">Season 2</a> was not nominated for Long Form at all, but "Blackwater" itself was nominated and won for Short Form, as the climax episode of the season. <i>Game of Thrones</i> has often not had hyped "season finales", but had the climax of the season in the second to last episode: in the books, several chapters usually follow the climax as an epilogue to set up the next book. Thus the ninth episode of each of the first three seasons is typically the climax of that season's storyline.
+</li><li>Dinklage deviated from the script when Tyrion says "I'll lead the attack", ad-libbing that he says it under his breath first, in a moment of surprise and realization.  As D.B. Weiss said, "I think that that choice as such a smart choice.  You can see the look of shock on his face that he's actually made this decision...it's at the crux of the question: Is Tyrion surprised by his own actions?"<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[15]</a></sup>
+</li></ul>
+<h2><span class="mw-headline" id="In_the_books">In the books</span><span class="editsection"><a href="/wiki/Blackwater?action=edit&amp;section=10" title="Edit In the books section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<dl><dd> <i>See: <a href="/wiki/Differences_between_books_and_TV_series_-_Season_2#Blackwater" title="Differences between books and TV series - Season 2">Differences between books and TV series - Season 2#Blackwater</a> </i>
+</dd></dl>
+<ul><li> The episode is adapted from the following chapters of <i>A Clash of Kings</i>:
+<ul><li> Chapter 57, Sansa V: Sansa talks with Tyrion; Joffrey then forces Sansa to kiss his sword immediately before the battle. She takes refuge with the women of the court in Maegor's Holdfast. Sansa and Cersei talks about why Ser Ilyn is present.
+</li><li> Chapter 58, Davos III: Davos sails towards King's Landing with the fleet behind him, their drums sounding the call to arms. The Wildfire explosion throws Davos overboard.
+</li><li> Chapter 59, Tyrion XIII: Tyrion sees the destructive power of his Wildfire. The Hound flees the battle. Tyrion decides to lead a counterattack.
+</li><li> Chapter 60, Sansa VI: Sansa and Cersei are talking when Ser Mandon Moore announces the capture of some traitors. Cersei commands Lancel to fetch Joffrey back to his chambers. She reveals that she lied about Ser Ilyn and says that he is there to ensure that Stannis will not take them alive.
+</li><li> Chapter 61, Tyrion XIV: Tyrion is attacked by Ser Mandon Moore in the midst of the battle. He is rescued by Podrick and passes out in the squire's arms. Stannis scales the castle walls.
+</li><li> Chapter 62, Sansa VII: Lancel tells Cersei that their troops are routing. She ignores his pleas to return Joffrey to the front and storms out of Maegor's Holdfast. Her guests panic and Sansa is left to calm them down. Sansa returns to her chamber where she is found by the Hound. He tells her that he is leaving.
+</li></ul>
+</li></ul>
+<h2><span class="mw-headline" id="Memorable_quotes">Memorable quotes</span><span class="editsection"><a href="/wiki/Blackwater?action=edit&amp;section=11" title="Edit Memorable quotes section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<div class="quote">
+<dl><dd><span><b>Joffrey Baratheon</b>: "<i>Dog, I command you to go back out there and fight!</i>"
+</dd><dd><b>Tyrion Lannister</b>: "<i>You're Kingsguard, Clegane. We must beat them back, or they're going to take this city! Your King's city!</i>"
+</dd><dd><b>Sandor Clegane</b>: "<i>Fuck the Kingsguard. Fuck the city. Fuck the king.</i>"</span>
+</dd><dd>&#8212; <a href="/wiki/Sandor_Clegane" title="Sandor Clegane">Sandor Clegane</a> forsakes his vows and leaves the battle.<sup class="noprint"><strong class="selflink">[src]</strong></sup>
+</dd></dl>
+</div>
+<div class="quote">
+<dl><dd><span title="Source: Blackwater">"<i>Any man dies with a clean sword, I'll rape his fucking corpse!</i>"</span>
+</dd><dd>&#8213;Sandor Clegane<span class="noprint"></span></div>
+</dd></dl>
+<div class="quote">
+<dl><dd><span title="Source: Blackwater">"<i>The gods have no mercy, that's why they're gods.</i>"</span>
+</dd><dd>&#8213;<a href="/wiki/Cersei_Lannister" title="Cersei Lannister">Cersei Lannister</a><span class="noprint"></span></div>
+</dd></dl>
+<div class="quote">
+<dl><dd><span title="Source: Blackwater">"<i>Tears aren't a woman's only weapon. The best one's between your legs.</i>"</span>
+</dd><dd>&#8213;Cersei Lannister<span class="noprint"></span></div>
+</dd></dl>
+<div class="quote">
+<dl><dd><span title="Source: Blackwater">"<i>Those are brave men knocking at our door, let's go kill them!</i>"</span>
+</dd><dd>&#8213;<a href="/wiki/Tyrion_Lannister" title="Tyrion Lannister">Tyrion Lannister</a><span class="noprint"></span></div>
+</dd></dl>
+<div class="quote">
+<dl><dd><span title="Source: Blackwater">"<i>Someone bring me a drink. Fuck the water, bring me wine.</i>"</span>
+</dd><dd>&#8213;Sandor Clegane<span class="noprint"></span></div>
+</dd></dl>
+<div class="quote">
+<dl><dd><span title="Source: Blackwater">"<i>The worst ones always live.</i>"</span>
+</dd><dd>&#8213;<a href="/wiki/Sansa_Stark" title="Sansa Stark">Sansa Stark</a> regarding <a href="/wiki/Joffrey_Baratheon" title="Joffrey Baratheon">Joffrey Baratheon</a><span class="noprint"></span></div>
+</dd></dl>
+<div class="quote">
+<dl><dd><span title="Source: Blackwater">"<i>I'm entirely sure you're entirely sure what I'm suggesting.</i>"</span>
+</dd><dd>&#8213;Tyrion Lannister to <a href="/wiki/Varys" title="Varys">Varys</a><span class="noprint"></span></div>
+</dd></dl>
+<div class="quote">
+<dl><dd><span title="Source: Blackwater">"<i>That would make me the quarter man, and that just does not have the same ring to it.</i>"</span>
+</dd><dd>&#8213;Tyrion Lannister after Joffrey Baratheon threatens to have him chopped in half.<span class="noprint"></span></div> 
+</dd></dl>
+<div class="quote">
+<dl><dd><span title="Source: Blackwater">"<i>Don't feel sorry for him, he'll be half-way up your ass before the night's through.</i>"</span>
+</dd><dd>&#8213;Bronn to Armeca, referring to his nose.<span class="noprint"></span></div>
+</dd></dl>
+<div class="quote">
+<dl><dd><span title="Source: Blackwater">"<i>Come with me and take this city!</i>"</span>
+</dd><dd>&#8213;<a href="/wiki/Stannis_Baratheon" title="Stannis Baratheon">Stannis Baratheon</a><span class="noprint"></span></div>
+</dd></dl>
+<h2><span class="mw-headline" id="Marketing">Marketing</span><span class="editsection"><a href="/wiki/Blackwater?action=edit&amp;section=12" title="Edit Marketing section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<h3><span class="mw-headline" id="Promotional_images">Promotional images</span><span class="editsection"><a href="/wiki/Blackwater?action=edit&amp;section=13" title="Edit Promotional images section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h3>
+<div id="gallery-0" hash="42ecd2aaa6daac6de34ab7bb95528d68" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-small wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium"><div class="wikia-gallery-row"><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Cersei_2x09-jpg" style="position: relative; height:185px; width:123px;"><a class="image lightbox" href="/wiki/File:Cersei_2x09.jpg" title="Cersei 2x09.jpg (56 KB)" style="height:185px; width:123px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/gameofthrones/images/2/21/Cersei_2x09.jpg/revision/latest/scale-to-width-down/123?cb=20120511155414" title="Cersei 2x09.jpg (56 KB)" class="thumbimage" alt="Cersei 2x09" data-image-name="Cersei 2x09.jpg" data-image-key="Cersei_2x09.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Cersei 2x09.jpg (56 KB)" class="thumbimage lzy lzyPlcHld" alt="Cersei 2x09" data-image-name="Cersei 2x09.jpg" data-image-key="Cersei_2x09.jpg" data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/2/21/Cersei_2x09.jpg/revision/latest/scale-to-width-down/123?cb=20120511155414" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">A promotional image of Cersei in "Blackwater."</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Davos_Blackwater_Promo-jpg" style="position: relative; height:185px; width:123px;"><a class="image lightbox" href="/wiki/File:Davos_Blackwater_Promo.jpg" title="Davos Blackwater Promo.jpg (64 KB)" style="height:185px; width:123px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/gameofthrones/images/9/91/Davos_Blackwater_Promo.jpg/revision/latest/scale-to-width-down/123?cb=20120529033455" title="Davos Blackwater Promo.jpg (64 KB)" class="thumbimage" alt="Davos Blackwater Promo" data-image-name="Davos Blackwater Promo.jpg" data-image-key="Davos_Blackwater_Promo.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Davos Blackwater Promo.jpg (64 KB)" class="thumbimage lzy lzyPlcHld" alt="Davos Blackwater Promo" data-image-name="Davos Blackwater Promo.jpg" data-image-key="Davos_Blackwater_Promo.jpg" data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/9/91/Davos_Blackwater_Promo.jpg/revision/latest/scale-to-width-down/123?cb=20120529033455" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">A promotional image of Davos in "Blackwater."</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Joffrey_Blackwater_Promo-jpg" style="position: relative; height:185px; width:123px;"><a class="image lightbox" href="/wiki/File:Joffrey_Blackwater_Promo.jpg" title="Joffrey Blackwater Promo.jpg (69 KB)" style="height:185px; width:123px;"><noscript><img style="" src="http://vignette4.wikia.nocookie.net/gameofthrones/images/b/bd/Joffrey_Blackwater_Promo.jpg/revision/latest/scale-to-width-down/123?cb=20120529033515" title="Joffrey Blackwater Promo.jpg (69 KB)" class="thumbimage" alt="Joffrey Blackwater Promo" data-image-name="Joffrey Blackwater Promo.jpg" data-image-key="Joffrey_Blackwater_Promo.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Joffrey Blackwater Promo.jpg (69 KB)" class="thumbimage lzy lzyPlcHld" alt="Joffrey Blackwater Promo" data-image-name="Joffrey Blackwater Promo.jpg" data-image-key="Joffrey_Blackwater_Promo.jpg" data-src="http://vignette4.wikia.nocookie.net/gameofthrones/images/b/bd/Joffrey_Blackwater_Promo.jpg/revision/latest/scale-to-width-down/123?cb=20120529033515" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">A promotional image of Joffrey in "Blackwater."</div></div></div><div class="wikia-gallery-row"><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Sansa_Blackwater_Promo-jpg" style="position: relative; height:185px; width:123px;"><a class="image lightbox" href="/wiki/File:Sansa_Blackwater_Promo.jpg" title="Sansa Blackwater Promo.jpg (71 KB)" style="height:185px; width:123px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/gameofthrones/images/6/65/Sansa_Blackwater_Promo.jpg/revision/latest/scale-to-width-down/123?cb=20120529033534" title="Sansa Blackwater Promo.jpg (71 KB)" class="thumbimage" alt="Sansa Blackwater Promo" data-image-name="Sansa Blackwater Promo.jpg" data-image-key="Sansa_Blackwater_Promo.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Sansa Blackwater Promo.jpg (71 KB)" class="thumbimage lzy lzyPlcHld" alt="Sansa Blackwater Promo" data-image-name="Sansa Blackwater Promo.jpg" data-image-key="Sansa_Blackwater_Promo.jpg" data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/6/65/Sansa_Blackwater_Promo.jpg/revision/latest/scale-to-width-down/123?cb=20120529033534" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">A promotional image of Sansa in "Blackwater."</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Cersei_and_Tommen_Blackwater_Promo-jpg" style="position: relative; height:185px; width:123px;"><a class="image lightbox" href="/wiki/File:Cersei_and_Tommen_Blackwater_Promo.jpg" title="Cersei and Tommen Blackwater Promo.jpg (49 KB)" style="height:185px; width:123px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/gameofthrones/images/5/5c/Cersei_and_Tommen_Blackwater_Promo.jpg/revision/latest/scale-to-width-down/123?cb=20120529033552" title="Cersei and Tommen Blackwater Promo.jpg (49 KB)" class="thumbimage" alt="Cersei and Tommen Blackwater Promo" data-image-name="Cersei and Tommen Blackwater Promo.jpg" data-image-key="Cersei_and_Tommen_Blackwater_Promo.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Cersei and Tommen Blackwater Promo.jpg (49 KB)" class="thumbimage lzy lzyPlcHld" alt="Cersei and Tommen Blackwater Promo" data-image-name="Cersei and Tommen Blackwater Promo.jpg" data-image-key="Cersei_and_Tommen_Blackwater_Promo.jpg" data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/5/5c/Cersei_and_Tommen_Blackwater_Promo.jpg/revision/latest/scale-to-width-down/123?cb=20120529033552" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">A promotional image of Cersei and Tommen in "Blackwater."</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Stannis_Blackwater_Promo-jpg" style="position: relative; height:123px; width:185px; top:31px;"><a class="image lightbox" href="/wiki/File:Stannis_Blackwater_Promo.jpg" title="Stannis Blackwater Promo.jpg (84 KB)" style="height:123px; width:185px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/gameofthrones/images/4/41/Stannis_Blackwater_Promo.jpg/revision/latest/scale-to-width-down/185?cb=20120529033611" title="Stannis Blackwater Promo.jpg (84 KB)" class="thumbimage" alt="Stannis Blackwater Promo" data-image-name="Stannis Blackwater Promo.jpg" data-image-key="Stannis_Blackwater_Promo.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Stannis Blackwater Promo.jpg (84 KB)" class="thumbimage lzy lzyPlcHld" alt="Stannis Blackwater Promo" data-image-name="Stannis Blackwater Promo.jpg" data-image-key="Stannis_Blackwater_Promo.jpg" data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/4/41/Stannis_Blackwater_Promo.jpg/revision/latest/scale-to-width-down/185?cb=20120529033611" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">A promotional image of Stannis in "Blackwater."</div></div></div><div class="wikia-gallery-row"><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Tyrion_speech_2x09-jpg" style="position: relative; height:104px; width:185px; top:40.5px;"><a class="image lightbox" href="/wiki/File:Tyrion_speech_2x09.jpg" title="Tyrion speech 2x09.jpg (32 KB)" style="height:104px; width:185px;"><noscript><img style="" src="http://vignette3.wikia.nocookie.net/gameofthrones/images/e/ef/Tyrion_speech_2x09.jpg/revision/latest/scale-to-width-down/185?cb=20120528181141" title="Tyrion speech 2x09.jpg (32 KB)" class="thumbimage" alt="Tyrion speech 2x09" data-image-name="Tyrion speech 2x09.jpg" data-image-key="Tyrion_speech_2x09.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Tyrion speech 2x09.jpg (32 KB)" class="thumbimage lzy lzyPlcHld" alt="Tyrion speech 2x09" data-image-name="Tyrion speech 2x09.jpg" data-image-key="Tyrion_speech_2x09.jpg" data-src="http://vignette3.wikia.nocookie.net/gameofthrones/images/e/ef/Tyrion_speech_2x09.jpg/revision/latest/scale-to-width-down/185?cb=20120528181141" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">A promotional image of Tyrion in "Blackwater."</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Tyrion_Blackwater_Promo-jpg" style="position: relative; height:123px; width:185px; top:31px;"><a class="image lightbox" href="/wiki/File:Tyrion_Blackwater_Promo.jpg" title="Tyrion Blackwater Promo.jpg (74 KB)" style="height:123px; width:185px;"><noscript><img style="" src="http://vignette4.wikia.nocookie.net/gameofthrones/images/e/e7/Tyrion_Blackwater_Promo.jpg/revision/latest/scale-to-width-down/185?cb=20120529033629" title="Tyrion Blackwater Promo.jpg (74 KB)" class="thumbimage" alt="Tyrion Blackwater Promo" data-image-name="Tyrion Blackwater Promo.jpg" data-image-key="Tyrion_Blackwater_Promo.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Tyrion Blackwater Promo.jpg (74 KB)" class="thumbimage lzy lzyPlcHld" alt="Tyrion Blackwater Promo" data-image-name="Tyrion Blackwater Promo.jpg" data-image-key="Tyrion_Blackwater_Promo.jpg" data-src="http://vignette4.wikia.nocookie.net/gameofthrones/images/e/e7/Tyrion_Blackwater_Promo.jpg/revision/latest/scale-to-width-down/185?cb=20120529033629" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">A promotional image of Tyrion in "Blackwater."</div></div></div><a class="wikia-photogallery-add wikia-button noprint" style="display: none"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite photo" width="26" height="16" />Add a photo to this gallery</a></div><script>JSSnippetsStack.push({dependencies:[{"url":"http://slot1.images2.wikia.nocookie.net/__am/1465311447/group/-/wikia_photo_gallery_js","type":"js"},{"url":"http://slot1.images2.wikia.nocookie.net/__am/1465311447/sass/background-dynamic%3Dtrue%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb20150716154804%252Fgameofthrones%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1920%26color-body%3D%2523000%26color-body-middle%3D%2523000000%26color-buttons%3D%25231e5467%26color-header%3D%25235f4416%26color-links%3D%252347518e%26color-page%3D%2523d7cbab%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/extensions/wikia/WikiaPhotoGallery/css/gallery.scss","type":"css"}],callback:function(json){WikiaPhotoGalleryView.init(json)},id:"WikiaPhotoGalleryView.init"})</script>
+<h3><span class="mw-headline" id="Promotional_video">Promotional video</span><span class="editsection"><a href="/wiki/Blackwater?action=edit&amp;section=14" title="Edit Promotional video section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h3>
+<div id="gallery-1" hash="39b0511a4b177c4e3546b835b086ab73" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium"><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="Game_of_Thrones_2x09_-22Blackwater-22_Promo" style="position: relative; height:104px; width:185px;"><a class="image lightbox video video-thumbnail xsmall" href="/wiki/File:Game_of_Thrones_2x09_%22Blackwater%22_Promo" title="Game of Thrones 2x09 &quot;Blackwater&quot; Promo (24 KB)" style="height:104px; width:185px;"><span class="duration">00:52</span><span class="play-circle"></span><noscript><img style="" src="http://vignette2.wikia.nocookie.net/gameofthrones/images/1/14/Game_of_Thrones_2x09_%22Blackwater%22_Promo/revision/latest/scale-to-width-down/185?cb=20120524033134" title="Game of Thrones 2x09 &quot;Blackwater&quot; Promo (24 KB)" class="thumbimage" alt="Game of Thrones 2x09 &quot;Blackwater&quot; Promo" data-video-name="Game of Thrones 2x09 &amp;quot;Blackwater&amp;quot; Promo" data-video-key="Game_of_Thrones_2x09_%26quot%3BBlackwater%26quot%3B_Promo"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Game of Thrones 2x09 &quot;Blackwater&quot; Promo (24 KB)" class="thumbimage lzy lzyPlcHld" alt="Game of Thrones 2x09 &quot;Blackwater&quot; Promo" data-video-name="Game of Thrones 2x09 &amp;quot;Blackwater&amp;quot; Promo" data-video-key="Game_of_Thrones_2x09_%26quot%3BBlackwater%26quot%3B_Promo" data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/1/14/Game_of_Thrones_2x09_%22Blackwater%22_Promo/revision/latest/scale-to-width-down/185?cb=20120524033134" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="title">Game of Thrones 2x09 "Blackwater" Promo</div><div class="lightbox-caption" style="width:185px;"><a href="/wiki/File:Game_of_Thrones_2x09_%22Blackwater%22_Promo" title="File:Game of Thrones 2x09 &quot;Blackwater&quot; Promo">Episode 19 "Blackwater" preview</a></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="Game_Of_Thrones_Season_2_Episode_19_-_Battle_Tease" style="position: relative; height:104px; width:185px;"><a class="image lightbox video video-thumbnail xsmall" href="/wiki/File:Game_Of_Thrones_Season_2_Episode_19_-_Battle_Tease" title="Game Of Thrones Season 2 Episode 19 - Battle Tease (8 KB)" style="height:104px; width:185px;"><span class="duration">00:32</span><span class="play-circle"></span><noscript><img style="" src="http://vignette3.wikia.nocookie.net/gameofthrones/images/a/ab/Game_Of_Thrones_Season_2_Episode_19_-_Battle_Tease/revision/latest/scale-to-width-down/185?cb=20120521092133" title="Game Of Thrones Season 2 Episode 19 - Battle Tease (8 KB)" class="thumbimage" alt="Game Of Thrones Season 2 Episode 19 - Battle Tease" data-video-name="Game Of Thrones Season 2 Episode 19 - Battle Tease" data-video-key="Game_Of_Thrones_Season_2_Episode_19_-_Battle_Tease"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Game Of Thrones Season 2 Episode 19 - Battle Tease (8 KB)" class="thumbimage lzy lzyPlcHld" alt="Game Of Thrones Season 2 Episode 19 - Battle Tease" data-video-name="Game Of Thrones Season 2 Episode 19 - Battle Tease" data-video-key="Game_Of_Thrones_Season_2_Episode_19_-_Battle_Tease" data-src="http://vignette3.wikia.nocookie.net/gameofthrones/images/a/ab/Game_Of_Thrones_Season_2_Episode_19_-_Battle_Tease/revision/latest/scale-to-width-down/185?cb=20120521092133" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="title">Game Of Thrones Season 2 Episode 19 - Battle Tease</div><div class="lightbox-caption" style="width:185px;"><a href="/wiki/File:Game_Of_Thrones_Season_2_Episode_19_-_Battle_Tease" title="File:Game Of Thrones Season 2 Episode 19 - Battle Tease">Episode 19 "Battle" Tease</a></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="Game_Of_Thrones_Season_2_Episode_19_-_War_Of_The_Kings_Trailer" style="position: relative; height:104px; width:185px;"><a class="image lightbox video video-thumbnail xsmall" href="/wiki/File:Game_Of_Thrones_Season_2_Episode_19_-_War_Of_The_Kings_Trailer" title="Game Of Thrones Season 2 Episode 19 - War Of The Kings Trailer (16 KB)" style="height:104px; width:185px;"><span class="duration">01:22</span><span class="play-circle"></span><noscript><img style="" src="http://vignette3.wikia.nocookie.net/gameofthrones/images/a/a3/Game_Of_Thrones_Season_2_Episode_19_-_War_Of_The_Kings_Trailer/revision/latest/scale-to-width-down/185?cb=20120521092246" title="Game Of Thrones Season 2 Episode 19 - War Of The Kings Trailer (16 KB)" class="thumbimage" alt="Game Of Thrones Season 2 Episode 19 - War Of The Kings Trailer" data-video-name="Game Of Thrones Season 2 Episode 19 - War Of The Kings Trailer" data-video-key="Game_Of_Thrones_Season_2_Episode_19_-_War_Of_The_Kings_Trailer"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Game Of Thrones Season 2 Episode 19 - War Of The Kings Trailer (16 KB)" class="thumbimage lzy lzyPlcHld" alt="Game Of Thrones Season 2 Episode 19 - War Of The Kings Trailer" data-video-name="Game Of Thrones Season 2 Episode 19 - War Of The Kings Trailer" data-video-key="Game_Of_Thrones_Season_2_Episode_19_-_War_Of_The_Kings_Trailer" data-src="http://vignette3.wikia.nocookie.net/gameofthrones/images/a/a3/Game_Of_Thrones_Season_2_Episode_19_-_War_Of_The_Kings_Trailer/revision/latest/scale-to-width-down/185?cb=20120521092246" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="title">Game Of Thrones Season 2 Episode 19 - War Of The Kings Trailer</div><div class="lightbox-caption" style="width:185px;"><a href="/wiki/File:Game_Of_Thrones_Season_2_Episode_19_-_War_Of_The_Kings_Trailer" title="File:Game Of Thrones Season 2 Episode 19 - War Of The Kings Trailer">Episode 19 "War Of The Kings" Trailer</a></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="Game_Of_Thrones_Season_2_Recap_18" style="position: relative; height:104px; width:185px;"><a class="image lightbox video video-thumbnail xsmall" href="/wiki/File:Game_Of_Thrones_Season_2_Recap_18" title="Game Of Thrones Season 2 Recap 18 (12 KB)" style="height:104px; width:185px;"><span class="duration">01:37</span><span class="play-circle"></span><noscript><img style="" src="http://vignette4.wikia.nocookie.net/gameofthrones/images/1/1c/Game_Of_Thrones_Season_2_Recap_18/revision/latest/scale-to-width-down/185?cb=20120527111154" title="Game Of Thrones Season 2 Recap 18 (12 KB)" class="thumbimage" alt="Game Of Thrones Season 2 Recap 18" data-video-name="Game Of Thrones Season 2 Recap 18" data-video-key="Game_Of_Thrones_Season_2_Recap_18"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Game Of Thrones Season 2 Recap 18 (12 KB)" class="thumbimage lzy lzyPlcHld" alt="Game Of Thrones Season 2 Recap 18" data-video-name="Game Of Thrones Season 2 Recap 18" data-video-key="Game_Of_Thrones_Season_2_Recap_18" data-src="http://vignette4.wikia.nocookie.net/gameofthrones/images/1/1c/Game_Of_Thrones_Season_2_Recap_18/revision/latest/scale-to-width-down/185?cb=20120527111154" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="title">Game Of Thrones Season 2 Recap 18</div><div class="lightbox-caption" style="width:185px;"><a href="/wiki/File:Game_Of_Thrones_Season_2_Recap_18" title="File:Game Of Thrones Season 2 Recap 18">Episode 18 recap</a></div></div><br /><a class="wikia-photogallery-add wikia-button noprint" style="display: none"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite photo" width="26" height="16" />Add a photo to this gallery</a></div><script>JSSnippetsStack.push({dependencies:[{"url":"http://slot1.images2.wikia.nocookie.net/__am/1465311447/group/-/wikia_photo_gallery_js","type":"js"},{"url":"http://slot1.images2.wikia.nocookie.net/__am/1465311447/sass/background-dynamic%3Dtrue%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb20150716154804%252Fgameofthrones%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1920%26color-body%3D%2523000%26color-body-middle%3D%2523000000%26color-buttons%3D%25231e5467%26color-header%3D%25235f4416%26color-links%3D%252347518e%26color-page%3D%2523d7cbab%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/extensions/wikia/WikiaPhotoGallery/css/gallery.scss","type":"css"}],callback:function(json){WikiaPhotoGalleryView.init(json)},id:"WikiaPhotoGalleryView.init"})</script>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="editsection"><a href="/wiki/Blackwater?action=edit&amp;section=15" title="Edit See also section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<ul><li><a href="http://vignette1.wikia.nocookie.net/gameofthrones/images/7/7c/WP_favicon.PNG/revision/latest?cb=20150127010512" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="WP favicon"  	class="lzy lzyPlcHld " 	 	data-image-key="WP_favicon.PNG" 	data-image-name="WP favicon.PNG" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/7/7c/WP_favicon.PNG/revision/latest?cb=20150127010512"  	 width="25"  	 height="24"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/7/7c/WP_favicon.PNG/revision/latest?cb=20150127010512" 	 alt="WP favicon"  	class="" 	 	data-image-key="WP_favicon.PNG" 	data-image-name="WP favicon.PNG" 	 	 width="25"  	 height="24"  	 	 	 	></noscript></a> <a href="http://en.wikipedia.org/wiki/Blackwater_(Game_of_Thrones)" class="extiw exitstitial" title="wikipedia:Blackwater (Game of Thrones)">Blackwater</a> on <a href="http://en.wikipedia.org/wiki/Main_Page" class="extiw exitstitial" title="wikipedia:Main Page">Wikipedia</a>
+</li><li><a href="http://vignette4.wikia.nocookie.net/gameofthrones/images/4/40/Imdb2.PNG/revision/latest?cb=20150127011335" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Imdb2"  	class="lzy lzyPlcHld " 	 	data-image-key="Imdb2.PNG" 	data-image-name="Imdb2.PNG" 	 data-src="http://vignette4.wikia.nocookie.net/gameofthrones/images/4/40/Imdb2.PNG/revision/latest?cb=20150127011335"  	 width="25"  	 height="24"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette4.wikia.nocookie.net/gameofthrones/images/4/40/Imdb2.PNG/revision/latest?cb=20150127011335" 	 alt="Imdb2"  	class="" 	 	data-image-key="Imdb2.PNG" 	data-image-name="Imdb2.PNG" 	 	 width="25"  	 height="24"  	 	 	 	></noscript></a> <a rel="nofollow" class="external text exitstitial" href="http://www.imdb.com/title/tt2084342/">Blackwater</a> on <a rel="nofollow" class="external text exitstitial" href="http://imdb.com">IMDb</a>
+</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="editsection"><a href="/wiki/Blackwater?action=edit&amp;section=16" title="Edit References section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<div class="references-small" style="-moz-column-count:2; -webkit-column-count:2; column-count:2;">
+<ol class="references"><li id="cite_note-0"><a href="#cite_ref-0">↑</a> <span class="reference-text"><a rel="nofollow" class="external text exitstitial" href="http://grrm.livejournal.com/219080.html">George R.R. Martin's blog announcing his assignment to write this episode</a></span>
+</li>
+<li id="cite_note-1"><a href="#cite_ref-1">↑</a> <span class="reference-text"><a rel="nofollow" class="external text exitstitial" href="http://grrm.livejournal.com/237806.html">George R.R. Martin's blog announcing Neil Marshall</a></span>
+</li>
+<li id="cite_note-2"><a href="#cite_ref-2">↑</a> <span class="reference-text"><a rel="nofollow" class="external text exitstitial" href="http://www.westeros.org/GoT/News/Entry/Blackwater_the_Hedge_Knight_and_More/">Westeros.org article reporting interview with Vince Gerardos</a></span>
+</li>
+<li id="cite_note-EW-3">↑ <sup><a href="#cite_ref-EW_3-0">4.0</a></sup> <sup><a href="#cite_ref-EW_3-1">4.1</a></sup> <sup><a href="#cite_ref-EW_3-2">4.2</a></sup> <sup><a href="#cite_ref-EW_3-3">4.3</a></sup> <span class="reference-text"><a rel="nofollow" class="external text exitstitial" href="http://insidetv.ew.com/2012/05/20/game-of-thrones-blackwater/">Entertainment Weekly article on filming Blackwater</a></span>
+</li>
+<li id="cite_note-4"><a href="#cite_ref-4">↑</a> <span class="reference-text"><a rel="nofollow" class="external free exitstitial" href="http://www.empireonline.com/news/story.asp?NID=34164">http://www.empireonline.com/news/story.asp?NID=34164</a></span>
+</li>
+<li id="cite_note-5"><a href="#cite_ref-5">↑</a> <span class="reference-text"><a rel="nofollow" class="external free exitstitial" href="http://uproxx.com/tv/2014/06/tonights-game-of-thrones-is-the-shows-most-expensive-episode-yet/">http://uproxx.com/tv/2014/06/tonights-game-of-thrones-is-the-shows-most-expensive-episode-yet/</a></span>
+</li>
+<li id="cite_note-6"><a href="#cite_ref-6">↑</a> <span class="reference-text"><a rel="nofollow" class="external text exitstitial" href="http://www.gq.com/entertainment/movies-and-tv/201212/game-of-thrones-blackwater-season-two-finale-oral-history?currentPage=1">GQ feature on "Blackwater"</a></span>
+</li>
+<li id="cite_note-7"><a href="#cite_ref-7">↑</a> <span class="reference-text"><a rel="nofollow" class="external text exitstitial" href="http://www.gq.com/entertainment/movies-and-tv/201212/game-of-thrones-blackwater-season-two-finale-oral-history?currentPage=1">GQ feature</a></span>
+</li>
+<li id="cite_note-8"><a href="#cite_ref-8">↑</a> <span class="reference-text"><a rel="nofollow" class="external text exitstitial" href="http://www.gq.com/entertainment/movies-and-tv/201212/game-of-thrones-blackwater-season-two-finale-oral-history?currentPage=1">GQ feature</a></span>
+</li>
+<li id="cite_note-9"><a href="#cite_ref-9">↑</a> <span class="reference-text"><a rel="nofollow" class="external text exitstitial" href="http://www.gq.com/entertainment/movies-and-tv/201212/game-of-thrones-blackwater-season-two-finale-oral-history?currentPage=1">GQ feature</a></span>
+</li>
+<li id="cite_note-10"><a href="#cite_ref-10">↑</a> <span class="reference-text"><a rel="nofollow" class="external text exitstitial" href="http://www.gq.com/entertainment/movies-and-tv/201212/game-of-thrones-blackwater-season-two-finale-oral-history?currentPage=1">GQ feature</a></span>
+</li>
+<li id="cite_note-11"><a href="#cite_ref-11">↑</a> <span class="reference-text"><a rel="nofollow" class="external text exitstitial" href="http://www.gq.com/entertainment/movies-and-tv/201212/game-of-thrones-blackwater-season-two-finale-oral-history?currentPage=1">GQ feature</a></span>
+</li>
+<li id="cite_note-12"><a href="#cite_ref-12">↑</a> <span class="reference-text"><a rel="nofollow" class="external text exitstitial" href="http://www.westeros.org/GoT/News/Entry/Game_of_Thrones_Wins_Big_at_Creative_Arts_Emmys/">Game of Thrones Wins Big at Creative Arts Emmys</a> Westeros.org, September 16, 2012.</span>
+</li>
+<li id="cite_note-13"><a href="#cite_ref-13">↑</a> <span class="reference-text"><a rel="nofollow" class="external autonumber exitstitial" href="http://io9.com/the-glamour-the-drama-the-full-results-of-the-2013-hu-1238074481">[1]</a></span>
+</li>
+<li id="cite_note-14"><a href="#cite_ref-14">↑</a> <span class="reference-text"><a rel="nofollow" class="external text exitstitial" href="http://www.makinggameofthrones.com/production-diary/50-things-season-2-pt-2">Making Game of Thrones blog</a></span>
+</li></ol></div>
+<table style="width: 100%;">
+<tr><td colspan="2" bgcolor="#333333" style="text-align: center;"><i><a href="/wiki/Game_of_Thrones_(TV_series)" title="Game of Thrones (TV series)">Game of Thrones</a></i> <a href="/wiki/Season_2" title="Season 2">Season 2</a></td></tr>
+<tr><td colspan="2" bgcolor="#000000" style="height: 2px;"></td></tr>
+<tr><td style="width: 50%;"><b>#01</b> "<a href="/wiki/The_North_Remembers" title="The North Remembers">The North Remembers</a>"</td><td bgcolor="#191919" style="width: 50%;"><b>#06</b> "<a href="/wiki/The_Old_Gods_and_the_New" title="The Old Gods and the New">The Old Gods and the New</a>"</td></tr>
+<tr><td bgcolor="#191919" style="width: 50%;"><b>#02</b> "<a href="/wiki/The_Night_Lands" title="The Night Lands">The Night Lands</a>"</td><td style="width: 50%;"><b>#07</b> "<a href="/wiki/A_Man_Without_Honor" title="A Man Without Honor">A Man Without Honor</a>"</td></tr>
+<tr><td style="width: 50%;"><b>#03</b> "<a href="/wiki/What_is_Dead_May_Never_Die" title="What is Dead May Never Die">What is Dead May Never Die</a>"</td><td bgcolor="#191919" style="width: 50%;"><b>#08</b> "<a href="/wiki/The_Prince_of_Winterfell" title="The Prince of Winterfell">The Prince of Winterfell</a>"</td></tr>
+<tr><td bgcolor="#191919" style="width: 50%;"><b>#04</b> "<a href="/wiki/Garden_of_Bones" title="Garden of Bones">Garden of Bones</a>"</td><td style="width: 50%;"><b>#09</b> "<a href="/wiki/Blackwater_(episode)" title="Blackwater (episode)" class="mw-redirect">Blackwater</a>"</td></tr>
+<tr><td style="width: 50%;"><b>#05</b> "<a href="/wiki/The_Ghost_of_Harrenhal" title="The Ghost of Harrenhal">The Ghost of Harrenhal</a>"</td><td bgcolor="#191919" style="width: 50%;"><b>#10</b> "<a href="/wiki/Valar_Morghulis" title="Valar Morghulis">Valar Morghulis</a>"</td></tr>
+<tr><td colspan="2" bgcolor="#000000" style="height: 2px;"></td></tr>
+</table>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 1106/300000
+Post‐expand include size: 5115/2097152 bytes
+Template argument size: 1804/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key gameofthrones:pcache:idhash:3336-0!*!0!!en!2!* -->
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1466085459/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1466085459/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://gameofthrones.wikia.com/wiki/Blackwater?oldid=254897">http://gameofthrones.wikia.com/wiki/Blackwater?oldid=254897</a>"</div>
+
+				</div>
+
+															<nav class="article-categories CategorySelect articlePage userCanEdit" id="articleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="Episodes" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Episodes" title="Category:Episodes">Episodes</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Season 2" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Season_2" title="Category:Season 2">Season 2</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Season 2 Episodes" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Season_2_Episodes" title="Category:Season 2 Episodes">Season 2 Episodes</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+							<li class="last">
+					<button class="wikia-button secondary add" id="CategorySelectAdd" type="button">Add category</button>
+					<input autocomplete="off" class="input" id="CategorySelectInput" name="CategorySelectInput" placeholder="Add category..." type="text">				</li>
+					</ul>
+	</div>
+			<div class="toolbar">
+			<button class="wikia-button secondary cancel" id="CategorySelectCancel" type="button">Cancel</button>
+			<button class="wikia-button save" id="CategorySelectSave" type="button" disabled="disabled">Save</button>
+		</div>
+	</nav>									
+				<nav class="WikiaArticleInterlang">
+	<h3>Languages: </h3>
+	<ul>
+			<li><a href="http://de.gameofthrones.wikia.com/wiki/Schwarzwasser_(Episode)">Deutsch</a></li>
+			<li><a href="http://ru.gameofthrones.wikia.com/wiki/%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B2%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F">Русский</a></li>
+			<li><a href="http://pt-br.gameofthrones.wikia.com/wiki/Blackwater">Português do Brasil</a></li>
+		</ul>
+</nav>
+
+				
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+							<!-- BEGIN CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<div id="NATIVE_TABOOLA_ARTICLE">
+		<script>
+			window.adslots2.push(["NATIVE_TABOOLA_ARTICLE"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+<div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+								<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+										<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+						<div id="WikiaRail" class="WikiaRail">
+
+		<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+					<div class="loading"></div>
+		
+	</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	<!-- BEGIN SLOTNAME: BOTTOM_LEADERBOARD -->
+<div id="BOTTOM_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["BOTTOM_LEADERBOARD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: BOTTOM_LEADERBOARD -->
+	
+			<section>
+	<div class="header-container">
+		<h2>Around Wikia's network</h2>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/130814" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer">
+	<nav>
+		<div class="branding vertical-tv black">
+			<a class="wikia-logo" href="http://tvhub.wikia.com/wiki/TV_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>TV</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com/wiki/Help:Contents">Help</a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Sitemap">Global Sitemap</a>
+									</li>
+							<li>
+											<a href="/wiki/Special:AllPages">Local Sitemap</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Vacation like an Avenger. Visit real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;},{&quot;text&quot;:&quot;Vacation like an Avenger. Visit real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;},{&quot;text&quot;:&quot;Vacation like an Avenger. Visit real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;},{&quot;text&quot;:&quot;Vacation like an Avenger. Visit real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;},{&quot;text&quot;:&quot;Vacation like an Avenger. Visit real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1466085459/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1466085459/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1466085459/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["GPT_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: EVOLVE_FLUSH -->
+<div id="EVOLVE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["EVOLVE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: EVOLVE_FLUSH -->
+<!-- BEGIN SLOTNAME: HITMEDIA_FLUSH -->
+<div id="HITMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["HITMEDIA_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: HITMEDIA_FLUSH -->
+<!-- BEGIN SLOTNAME: TURTLE_FLUSH -->
+<div id="TURTLE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TURTLE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TURTLE_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1466085459/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1466085459/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"gameofthrones","kv_article_id":3336,"kv_wpage":"Blackwater","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"media=tv;genre=fantasy;tv=hbo;sex=m;age=18-24;age=18-34;age=25-34;esrb=mature;media=books;gnre=action;gnre=adventure;theme=sword;theme=magic;gnre=drama;gnre=fighting;theme=dragon;theme=mature;theme=zombiesex=m;age=18-24;age=25-34;age=18-34;age=teen;media=tv;media=comics;media=books;gnre=action;theme=zombie;gnre=horror;theme=postapocalypse;gnre=3rdpersonshooter;pform=xbox360;pform=ps3;esrb=mature;tv=amc;sex=m;age=13-17;age=18-24;age=under18;age=kids;age=teen;gnre=anime;media=tv;media=comics;gnre=fighting;gnre=fantasyage=under18;age=18-24;age=teen;age=kids;media=tv;media=comics;media=cards;gnre=anime;gnre=fantasy;gnre=fighting;gnre=action;gnre=adventure;pform=xbox360;pform=ps3;pform=wii;pform=ds;esrb=teen;tv=cn;theme=heroes;tv=onhulu;tv=hulu","kv_domain":"gameofthrones.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://gameofthrones.wikia.com/__load/-/cb%3D1466085459%26debug%3Dfalse%26lang%3Den%26newve%3D1%26only%3Dscripts%26skin%3Doasis/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgPageName":"Blackwater","wgTitle":"Blackwater","wgCurRevisionId":254897,"wgArticleId":3336,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Episodes","Season 2","Season 2 Episodes"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Blackwater","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"true","background-image":"http://img4.wikia.nocookie.net/__cb20150716154804/gameofthrones/images/5/50/Wiki-background","background-image-height":"720","background-image-width":"1920","color-body":"#000","color-body-middle":"#000000","color-buttons":"#1e5467","color-header":"#5f4416","color-links":"#47518e","color-page":"#d7cbab","oasisTypography":1,"page-opacity":"100","widthType":0},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"Game of Thrones Wiki","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1466085459/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1466085459/common","wgSitename":"Game of Thrones Wiki","wgMWrevId":false,"wgRevisionId":254897,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableNewAuthModal":null,"wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgWikiaMaxNameChars":50,"wgMinimalPasswordLength":1,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=Blackwater","fbReturnToTitle":"Blackwater","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":[],"wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"1200":true,"500":true,"501":true,"502":true,"503":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":true,"interactiveMapsApiURL":"http://maps.wikia-services.com:80/api/v1","VignettePathPrefix":null,"reCaptchaPublicKey":"6LdDSA4TAAAAANZDWjPdTiQcYsTuge5fMPQTd7D_","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgEnablePortableInfoboxBuilderInVE":false,"wgEnableVisualEditorTourExperiment":true,"wgOasisResponsive":false,"wgOasisBreakpoints":true,"verticalName":"Entertainment","wgArticleInterlangList":["de:Schwarzwasser (Episode)","pt-br:Blackwater","ru:Черноводная"],"WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgContentReviewExtEnabled":true,"wgContentReviewTestModeEnabled":false,"wgReviewedScriptsTimestamp":"1441727506","wgScriptsTimestamp":"1332971928","wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"Blackwater"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"editor":2,"enotifwallthread":2,"wallshowsource":false,"walldelete":false,"founderemails-joins-130814":0,"founderemails-edits-130814":0,"founderemails-views-digest-130814":0,"founderemails-complete-digest-130814":0,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true,"searchNs15":false,"searchNs110":false,"searchNs111":false,"searchNs500":false,
+"searchNs501":false,"searchNs502":false,"searchNs503":false,"searchNs828":false,"searchNs829":false,"searchNs1000":false,"searchNs1010":false,"searchNs1020":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"searchNs2000":false,"searchNs2001":false,"searchNs2002":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: gameofthrones:resourceloader:filter:minify-js:7:5ffb247b4f4ef073d23e4edf309a4c85 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikia.viewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.bannerNotifications","ext.cookiePolicyMessages","ext.userLogin"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1466085459/groups/-/oasis_shared_core_js,oasis_shared_js,oasis_anon_js,adengine2_oasis_exitstitial_js,adengine2_desktop_js,liftium_ads_js,liftium_ads_extra_js,adengine2_gcs_js,adengine2_taboola_js,adengine2_revcontent_js,adengine2_interactive_maps_js,recirculation_trackers_js,recirculation_js,toc_js,qualaroo_js,wikia_maps_contribution_button_create_map_js,spotlights_js,relatedpages_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1466085459/group/-/videos_module_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1466085459/group/-/auth_modal_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1466085459/group/-/cookie_policy_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1466085459/group/-/wikia_in_your_lang_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1466085459/group/-/portable_infobox_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1466085459/group/-/visit_source_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1466085459/group/-/visual_editor_tour_experiment_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=AdEngine%2CConfirmModal%2CImagePlaceholder%2COasis-generic%2CRecirculation%2CVideosModule&amp;uselang=en&amp;cb=1466085459.262519.0"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1466085459/group/-/monetization_module_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1466085459/group/-/global_navigation_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1466085459/group/-/page_share_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1466085459/group/-/global_footer_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://gameofthrones.wikia.com/__load/-/cb%3D1466085459%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://gameofthrones.wikia.com/__load/-/cb%3D1466085459%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26reviewed%3D1441727506%26skin%3Doasis/site"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1466085459/group/-/facebook_client_fbtags_js"></script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/Forum\/css\/ForumTag.scss","extensions\/wikia\/Recirculation\/styles\/recirculation.scss","extensions\/wikia\/PortableInfobox\/styles\/PortableInfobox.scss","extensions\/wikia\/VisualEditorTourExperiment\/styles\/VisualEditorTourExperimentInit.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModule.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationUserLoginDropdown.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationNotifications.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","extensions\/wikia\/GlobalNavigation\/styles\/GoogleSearchAPI.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/PageShare\/styles\/PageShare.scss","extensions\/wikia\/GlobalFooter\/styles\/GlobalFooter.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+</body>
+
+
+
+</html>

@@ -1,0 +1,1365 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.24" />
+<meta name="keywords" content="Game of Thrones Wiki,gameofthrones,The Laws of Gods and Men,Bryan Cogman,Alik Sakharov,Episode Guide,First of His Name,Mockingbird,Assault on the Dreadfort,Season 4,Game of Thrones,Stannis Baratheon,Davos Seaworth" />
+<meta name="description" content="&amp;quot;The Laws of Gods and Men&amp;quot; is the sixth episode of the fourth season of Game of Thrones. It is..." />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Wikia" />
+<meta name="twitter:url" content="http://gameofthrones.wikia.com/wiki/The_Laws_of_Gods_and_Men" />
+<meta name="twitter:title" content="The Laws of Gods and Men - Game of Thrones Wiki - Wikia" />
+<meta name="twitter:description" content="&quot;The Laws of Gods and Men&quot; is the sixth episode of the fourth season of Game of Thrones. It is the thirty-sixth episode of the series overall. It premiered on May 11, 2014. It was written by..." />
+<link rel="canonical" href="http://gameofthrones.wikia.com/wiki/The_Laws_of_Gods_and_Men" />
+<link rel="apple-touch-icon" href="http://img1.wikia.nocookie.net/__cb87/gameofthrones/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/gameofthrones/images/6/64/Favicon.ico/revision/latest?cb=20120302041013" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Game of Thrones Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://gameofthrones.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="Game of Thrones Wiki Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>The Laws of Gods and Men - Game of Thrones Wiki - Wikia</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images2.wikia.nocookie.net/__am/1466073491/sasses/background-dynamic%3Dtrue%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb20150716154804%252Fgameofthrones%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1920%26color-body%3D%2523000%26color-body-middle%3D%2523000000%26color-buttons%3D%25231e5467%26color-header%3D%25235f4416%26color-links%3D%252347518e%26color-page%3D%2523d7cbab%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/skins/oasis/css/oasis.scss,extensions/wikia/Forum/css/ForumTag.scss,extensions/wikia/Recirculation/styles/recirculation.scss,extensions/wikia/PortableInfobox/styles/PortableInfobox.scss,extensions/wikia/VisualEditorTourExperiment/styles/VisualEditorTourExperimentInit.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationUserLoginDropdown.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationNotifications.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,extensions/wikia/GlobalNavigation/styles/GoogleSearchAPI.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/PageShare/styles/PageShare.scss,extensions/wikia/GlobalFooter/styles/GlobalFooter.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://slot1.images3.wikia.nocookie.net/__am/1466073491/sasses/background-dynamic%3Dtrue%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb20150716154804%252Fgameofthrones%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1920%26color-body%3D%2523000%26color-body-middle%3D%2523000000%26color-buttons%3D%25231e5467%26color-header%3D%25235f4416%26color-links%3D%252347518e%26color-page%3D%2523d7cbab%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/extensions/wikia/ARecoveryEngine/css/recoveryUnlock.scss" /><link rel="stylesheet" href="http://gameofthrones.wikia.com/__load/-/cb%3D1466073491%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: gameofthrones:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="tv",
+wgWikiCategories=[],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Join the Chat","chat-start-a-chat":"Start a Chat","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live! Chat","chat-edit-count":"$1 edits","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":1,"delayBtf":true,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true,"sourcePointDetectionUrl":"http://gameofthrones.wikia.com/__load/-/cb%3D1466073491%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/a47a3a8fae34dbafa7dfd2b0bbf6f4d1","yavliUrl":"http://gameofthrones.wikia.com/__load/-/cb%3D1466073491%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/cdb7b3a82727403b82ff127d59711c1a"},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"esrbRating":"teen","mappedVerticalName":"ent","pageArticleId":21835,"pageIsArticle":true,"pageName":"The_Laws_of_Gods_and_Men","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"media=tv;genre=fantasy;tv=hbo;sex=m;age=18-24;age=18-34;age=25-34;esrb=mature;media=books;gnre=action;gnre=adventure;theme=sword;theme=magic;gnre=drama;gnre=fighting;theme=dragon;theme=mature;theme=zombiesex=m;age=18-24;age=25-34;age=18-34;age=teen;media=tv;media=comics;media=books;gnre=action;theme=zombie;gnre=horror;theme=postapocalypse;gnre=3rdpersonshooter;pform=xbox360;pform=ps3;esrb=mature;tv=amc;sex=m;age=13-17;age=18-24;age=under18;age=kids;age=teen;gnre=anime;media=tv;media=comics;gnre=fighting;gnre=fantasyage=under18;age=18-24;age=teen;age=kids;media=tv;media=comics;media=cards;gnre=anime;gnre=fantasy;gnre=fighting;gnre=action;gnre=adventure;pform=xbox360;pform=ps3;pform=wii;pform=ds;esrb=teen;tv=cn;theme=heroes;tv=onhulu;tv=hulu","wikiDbName":"gameofthrones","wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"tv","newWikiCategories":["ent"]},"providers":{"evolve2":true,"rubiconFastlane":true,"taboola":true},"slots":{"exitstitial":true,"invisibleHighImpact":true},"forcedProvider":null},"runtime":{"sp":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[100056,100057,100058,100059,100397],
+wgWikiFactoryTagNames=["wow","t9","skyscraper","skyscrapperwow","en"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1466073491",
+wgDBname="gameofthrones",
+wgCityId="130814",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=21835,
+wgCategories=["Episodes","Season 4","Season 4 Episodes"],
+wgPageName="The_Laws_of_Gods_and_Men",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="tv_episode",
+wgNamespaceNumber=0,
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=true,
+wgStyleVersion="1466073491",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/complex","env":"prod","hostname":"ap-s70","php_version":"5.6.11","wiki":"gameofthrones","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"complex"},
+wgEnableOpenXSPC=true,
+wgEnableReviveSpotlights=true,
+wgSeoTestingBucket=3;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<!-- Nielsen is disabled --><script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1466073491&amp;c=130814&amp;lc=en&amp;lid=75&amp;x=gameofthrones&amp;y=c2&amp;u=0&amp;a=21835&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+		document.write('<img src="http://logs-01.loggly.com/inputs/88a88e56-77c6-49cc-af41-6f44f83fe7fe.gif?message=wikia_beacon_id%20is%20empty"/>');
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1466073491&amp;c=130814&amp;lc=en&amp;lid=75&amp;x=gameofthrones&amp;y=c2&amp;u=0&amp;a=21835&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1466073491%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__load/-/cb%3D1466073491%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1466073491/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine2_tracking_js,adengine2_amazon_match_js,adengine2_ox_bidder_js,adengine2_rubicon_fastlane_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="Game of Thrones Wiki" />
+	<meta property="og:title" content="The Laws of Gods and Men" />
+	<meta property="og:description" content="&quot;The Laws of Gods and Men&quot; is the sixth episode of the fourth season of Game of Thrones. It is the thirty-sixth episode of the series overall. It premiered on May 11, 2014. It was written by co-producer Bryan Cogman and directed by Alik Sakharov. Stannis and Davos set sail with a new strategy. Dany meets with supplicants. Tyrion faces down his father in the throne room." />
+	<meta property="og:url" content="http://gameofthrones.wikia.com/wiki/The_Laws_of_Gods_and_Men" />
+	<meta property="og:image" content="http://vignette1.wikia.nocookie.net/gameofthrones/images/b/b5/Thelawsofgodsandmen3.jpg/revision/latest/scale-to-width-down/2000?cb=20140510113722" />
+<meta name="apple-itunes-app" content="app-id=920825172, app-arguments=http://gameofthrones.wikia.com/wiki/The_Laws_of_Gods_and_Men">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-The_Laws_of_Gods_and_Men  TOC_hide oasis-breakpoints wikinav2 skin-oasis  user-anon background-fixed background-not-tiled background-dynamic wiki-gameofthrones" >
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fgameofthrones.wikia.com%2Fwiki%2FThe_Laws_of_Gods_and_Men%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for RubiconFastlane, page_view -->
+<script id="analytics-provider-rubicon-fastlane">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.rubiconFastlane")
+	], function (geo, instantGlobals, rubiconFastlane) {
+		if (geo.isProperGeo(instantGlobals["wgAdDriverRubiconFastlaneCountries"])) {
+			rubiconFastlane.call();
+		};
+	});
+</script>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.amazonMatch"),
+	], function (geo, globals, amazon) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (geo.isProperGeo(ac)) {
+			amazon.call();
+		}
+	});
+</script>
+
+<!-- Start for OpenXBidder, page_view -->
+<script id="analytics-provider-openx-bidder">
+	require([
+		"wikia.geo",
+		"wikia.querystring",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.openXBidder")
+	], function (geo, Querystring, globals, oxBidder) {
+		var ac = globals["wgAdDriverOpenXBidderCountries"],
+			qs = new Querystring();
+
+		if (geo.isProperGeo(ac) || qs.getVal('oxbidder', '0') === '1') {
+			oxBidder.call();
+		};
+	});
+</script>
+<!-- Begin Krux Tag -->
+<script type="text/javascript">
+	require(['wikia.krux'], function (krux) {
+		krux.load('JU3_GW1b');
+	});
+</script>
+<!-- End Krux Tag -->
+<!-- Begin IVW3 Tag -->
+<script type="text/javascript">
+	var iam_data = {
+		st: 'wikia',
+		cp: 'tv/pc',
+		sv: 'i2'
+	};
+
+	if (window.Wikia &&
+		window.Wikia.InstantGlobals &&
+		!window.Wikia.InstantGlobals.wgSitewideDisableIVW3 &&
+		window.Wikia.geo.isProperGeo(["AT","CH","DE"])
+	) {
+		window.ivw3Initialized = true;
+		document.write('<script type="text/javascript" src="https://script.ioam.de/iam.js"><\/script>');
+		document.write('<script type="text/javascript">window.iom.c(iam_data, 2);<\/script>');
+	}
+</script>
+<!-- End IVW3 Tag -->
+<!-- Unsupported language for AnalyticsProviderIVW2 --><div class="WikiaSiteWrapper">
+	
+	<h2>Wikia</h2>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_LEADERBOARD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_BUTTON_WIDE"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["INVISIBLE_SKIN"]);
+	</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+<div id="InvisibleHighImpactWrapper" class="hidden">
+	<div class="background"></div>
+	<a class="close">
+		<div class="close-button"></div>
+	</a>
+	<div class="label">Advertisement</div>
+	<div id="INVISIBLE_HIGH_IMPACT_2" class="wikia-ad noprint"></div>
+</div>
+<nav class="global-navigation" id="globalNavigation">
+	<div class="global-navigation-container">
+		<div class="wikia-logo-container table-cell">
+			<a href="http://www.wikia.com/fandom"
+				class="wikia-logo final-url"
+				rel="nofollow"
+				data-id="wikia-logo">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+					height="24"
+					width="91"
+					alt="Wikia"
+					title="Wikia">
+									<span class="wikia-logo__subtitle">The Home of Fandom</span>
+							</a >
+		</div >
+					<div class="table-cell hubs-links" data-visibility="desktop">
+									<a class="cell-link top-level" href="http://fandom.wikia.com/games"
+					   data-tracking-label="hub-games">
+						Games					</a>
+									<a class="cell-link top-level" href="http://fandom.wikia.com/movies"
+					   data-tracking-label="hub-movies">
+						Movies					</a>
+									<a class="cell-link top-level" href="http://fandom.wikia.com/tv"
+					   data-tracking-label="hub-tv">
+						TV					</a>
+							</div>
+				<div class="table-cell">
+			<div class="explore-wikia-entry-point" id="exploreWikiaEntryPoint">
+				<a class="cell-link top-level final-url"
+					href="http://www.wikia.com/explore"
+					data-tracking-label="explore-wikia">
+					Explore Wikia					<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+				</a>
+				<ul class="explore-wikia-dropdown" id="exploreWikiaDropdown">
+																		<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://fandom.wikia.com/games"
+								   data-tracking-label="hub-games">
+									Games								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://fandom.wikia.com/movies"
+								   data-tracking-label="hub-movies">
+									Movies								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://fandom.wikia.com/tv"
+								   data-tracking-label="hub-tv">
+									TV								</a>
+							</li>
+																						<li>
+							<a class="cell-link"
+							   href="http://www.wikia.com/WAM"
+							   data-tracking-label="top-communities">
+								Trending Wikias							</a>
+						</li>
+											<li>
+							<a class="cell-link"
+							   href="http://community.wikia.com"
+							   data-tracking-label="community-central">
+								Community Central							</a>
+						</li>
+									</ul>
+			</div>
+		</div>
+		<div class="search-container table-cell">
+			<div class="search-form-wrapper">
+	<form action="http://gameofthrones.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search Game of Thrones Wiki..." data-search-url="http://gameofthrones.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search Game of Thrones Wiki..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+		</div>
+		<div class="account-navigation-container table-cell">
+			<ul id="AccountNavigation" class="AccountNavigation table-cell  ">
+	<li class="account-navigation-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/wiki/Special:UserLogin?returnto=The_Laws_of_Gods_and_Men" rel="nofollow" title="Log in" class="ajaxLogin table-cell" accesskey="o">			<div class="avatar-container anon-avatar-placeholder">
+							</div>
+		</a>
+						<span class="auth-label auth-link sign-in">Sign In</span>
+						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+			</div>
+	<div id="UserLoginDropdown" class="UserLoginDropdown global-nav-dropdown">
+	<div class="ajaxRegisterContainer"><a data-id="register" href="/wiki/Special:UserSignup" rel="nofollow" title="Register" class="ajaxRegister">Register</a></div>
+	
+<form action="/wiki/Special:UserLogin" method="post" class="WikiaForm">
+	<fieldset>
+		
+					<div class="input-group error general-errors">
+				<div class="error-msg"></div>
+			</div>
+		
+		
+									
+									<input type="hidden" name="loginToken" value="">
+											
+									<input type="hidden" name="returnto" value="The_Laws_of_Gods_and_Men">
+											
+									<input type="hidden" name="returntoquery" value="">
+											
+															<div class="input-group hide-label required">
+					
+													<label>Username</label>
+						
+						
+																												<input type="text" class="hide-label" id="usernameInput" name="username" tabindex="1" placeholder="Username">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group hide-label required">
+					
+													<label>Password</label>
+						
+						
+														<input type="password" class="hide-label" id="passwordInput" name="password" tabindex="2" placeholder="Password">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group">
+					
+						
+						
+														<a href="#" class="forgot-password" tabindex="0">
+	Forgot your password?</a>							
+						
+						
+											</div>
+					
+											
+															<div class="input-group keep-logged-in">
+					
+						
+													<label>
+						
+														<input type="checkbox" class="keep-logged-in" name="keeploggedin" value="1" tabindex="3">
+								
+						
+													Stay logged in</label>
+						
+											</div>
+					
+											
+															<div class="input-group login-button">
+					
+						
+						
+														<input type="submit" class="login-button" value="Log in" tabindex="4">
+							
+						
+						
+											</div>
+					
+										</fieldset>
+
+	</form>
+	<div class="sso-login hidden">
+		<div class="sso-login-divider">
+			<span>Or</span>
+		</div>
+
+					<a href="#" class="wikia-button wikia-button-facebook sso-login-facebook"  data-id="facebook" tabindex="5" ><img alt="" class="sprite facebook" height="14" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="15" /> Connect</a>
+	</div>
+</div>
+	</li>
+</ul>
+		</div>
+				<div class="start-wikia-container table-cell">
+			<a href="http://www.wikia.com/Special:CreateNewWiki"
+			   class="start-wikia"
+			   title="Start a wikia"
+			   data-id="start-wikia">
+				<span>Start a wikia</span>
+			</a>
+		</div>
+			</div>
+</nav>
+
+	<!-- BEGIN CONTAINER: TOP_LEADERBOARD_AB -->
+	<div id="TOP_LEADERBOARD_AB">
+		<script>
+			window.adslots2.push(["TOP_LEADERBOARD_AB"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: TOP_LEADERBOARD_AB -->
+
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h2 class="wordmark medium graphic ">
+	<a accesskey="z" href="/wiki/Game_of_Thrones_Wiki">
+					<img src="http://img1.wikia.nocookie.net/__cb87/gameofthrones/images/8/89/Wiki-wordmark.png" alt="Game of Thrones Wiki"  width="250" height="65" >
+			</a>
+</h2>
+	<nav class="WikiNav">
+					<h2>Game of Thrones Wiki Navigation</h2>
+				<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Images" data-canonical="images">Images</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Blogs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum" data-canonical="forum">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="#">Popular pages</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="#">Most visited articles<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Game_of_Thrones_Wiki">Game of Thrones Wiki</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Gregor_Clegane">Gregor Clegane</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Brynden_Tully">Brynden Tully</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/No_One">No One</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_6">Season 6</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Waif">Waif</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Edmure_Tully">Edmure Tully</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Characters">Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Daenerys_Targaryen">Daenerys Targaryen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Eddard_Stark">Eddard Stark</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tyrion_Lannister">Tyrion Lannister</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Joffrey_Baratheon">Joffrey Baratheon</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Arya_Stark">Arya Stark</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jon_Snow">Jon Snow</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Cersei_Lannister">Cersei Lannister</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Actor">Actor<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Emilia_Clarke">Emilia Clarke</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Sophie_Turner">Sophie Turner</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tamzin_Merchant">Tamzin Merchant</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jack_Gleeson">Jack Gleeson</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Maisie_Williams">Maisie Williams</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jason_Momoa">Jason Momoa</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Oona_Chaplin">Oona Chaplin</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Game_of_Thrones_Wiki:Community_Portal">Community</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Recent blog posts</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Forum:Index">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>	</nav>
+			<div class="buttons">
+			<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Special:Maps"  data-id="maps"   class="wikia-maps-create-map">Create a Map</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+		</div>
+		<div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent changes</a>	</div>
+</header>
+		
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+					<header id="WikiaPageHeader" class="WikiaPageHeader wikia-page-header">
+		<div class="header-container">
+			<div class="header-column header-title">
+				<h1>The Laws of Gods and Men</h1>
+							</div>
+			<div class="header-column header-tally">
+				<div id="PageShareContainer" class="page-share-container">
+									</div>
+									<div class="tally"><em>3,296</em><span>pages on<br /> this wiki</span></div>
+							</div>
+		</div>
+		<nav class="wikia-menu-button" >
+	<a   href="/wiki/The_Laws_of_Gods_and_Men?action=edit" data-id="source" id="ca-viewsource">
+		<img alt="" class="sprite lock" height="12" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="9" /> View source	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/The_Laws_of_Gods_and_Men?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="/wiki/Talk:The_Laws_of_Gods_and_Men" class="wikia-button comments secondary talk" rel="nofollow" data-id="comment"> Talk<span class="commentsbubble">1</span></a>
+	</header>
+	
+
+												<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+										
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text">
+<aside class="portable-infobox pi-background pi-theme-episode pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title">The Laws of Gods and Men</h2>
+<section class="pi-item pi-group pi-border-color"><table class="pi-horizontal-group pi-horizontal-group-no-labels">
+	
+	
+	<tbody>
+	<tr>
+	
+		<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing">Season 4</td>
+	
+		<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing">Episode 6</td>
+	
+	</tr>
+	</tbody>
+</table>
+</section>
+<figure class="pi-item pi-image">
+	<a href="http://vignette1.wikia.nocookie.net/gameofthrones/images/b/b5/Thelawsofgodsandmen3.jpg/revision/latest?cb=20140510113722" class="image image-thumbnail"
+	   title="">
+		<img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/b/b5/Thelawsofgodsandmen3.jpg/revision/latest/scale-to-width-down/270?cb=20140510113722" class="pi-image-thumbnail" alt="" width="270" height="180"
+		     data-image-key="Thelawsofgodsandmen3.jpg" data-image-name="Thelawsofgodsandmen3.jpg"/>
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Air date</h3>
+	
+	<div class="pi-data-value pi-font">May 11, 2014</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Written by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Bryan_Cogman" title="Bryan Cogman">Bryan Cogman</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Directed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Alik_Sakharov" title="Alik Sakharov">Alik Sakharov</a></div>
+</div>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><a href="/wiki/Episode_Guide" title="Episode Guide" class="mw-redirect">Episode Guide</a></nav>
+<section class="pi-item pi-group pi-border-color"><table class="pi-horizontal-group">
+	
+	
+	<thead>
+		<tr>
+		
+			<th class="pi-horizontal-group-item pi-data-label pi-secondary-font pi-border-color pi-item-spacing">Previous</th>
+		
+			<th class="pi-horizontal-group-item pi-data-label pi-secondary-font pi-border-color pi-item-spacing">Next</th>
+		
+		</tr>
+	</thead>
+	
+	<tbody>
+	<tr>
+	
+		<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing">"<a href="/wiki/First_of_His_Name" title="First of His Name">First of His Name</a>"</td>
+	
+		<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing">"<a href="/wiki/Mockingbird" title="Mockingbird">Mockingbird</a>"</td>
+	
+	</tr>
+	</tbody>
+</table>
+</section></aside>
+
+<p>"<b>The Laws of Gods and Men</b>" is the sixth episode of the <a href="/wiki/Season_4" title="Season 4">fourth season</a> of <i><a href="/wiki/Game_of_Thrones" title="Game of Thrones" class="mw-redirect">Game of Thrones</a></i>.<sup id="cite_ref-0" class="reference"><a href="#cite_note-0">[1]</a></sup> It is the thirty-sixth episode of the series overall. It premiered on May 11, 2014. It was written by co-producer <a href="/wiki/Bryan_Cogman" title="Bryan Cogman">Bryan Cogman</a> and directed by <a href="/wiki/Alik_Sakharov" title="Alik Sakharov">Alik Sakharov</a>.
+</p>
+<nav id="toc" class="toc"><div id="toctitle"><h2>Contents</h2><span class="toctoggle">[<a href="#" class="internal" id="togglelink" data-show="show" data-hide="hide">show</a>]</span></div><ol></ol></nav>
+<h2><span class="mw-headline" id="Plot">Plot</span></h2>
+<p><a href="/wiki/Stannis_Baratheon" title="Stannis Baratheon">Stannis</a> and <a href="/wiki/Davos_Seaworth" title="Davos Seaworth">Davos</a> set sail with a new strategy. <a href="/wiki/Daenerys_Targaryen" title="Daenerys Targaryen">Dany</a> meets with supplicants. <a href="/wiki/Tyrion_Lannister" title="Tyrion Lannister">Tyrion</a> faces down <a href="/wiki/Tywin_Lannister" title="Tywin Lannister">his father</a> in the throne room.
+</p>
+
+
+
+
+
+<script>
+    if (typeof(Wikia.geo) !== 'undefined' && ['US'].indexOf(Wikia.geo.getCountryCode()) >= 0) {
+        document.write('<aside id="monetization-amazon_video-in_content" class="monetization-module amazon-video hide-for-edit in-content amazon-video-full" data-mon-type="amazon_video" data-mon-slot="in_content"><div class="affiliate" data-mon-pid="B00AN0KBJC" data-mon-ptag="gameofthrones-the_laws_of_god-130814-21835-B00AN0KBJC-piv-fl-npr-ic-f" data-mon-pname="Game of Thrones Season 2"><div class="affiliate-header"><a class="product-thumb" target="_blank" href="http://www.amazon.com/gp/product/B00AN0KBJC/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=gameofthrones-the_laws_of_god-130814-21835-B00AN0KBJC-piv-fl-npr-ic-f"><img  src="http://ecx.images-amazon.com/images/I/519sHX0sV9L._SX320_SY240_.jpg"></a></div><a class="product-name" target="_blank" href="http://www.amazon.com/gp/product/B00AN0KBJC/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=gameofthrones-the_laws_of_god-130814-21835-B00AN0KBJC-piv-fl-npr-ic-f"><span class="product-title">Game of Thrones Season 2</span><span class="product-detail">Season 2</span><span class="rating-bar"><span class="rating" style="width: 90.0%"></span></span></a><div class="product-button non-prime"><a class="amazon-logo" target="_blank" href="http://www.amazon.com/gp/product/B00AN0KBJC/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=gameofthrones-the_laws_of_god-130814-21835-B00AN0KBJC-piv-fl-npr-ic-f"></a><a class="product-btn" target="_blank" href="http://www.amazon.com/gp/product/B00AN0KBJC/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=gameofthrones-the_laws_of_god-130814-21835-B00AN0KBJC-piv-fl-npr-ic-f"></a></div></div></aside>');
+    } else 
+
+
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['AU','CA','DE','GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write('<div id="monetization-adunit-in_content" class="monetization-module adunit hide-for-edit in-content" data-mon-type="adunit" data-mon-slot="in_content"><div class="ad-header">Advertisement</div><div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><ins class="adsbygoogle ad-responsive-ic" style="display:inline-block;" data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_ic_fsm_ffa mon_hub_tv mon_sl_ic" data-ad-type="text" data-font-size="medium"data-font-face="arial" data-color-bg="#d7cbab" data-color-border="#d7cbab" data-color-link="#47518e" data-color-url="#47518e" data-color-text="#3a3a3a" ></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt></div></div>');
+}
+</script><h2><span class="mw-headline" id="Summary">Summary</span></h2>
+<h3><span class="mw-headline" id="At_the_Dreadfort">At the Dreadfort</span></h3>
+<p><a href="/wiki/Yara_Greyjoy" title="Yara Greyjoy">Yara Greyjoy</a> prepares her troops for their assault on <a href="/wiki/The_Dreadfort" title="The Dreadfort">the Dreadfort</a> to rescue her brother, <a href="/wiki/Theon_Greyjoy" title="Theon Greyjoy">Theon</a>. She reads the letter sent by <a href="/wiki/Ramsay_Bolton" title="Ramsay Bolton">Ramsay Snow</a>, threatening to flay all <a href="/wiki/Ironborn" title="Ironborn">ironborn</a> who do not leave the North. While Ramsay has rather violent sex with <a href="/wiki/Myranda" title="Myranda">Myranda</a>, Yara and her troops land and scale the walls of the castle. They quietly take out the guards as they search for Theon. Interrogating a guard, Yara learns of Theon's location which is the dog kennels. There, the ironborn and Yara see Theon sitting in a cage. Yara opens the cage, but Theon refuses to go with her, believing it is another cruel trick played by Ramsay. Ramsay and several Bolton troops enter and a fight ensues, with several Bolton and Greyjoy soldiers killed. Theon tells Yara his name has always been Reek, bites her, and cowers in his cage. Ramsay releases the <a href="/wiki/Bastard%27s_Girls" title="Bastard's Girls" class="mw-redirect">hounds</a> and Yara is forced to retreat to her ship. When one of the ironmen asks about Theon, Yara says Theon is "dead." 
+</p><p>Ramsay allows Reek to take a bath, as a reward for his loyalty. Reek fears the bath is another trick but Ramsay assures him it is not. While Reek bathes, Ramsay now plans to assault <a href="/wiki/Moat_Cailin" title="Moat Cailin">Moat Cailin</a> and needs Reek to pretend to be someone he isn't: Theon Greyjoy.
+</p>
+<h3><span class="mw-headline" id="At_King.27s_Landing">At King's Landing</span></h3>
+<p>At a meeting of the <a href="/wiki/Small_Council" title="Small Council">Small Council</a>, <a href="/wiki/Tywin_Lannister" title="Tywin Lannister">Tywin</a> informs the councilors that <a href="/wiki/Tyrion_Lannister" title="Tyrion Lannister">Tyrion</a>'s trial will begin that afternoon. Lord <a href="/wiki/Varys" title="Varys">Varys</a> informs Tywin that <a href="/wiki/Sandor_Clegane" title="Sandor Clegane">the Hound</a> has been spotted in <a href="/wiki/The_Riverlands" title="The Riverlands">the Riverlands</a>, and Tywin orders a bounty on his head. Varys also informs the council of <a href="/wiki/Daenerys_Targaryen" title="Daenerys Targaryen">Daenerys</a>'s conquest of <a href="/wiki/Meereen" title="Meereen">Meereen</a>, and Tywin decides to take measures to prevent her from launching an invasion. In the dungeon, <a href="/wiki/Jaime_Lannister" title="Jaime Lannister">Jaime</a> has Tyrion shackled and brought into the throne room to begin his trial. King Tommen recuses himself from the trial, appointing his grandfather Tywin, Prince <a href="/wiki/Oberyn_Martell" title="Oberyn Martell">Oberyn Martell</a>, and Lord <a href="/wiki/Mace_Tyrell" title="Mace Tyrell">Mace Tyrell</a> as judges. Several witnesses are called for the prosecution, including Ser <a href="/wiki/Meryn_Trant" title="Meryn Trant">Meryn Trant</a>, <a href="/wiki/Grand_Maester" title="Grand Maester">Grand Maester</a> <a href="/wiki/Pycelle" title="Pycelle">Pycelle</a>, Queen Regent <a href="/wiki/Cersei_Lannister" title="Cersei Lannister">Cersei</a>, and Varys, all of whom give testimony backing the accusations against Tyrion.
+</p>
+<figure class="article-thumb tright show-info-icon" style="width: 250px"> 	<a href="http://vignette1.wikia.nocookie.net/gameofthrones/images/a/a7/Tyrion_questions_Varys.png/revision/latest?cb=20140624142134" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Tyrion questions Varys"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Tyrion_questions_Varys.png" 	data-image-name="Tyrion questions Varys.png" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/a/a7/Tyrion_questions_Varys.png/revision/latest/scale-to-width-down/250?cb=20140624142134"  	 width="250"  	 height="136"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/a/a7/Tyrion_questions_Varys.png/revision/latest/scale-to-width-down/250?cb=20140624142134" 	 alt="Tyrion questions Varys"  	class="thumbimage " 	 	data-image-key="Tyrion_questions_Varys.png" 	data-image-name="Tyrion questions Varys.png" 	 	 width="250"  	 height="136"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Tyrion_questions_Varys.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Varys testifies at Tyrion's trial</p> 		 	</figcaption> </figure>
+<p>At recess, Jaime asks Tywin to spare Tyrion, offering to <a href="/wiki/Oathbreaking" title="Oathbreaking">break his oath</a> to the <a href="/wiki/Kingsguard" title="Kingsguard">Kingsguard</a> and return to <a href="/wiki/Casterly_Rock" title="Casterly Rock">Casterly Rock</a>, to be his heir. Tywin accepts, telling Jaime that Tyrion will be allowed to join the <a href="/wiki/Night%27s_Watch" title="Night's Watch">Night's Watch</a> after being found guilty of Joffrey's murder, provided he pleads for mercy. Before the recess ends, Jaime speaks with Tyrion and urges him to do so. Tyrion is deeply distrustful of the offer, remarking that <a href="/wiki/Eddard_Stark" title="Eddard Stark">Eddard Stark</a> was promised the same thing and <a href="/wiki/Baelor" title="Baelor">yet still lost his head</a>, but Jaime pleads with his brother to trust him, insisting that their father will keep his word.
+</p><p>Returning to the trial, Tywin orders the next witness to testify: <a href="/wiki/Shae" title="Shae">Shae</a>. She testifies that Tyrion and Sansa planned Joffrey's murder together, claiming that Sansa wanted vengeance for the murder of her father, mother, and brother. She tells the judges of Tyrion's sexual desires, embarrassing him in front of the crowd. Before she can continue, Tyrion, enraged beyond sense, angrily demands that he be allowed to confess his crimes. He angrily roars about how he saved King's Landing from <a href="/wiki/Stannis_Baratheon" title="Stannis Baratheon">Stannis Baratheon</a>'s forces and says he should've allowed Stannis to kill everyone in <a href="/wiki/King%27s_Landing" title="King's Landing">King's Landing</a>, much to the horror and disgust of the people in the court. Tyrion then claims to be guilty. Tywin assumes that he is guilty for murdering King <a href="/wiki/Joffrey_Baratheon" title="Joffrey Baratheon">Joffrey Baratheon</a>. Tyrion denies this, saying he is guilty of a "far more monstrous crime. I am guilty of being a <a href="/wiki/Dwarfism" title="Dwarfism">dwarf</a>!" Tywin scoffs at Tyrion's claims and says he is not on trial for being a dwarf. Tyrion angrily says he has been on trial for his entire life as a dwarf. Tywin asks if he has nothing to say in his defense. Tyrion then says he has nothing to say in his defense "but only this." He then reveals his true feelings about Joffrey, denying guilt in the king's murder but saying he wished to have killed Joffrey himself. Tyrion then turns his full fury towards Cersei and says that watching her "vicious bastard" of a son die gave him more relief than "a thousand lying whores." He then turns around to the court and roars that he wishes to have become the monster they thought he was and would have gladly give his life to watch everyone die from drinking poison. This enrages everyone in the court and Tywin orders Ser Meryn to escort Tyrion back to the dungeons. Before he can be escorted out, Tyrion bellows that he will not lose his life for a crime he did not commit and, knowing that he will get no justice from the court, demands a trial by combat. 
+</p>
+<h3><span class="mw-headline" id="In_Braavos">In Braavos</span></h3>
+<p><a href="/wiki/Stannis_Baratheon" title="Stannis Baratheon">Stannis Baratheon</a> and Ser <a href="/wiki/Davos_Seaworth" title="Davos Seaworth">Davos</a> visit the <a href="/wiki/Iron_Bank_of_Braavos" title="Iron Bank of Braavos">Iron Bank of Braavos</a> in hopes of securing funds to aid Stannis' war effort. At first <a href="/wiki/Tycho_Nestoris" title="Tycho Nestoris">Tycho Nestoris</a>, a representative from the bank, rejects their request, but Davos entreats him and points out that funding Stannis is the best way they could possibly get the gold they loaned to <a href="/wiki/Tywin_Lannister" title="Tywin Lannister">Tywin Lannister</a> back. The Bank agrees to lend them gold, and Davos uses it to once again recruit his old pirate friend <a href="/wiki/Salladhor_Saan" title="Salladhor Saan">Salladhor Saan</a> to Stannis' cause.
+</p>
+<h3><span class="mw-headline" id="In_Meereen">In Meereen</span></h3>
+<figure class="article-thumb tright show-info-icon" style="width: 180px"> 	<a href="http://vignette4.wikia.nocookie.net/gameofthrones/images/2/29/Dragon_Fire_Toasty.jpg/revision/latest?cb=20140512054543" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Dragon Fire Toasty"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Dragon_Fire_Toasty.jpg" 	data-image-name="Dragon Fire Toasty.jpg" 	 data-src="http://vignette4.wikia.nocookie.net/gameofthrones/images/2/29/Dragon_Fire_Toasty.jpg/revision/latest/scale-to-width-down/180?cb=20140512054543"  	 width="180"  	 height="112"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette4.wikia.nocookie.net/gameofthrones/images/2/29/Dragon_Fire_Toasty.jpg/revision/latest/scale-to-width-down/180?cb=20140512054543" 	 alt="Dragon Fire Toasty"  	class="thumbimage " 	 	data-image-key="Dragon_Fire_Toasty.jpg" 	data-image-name="Dragon Fire Toasty.jpg" 	 	 width="180"  	 height="112"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Dragon_Fire_Toasty.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Drogon toasting goats</p> 		 	</figcaption> </figure>On one sunny day outside of <a href="/wiki/Meereen" title="Meereen">Meereen</a>, a <a href="/wiki/Goatherd_(The_Laws_of_Gods_and_Men)" title="Goatherd (The Laws of Gods and Men)">goat&#160;herder</a> and <a href="/wiki/Goat_herder%27s_son" title="Goat herder's son" class="mw-redirect">his son</a> are peacefully tending the goats on a hill while the son throws rocks to pass the time. Suddenly, <a href="/wiki/Drogon" title="Drogon">Drogon</a> (now the size of a horse) appears and burns the field and kills a flock of goats while taking one with him. The goat herder travels to Meereen to visit the queen and lays the charred remains of his flock before Daenerys, hoping to not anger the queen and believes it to be punishment. Daenerys apologizes about Drogon's actions and promises to pay back three times the worth of his flock. 
+<p>After he departs, <a href="/wiki/Hizdahr_zo_Loraq" title="Hizdahr zo Loraq">Hizdahr zo Loraq</a> presents his petition: the right to bury his father's remains in the Temple of the Graces, as he was one of the Meereenese Great Masters crucified on Daenerys's orders. She counters that he was one of the masters that crucified the 163 children. Loraq reveals that his father actually spoke out against the crucifixion of the slave children but was overruled, but later was killed due to Daenerys's judgment anyway. Somewhat mollified, Daenerys allows him to bury his father. As he leaves, Daenerys asks how many more supplicants are waiting; <a href="/wiki/Missandei" title="Missandei">Missandei</a> answers that there are over 200 more.
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span></h2>
+<dl><dd><i>Main: <a href="/wiki/The_Laws_of_Gods_and_Men/Appearances?action=edit&amp;redlink=1" class="new" title="The Laws of Gods and Men/Appearances (page does not exist)">The Laws of Gods and Men/Appearances</a></i>
+</dd></dl>
+<h3><span class="mw-headline" id="First">First</span></h3>
+<ul><li><a href="/wiki/Tycho_Nestoris" title="Tycho Nestoris">Tycho Nestoris</a>
+</li><li><a href="/wiki/Lhara" title="Lhara">Lhara</a>
+</li><li><a href="/wiki/Goatherd_(The_Laws_of_Gods_and_Men)" title="Goatherd (The Laws of Gods and Men)">Goatherd</a>
+</li></ul>
+<h3><span class="mw-headline" id="Deaths">Deaths</span></h3>
+<ul><li><a href="/wiki/Bolton_guard_(The_Laws_of_Gods_and_Men)" title="Bolton guard (The Laws of Gods and Men)">Bolton guard</a>
+</li></ul>
+<h2><span class="mw-headline" id="Production">Production</span></h2>
+<h3><span class="mw-headline" id="Cast">Cast</span></h3>
+<table class="" style="background-color:transparent; color:inherit; width:100%;">
+
+<tr>
+<td style="vertical-align: top; width:50%;">
+<p><b>Starring</b>
+</p>
+<ul><li><a href="/wiki/Peter_Dinklage" title="Peter Dinklage">Peter Dinklage</a> as <a href="/wiki/Tyrion_Lannister" title="Tyrion Lannister">Tyrion Lannister</a>
+</li><li><a href="/wiki/Nikolaj_Coster-Waldau" title="Nikolaj Coster-Waldau">Nikolaj Coster-Waldau</a> as Ser <a href="/wiki/Jaime_Lannister" title="Jaime Lannister">Jaime Lannister</a>
+</li><li><a href="/wiki/Lena_Headey" title="Lena Headey">Lena Headey</a> as Queen <a href="/wiki/Cersei_Lannister" title="Cersei Lannister">Cersei Lannister</a>
+</li><li><a href="/wiki/Emilia_Clarke" title="Emilia Clarke">Emilia Clarke</a> as Queen <a href="/wiki/Daenerys_Targaryen" title="Daenerys Targaryen">Daenerys Targaryen</a>
+</li><li><a href="/wiki/Charles_Dance" title="Charles Dance">Charles Dance</a> as Lord <a href="/wiki/Tywin_Lannister" title="Tywin Lannister">Tywin Lannister</a>
+</li><li><a href="/wiki/Natalie_Dormer" title="Natalie Dormer">Natalie Dormer</a> as Lady <a href="/wiki/Margaery_Tyrell" title="Margaery Tyrell">Margaery Tyrell</a>
+</li><li><a href="/wiki/Liam_Cunningham" title="Liam Cunningham">Liam Cunningham</a> as Ser <a href="/wiki/Davos_Seaworth" title="Davos Seaworth">Davos Seaworth</a>
+</li><li><a href="/wiki/Stephen_Dillane" title="Stephen Dillane">Stephen Dillane</a> as King <a href="/wiki/Stannis_Baratheon" title="Stannis Baratheon">Stannis Baratheon</a>
+</li><li><a href="/wiki/Alfie_Allen" title="Alfie Allen">Alfie Allen</a> as <a href="/wiki/Reek" title="Reek" class="mw-redirect">Reek</a>
+</li><li><a href="/wiki/Iwan_Rheon" title="Iwan Rheon">Iwan Rheon</a> as <a href="/wiki/Ramsay_Bolton" title="Ramsay Bolton">Ramsay Snow</a>
+</li><li><a href="/wiki/Conleth_Hill" title="Conleth Hill">Conleth Hill</a> as Lord <a href="/wiki/Varys" title="Varys">Varys</a>
+</li><li><a href="/wiki/Sibel_Kekilli" title="Sibel Kekilli">Sibel Kekilli</a> as <a href="/wiki/Shae" title="Shae">Shae</a>
+</li><li>with <a href="/wiki/Iain_Glen" title="Iain Glen">Iain Glen</a> as Ser <a href="/wiki/Jorah_Mormont" title="Jorah Mormont">Jorah Mormont</a>
+</li></ul>
+</td><td style="vertical-align: top; width:50%;">
+<p><b>Guest starring</b>
+</p>
+<ul><li><a href="/wiki/Pedro_Pascal" title="Pedro Pascal">Pedro Pascal</a> as Prince <a href="/wiki/Oberyn_Martell" title="Oberyn Martell">Oberyn Martell</a>
+</li><li><a href="/wiki/Julian_Glover" title="Julian Glover">Julian Glover</a> as <a href="/wiki/Grand_Maester" title="Grand Maester">Grand Maester</a> <a href="/wiki/Pycelle" title="Pycelle">Pycelle</a>
+</li><li><a href="/wiki/Ian_McElhinney" title="Ian McElhinney">Ian McElhinney</a> as Ser <a href="/wiki/Barristan_Selmy" title="Barristan Selmy">Barristan Selmy</a>
+</li><li><a href="/wiki/Mark_Gatiss" title="Mark Gatiss">Mark Gatiss</a> as <a href="/wiki/Tycho_Nestoris" title="Tycho Nestoris">Tycho Nestoris</a>
+</li><li><a href="/wiki/Roger_Ashton-Griffiths" title="Roger Ashton-Griffiths">Roger Ashton-Griffiths</a> as Lord <a href="/wiki/Mace_Tyrell" title="Mace Tyrell">Mace Tyrell</a>
+</li><li><a href="/wiki/Lucian_Msamati" title="Lucian Msamati">Lucian Msamati</a> as <a href="/wiki/Salladhor_Saan" title="Salladhor Saan">Salladhor Saan</a>
+</li><li><a href="/wiki/Nathalie_Emmanuel" title="Nathalie Emmanuel">Nathalie Emmanuel</a> as <a href="/wiki/Missandei" title="Missandei">Missandei</a>
+</li><li><a href="/wiki/Jacob_Anderson" title="Jacob Anderson">Jacob Anderson</a> as <a href="/wiki/Grey_Worm" title="Grey Worm">Grey Worm</a>
+</li><li><a href="/wiki/Gemma_Whelan" title="Gemma Whelan">Gemma Whelan</a> as Princess <a href="/wiki/Yara_Greyjoy" title="Yara Greyjoy">Yara Greyjoy</a>
+</li><li><a href="/wiki/Finn_Jones" title="Finn Jones">Finn Jones</a> as Ser <a href="/wiki/Loras_Tyrell" title="Loras Tyrell">Loras Tyrell</a>
+</li><li><a href="/wiki/Dean-Charles_Chapman" title="Dean-Charles Chapman">Dean-Charles Chapman</a> as King <a href="/wiki/Tommen_Baratheon" title="Tommen Baratheon">Tommen Baratheon</a>
+</li><li><a href="/wiki/Ian_Beattie" title="Ian Beattie">Ian Beattie</a> as Ser <a href="/wiki/Meryn_Trant" title="Meryn Trant">Meryn Trant</a>
+</li><li><a href="/wiki/Joel_Fry" title="Joel Fry">Joel Fry</a> as <a href="/wiki/Hizdahr_zo_Loraq" title="Hizdahr zo Loraq">Hizdahr zo Loraq</a>
+</li><li><a href="/wiki/Charlotte_Hope" title="Charlotte Hope">Charlotte Hope</a> as <a href="/wiki/Myranda" title="Myranda">Myranda</a>
+</li><li><a href="/wiki/Philip_Arditti" title="Philip Arditti">Philip Arditti</a> as a <a href="/wiki/Goatherd_(The_Laws_of_Gods_and_Men)" title="Goatherd (The Laws of Gods and Men)">goatherd</a>
+</li><li><a href="/wiki/Rhodri_Miles" title="Rhodri Miles">Rhodri Miles</a> as a <a href="/wiki/First_Mate" title="First Mate">First Mate</a>
+</li><li><a href="/wiki/Sarine_Sofair" title="Sarine Sofair">Sarine Sofair</a> as <a href="/wiki/Lhara" title="Lhara">Lhara</a>
+</li><li><a href="/wiki/Samantha_McEwan" title="Samantha McEwan">Samantha McEwan</a> as a <a href="/wiki/Bathhouse_prostitute" title="Bathhouse prostitute">Bathhouse prostitute</a>
+</li><li><a href="/wiki/Michael_Hough" title="Michael Hough">Michael Hough</a> as <a href="/wiki/Ironborn_in_skiff" title="Ironborn in skiff">Ironborn in skiff</a>
+</li><li><a href="/wiki/Anthony_Boyle" title="Anthony Boyle">Anthony Boyle</a> as a <a href="/wiki/Bolton_guard_(The_Laws_of_Gods_and_Men)" title="Bolton guard (The Laws of Gods and Men)">Bolton guard</a>
+</li><li><a href="/wiki/Conor_Watters" title="Conor Watters">Conor Watters</a> as <a href="/wiki/Hizdahr_zo_Loraq%27s_manservant" title="Hizdahr zo Loraq's manservant">Hizdahr zo Loraq's manservant</a>
+</li><li><a href="/wiki/Gian_Sanghera-Warren" title="Gian Sanghera-Warren">Gian Sanghera-Warren</a> as a <a href="/wiki/Goatherd%27s_son" title="Goatherd's son">goatherd's son</a>
+</li><li><a href="/wiki/Mackenzie_Dean?action=edit&amp;redlink=1" class="new" title="Mackenzie Dean (page does not exist)">Mackenzie Dean</a>
+</li></ul>
+<p><b>Uncredited</b>
+</p>
+<ul><li><a href="/wiki/Niamh_Lennon" title="Niamh Lennon">Niamh Lennon</a> as a King's Landing Handmaiden
+</li><li><a href="/wiki/Graeme_Peacock" title="Graeme Peacock">Graeme Peacock</a> as Stannis Crew
+</li><li><a href="/wiki/Dean_Weir" title="Dean Weir">Dean Weir</a> as Noble Man
+</li></ul>
+</td></tr></table>
+<p><br />
+</p>
+<h4><span class="mw-headline" id="Cast_notes">Cast notes</span></h4>
+<ul><li>13 of 26 cast members for the fourth season appear in this episode
+</li><li>Starring cast members <a href="/wiki/John_Bradley" title="John Bradley" class="mw-redirect">John Bradley</a> (<a href="/wiki/Samwell_Tarly" title="Samwell Tarly">Samwell Tarly</a>), <a href="/wiki/Gwendoline_Christie" title="Gwendoline Christie">Gwendoline Christie</a> (<a href="/wiki/Brienne_of_Tarth" title="Brienne of Tarth">Brienne of Tarth</a>), <a href="/wiki/Jerome_Flynn" title="Jerome Flynn">Jerome Flynn</a> (<a href="/wiki/Bronn" title="Bronn">Bronn</a>), <a href="/wiki/Aidan_Gillen" title="Aidan Gillen">Aidan Gillen</a> (<a href="/wiki/Petyr_Baelish" title="Petyr Baelish">Petyr Baelish</a>), <a href="/wiki/Kit_Harington" title="Kit Harington">Kit Harington</a> (<a href="/wiki/Jon_Snow" title="Jon Snow">Jon Snow</a>), <a href="/wiki/Isaac_Hempstead-Wright" title="Isaac Hempstead-Wright">Isaac Hempstead-Wright</a> (<a href="/wiki/Bran_Stark" title="Bran Stark">Bran Stark</a>), <a href="/wiki/Kristofer_Hivju" title="Kristofer Hivju">Kristofer Hivju</a> (<a href="/wiki/Tormund_Giantsbane" title="Tormund Giantsbane" class="mw-redirect">Tormund Giantsbane</a>), <a href="/wiki/Rose_Leslie" title="Rose Leslie">Rose Leslie</a> (<a href="/wiki/Ygritte" title="Ygritte">Ygritte</a>), <a href="/wiki/Rory_McCann" title="Rory McCann">Rory McCann</a> (<a href="/wiki/Sandor_Clegane" title="Sandor Clegane">Sandor Clegane</a>), <a href="/wiki/Hannah_Murray" title="Hannah Murray">Hannah Murray</a> (<a href="/wiki/Gilly" title="Gilly">Gilly</a>), <a href="/wiki/Sophie_Turner" title="Sophie Turner">Sophie Turner</a> (<a href="/wiki/Sansa_Stark" title="Sansa Stark">Sansa Stark</a>), <a href="/wiki/Carice_van_Houten" title="Carice van Houten">Carice van Houten</a> (<a href="/wiki/Melisandre" title="Melisandre">Melisandre</a>) and <a href="/wiki/Maisie_Williams" title="Maisie Williams">Maisie Williams</a> (<a href="/wiki/Arya_Stark" title="Arya Stark">Arya Stark</a>) are not credited and do not appear in this episode.
+</li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span></h2>
+<ul><li>This is the first time the opening features two locations in Essos (Braavos and Meereen).
+</li><li>Tyrion's trial contains multiple callbacks to previous episodes. As the producers note in the behind-the-scenes featurettes, most of these are things Tyrion actually said, but presented out of context to put him in a disparaging light:
+<ul><li>Ser Meryn describes how Tyrion chastised and struck Joffrey when he caused the <a href="/wiki/Riot_of_King%27s_Landing" title="Riot of King's Landing">Riot of King's Landing</a> in Season 2's "<a href="/wiki/The_Old_Gods_and_the_New" title="The Old Gods and the New">The Old Gods and the New</a>," as well as when Tyrion threatened Meryn and compared Joffrey to the Mad King in Season 2's "<a href="/wiki/Garden_of_Bones" title="Garden of Bones">Garden of Bones</a>" – and as Tyrion points out, Joffrey was threatening Sansa with a loaded crossbow at the time, then had Ser Meryn strip and beat the helpless girl in full view of the entire court.
+</li><li>Pycelle recalls how Tyrion had him imprisoned in Season 2's "<a href="/wiki/What_is_Dead_May_Never_Die" title="What is Dead May Never Die">What is Dead May Never Die</a>" – which he did because he discovered that Pycelle was spying on him for Cersei.
+</li><li>Cersei recalls how Tyrion threatened to one day turn her joy to ashes in Season 2's "<a href="/wiki/The_Prince_of_Winterfell" title="The Prince of Winterfell">The Prince of Winterfell</a>" – which was actually a feigned threat, because Cersei had mistakenly captured <a href="/wiki/Ros" title="Ros">Ros</a> thinking she was his real lover, Shae, and he wanted to trick her into thinking he was deeply upset because she had actually caught the right woman.
+</li><li>Varys recounts that in Season 3's "<a href="/wiki/Mhysa" title="Mhysa">Mhysa</a>," during a Small Council meeting Tyrion threatened that Joffrey should speak to him more carefully because right now kings are dying like flies. The quote is accurate, though he doesn't mention that Tyrion said it after Joffrey gleefully insisted that he wanted Robb Stark's severed head served to Sansa (Tyrion's nominal wife) at his own wedding feast – which disgusted the entire council, including Varys and Tywin.
+<ul><li>As the producers point out in the behind-the-scenes featurettes, Tyrion doesn't seem as deeply upset by Varys's testimony against him (intellectually, at least), because repeatedly in the past (most recently in "<a href="/wiki/The_Lion_and_the_Rose" title="The Lion and the Rose">The Lion and the Rose</a>"), Varys politely warned Tyrion that if his father ever turned on him, he would not risk openly intervening on his behalf.
+</li></ul>
+</li><li>Shae recalls how Tyrion had Bronn acquire her for his services in the Lannister camp in Season 1's "<a href="/wiki/Baelor" title="Baelor">Baelor</a>," and how he asked her to fuck him like it was his last night in the world before the battle in the morning.
+</li></ul>
+</li><li>When Cersei testifies, she also recalls Tyrion and Joffrey's interaction during the <a href="/wiki/Battle_of_the_Blackwater" title="Battle of the Blackwater">Battle of the Blackwater</a> (In Season 2's "<a href="/wiki/Blackwater" title="Blackwater">Blackwater</a>") – but unlike the other witnesses such as Ser Meryn or Pycelle she doesn't just twist idle threats Tyrion made at Joffrey, but flat-out lies about what happened. She says that Tyrion tried to put Joffrey in harm's way by putting him in the front lines, though when the attack came, Joffrey bravely insisted on staying at the battlements to inspire the troops. In reality, when the siege started looking dire, it was Cersei herself who commanded that Joffrey be brought hide in the Red Keep with her – and the cowardly Joffrey readily abandoned his troops, leaving Tyrion to have to rally them in a counter-attack. Cersei might not actually be "lying" in a traditional sense – in the books, her obsession with Joffrey is so great that she actually believes her own distorted views about him, even when they contradict actual events. For that matter, she doesn't mention that she <i>herself</i> called Joffrey back from the battlements - from her inner thought monologue in her own POV chapters, Cersei will genuinely remember her own past failures differently so she can blame someone else, rather than admit fault even to herself.
+</li><li>This is the first episode in which absolutely none of the Starks appear, nor any of their immediate supporters (i.e., the Tullys such as Catelyn's brother Edmure and uncle Brynden, or loyal vassals such as the Umbers, or even Brienne of Tarth). Even Eddard's bastard son, Jon Snow, does not appear in this episode. In Season 1, Eddard was in every episode except the last, but Catelyn and his children did appear in the finale. Afterwards, one of Eddard's children would appear at least once in every episode, rotating between Robb, Sansa, Arya, and Bran (who was often accompanied by Rickon). Arya appeared in every episode of Season 2 except "Blackwater," which focused entirely on events in King's Landing, but at least Sansa appeared in that episode. In Season 3, Arya appeared in every episode except the first, but Robb, Catelyn, and Sansa did appear in the premiere.
+<ul><li>Even if Jon Snow was disregarded, this point would still stand: of Eddard's five lawful children, at least one of them appeared in every episode from Season 2 onwards. In fact, the only episode up to this point in which none of Eddard's five lawful children appeared was Season 1 episode 7, "<a href="/wiki/You_Win_or_You_Die" title="You Win or You Die">You Win or You Die</a>," which Jon Snow did appear in. The episode still focused on Eddard Stark himself, and his failed attempt to stop Cersei from crowning Joffrey as king (it was also one of only three episodes to date that even Tyrion didn't appear in).
+</li><li>Additionally, none of the Night's Watch characters or storylines appear in this episode (as there have been a few episodes that Jon didn't appear in, but Samwell Tarly did). Margaery and Loras Tyrell appear in this episode but have no speaking lines.
+</li></ul>
+</li><li>In an interview with the <i>Game of Owns</i> podcast a few days after the episode aired, writer <a href="/wiki/Bryan_Cogman" title="Bryan Cogman">Bryan Cogman</a> answered several questions:<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[2]</a></sup>
+<ul><li>The unprecedented absence of any Starks (or Jon Snow and the Night's Watch) was not a conscious choice, as if the production team made a deliberate decision to alter the familiar story formula. Short scenes often get shuffled around between episodes, so even if no Stark scenes were written for a specific episode, sometimes a one minute scene with Arya would be inserted from a separate episode in editing, just to check in on a Stark subplot. In this episode, however, the Lannister plotlines simply took up so much screentime that not even a single brief scene with one of the Starks fit into it. Even Cogman didn't realize there were no Starks in the episode until they had finished shooting.
+</li><li>Many reviewers found it bizarre and unexpected that after all of the buildup given in the Season 3 finale that Yara Greyjoy would attempt to rescue Theon from the Dreadfort, her small raiding force actually fails and in about three minutes of screentime this subplot unravels. Cogman explained that this is actually exactly what the writers intended: they deliberately wanted the entire "Yara attempts to rescue Theon" subplot to abruptly end in failure, as a fake-out to the audience to surprise them. Similar to how <a href="/wiki/Renly_Baratheon" title="Renly Baratheon">Renly Baratheon</a> was built up in Season 2 but was then unexpectedly assassinated by a <a href="/wiki/Shadow" title="Shadow">Shadow</a>, or how <a href="/wiki/Robb_Stark" title="Robb Stark">Robb Stark</a> seemed to be built up as the faction leader who would ultimately defeat the Lannisters only to be killed at the <a href="/wiki/Red_Wedding" title="Red Wedding">Red Wedding</a>. As Cogman intended it, Yara has never failed before, and this is very embarrassing for her - it is a case of reality setting in, that she thought it would be a grand damn-the-odds epic rescue, but it is really impossible for only fifty ironborn to successfully raid a strong castle like the Dreadfort. On a certain level, Cogman thinks that Ramsay <i>let</i> Yara escape – after most of her men had been killed by the Bolton garrison and his hunting dogs – to send a message that the ironborn shouldn't screw with him anymore. Ramsay is a sadist and knows that letting Yara leave alive actually torments her more than killing her, because the ironborn <i>never</i> retreat, think retreat is shameful, and would actually prefer to gloriously die fighting.
+<ul><li>In the Season 4 Blu-ray commentary, Cogman stresses that Yara isn't afraid of Ramsay's hunting dogs – she'd been hoping for the element of surprise with a small raiding force, but now she's clearly lost the element of surprise, the castle garrison is responding to her presence and the odds are mounting against her. Ultimately, Cogman says, she leaves because she knows that if she dies her father's bloodline will be extinguished, so she can't lightly risk her own life.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[3]</a></sup>
+</li></ul>
+</li><li>Originally the first scene of the episode was the one in which the dragon roasts the goats, which was impressive, but later it was decided that the finished establishing shot of Braavos was great for grabbing everyone's attention in the beginning.
+</li><li><a href="/wiki/Hizdahr_zo_Loraq" title="Hizdahr zo Loraq">Hizdahr zo Loraq</a>'s scene with Daenerys is entirely an invention of the TV series, as no mention at all of Hizdahr's father is made in the books. Hizdahr begs Daenerys to let him give his father a proper funeral despite what crimes she feels he was complicit in – Cogman openly admitted that he took this from the Ancient Greek tragedy <i><a href="http://en.wikipedia.org/wiki/Antigone_(Sophocles" class="extiw exitstitial" title="wikipedia:Antigone (Sophocles">Antigone</a></i>, written around the year 441 BC by <a href="http://en.wikipedia.org/wiki/Sophocles" class="extiw exitstitial" title="wikipedia:Sophocles">Sophocles</a>.
+</li><li>Cogman originally scripted the scene in which Tywin and Jaime meet during the trial's recess to take place in Tywin's office in the <a href="/wiki/Tower_of_the_Hand" title="Tower of the Hand">Tower of the Hand</a>. <a href="/wiki/Charles_Dance" title="Charles Dance">Charles Dance</a> (Tywin), however, pointed out that this might be a bit repetitious given all of the other scenes that took place in Tywin's office, and on his suggestion the scene was moved to the garden atrium set. Cogman also thinks it worked better that way, because having Tywin discuss the trial while he is eating lunch in the atrium makes him seem much more flippant and uncaring about Tyrion's fate.
+</li><li>Cogman pointed out that Cersei, not Tywin, was the one coaching the witnesses. It is a show trial, but Tywin is dignified enough that he feels it would be seen as a breach of decorum if he directly spoke to the witnesses (similar to how in the episode immediately preceding this one, he wouldn't even discuss the trial in private with Cersei). Of course, Cogman noted, Tywin must have known up to a point that Cersei was manipulating the witnesses, but wasn't very concerned and did nothing to stop it – he just didn't want to be seen as <i>personally</i> rigging the trial.
+</li><li>There was quite a lot of confusion and debate amongst viewers about exactly how Shae came back to the Red Keep, given that when last she was seen Bronn had just put her on a ship in the harbor bound for Pentos. Some viewers developed elaborate explanations of how Shae was re-acquired (such as outright sending a ship all the way to Pentos to retrieve her). Cogman pointed out that Tywin's first line after Joffrey was poisoned (at the beginning of "<a href="/wiki/Breaker_of_Chains" title="Breaker of Chains">Breaker of Chains</a>") was "stop all ships in the port!" – and Cogman felt the obvious implication was that Lannister soldiers had quite simply managed to stop Shae's ship before it left the bay. Cogman was confused why some viewers put so much thought into this or found it difficult to understand.
+</li><li>Regarding the Iron Bank of Braavos, Cogman was worried and wanted to make one thing absolutely explicit: the Iron Bank did not officially decide to abandon the Lannisters in favor of fully funding Stannis in this episode. Instead, Davos raised enough doubt in their minds about how well the Lannisters could maintain their hold on power (and manage their debts) after Tywin died that the bank decided to extend Stannis a provisional loan, to at least string him along. The loan was just enough to buy new food, supplies, and horses for his remaining men (said to be under 4,000) and to rehire Salladhor's Saan's sellsail fleet so he could also transport these remaining soldiers where he needed to (instead of remaining immobilized on Dragonstone). It didn't give Stannis enough money to hire massive new mercenary armies (such as the <a href="/wiki/Golden_Company" title="Golden Company">Golden Company</a> which Davos previously mentioned). Cogman stressed that as of this episode, the bank decided that it would be a bad idea to put all of its eggs in one basket, and it wants to at least keep its options open between Tywin and Stannis, while still remaining officially neutral. For the time being, though, the bank still acknowledges that Tommen is the king on the Iron Throne itself, controlling the capital city – and thus allegedly also responsible for the Iron Throne's massive foreign debts.
+</li></ul>
+</li><li>The Free City of <a href="/wiki/Braavos" title="Braavos">Braavos</a> makes its first on-screen appearance in this episode, though it has often been mentioned since Season 1. This makes it the second of the <a href="/wiki/Free_Cities" title="Free Cities">Free Cities</a> to actually be shown on-screen, following the introduction of the Targaryens in <a href="/wiki/Pentos" title="Pentos">Pentos</a> at the beginning of Season 1.
+</li><li>As Bryan Cogman explained, in the books <a href="/wiki/Tycho_Nestoris" title="Tycho Nestoris">Tycho Nestoris</a> comes to Westeros as a representative of the Iron Bank, but the writers felt that it would be more interesting to physically introduce Braavos and the bank, as well as to take Stannis out of his comfort zone:
+</li></ul>
+<dl><dd><dl><dd>"When we first broached the subject of bringing in the Iron Bank, for awhile the version was [Iron Bank representative Tycho Nestoris] would come to Dragonstone and meet on Stannis's turf. It just seemed like whenever we can open up this world and give the audience something new visually and take characters out of their comfort zone, the better. We thought it would be more dramatic and interesting to put Stannis in the position of having to go ask for a loan. It’s a humiliating situation. The Stannis storyline is certainly more of a slow burn, but it will pay off."<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[4]</a></sup>
+</dd></dl>
+</dd></dl>
+<ul><li>In the HBO Inside the Episode featurette, Benioff and Weiss explain that Tywin's immediate and unhesitating answer of "done" to Jaime's offer is a subtle hint that this is exactly what Tywin was hoping for, if not as soon as Tyrion was arrested then as a plan he settled on long before the trial began. It is debatable whether Tywin would ever have Tyrion actually killed (if only because it might be seen as embarrassing for a Lannister to be executed), but Tywin quickly realized that he could turn the situation to his advantage, using the threat of killing Tyrion to manipulate Jaime into making such a deal. With one stroke, his hated son Tyrion will be exiled, while Jaime will be forced to accept being his heir.
+</li><li>It is stated in this episode that Tywin Lannister is 67 years old, though in the books, he is 58 years old at this point in the narrative. Perhaps the reason is that Charles Dance was 67 years old when the episode was broadcast.
+</li><li>The scene in which Davos meets up again with Salladhor in a communal bathhouse in Braavos was invented for the TV series. However, the TV series did not invent the detail about a Roman-style communal bathhouse. When Jaime and Brienne use the baths at <a href="/wiki/Harrenhal" title="Harrenhal">Harrenhal</a> (in Season 3's "<a href="/wiki/Kissed_by_Fire" title="Kissed by Fire">Kissed by Fire</a>") it is noted that they were built as communal group-baths "in the style of the Free Cities." Indeed, the Free Cities were colonies of the now-fallen <a href="/wiki/Valyrian_Freehold" title="Valyrian Freehold">Valyrian Freehold</a>, which was their world's fantasy counterpart of the Roman Republic. This is why the baths in Harrenhal were small pools which multiple people could use at once. So it is actually entirely consistent with the books that communal bathhouses are fairly common in the Free Cities. It isn't clear if Salladhor is in a "brothel" or just a public bathhouse (though of course, a high-end brothel might contain a bathhouse).
+</li><li>The brief subplot of Yara Greyjoy mounting a raid against the Dreadfort to try to rescue Theon, despite the prominence given to its setup in the Season 3 finale, quickly fails in this episode: it actually has no equivalent in the books. Theon's sister (named Asha in the books) simply thinks that Theon is dead. Moreover, the Iron Islands are on the exact opposite side of Westeros from the Dreadfort: the Iron Islands are off the west coast of the continent and the Dreadfort is far to the northeast. There are no canals. Given that George R.R. Martin has stated that Westeros is about the size of real-life South America, Yara traveling from Pyke to the Dreadfort is the equivalent of sailing from Ecuador to Venezuela, by travelling south around Cape Horn. Such a journey would take many months. Then again, the TV series has added more time to the narrative (extending it so that one season equals one year within the story): one month is stated to have passed between the Season 3 finale and Season 4 premiere, and this episode is in the later half of Season 4, so the implication might be that Yara managed to make the voyage in about two to three months.
+<ul><li>Of course, Ramsay's letter said that he would give the ironborn until the first night of the full moon to withdraw from the North, or he would start sending them more boxes containing pieces of Theon, implying that he gave them a deadline of <i>no more than</i> one month. It isn't clear how much time has passed between episodes 1 and 6 of Season 4, but dialogue clearly established that Joffrey's wedding occurred about one month after the Red Wedding.
+</li><li>It is <i>vaguely</i> possible that because she was in a hurry, Yara could have sailed to the isthmus of <a href="/wiki/The_Neck" title="The Neck">the Neck</a>, where the fortress of <a href="/wiki/Moat_Cailin" title="Moat Cailin">Moat Cailin</a> is currently controlled by a force of ironborn sent there by her father in Season 2, and she and her crew could have crossed overland to reach another ironborn ship waiting on the eastern coast. But that does not appear to be the TV series's intent.
+</li></ul>
+</li><li>In the books, Ramsay's torture of Theon is so severe that even people who knew him before it physically cannot recognize him: he looks like he has aged forty years from the stress, his skin is pasty white from not seeing the light of the sun for over a year, he looks like a skeleton from starving in the dungeons, and Ramsay knocked his teeth out. Yara doesn't have trouble recognizing Theon in this episode, though admittedly it would be difficult for practical effects to fully portray this (that, and in these circumstances, Yara actually forced a Bolton soldier with a blade to his throat to specifically point out which cell Theon was in).
+</li><li>In the scene where Ramsay lets Theon have a bath, Bryan Cogman actually wanted the camera to pan down to show the devastated remains of Theon's genitals after Ramsay emasculated him, but Benioff and Weiss felt it was unnecessary.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[5]</a></sup>
+</li><li>Mace Tyrell has been named the new <a href="/wiki/Master_of_Ships" title="Master of Ships">Master of Ships</a>. Stannis was actually the Master of Ships under Robert, but after the war broke out, Cersei simply left the office functionally vacant for over a year, until Tywin resumed his office as Hand of the King. Mace's position is in-part due to the fact that, with the destruction of the <a href="/wiki/Royal_Fleet" title="Royal Fleet">Royal Fleet</a> at the Battle of the Blackwater, the <a href="/wiki/Redwyne_Fleet" title="Redwyne Fleet">Redwyne Fleet</a> is now the only large naval force available to the Lannisters – and <a href="/wiki/House_Redwyne" title="House Redwyne">House Redwyne</a> are loyal vassals of the Tyrells (in fact, <a href="/wiki/Olenna_Tyrell" title="Olenna Tyrell">Olenna Tyrell</a> herself was born Olenna Redwyne).
+<ul><li>Oberyn asks what specific office on the <a href="/wiki/Small_Council" title="Small Council">Small Council</a> he will be given, but the matter is not addressed. Of the seven positions on the council, Tywin is Hand of the King, Jaime is Lord Commander of the Kingsguard, Varys remains as Master of Whisperers, Pycelle remains as Grand Maester, and now Mace is Master of Ships. Of the remaining two offices, Tyrion has been stripped of his position as Master of Coin, though no mention is made of who the Master of Laws is. In the books, Tywin actually appointed his younger brother (and most trusted lieutenant) <a href="/wiki/Kevan_Lannister" title="Kevan Lannister">Kevan Lannister</a> as Master of Laws after they arrived in the city, but the character has not reappeared in Season 3 or Season 4 up to this point (the actor may be unavailable). In the books, Tywin does not bother to give Oberyn a specific office, but has him sit on the council as an advisor without specific duties.
+</li></ul>
+</li><li>Oberyn Martell mentions that he spent five years in Essos. In the books, this occurred in Oberyn's youth, after he killed Lord Yronwood in a formal duel. House Yronwood called for Oberyn's blood, so Oberyn was sent abroad to the Free Cities for several years until tempers at home cooled down: none dared to call his travels "exile," which is what it functionally was. In that time Oberyn served in several sellsword companies, including the <a href="/wiki/Second_Sons" title="Second Sons">Second Sons</a>, and would have seen Unsullied soldiers in battle.
+</li><li>This is actually only the second episode in which the name of the large eastern continent, "<a href="/wiki/Essos" title="Essos">Essos</a>," has been used on-screen (and the first was a brief remark by <a href="/wiki/Doreah" title="Doreah">Doreah</a> in Season 2's "<a href="/wiki/The_Ghost_of_Harrenhal" title="The Ghost of Harrenhal">The Ghost of Harrenhal</a>" that <a href="/wiki/Qarth" title="Qarth">Qarth</a> is "the richest city in Essos"). Oberyn's dialogue in this episode makes it more clear that Essos is the name of the entire continent. The name has prominently appeared on maps for the TV series, but similar to the books, characters more commonly refer to it as "in the East," "across the <a href="/wiki/Narrow_Sea" title="Narrow Sea">Narrow Sea</a>," or to specific sub-regions of Essos such as "in the Free Cities" or "in Slaver's Bay." Essos is loosely analogous to Eurasia, so saying "I am going to Essos" is somewhat like saying "I am going to Eurasia" – which could mean anywhere from Italy to China. Therefore the formal name of the entire eastern continent, "Essos," tends not to be used frequently in everyday conversation.
+</li><li>This episode corrects a small point about Varys: in the Season 3 episode "<a href="/wiki/And_Now_His_Watch_is_Ended" title="And Now His Watch is Ended">And Now His Watch is Ended</a>" he explained to Tyrion that as a youth he was a slave who was part of a troupe of actors who traveled around the different Free Cities, until he was sold to the sorcerer who castrated him in <a href="/wiki/Myr" title="Myr">Myr</a>. That episode left out the detail from the books that Varys was actually born as a slave in <a href="/wiki/Lys" title="Lys">Lys</a>, and Myr just happened to be the city where his acting troupe was at the time. This episode confirms that Varys is a Lysene, as Oberyn points out that he recognizes his hint of an accent.
+</li><li>In terms of <a href="/wiki/Currency" title="Currency">Currency</a>, this is the first episode to introduce the denomination of the Gold Dragon known as the Silver Stag, when Tywin offers a 100 Silver Stag bounty on Sandor Clegane. From the books, 1 Gold Dragon equals 210 Silver Stags, and 1 Silver Stag equals 56 Copper Pennies (which have been mentioned earlier in the TV series). Thus 1 Gold Dragon equals 11,760 Copper Pennies (56 X 210 = 11,760). There are a few other more rare denominations (a Copper Star is worth 8 normal Copper Pennies), but these are the three major, common denominations.
+<ul><li>The round coins which Davos shows to Salladhor are not Braavosi coins, because they have appeared in the TV series before and are square-shaped (matching their description from the books). We haven't had a good look at Gold Dragon coins before, but the coins Davos has don't appear to be those either: when Salladhor holds one up, it can be seen that they are stamped with the hourglass-shaped symbol of the Iron Bank, which was seen on the wall of the room where Stannis met the bankers. It is possible that they are some sort of unique voucher-coin given out by the Iron Bank.
+</li></ul>
+</li><li>Tywin chastises Cersei that dismissing Barristan from the Kingsguard was not only insulting but stupid, as he has now fled to serve a rival claimant to the throne, the last Targaryen heir. Cersei had Barristan dismissed back in Season 1 episode 8, "<a href="/wiki/The_Pointy_End" title="The Pointy End">The Pointy End</a>". In the novels, it is Tyrion who points this out, when he first arrives in King's Landing (corresponding to the Season 2 premiere). Tyrion explains that Barristan is considered a living legend, and if he joins a rival claimant like Renly or Stannis, it will give a massive boost to their perceived legitimacy. Tyrion bluntly asks if any of this occurred to Cersei at all, to which she can only grudgingly admit that she simply never considered it - one of a string of short-sighted follies in which Cersei never thinks out the long-term impact of her actions.
+</li><li>In the Small Council, Tywin remarks that dragons have not won a war in three hundred years - since the <a href="/wiki/War_of_Conquest" title="War of Conquest">Targaryen Conquest</a>. This is <i>technically</i> true, but also because dragons are an effective deterrent: entire generations passed in which the lords of the Seven Kingdoms were so afraid of the Targaryens' dragons that they dared not rise up in revolt in the first place. As Tywin noted three episodes ago, <a href="/wiki/Dorne" title="Dorne">Dorne</a> did manage to resist the Targaryen dragons - but the Dornish did this by resorting to guerrilla warfare, harassing Targaryen armies as soon as the dragons left, and Dorne still suffered grievous losses. Dragons also did not prove decisive in the civil war between <a href="/wiki/Rhaenyra_Targaryen" title="Rhaenyra Targaryen">Rhaenyra Targaryen</a> and <a href="/wiki/Aegon_II_Targaryen" title="Aegon II Targaryen">Aegon II Targaryen</a>, because it was an internal schism within the Targaryen family, and <i>both</i> sides had dragons.
+</li><li>A Season 4 blooper reel revealed that during the trial scene, <a href="/wiki/Charles_Dance" title="Charles Dance">Charles Dance</a> (Tywin) gripped the pommel of one of the swords making up the Iron Throne so hard (because Tywin is angry) that it accidentally snapped off - he then looked down at it in his grip, embarrassed that he had just broken the Iron Throne prop.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[6]</a></sup>
+</li></ul>
+<h2><span class="mw-headline" id="In_the_books">In the books</span></h2>
+<dl><dd> <i>See: <a href="/wiki/Differences_between_books_and_TV_series_-_Season_4#The_Laws_of_Gods_and_Men" title="Differences between books and TV series - Season 4">Differences between books and TV series - Season 4#The Laws of Gods and Men</a> </i>
+</dd></dl>
+<ul><li> The episode is adapted from the following chapters of <i>A Storm of Swords</i>:
+<ul><li> Chapter 66, Tyrion IX: At <a href="/wiki/Court_trial_of_Tyrion_Lannister" title="Court trial of Tyrion Lannister">his trial</a>, <a href="/wiki/Tyrion_Lannister" title="Tyrion Lannister">Tyrion</a> declares his innocence, and claims that <a href="/wiki/Sansa_Stark" title="Sansa Stark">Sansa</a> was not responsible either. <a href="/wiki/Meryn_Trant" title="Meryn Trant">Meryn Trant</a> testifies against him, recalling damning threats which Tyrion did make; and so does <a href="/wiki/Pycelle" title="Pycelle">Pycelle</a>, who says that Tyrion stole poisons from his solar. Tyrion is told that if he admits his guilt, he will be permitted to <a href="/wiki/Night%27s_Watch" title="Night's Watch">take the black</a>, but he is not so sure, remembering what happened to <a href="/wiki/Eddard_Stark" title="Eddard Stark">Ned Stark</a>, who was offered the same deal. <a href="/wiki/Varys" title="Varys">Varys</a> also testifies against Tyrion.
+</li><li> Chapter 70, Tyrion X: <a href="/wiki/Shae" title="Shae">Shae</a> is brought as a witness. She accuses Tyrion and Sansa of the murder and claims that she was an innocent girl before Tyrion abused her and used her as his whore. Furious, Tyrion says he will confess, but instead he confesses only to being a dwarf, for which he has been judged his entire life. He claims that he will not die for Joffrey's murder, so instead he demands a trial by battle.
+</li></ul>
+</li><li> The episode is adapted from the following chapters of <i>A Dance with Dragons</i>
+<ul><li> Chapter 2, Daenerys I: <a href="/wiki/Daenerys_Targaryen" title="Daenerys Targaryen">Daenerys</a> meets petitioners of Meereen including the noble <a href="/wiki/Hizdahr_zo_Loraq" title="Hizdahr zo Loraq">Hizdahr zo Loraq</a> and a <a href="/wiki/Goatherd_(The_Laws_of_Gods_and_Men)" title="Goatherd (The Laws of Gods and Men)">shepherd</a> who claims that Dany's dragons devoured his sheep.
+</li><li> Chapter 9, Davos I: <a href="/wiki/Davos_Seaworth" title="Davos Seaworth">Davos</a> asks <a href="/wiki/Salladhor_Saan" title="Salladhor Saan">Salladhor Saan</a> for ships once again.
+</li><li> Chapter 12, Reek II: <a href="/wiki/Ramsay_Bolton" title="Ramsay Bolton">Ramsay</a> gives <a href="/wiki/Theon_Greyjoy" title="Theon Greyjoy">Reek</a> a bath and tells him he needs his help to retake <a href="/wiki/Moat_Cailin" title="Moat Cailin">Moat Cailin</a> from the <a href="/wiki/Ironborn" title="Ironborn">ironborn</a>. Though Reek is given the chance to return to the Iron Islands with the ironborn he declines, accurately realizing that this is just another trick by Ramsay.
+</li></ul>
+</li><li> The episode is adapted from the following chapter of <i>The Winds of Winter</i>
+<ul><li> Chapter unknown, Theon I: <a href="/wiki/Tycho_Nestoris" title="Tycho Nestoris">Tycho Nestoris</a>, a representative of the <a href="/wiki/Iron_Bank" title="Iron Bank" class="mw-redirect">Iron Bank</a>, comes to an agreement to finance <a href="/wiki/Stannis_Baratheon" title="Stannis Baratheon">Stannis</a>.
+</li></ul>
+</li></ul>
+<h2><span class="mw-headline" id="Memorable_quotes">Memorable quotes</span></h2>
+<p><b><a href="/wiki/Yara_Greyjoy" title="Yara Greyjoy">Yara Greyjoy</a></b>: "My brother is dead."
+</p>
+<hr style="width: 50%;" /><b><a href="/wiki/Ramsay_Snow" title="Ramsay Snow" class="mw-redirect">Ramsay Snow</a></b>: "I have a treat for you. A reward."
+<p><b><a href="/wiki/Theon_Greyjoy" title="Theon Greyjoy">Reek</a></b>: "Reward?"<br />
+<b>Ramsay</b>: "Yes Reek. Those creatures who came in the night...they wanted to take you away. And you didn't let them. You remained loyal."<br />
+<b>Reek</b>: "I didn't want them to take me. I was <i>so</i> scared! I didn't want them..."<br />
+<b>Ramsay</b>: "Yes, yes, Reek." <i>[He approaches Theon, who quivers in fear.]</i> "It's a bath. For you.
+</p>
+<hr style="width: 50%;" /><b>Ramsay</b>: "Do you love me, Reek?"<br /><b>Reek</b>: "Yes of course, my lord."<br />
+<p><b>Ramsay</b>: "Good. Because I need you to do something for me, something <i>very</i> important. There's a <a href="/wiki/Moat_Cailin" title="Moat Cailin">castle</a>, you see. Some <i>bad</i> men hold this castle. I need your help to take this castle back."<br />
+<b>Reek</b>: "How can..."<br />
+<b>Ramsay</b>: "I need you to play a role. To pretend to be someone you're not."<br />
+<b>Reek</b>: "Pretend to be whom?"<br />
+</p>
+<b>Ramsay</b>: "Theon Greyjoy."<br /><hr style="width: 50%;" /><b><a href="/wiki/Davos_Seaworth" title="Davos Seaworth">Davos Seaworth</a></b>: "There's only one reliable leader left in 
+<p>Westeros; <a href="/wiki/Stannis_Baratheon" title="Stannis Baratheon">Stannis</a>. He's got the birthright, he's in his prime, he's a tried and tested battle commander, and he doesn't just talk about paying people back, he does it."
+</p>
+<hr style="width: 50%;" /><b><a href="/wiki/Tyrion_Lannister" title="Tyrion Lannister">Tyrion Lannister</a></b>: "You once said that without me, this city would have faced <a href="/wiki/Battle_of_the_Blackwater" title="Battle of the Blackwater">certain defeat</a>. You said that the histories would never mention me, but you would not forget. Have you forgotten, Lord Varys?"<br />
+<p><b>​<a href="/wiki/Varys" title="Varys">Varys</a></b>: "Sadly, my lord, I never forget a thing."
+</p>
+<hr style="width: 50%;" /><b>Tyrion</b>: "Father... I wish to confess. I wish to confess."<br />
+<p><b><a href="/wiki/Tywin_Lannister" title="Tywin Lannister">Tywin Lannister</a></b>: "You wish to confess?"<br />
+<b>Tyrion</b>: <i>[To the audience of the trial]</i> "I saved you. I saved this city and all your <i>worthless</i> lives! I should have let Stannis kill you all!"<br />
+<b>Tywin</b>: "Tyrion! Do you wish to confess?"<br />
+<b>Tyrion</b>: "Yes, Father. I'm guilty. Guilty! Is that what you want to hear!?"<br />
+<b>Tywin</b>: "You admit you've poisoned the King?"<br />
+<b>Tyrion</b>: "No, of that I am innocent. I am guilty of a far more monstrous crime. I am guilty of being a <i>dwarf</i>."<br />
+<b>Tyrion</b>: "Oh, yes I am! I've been on trial for that my entire life!"<br />
+<b>Tywin</b>: "Have you nothing to say on your defense?"<br />
+<b>Tyrion</b>: "Nothing but this: I did not do it. I did not kill Joffrey, but I <i>wish</i> that I had!" Watching <a href="/wiki/Cersei" title="Cersei" class="mw-redirect">your</a> vicious bastard die give me more relief than a thousand lying whores! <i>[To the crowd]</i> "I wish I was the monster you think I am! I wish I had enough poison for the whole pack of you! I would gladly give my life to watch you all swallow it!"<br />
+<b>Tywin</b>: "Ser Meryn! Ser Meryn, escort the prisoner back to his cell!"<br />
+<b>Tyrion</b>: "I will <i>not</i> give my life for Joffrey's murder, and I know I'll get no justice here, so I will let the gods decide my fate! I demand <a href="/wiki/Second_Trial_by_Combat_of_Tyrion_Lannister" title="Second Trial by Combat of Tyrion Lannister">a trial by combat</a>!"<br />
+</p>
+<h2><span class="mw-headline" id="Image_Gallery">Image Gallery</span></h2>
+<div id="gallery-0" hash="d8fa5970b81bb4f1228566ef07493bb5" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium"><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:125px;"><div class="gallery-image-wrapper accent" id="Ramsay-406-png" style="position: relative; height:102px; width:185px; top:10.5px;"><a class="image lightbox" href="/wiki/File:Ramsay-406.png" title="Ramsay-406.png (693 KB)" style="height:102px; width:185px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/gameofthrones/images/e/ee/Ramsay-406.png/revision/latest/scale-to-width-down/185?cb=20141123105458" title="Ramsay-406.png (693 KB)" class="thumbimage" alt="Ramsay-406" data-image-name="Ramsay-406.png" data-image-key="Ramsay-406.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Ramsay-406.png (693 KB)" class="thumbimage lzy lzyPlcHld" alt="Ramsay-406" data-image-name="Ramsay-406.png" data-image-key="Ramsay-406.png" data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/e/ee/Ramsay-406.png/revision/latest/scale-to-width-down/185?cb=20141123105458" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Ramsay during the <a href="/wiki/Assault_on_the_Dreadfort" title="Assault on the Dreadfort">Assault on the Dreadfort</a>.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:125px;"><div class="gallery-image-wrapper accent" id="Jaime_in_The_Laws_of_Gods_and_Men-jpg" style="position: relative; height:112px; width:185px; top:5.5px;"><a class="image lightbox" href="/wiki/File:Jaime_in_The_Laws_of_Gods_and_Men.jpg" title="Jaime in The Laws of Gods and Men.jpg (924 KB)" style="height:112px; width:185px;"><noscript><img style="" src="http://vignette1.wikia.nocookie.net/gameofthrones/images/6/6e/Jaime_in_The_Laws_of_Gods_and_Men.jpg/revision/latest/scale-to-width-down/185?cb=20140529131831" title="Jaime in The Laws of Gods and Men.jpg (924 KB)" class="thumbimage" alt="Jaime in The Laws of Gods and Men" data-image-name="Jaime in The Laws of Gods and Men.jpg" data-image-key="Jaime_in_The_Laws_of_Gods_and_Men.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Jaime in The Laws of Gods and Men.jpg (924 KB)" class="thumbimage lzy lzyPlcHld" alt="Jaime in The Laws of Gods and Men" data-image-name="Jaime in The Laws of Gods and Men.jpg" data-image-key="Jaime_in_The_Laws_of_Gods_and_Men.jpg" data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/6/6e/Jaime_in_The_Laws_of_Gods_and_Men.jpg/revision/latest/scale-to-width-down/185?cb=20140529131831" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Jaime and Tyrion during the trial.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:125px;"><div class="gallery-image-wrapper accent" id="Tyrion_court_trial-jpg" style="position: relative; height:103px; width:185px; top:10px;"><a class="image lightbox" href="/wiki/File:Tyrion_court_trial.jpg" title="Tyrion court trial.jpg (98 KB)" style="height:103px; width:185px;"><noscript><img style="" src="http://vignette4.wikia.nocookie.net/gameofthrones/images/e/e5/Tyrion_court_trial.jpg/revision/latest/scale-to-width-down/185?cb=20160130072541" title="Tyrion court trial.jpg (98 KB)" class="thumbimage" alt="Tyrion court trial" data-image-name="Tyrion court trial.jpg" data-image-key="Tyrion_court_trial.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Tyrion court trial.jpg (98 KB)" class="thumbimage lzy lzyPlcHld" alt="Tyrion court trial" data-image-name="Tyrion court trial.jpg" data-image-key="Tyrion_court_trial.jpg" data-src="http://vignette4.wikia.nocookie.net/gameofthrones/images/e/e5/Tyrion_court_trial.jpg/revision/latest/scale-to-width-down/185?cb=20160130072541" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Tyrion at court</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:125px;"><div class="gallery-image-wrapper accent" id="MV5BMTYzNTI2MzYxMF5BMl5BanBnXkFtZTgwODE2OTg3MTE-40_V1_SX1303_SY552_-jpg" style="position: relative; height:123px; width:185px;"><a class="image lightbox" href="/wiki/File:MV5BMTYzNTI2MzYxMF5BMl5BanBnXkFtZTgwODE2OTg3MTE@_V1_SX1303_SY552_.jpg" title="MV5BMTYzNTI2MzYxMF5BMl5BanBnXkFtZTgwODE2OTg3MTE@ V1 SX1303 SY552 .jpg (59 KB)" style="height:123px; width:185px;"><noscript><img style="" src="http://vignette3.wikia.nocookie.net/gameofthrones/images/e/e2/MV5BMTYzNTI2MzYxMF5BMl5BanBnXkFtZTgwODE2OTg3MTE%40_V1_SX1303_SY552_.jpg/revision/latest/scale-to-width-down/185?cb=20140528183112" title="MV5BMTYzNTI2MzYxMF5BMl5BanBnXkFtZTgwODE2OTg3MTE@ V1 SX1303 SY552 .jpg (59 KB)" class="thumbimage" alt="MV5BMTYzNTI2MzYxMF5BMl5BanBnXkFtZTgwODE2OTg3MTE@ V1 SX1303 SY552 " data-image-name="MV5BMTYzNTI2MzYxMF5BMl5BanBnXkFtZTgwODE2OTg3MTE@ V1 SX1303 SY552 .jpg" data-image-key="MV5BMTYzNTI2MzYxMF5BMl5BanBnXkFtZTgwODE2OTg3MTE%40_V1_SX1303_SY552_.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="MV5BMTYzNTI2MzYxMF5BMl5BanBnXkFtZTgwODE2OTg3MTE@ V1 SX1303 SY552 .jpg (59 KB)" class="thumbimage lzy lzyPlcHld" alt="MV5BMTYzNTI2MzYxMF5BMl5BanBnXkFtZTgwODE2OTg3MTE@ V1 SX1303 SY552 " data-image-name="MV5BMTYzNTI2MzYxMF5BMl5BanBnXkFtZTgwODE2OTg3MTE@ V1 SX1303 SY552 .jpg" data-image-key="MV5BMTYzNTI2MzYxMF5BMl5BanBnXkFtZTgwODE2OTg3MTE%40_V1_SX1303_SY552_.jpg" data-src="http://vignette3.wikia.nocookie.net/gameofthrones/images/e/e2/MV5BMTYzNTI2MzYxMF5BMl5BanBnXkFtZTgwODE2OTg3MTE%40_V1_SX1303_SY552_.jpg/revision/latest/scale-to-width-down/185?cb=20140528183112" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Shae testifies against Tyrion</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:125px;"><div class="gallery-image-wrapper accent" id="Tyrion_4x07-jpg" style="position: relative; height:103px; width:185px; top:10px;"><a class="image lightbox" href="/wiki/File:Tyrion_4x07.jpg" title="Tyrion 4x07.jpg (54 KB)" style="height:103px; width:185px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/gameofthrones/images/5/57/Tyrion_4x07.jpg/revision/latest/scale-to-width-down/185?cb=20160130073841" title="Tyrion 4x07.jpg (54 KB)" class="thumbimage" alt="Tyrion 4x07" data-image-name="Tyrion 4x07.jpg" data-image-key="Tyrion_4x07.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Tyrion 4x07.jpg (54 KB)" class="thumbimage lzy lzyPlcHld" alt="Tyrion 4x07" data-image-name="Tyrion 4x07.jpg" data-image-key="Tyrion_4x07.jpg" data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/5/57/Tyrion_4x07.jpg/revision/latest/scale-to-width-down/185?cb=20160130073841" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Tyrion enraged beyond sense</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:125px;"><div class="gallery-image-wrapper accent" id="Tywin_4x06-jpg" style="position: relative; height:123px; width:185px;"><a class="image lightbox" href="/wiki/File:Tywin_4x06.jpg" title="Tywin 4x06.jpg (1.21 MB)" style="height:123px; width:185px;"><noscript><img style="" src="http://vignette3.wikia.nocookie.net/gameofthrones/images/b/be/Tywin_4x06.jpg/revision/latest/scale-to-width-down/185?cb=20160130074629" title="Tywin 4x06.jpg (1.21 MB)" class="thumbimage" alt="Tywin 4x06" data-image-name="Tywin 4x06.jpg" data-image-key="Tywin_4x06.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Tywin 4x06.jpg (1.21 MB)" class="thumbimage lzy lzyPlcHld" alt="Tywin 4x06" data-image-name="Tywin 4x06.jpg" data-image-key="Tywin_4x06.jpg" data-src="http://vignette3.wikia.nocookie.net/gameofthrones/images/b/be/Tywin_4x06.jpg/revision/latest/scale-to-width-down/185?cb=20160130074629" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><br /><a class="wikia-photogallery-add wikia-button noprint" style="display: none"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite photo" width="26" height="16" />Add a photo to this gallery</a></div><script>JSSnippetsStack.push({dependencies:[{"url":"http://slot1.images2.wikia.nocookie.net/__am/1465467940/group/-/wikia_photo_gallery_js","type":"js"},{"url":"http://slot1.images4.wikia.nocookie.net/__am/1465467940/sass/background-dynamic%3Dtrue%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb20150716154804%252Fgameofthrones%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1920%26color-body%3D%2523000%26color-body-middle%3D%2523000000%26color-buttons%3D%25231e5467%26color-header%3D%25235f4416%26color-links%3D%252347518e%26color-page%3D%2523d7cbab%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/extensions/wikia/WikiaPhotoGallery/css/gallery.scss","type":"css"}],callback:function(json){WikiaPhotoGalleryView.init(json)},id:"WikiaPhotoGalleryView.init"})</script>
+<h2><span class="mw-headline" id="Video_gallery">Video gallery</span></h2>
+<div id="gallery-1" hash="88867ba410a4172d3d5a82cbfedabaed" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium"><div class="wikia-gallery-item" style="width:302px; "><div class="thumb" style="height:171px;"><div class="gallery-image-wrapper accent" id="Game_of_Thrones_The_Laws_of_Gods_and_Men_-_Fan_Vs-_Critic" style="position: relative; height:169px; width:300px;"><a class="image lightbox video video-thumbnail medium" href="/wiki/File:Game_of_Thrones_The_Laws_of_Gods_and_Men_-_Fan_Vs._Critic" title="Game of Thrones The Laws of Gods and Men - Fan Vs. Critic (65 KB)" style="height:169px; width:300px;"><span class="duration">04:40</span><span class="play-circle"></span><noscript><img style="" src="http://vignette4.wikia.nocookie.net/video151/images/b/b2/Game_of_Thrones_The_Laws_of_Gods_and_Men_-_Fan_Vs._Critic/revision/latest/scale-to-width-down/300?cb=20140512232650" title="Game of Thrones The Laws of Gods and Men - Fan Vs. Critic (65 KB)" class="thumbimage" alt="Game of Thrones The Laws of Gods and Men - Fan Vs" data-video-name="Game of Thrones The Laws of Gods and Men - Fan Vs. Critic" data-video-key="Game_of_Thrones_The_Laws_of_Gods_and_Men_-_Fan_Vs._Critic"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Game of Thrones The Laws of Gods and Men - Fan Vs. Critic (65 KB)" class="thumbimage lzy lzyPlcHld" alt="Game of Thrones The Laws of Gods and Men - Fan Vs" data-video-name="Game of Thrones The Laws of Gods and Men - Fan Vs. Critic" data-video-key="Game_of_Thrones_The_Laws_of_Gods_and_Men_-_Fan_Vs._Critic" data-src="http://vignette4.wikia.nocookie.net/video151/images/b/b2/Game_of_Thrones_The_Laws_of_Gods_and_Men_-_Fan_Vs._Critic/revision/latest/scale-to-width-down/300?cb=20140512232650" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="title">Game of Thrones The Laws of Gods and Men - Fan Vs. Critic</div><div class="lightbox-caption" style="width:300px;">Fan Vs. Critic</div></div></div><script>JSSnippetsStack.push({dependencies:[{"url":"http://slot1.images2.wikia.nocookie.net/__am/1465467940/group/-/wikia_photo_gallery_js","type":"js"},{"url":"http://slot1.images4.wikia.nocookie.net/__am/1465467940/sass/background-dynamic%3Dtrue%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb20150716154804%252Fgameofthrones%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1920%26color-body%3D%2523000%26color-body-middle%3D%2523000000%26color-buttons%3D%25231e5467%26color-header%3D%25235f4416%26color-links%3D%252347518e%26color-page%3D%2523d7cbab%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/extensions/wikia/WikiaPhotoGallery/css/gallery.scss","type":"css"}],callback:function(json){WikiaPhotoGalleryView.init(json)},id:"WikiaPhotoGalleryView.init"})</script>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul><li><a href="http://vignette1.wikia.nocookie.net/gameofthrones/images/7/7c/WP_favicon.PNG/revision/latest?cb=20150127010512" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="WP favicon"  	class="lzy lzyPlcHld " 	 	data-image-key="WP_favicon.PNG" 	data-image-name="WP favicon.PNG" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/7/7c/WP_favicon.PNG/revision/latest?cb=20150127010512"  	 width="25"  	 height="24"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/7/7c/WP_favicon.PNG/revision/latest?cb=20150127010512" 	 alt="WP favicon"  	class="" 	 	data-image-key="WP_favicon.PNG" 	data-image-name="WP favicon.PNG" 	 	 width="25"  	 height="24"  	 	 	 	></noscript></a> <a href="http://en.wikipedia.org/wiki/The_Laws_of_Gods_and_Men" class="extiw exitstitial" title="wikipedia:The Laws of Gods and Men">The Laws of Gods and Men</a> on <a href="http://en.wikipedia.org/wiki/Main_Page" class="extiw exitstitial" title="wikipedia:Main Page">Wikipedia</a>
+</li><li><a href="http://vignette4.wikia.nocookie.net/gameofthrones/images/4/40/Imdb2.PNG/revision/latest?cb=20150127011335" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Imdb2"  	class="lzy lzyPlcHld " 	 	data-image-key="Imdb2.PNG" 	data-image-name="Imdb2.PNG" 	 data-src="http://vignette4.wikia.nocookie.net/gameofthrones/images/4/40/Imdb2.PNG/revision/latest?cb=20150127011335"  	 width="25"  	 height="24"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette4.wikia.nocookie.net/gameofthrones/images/4/40/Imdb2.PNG/revision/latest?cb=20150127011335" 	 alt="Imdb2"  	class="" 	 	data-image-key="Imdb2.PNG" 	data-image-name="Imdb2.PNG" 	 	 width="25"  	 height="24"  	 	 	 	></noscript></a> <a rel="nofollow" class="external text exitstitial" href="http://www.imdb.com/title/tt3060910/">The Laws of Gods and Men</a> on <a rel="nofollow" class="external text exitstitial" href="http://imdb.com">IMDb</a>
+</li></ul>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<div class="references-small">
+<ol class="references"><li id="cite_note-0"><a href="#cite_ref-0">↑</a> <span class="reference-text"><a rel="nofollow" class="external autonumber exitstitial" href="http://winteriscoming.net/2014/03/game-of-thrones-season-4-episode-6-title-revealed/">[1]</a></span>
+</li>
+<li id="cite_note-1"><a href="#cite_ref-1">↑</a> <span class="reference-text"><a rel="nofollow" class="external text exitstitial" href="http://winteriscoming.net/2014/05/14/game-owns-bryan-cogman-returns/"><i>Game of Owns</i> Episode 219:  Bryan Cogman returns</a></span>
+</li>
+<li id="cite_note-2"><a href="#cite_ref-2">↑</a> <span class="reference-text"><a rel="nofollow" class="external autonumber exitstitial" href="http://watchersonthewall.com/game-thrones-season-4-blu-ray-review/">[2]</a></span>
+</li>
+<li id="cite_note-3"><a href="#cite_ref-3">↑</a> <span class="reference-text"><a rel="nofollow" class="external autonumber exitstitial" href="http://insidetv.ew.com/2014/05/11/game-of-thrones-tyrion-trial-interview/">[3]</a></span>
+</li>
+<li id="cite_note-4"><a href="#cite_ref-4">↑</a> <span class="reference-text"><a rel="nofollow" class="external autonumber exitstitial" href="http://www.denofgeek.us/tv/game-of-thrones/243771/67-things-you-didnt-know-about-game-of-thrones-season-4">[4]</a></span>
+</li>
+<li id="cite_note-5"><a href="#cite_ref-5">↑</a> <span class="reference-text"><a rel="nofollow" class="external autonumber exitstitial" href="http://watchersonthewall.com/watch-new-game-thrones-season-4-bloopers/">[5]</a></span>
+</li></ol></div>
+<table class="nowraplinks navbox collapsible collapsed" cellspacing="0" style="width: 100%;">
+<tr>
+<th colspan="2" class="navbox-title"> <div style="padding-right:0em"><div style="float:left; text-align:left; width:6em;"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small;&#160;;"><a href="/wiki/Template:Episodes_navbox" title="Template:Episodes navbox"><span title="View this template" style=";">v</span></a>&#160;<span style="font-size: 80%;">•</span>&#160;<span class="plainlinks"><a  class="text" href="http://gameofthrones.wikia.com/wiki/Template_talk:Episodes_navbox"><span style=";" title="Discussion about this template">d</span></a></span>&#160;<span style="font-size: 80%;">•</span>&#160;<a  class="text" href="http://gameofthrones.wikia.com/wiki/Template:Episodes_navbox?action=edit"><span style=";" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><div style="text-align:centre"><span style="">Episodes</span></div></div>
+</th></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/Season_1" title="Season 1">Season 1</a>:</b>
+</td><td class="navbox-list" style="">
+<p><small>#1 "<a href="/wiki/Winter_is_Coming" title="Winter is Coming">Winter is Coming</a>" <b>·</b> #2 "<a href="/wiki/The_Kingsroad" title="The Kingsroad">The Kingsroad</a>" <b>·</b> #3 "<a href="/wiki/Lord_Snow" title="Lord Snow">Lord Snow</a>" <b>·</b> #4 "<a href="/wiki/Cripples,_Bastards,_and_Broken_Things" title="Cripples, Bastards, and Broken Things" class="mw-redirect">Cripples, Bastards, and Broken Things</a>" <b>·</b> #5 "<a href="/wiki/The_Wolf_and_the_Lion" title="The Wolf and the Lion">The Wolf and the Lion</a>" <b>·</b> #6 "<a href="/wiki/A_Golden_Crown" title="A Golden Crown">A Golden Crown</a>" <b>·</b> #7 "<a href="/wiki/You_Win_or_You_Die" title="You Win or You Die">You Win or You Die</a>" <b>·</b> #8 "<a href="/wiki/The_Pointy_End" title="The Pointy End">The Pointy End</a>"  <b>·</b> #9 "<a href="/wiki/Baelor" title="Baelor">Baelor</a>" <b>·</b> #10 "<a href="/wiki/Fire_and_Blood" title="Fire and Blood">Fire and Blood</a>"</small>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/Season_2" title="Season 2">Season 2</a>:</b>
+</td><td class="navbox-list" style="">
+<p><small>#1 "<a href="/wiki/The_North_Remembers" title="The North Remembers">The North Remembers</a>" <b>·</b> #2 "<a href="/wiki/The_Night_Lands" title="The Night Lands">The Night Lands</a>" <b>·</b> #3 "<a href="/wiki/What_is_Dead_May_Never_Die" title="What is Dead May Never Die">What is Dead May Never Die</a> <b>·</b> #4 "<a href="/wiki/Garden_of_Bones" title="Garden of Bones">Garden of Bones</a>" <b>·</b> #5 "<a href="/wiki/The_Ghost_of_Harrenhal" title="The Ghost of Harrenhal">The Ghost of Harrenhal</a>" <b>·</b> #6 "<a href="/wiki/The_Old_Gods_and_the_New" title="The Old Gods and the New">The Old Gods and the New</a>" <b>·</b> #7 "<a href="/wiki/A_Man_Without_Honor" title="A Man Without Honor">A Man Without Honor</a>" <b>·</b> #8 "<a href="/wiki/The_Prince_of_Winterfell" title="The Prince of Winterfell">The Prince of Winterfell</a>" <b>·</b> #9 "<a href="/wiki/Blackwater" title="Blackwater">Blackwater</a>" <b>·</b> #10 "<a href="/wiki/Valar_Morghulis" title="Valar Morghulis">Valar Morghulis</a>"</small>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/Season_3" title="Season 3">Season 3</a>:</b>
+</td><td class="navbox-list" style="">
+<p><small>#1 "<a href="/wiki/Valar_Dohaeris" title="Valar Dohaeris">Valar Dohaeris</a>" <b>·</b> #2 "<a href="/wiki/Dark_Wings,_Dark_Words" title="Dark Wings, Dark Words">Dark Wings, Dark Words</a>" <b>·</b> #3 "<a href="/wiki/Walk_of_Punishment" title="Walk of Punishment">Walk of Punishment</a>" <b>·</b> #4 "<a href="/wiki/And_Now_His_Watch_is_Ended" title="And Now His Watch is Ended">And Now His Watch is Ended</a>" <b>·</b> #5 "<a href="/wiki/Kissed_by_Fire" title="Kissed by Fire">Kissed by Fire</a>" <b>·</b> #6 "<a href="/wiki/The_Climb" title="The Climb">The Climb</a>" <b>·</b> #7 "<a href="/wiki/The_Bear_and_the_Maiden_Fair_(episode)" title="The Bear and the Maiden Fair (episode)">The Bear and the Maiden Fair</a>" <b>·</b> #8 "<a href="/wiki/Second_Sons_(episode)" title="Second Sons (episode)">Second Sons</a>" <b>·</b> #9 "<a href="/wiki/The_Rains_of_Castamere_(episode)" title="The Rains of Castamere (episode)">The Rains of Castamere</a>" <b>·</b> #10 "<a href="/wiki/Mhysa" title="Mhysa">Mhysa</a>"</small>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/Season_4" title="Season 4">Season 4</a>:</b>
+</td><td class="navbox-list" style="">
+<p><small>#1 "<a href="/wiki/Two_Swords" title="Two Swords">Two Swords</a>" <b>·</b> #2 "<a href="/wiki/The_Lion_and_the_Rose" title="The Lion and the Rose">The Lion and the Rose</a>" <b>·</b> #3 "<a href="/wiki/Breaker_of_Chains" title="Breaker of Chains">Breaker of Chains</a>" <b>·</b> #4 "<a href="/wiki/Oathkeeper" title="Oathkeeper">Oathkeeper</a>" <b>·</b> #5 "<a href="/wiki/First_of_His_Name" title="First of His Name">First of His Name</a>" <b>·</b> #6 "<strong class="selflink">The Laws of Gods and Men</strong>" <b>·</b> #7 "<a href="/wiki/Mockingbird" title="Mockingbird">Mockingbird</a>" <b>·</b> #8 "<a href="/wiki/The_Mountain_and_the_Viper" title="The Mountain and the Viper">The Mountain and the Viper</a>" <b>·</b> #9 "<a href="/wiki/The_Watchers_on_the_Wall" title="The Watchers on the Wall">The Watchers on the Wall</a>" <b>·</b> #10 "<a href="/wiki/The_Children" title="The Children">The Children</a>"</small>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/Season_5" title="Season 5">Season 5</a>:</b>
+</td><td class="navbox-list" style="">
+<p><small>#1 "<a href="/wiki/The_Wars_to_Come" title="The Wars to Come">The Wars to Come</a>" <b>·</b> #2 "<a href="/wiki/The_House_of_Black_and_White" title="The House of Black and White">The House of Black and White</a>" <b>·</b> #3 "<a href="/wiki/High_Sparrow_(episode)" title="High Sparrow (episode)">High Sparrow</a>" <b>·</b> #4 "<a href="/wiki/Sons_of_the_Harpy_(episode)" title="Sons of the Harpy (episode)">Sons of the Harpy</a>" <b>·</b> #5 "<a href="/wiki/Kill_the_Boy" title="Kill the Boy">Kill the Boy</a>" <b>·</b> #6 "<a href="/wiki/Unbowed,_Unbent,_Unbroken" title="Unbowed, Unbent, Unbroken">Unbowed, Unbent, Unbroken</a>" <b>·</b> #7 "<a href="/wiki/The_Gift_(episode)" title="The Gift (episode)">The Gift</a>" <b>·</b> #8 "<a href="/wiki/Hardhome_(episode)" title="Hardhome (episode)">Hardhome</a>" <b>·</b> #9 "<a href="/wiki/The_Dance_of_Dragons" title="The Dance of Dragons">The Dance of Dragons</a>" <b>·</b> #10 "<a href="/wiki/Mother%27s_Mercy" title="Mother's Mercy">Mother’s Mercy</a>"</small>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/Season_6" title="Season 6">Season 6</a>:</b>
+</td><td class="navbox-list" style="">
+<p><small>#1 "<a href="/wiki/The_Red_Woman" title="The Red Woman">The Red Woman</a>" <b>·</b> #2 "<a href="/wiki/Home" title="Home">Home</a>" <b>·</b> #3 "<a href="/wiki/Oathbreaker" title="Oathbreaker">Oathbreaker</a>" <b>·</b> #4 "<a href="/wiki/Book_of_the_Stranger" title="Book of the Stranger">Book of the Stranger</a>" <b>·</b> #5 "<a href="/wiki/The_Door" title="The Door">The Door</a>" <b>·</b> #6 "<a href="/wiki/Blood_of_My_Blood" title="Blood of My Blood">Blood of My Blood</a>" <b>·</b> #7 "<a href="/wiki/The_Broken_Man" title="The Broken Man">The Broken Man</a>" <b>·</b> #8 "<a href="/wiki/No_One" title="No One">No One</a>" <b>·</b> #9 "<a href="/wiki/Battle_of_the_Bastards" title="Battle of the Bastards">Battle of the Bastards</a>" <b>·</b> #10 "<a href="/wiki/The_Winds_of_Winter" title="The Winds of Winter">The Winds of Winter</a>"</small> 
+</p>
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 624/300000
+Post‐expand include size: 23475/2097152 bytes
+Template argument size: 7412/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key gameofthrones:pcache:idhash:21835-0!*!0!!en!2!* -->
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1466073491/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1466073491/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://gameofthrones.wikia.com/wiki/The_Laws_of_Gods_and_Men?oldid=261039">http://gameofthrones.wikia.com/wiki/The_Laws_of_Gods_and_Men?oldid=261039</a>"</div>
+
+				</div>
+
+															<nav class="article-categories CategorySelect articlePage" id="articleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="Episodes" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Episodes" title="Category:Episodes">Episodes</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Season 4" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Season_4" title="Category:Season 4">Season 4</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Season 4 Episodes" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Season_4_Episodes" title="Category:Season 4 Episodes">Season 4 Episodes</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+					</ul>
+	</div>
+	</nav>									
+				<nav class="WikiaArticleInterlang">
+	<h3>Languages: </h3>
+	<ul>
+			<li><a href="http://de.gameofthrones.wikia.com/wiki/Die_Gesetze_von_G%C3%B6ttern_und_Menschen_(Episode)">Deutsch</a></li>
+			<li><a href="http://ru.gameofthrones.wikia.com/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%D1%8B_%D0%B1%D0%BE%D0%B3%D0%BE%D0%B2_%D0%B8_%D0%BB%D1%8E%D0%B4%D0%B5%D0%B9">Русский</a></li>
+			<li><a href="http://pt-br.gameofthrones.wikia.com/wiki/As_Leis_de_Deuses_e_Homens">Português do Brasil</a></li>
+		</ul>
+</nav>
+
+				
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+							<!-- BEGIN CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<div id="NATIVE_TABOOLA_ARTICLE">
+		<script>
+			window.adslots2.push(["NATIVE_TABOOLA_ARTICLE"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+<div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+								<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+										<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+						<div id="WikiaRail" class="WikiaRail">
+
+		<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+					<div class="loading"></div>
+		
+	</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	<!-- BEGIN SLOTNAME: BOTTOM_LEADERBOARD -->
+<div id="BOTTOM_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["BOTTOM_LEADERBOARD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: BOTTOM_LEADERBOARD -->
+	
+			<section>
+	<div class="header-container">
+		<h2>Around Wikia's network</h2>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/130814" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer">
+	<nav>
+		<div class="branding vertical-tv black">
+			<a class="wikia-logo" href="http://tvhub.wikia.com/wiki/TV_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>TV</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com/wiki/Help:Contents">Help</a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Sitemap">Global Sitemap</a>
+									</li>
+							<li>
+											<a href="/wiki/Special:AllPages">Local Sitemap</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Vacation like an Avenger. Visit real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;},{&quot;text&quot;:&quot;Vacation like an Avenger. Visit real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;},{&quot;text&quot;:&quot;Vacation like an Avenger. Visit real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;},{&quot;text&quot;:&quot;Vacation like an Avenger. Visit real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;},{&quot;text&quot;:&quot;Vacation like an Avenger. Visit real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1466073491/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1466073491/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1466073491/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["GPT_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: EVOLVE_FLUSH -->
+<div id="EVOLVE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["EVOLVE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: EVOLVE_FLUSH -->
+<!-- BEGIN SLOTNAME: HITMEDIA_FLUSH -->
+<div id="HITMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["HITMEDIA_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: HITMEDIA_FLUSH -->
+<!-- BEGIN SLOTNAME: TURTLE_FLUSH -->
+<div id="TURTLE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TURTLE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TURTLE_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1466073491/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1466073491/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"gameofthrones","kv_article_id":21835,"kv_wpage":"The_Laws_of_Gods_and_Men","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"media=tv;genre=fantasy;tv=hbo;sex=m;age=18-24;age=18-34;age=25-34;esrb=mature;media=books;gnre=action;gnre=adventure;theme=sword;theme=magic;gnre=drama;gnre=fighting;theme=dragon;theme=mature;theme=zombiesex=m;age=18-24;age=25-34;age=18-34;age=teen;media=tv;media=comics;media=books;gnre=action;theme=zombie;gnre=horror;theme=postapocalypse;gnre=3rdpersonshooter;pform=xbox360;pform=ps3;esrb=mature;tv=amc;sex=m;age=13-17;age=18-24;age=under18;age=kids;age=teen;gnre=anime;media=tv;media=comics;gnre=fighting;gnre=fantasyage=under18;age=18-24;age=teen;age=kids;media=tv;media=comics;media=cards;gnre=anime;gnre=fantasy;gnre=fighting;gnre=action;gnre=adventure;pform=xbox360;pform=ps3;pform=wii;pform=ds;esrb=teen;tv=cn;theme=heroes;tv=onhulu;tv=hulu","kv_domain":"gameofthrones.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://gameofthrones.wikia.com/__load/-/cb%3D1466073491%26debug%3Dfalse%26lang%3Den%26newve%3D1%26only%3Dscripts%26skin%3Doasis/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgPageName":"The_Laws_of_Gods_and_Men","wgTitle":"The Laws of Gods and Men","wgCurRevisionId":261039,"wgArticleId":21835,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Episodes","Season 4","Season 4 Episodes"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"The_Laws_of_Gods_and_Men","wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"true","background-image":"http://img4.wikia.nocookie.net/__cb20150716154804/gameofthrones/images/5/50/Wiki-background","background-image-height":"720","background-image-width":"1920","color-body":"#000","color-body-middle":"#000000","color-buttons":"#1e5467","color-header":"#5f4416","color-links":"#47518e","color-page":"#d7cbab","oasisTypography":1,"page-opacity":"100","widthType":0},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"Game of Thrones Wiki","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1466073491/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1466073491/common","wgSitename":"Game of Thrones Wiki","wgMWrevId":false,"wgRevisionId":261039,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableNewAuthModal":null,"wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgWikiaMaxNameChars":50,"wgMinimalPasswordLength":1,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=The_Laws_of_Gods_and_Men","fbReturnToTitle":"The_Laws_of_Gods_and_Men","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":[],"wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"1200":true,"500":true,"501":true,"502":true,"503":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":true,"interactiveMapsApiURL":"http://maps.wikia-services.com:80/api/v1","VignettePathPrefix":null,"reCaptchaPublicKey":"6LdDSA4TAAAAANZDWjPdTiQcYsTuge5fMPQTd7D_","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgEnablePortableInfoboxBuilderInVE":false,"wgEnableVisualEditorTourExperiment":true,"wgOasisResponsive":false,"wgOasisBreakpoints":true,"verticalName":"Entertainment","wgArticleInterlangList":["de:Die Gesetze von Göttern und Menschen (Episode)","pt-br:As Leis de Deuses e Homens","ru:Законы богов и людей"],"WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgContentReviewExtEnabled":true,"wgContentReviewTestModeEnabled":false,"wgReviewedScriptsTimestamp":"1441727506","wgScriptsTimestamp":"1332971928","wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"The Laws of Gods and Men"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"editor":2,"enotifwallthread":2,"wallshowsource":false,"walldelete":false,"founderemails-joins-130814":0,"founderemails-edits-130814":0,"founderemails-views-digest-130814":0,"founderemails-complete-digest-130814":0,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true,"searchNs15":false,"searchNs110":false,"searchNs111":false,"searchNs500":false,
+"searchNs501":false,"searchNs502":false,"searchNs503":false,"searchNs828":false,"searchNs829":false,"searchNs1000":false,"searchNs1010":false,"searchNs1020":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"searchNs2000":false,"searchNs2001":false,"searchNs2002":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: gameofthrones:resourceloader:filter:minify-js:7:5ffb247b4f4ef073d23e4edf309a4c85 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikia.viewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.bannerNotifications","ext.cookiePolicyMessages","ext.userLogin"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1466073491/groups/-/oasis_shared_core_js,oasis_shared_js,oasis_anon_js,adengine2_oasis_exitstitial_js,adengine2_desktop_js,liftium_ads_js,liftium_ads_extra_js,adengine2_gcs_js,adengine2_taboola_js,adengine2_revcontent_js,adengine2_interactive_maps_js,recirculation_trackers_js,recirculation_js,toc_js,qualaroo_js,wikia_maps_contribution_button_create_map_js,spotlights_js,relatedpages_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1466073491/group/-/videos_module_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1466073491/group/-/auth_modal_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1466073491/group/-/cookie_policy_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1466073491/group/-/wikia_in_your_lang_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1466073491/group/-/portable_infobox_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1466073491/group/-/visit_source_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1466073491/group/-/visual_editor_tour_experiment_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=AdEngine%2CConfirmModal%2CImagePlaceholder%2COasis-generic%2CRecirculation%2CVideosModule&amp;uselang=en&amp;cb=1466073491.262519.0"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1466073491/group/-/monetization_module_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1466073491/group/-/global_navigation_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1466073491/group/-/page_share_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1466073491/group/-/global_footer_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://gameofthrones.wikia.com/__load/-/cb%3D1466073491%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://gameofthrones.wikia.com/__load/-/cb%3D1466073491%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26reviewed%3D1441727506%26skin%3Doasis/site"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1466073491/group/-/facebook_client_fbtags_js"></script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/Forum\/css\/ForumTag.scss","extensions\/wikia\/Recirculation\/styles\/recirculation.scss","extensions\/wikia\/PortableInfobox\/styles\/PortableInfobox.scss","extensions\/wikia\/VisualEditorTourExperiment\/styles\/VisualEditorTourExperimentInit.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModule.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationUserLoginDropdown.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationNotifications.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","extensions\/wikia\/GlobalNavigation\/styles\/GoogleSearchAPI.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/PageShare\/styles\/PageShare.scss","extensions\/wikia\/GlobalFooter\/styles\/GlobalFooter.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+</body>
+
+
+
+</html>

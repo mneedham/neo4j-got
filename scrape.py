@@ -1,10 +1,11 @@
 from bs4 import BeautifulSoup
+from bs4 import NavigableString
 from soupselect import select
 import bs4
 import csv
 
-wikipedia = BeautifulSoup(open("data/wikipedia/No_One_(Game_of_Thrones)", "r"), "html.parser")
-wikia = BeautifulSoup(open("data/wikia/No_One", "r"), "html.parser")
+wikipedia = BeautifulSoup(open("data/wikipedia/55", "r"), "html.parser")
+wikia = BeautifulSoup(open("data/wikia/55", "r"), "html.parser")
 
 rows = select(wikipedia, "table.infobox tr")
 
@@ -19,8 +20,31 @@ for row in rows:
 
 season =  season.replace("Season", "").strip()
 episode = episode.replace("Episode ", "").strip()
-
 characters = select(wikia, "table li")
+
+for section in [section for section in  select(wikipedia, "h3 span.mw-headline") if not section.text in ["Writing", "Casting", "Filming", "Ratings", "Critical reception"] ]:
+
+    print section.get("id"), section.text
+    content = []
+    next_bit = section.parent.next_sibling
+    while True:
+        if next_bit is None:
+            next_bit = next_bit.next_sibling
+            continue
+        if next_bit.name in ["h2", "h3"]:
+            break
+        else:
+            content.append(next_bit)
+            next_bit = next_bit.next_sibling
+
+    for item in content:
+        print item
+        if item is not NavigableString:
+            print select(item, "a")
+
+
+import sys
+sys.exit(1)
 
 with open("data/import/overview.csv", "w") as overview_file:
     writer = csv.writer(overview_file, delimiter = ",")
