@@ -59,8 +59,8 @@ def process_episode(episode_id):
 
 episodes = {}
 
-episode_id = 58
-episodes[episode_id] = process_episode(episode_id)
+for episode_id in range(1, 10):
+    episodes[episode_id] = process_episode(episode_id)
 
 with open("data/import/overview.csv", "w") as overview_file:
     writer = csv.writer(overview_file, delimiter = ",")
