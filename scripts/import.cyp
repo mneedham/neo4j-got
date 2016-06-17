@@ -24,4 +24,5 @@ load csv with headers from "file:///locations.csv" AS row
 MATCH (actor:Actor {name: row.actor})-[:PLAYS]->(character)
 MATCH (appearance:Appearance {id:character.name + "_" + row.episodeId })
 MERGE (location:Location {id: row.locationId})
+SET location.name = row.locationName
 MERGE (appearance)-[:IN_LOCATION]->(location);
