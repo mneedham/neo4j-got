@@ -1,4 +1,2782 @@
 actor,character,episodeId
+Sean Bean,Lord Eddard Stark,1
+Mark Addy,King Robert Baratheon,1
+Nikolaj Coster-Waldau,Ser Jaime Lannister,1
+Michelle Fairley,Lady Catelyn Stark,1
+Lena Headey,Queen Cersei Lannister,1
+Emilia Clarke,Princess Daenerys Targaryen,1
+Iain Glen,Ser Jorah Mormont,1
+Harry Lloyd,Prince Viserys Targaryen,1
+Kit Harington,Jon Snow,1
+Sophie Turner,Sansa Stark,1
+Maisie Williams,Arya Stark,1
+Richard Madden,Robb Stark,1
+Alfie Allen,Theon Greyjoy,1
+Isaac Hempstead-Wright,Bran Stark,1
+Jack Gleeson,Prince Joffrey Baratheon,1
+Rory McCann,Sandor Clegane,1
+and Peter Dinklage,Tyrion Lannister,1
+Jason Momoa,Khal Drogo,1
+Donald Sumpter,Maester Luwin,1
+Jamie Sives,Jory Cassel,1
+Ron Donachie,Ser Rodrik Cassel,1
+Joseph Mawle,Benjen Stark,1
+Roger Allam,Magister Illyrio Mopatis,1
+Dar Salim,Qotho,1
+Esme Bianco,Ros,1
+Susan Brown,Septa Mordane,1
+Bronson Webb,Will,1
+Sir John Standing,Lord Jon Arryn,1
+Rob Ostlere,Ser Waymar Royce,1
+Dermot Keaney,Gared,1
+Art Parkinson,Rickon Stark,1
+Callum Wharry,Prince Tommen Baratheon,1
+Aimee Richardson,Princess Myrcella Baratheon,1
+Kristian Nairn,Hodor,1
+Rania Zouari,a Pentoshi servant,1
+Ian Whyte,a White Walker,1
+Spencer Wilding,a White Walker,1
+Claire Wright,a Wildling girl,1
+Ivailo Dimitrov,Mago,1
+Tommy Dunne,Tommy,1
+Boyd Rankin,Mikken,1
+Owen Dickey,Winterfell Beekeeper,1
+Robert Yates,King's Guard,1
+Unknown,Jeyne Poole,1
+Unknown,Cohollo,1
+Unknown,Haggo,1
+Unknown,Preston Greenfield,1
+Sean Bean,Lord Eddard Stark,2
+Mark Addy,King Robert Baratheon,2
+Nikolaj Coster-Waldau,Ser Jaime Lannister,2
+Michelle Fairley,Lady Catelyn Stark,2
+Lena Headey,Queen Cersei Lannister,2
+Emilia Clarke,Princess Daenerys Targaryen,2
+Iain Glen,Ser Jorah Mormont,2
+Harry Lloyd,Prince Viserys Targaryen,2
+Kit Harington,Jon Snow,2
+Sophie Turner,Sansa Stark,2
+Maisie Williams,Arya Stark,2
+Richard Madden,Robb Stark,2
+Alfie Allen,Theon Greyjoy,2
+Isaac Hempstead Wright,Bran Stark,2
+Jack Gleeson,Prince Joffrey Baratheon,2
+Rory McCann,Sandor Clegane,2
+and Peter Dinklage,Tyrion Lannister,2
+Jason Momoa,Khal Drogo,2
+Donald Sumpter,Maester Luwin,2
+Jamie Sives,Jory Cassel,2
+Ron Donachie,Ser Rodrik Cassel,2
+Joseph Mawle,Benjen Stark,2
+Roxanne McKee,Doreah,2
+Dar Salim,Qotho,2
+Amrita Acharia,Irri,2
+Sarita Piotrowski,Jhiqui,2
+Wilko Johnson,Ser Ilyn Payne,2
+Rhodri Hosking,Mycah,2
+Luke McEwan,Rast,2
+Lalor Roddy,the Catspaw assassin,2
+Conor Delaney,a Lannister guardsman,2
+Callum Wharry,Prince Tommen Baratheon,2
+Aimee Richardson,Princess Myrcella Baratheon,2
+Boyd Rankin,Mikken,2
+Phil Barnhill,Baratheon Guard,2
+Robert Render,Northern Bannerman,2
+Unknown,Preston Greenfield,2
+Sean Bean,Lord Eddard Stark,3
+Mark Addy,King Robert Baratheon,3
+Nikolaj Coster-Waldau,Ser Jaime Lannister,3
+Michelle Fairley,Lady Catelyn Stark,3
+Lena Headey,Queen Cersei Lannister,3
+Emilia Clarke,Princess Daenerys Targaryen,3
+Iain Glen,Ser Jorah Mormont,3
+Aidan Gillen,Lord Petyr 'Littlefinger' Baelish,3
+Harry Lloyd,Prince Viserys Targaryen,3
+Kit Harington,Jon Snow,3
+Sophie Turner,Sansa Stark,3
+Maisie Williams,Arya Stark,3
+Isaac Hempstead-Wright,Bran Stark,3
+Richard Madden,Robb Stark,3
+Jack Gleeson,Prince Joffrey Baratheon,3
+and Peter Dinklage,Tyrion Lannister,3
+Jason Momoa,Khal Drogo,3
+Conleth Hill,Varys,3
+James Cosmo,Lord Commander Jeor Mormont,3
+Owen Teale,Ser Alliser Thorne,3
+Jamie Sives,Jory Cassel,3
+Ian McElhinney,Lord Commander Barristan Selmy,3
+Ron Donachie,Ser Rodrik Cassel,3
+Joseph Mawle,Benjen Stark,3
+Francis Magee,Yoren,3
+Julian Glover,Grand Maester Pycelle,3
+Gethin Anthony,Lord Renly Baratheon,3
+Peter Vaughan,Maester Aemon,3
+Miltos Yerolemou,Syrio Forel,3
+Margaret John,Old Nan,3
+Susan Brown,Septa Mordane,3
+Robert Sterne,Royal Steward,3
+Mark Stanley,Grenn,3
+Josef Altin,Pypar,3
+Luke McEwan,Rast,3
+Elyes Gabel,Rakharo,3
+Amrita Acharia,Irri,3
+Eugene Simon,Lancel Lannister,3
+Paul Portelli,a Drunk Man,3
+Nickovich Sammut,Goldcloak 1,3
+Seamus Kelly,Goldcloak 2,3
+Emily Diamond,a King's Landing whore,3
+Sean Bean,Lord Eddard Stark,4
+Mark Addy,King Robert Baratheon,4
+Nikolaj Coster-Waldau,Ser Jaime Lannister,4
+Michelle Fairley,Lady Catelyn Stark,4
+Lena Headey,Queen Cersei Lannister,4
+Emilia Clarke,Princess Daenerys Targaryen,4
+Iain Glen,Ser Jorah Mormont,4
+Aidan Gillen,Lord Petyr Baelish,4
+Harry Lloyd,Prince Viserys Targaryen,4
+Kit Harington,Jon Snow,4
+Sophie Turner,Sansa Stark,4
+Maisie Williams,Arya Stark,4
+Richard Madden,Robb Stark,4
+Alfie Allen,Theon Greyjoy,4
+Isaac Hempstead-Wright,Bran Stark,4
+Jack Gleeson,Prince Joffrey Baratheon,4
+Rory McCann,Sandor Clegane,4
+and Peter Dinklage,Tyrion Lannister,4
+Jason Momoa,Khal Drogo,4
+Donald Sumpter,Maester Luwin,4
+Conleth Hill,Lord Varys,4
+Jerome Flynn,Bronn,4
+Owen Teale,Ser Alliser Thorne,4
+Jamie Sives,Jory Cassel,4
+Ron Donachie,Ser Rodrik Cassel,4
+Francis Magee,Yoren,4
+Ian McElhinney,Lord Commander Barristan Selmy,4
+Dominic Carter,Commander Janos Slynt,4
+Julian Glover,Grand Maester Pycelle,4
+Gethin Anthony,Lord Renly Baratheon,4
+Emun Elliott,Marillion,4
+Susan Brown,Septa Mordane,4
+Margaret John,Old Nan,4
+John Bradley,Samwell Tarly,4
+Mark Stanley,Grenn,4
+Josef Altin,Pypar,4
+Luke McEwan,Rast,4
+Conan Stevens,Ser Gregor Clegane,4
+Amrita Acharia,Irri,4
+Roxanne McKee,Doreah,4
+Kristian Nairn,Hodor,4
+Jefferson Hall,Ser Hugh of the Vale,4
+Joe Dempsie,Gendry,4
+Andrew Wilde,Tobho Mott,4
+Callum Wharry,Prince Tommen Baratheon,4
+Aimee Richardson,Princess Myrcella Baratheon,4
+Kevin Keenan,Kurleket,4
+Patrick Ryan,Knight of House Frey,4
+Ryan McKenna,Ser Willis Wode,4
+Susie Kelly,Masha Heddle,4
+Eugene Simon,Lancel Lannister,4
+Unknown,Preston Greenfield,4
+Unknown,Gyles Rosby,4
+Sean Bean,Lord Eddard Stark,5
+Mark Addy,King Robert Baratheon,5
+Nikolaj Coster-Waldau,Ser Jaime Lannister,5
+Michelle Fairley,Lady Catelyn Stark,5
+Lena Headey,Queen Cersei Lannister,5
+Aidan Gillen,Lord Petyr Baelish,5
+Sophie Turner,Sansa Stark,5
+Maisie Williams,Arya Stark,5
+Alfie Allen,Theon Greyjoy,5
+Isaac Hempstead-Wright,Bran Stark,5
+Jack Gleeson,Prince Joffrey Baratheon,5
+Rory McCann,Sandor Clegane,5
+and Peter Dinklage,Tyrion Lannister,5
+Donald Sumpter,Maester Luwin,5
+Conleth Hill,Lord Varys,5
+Jamie Sives,Jory Cassel,5
+Ron Donachie,Ser Rodrik Cassel,5
+Jerome Flynn,Bronn,5
+Francis Magee,Yoren,5
+Ian McElhinney,Lord Commander Barristan Selmy,5
+Kate Dickie,Lady Lysa Arryn,5
+Julian Glover,Grand Maester Pycelle,5
+Gethin Anthony,Lord Renly Baratheon,5
+Roger Allam,Magister Illyrio Mopatis,5
+Emun Elliott,Marillion,5
+Finn Jones,Ser Loras Tyrell,5
+Conan Stevens,Ser Gregor Clegane,5
+Ciaran Bermingham,Mord,5
+Susan Brown,Septa Mordane,5
+Esme Bianco,Ros,5
+Jefferson Hall,Ser Hugh of the Vale,5
+Lino Facioli,Lord Robin Arryn,5
+Brendan McCormack,Ser Vardis Egen,5
+Robert Sterne,the Royal Steward,5
+Alan Paris,a Goldcloak,5
+Kevin Keenan,Kurleket,5
+Ryan McKenna,Ser Willis Wode,5
+Eugene Simon,Lancel Lannister,5
+Antonia Christophers,Mhaegen,5
+Emily Diamond,a King's Landing Whore,5
+Callum Wharry,Prince Tommen Baratheon,5
+Aimee Richardson,Princess Myrcella Baratheon,5
+Melissa Reid,Peasant,5
+Unknown,a Goldcloak,5
+Unknown,Barra,5
+Unknown,Preston Greenfield,5
+Unknown,Joss Stilwood,5
+Unknown,Wyl,5
+Unknown,Heward,5
+Sean Bean,Lord Eddard Stark,6
+Mark Addy,King Robert Baratheon,6
+Michelle Fairley,Lady Catelyn Stark,6
+Lena Headey,Queen Cersei Lannister,6
+Emilia Clarke,Princess Daenerys Targaryen,6
+Iain Glen,Ser Jorah Mormont,6
+Aidan Gillen,Petyr Baelish,6
+Harry Lloyd,Prince Viserys Targaryen,6
+Richard Madden,Robb Stark,6
+Sophie Turner,Sansa Stark,6
+Maisie Williams,Arya Stark,6
+Alfie Allen,Theon Greyjoy,6
+Isaac Hempstead-Wright,Bran Stark,6
+Jack Gleeson,Prince Joffrey Baratheon,6
+and Peter Dinklage,Tyrion Lannister,6
+Jason Momoa,Khal Drogo,6
+Jerome Flynn,Bronn,6
+Ron Donachie,Ser Rodrik Cassel,6
+Ian McElhinney,Lord Commander Barristan Selmy,6
+Finn Jones,Ser Loras Tyrell (credit only),6
+Kate Dickie,Lady Lysa Arryn,6
+Julian Glover,Grand Maester Pycelle,6
+Gethin Anthony,Lord Renly Baratheon,6
+Emun Elliott,Marillion,6
+Miltos Yerolemou,Syrio Forel,6
+Ciaran Bermingham,Mord,6
+Susan Brown,Septa Mordane,6
+Natalia Tena,Osha,6
+Lino Facioli,Lord Robin Arryn,6
+Esme Bianco,Ros,6
+Amrita Acharia,Irri,6
+Roxanne McKee,Doreah,6
+Kristian Nairn,Hodor,6
+Brendan McCormack,Ser Vardis Egen,6
+Elyes Gabel,Rakharo,6
+Dar Salim,Qotho,6
+Eugene Simon,Lancel Lannister,6
+Amira Ghazella,a Dothraki Crone,6
+Niall Cusack,Joss,6
+Stephen Don,Stiv,6
+Patrick Rocks,a Knight of House Lynderly,6
+Barrington Cullen,Lord Eon Hunter,6
+Barry O'Connor,Wallen,6
+David Michael Scott,Lord Beric Dondarrion,6
+Unknown,Cohollo,6
+Unknown,Haggo,6
+Sean Bean,Lord Eddard Stark,7
+Mark Addy,King Robert Baratheon,7
+Nikolaj Coster-Waldau,Ser Jaime Lannister,7
+Lena Headey,Queen Cersei Lannister,7
+Emilia Clarke,Princess Daenerys Targaryen,7
+Iain Glen,Ser Jorah Mormont,7
+Aidan Gillen,Petyr 'Littlefinger' Baelish,7
+Kit Harington,Jon Snow,7
+Alfie Allen,Theon Greyjoy,7
+Jack Gleeson,Prince Joffrey Baratheon,7
+Rory McCann,Sandor Clegane,7
+Jason Momoa,Khal Drogo,7
+Donald Sumpter,Maester Luwin,7
+Conleth Hill,Varys,7
+James Cosmo,Lord Commander Jeor Mormont,7
+Owen Teale,Ser Alliser Thorne,7
+Charles Dance,Lord Tywin Lannister,7
+Ian McElhinney,Lord Commander Barristan Selmy,7
+John Bradley-West,Samwell Tarly,7
+Peter Vaughan,Maester Aemon,7
+Julian Glover,Grand Maester Pycelle,7
+Gethin Anthony,Lord Renly Baratheon,7
+Dominic Carter,Commander Janos Slynt,7
+Natalia Tena,Osha,7
+Esme Bianco,Ros,7
+Mark Stanley,Grenn,7
+Josef Altin,Pypar,7
+Luke McEwan,Rast,7
+Amrita Acharia,Irri,7
+Roxanne McKee,Doreah,7
+Elyes Gabel,Rakharo,7
+Dar Salim,Qotho,7
+Robert Sterne,Royal Steward,7
+Simon Lowe,Wineseller,7
+Sahara Knite,Armeca,7
+Graham Charles,Varly,7
+Brian Fortune,Othell Yarwyck,7
+Jeffrey O'Brien,Jaremy Rykker,7
+Dennis McKeever,Night's Watch Officer 2,7
+Phil Dixon,Tomard,7
+Tristan Mercieca,Little Bird,7
+Unknown,Preston Greenfield,7
+Unknown,Arys Oakheart,7
+Unknown,Boros Blount,7
+Unknown,Mandon Moore,7
+Sean Bean,Lord Eddard Stark,8
+Michelle Fairley,Lady Catelyn Stark,8
+Lena Headey,Queen Cersei Lannister,8
+Emilia Clarke,Princess Daenerys Targaryen,8
+Iain Glen,Ser Jorah Mormont,8
+Aidan Gillen,Lord Petyr 'Littlefinger' Baelish,8
+Kit Harington,Jon Snow,8
+Richard Madden,Robb Stark,8
+Sophie Turner,Sansa Stark,8
+Maisie Williams,Arya Stark,8
+Alfie Allen,Theon Greyjoy,8
+Isaac Hempstead-Wright,Bran Stark,8
+Jack Gleeson,King Joffrey Baratheon,8
+Rory McCann,Sandor Clegane,8
+and Peter Dinklage,Tyrion Lannister,8
+Jason Momoa,Khal Drogo,8
+Donald Sumpter,Maester Luwin,8
+Conleth Hill,Varys,8
+Jerome Flynn,Bronn,8
+James Cosmo,Lord Commander Jeor Mormont,8
+Owen Teale,Ser Alliser Thorne,8
+Ron Donachie,Ser Rodrik Cassel,8
+Charles Dance,Lord Tywin Lannister,8
+Ian McElhinney,Lord Commander Barristan Selmy,8
+John Bradley-West,Samwell Tarly,8
+Julian Glover,Grand Maester Pycelle,8
+Miltos Yerolemou,Syrio Forel,8
+Kate Dickie,Lady Lysa Arryn,8
+Dominic Carter,Commander Janos Slynt,8
+Natalia Tena,Osha,8
+Susan Brown,Septa Mordane,8
+Clive Mantle,Greatjon Umber,8
+Mark Stanley,Grenn,8
+Josef Altin,Pypar,8
+Luke McEwan,Rast,8
+Mark Lewis Jones,Shagga,8
+Mia Soteriou,Mirri Maz Duur,8
+Amrita Acharia,Irri,8
+Roxanne McKee,Doreah,8
+Kristian Nairn,Hodor,8
+Elyes Gabel,Rakharo,8
+Dar Salim,Qotho,8
+Robert Sterne,Royal Steward,8
+Ian Gelder,Ser Kevan Lannister,8
+Lino Facioli,Lord Robin Arryn,8
+Art Parkinson,Rickon Stark,8
+Ian Beattie,Ser Meryn Trant,8
+Simon Stewart,a Lannister messenger,8
+Matthew Scurfield,Vayon Poole,8
+Frank O'Sullivan,a Night's Watch messenger,8
+Brian Fortune,Othell Yarwyck,8
+Chris Gallagher,a Lannister scout,8
+Rick Burn,a Stark guard,8
+Hugo Culverhouse,a Stableboy,8
+Ivailo Dimitrov,Mago,8
+Mark Coney,Galbart Glover,8
+Elizabeth Barrett,Lady Maege Mormont,8
+Tobias Winter,Timett,8
+Natalie Lee,Chella,8
+Dennis McKeever,Night's Watch Officer 2,8
+Unknown,Jafer Flowers,8
+Unknown,Othor,8
+Unknown,Cohollo,8
+Unknown,Haggo,8
+Unknown,Gyles Rosby,8
+Unknown,Aron Santagar,8
+Unknown,Preston Greenfield,8
+Unknown,Arys Oakheart,8
+Unknown,Boros Blount,8
+Unknown,Mandon Moore,8
+Sean Bean,Lord Eddard Stark,9
+Michelle Fairley,Lady Catelyn Stark,9
+Nikolaj Coster-Waldau,Ser Jaime Lannister,9
+Lena Headey,Queen Cersei Lannister,9
+Emilia Clarke,Princess Daenerys Targaryen,9
+Iain Glen,Ser Jorah Mormont,9
+Aidan Gillen,Petyr 'Littlefinger' Baelish,9
+Kit Harington,Jon Snow,9
+Richard Madden,Robb Stark,9
+Sophie Turner,Sansa Stark,9
+Maisie Williams,Arya Stark,9
+Alfie Allen,Theon Greyjoy,9
+Jack Gleeson,King Joffrey Baratheon,9
+Rory McCann,Sandor Clegane,9
+and Peter Dinklage,Tyrion Lannister,9
+Jason Momoa,Khal Drogo,9
+Conleth Hill,Varys,9
+Jerome Flynn,Bronn,9
+James Cosmo,Lord Commander Jeor Mormont,9
+Ron Donachie,Ser Rodrik Cassel,9
+Charles Dance,Lord Tywin Lannister,9
+Francis Magee,Yoren,9
+John Bradley-West,Samwell Tarly,9
+Julian Glover,Grand Maester Pycelle,9
+Peter Vaughan,Maester Aemon,9
+Sibel Kekilli,Shae,9
+David Bradley,Lord Walder Frey,9
+Clive Mantle,Lord Greatjon Umber,9
+Wilko Johnson,Ser Ilyn Payne,9
+Mark Stanley,Grenn,9
+Josef Altin,Pypar,9
+Luke McEwan,Rast,9
+Mark Lewis Jones,Shagga,9
+Mia Soteriou,Mirri Maz Duur,9
+Amrita Acharia,Irri,9
+Roxanne McKee,Doreah,9
+Elyes Gabel,Rakharo,9
+Dar Salim,Qotho,9
+Ian Gelder,Ser Kevan Lannister,9
+Edward Mercieca,a King's Landing baker,9
+Marcus Lamb,a Night's Watchman,9
+Colin Carnegie,Stevron Frey,9
+Bryan McCaugherty,Ryger Rivers,9
+Stephen Grech,a King's Landing urchin,9
+Elizabeth Barrett,Maege Mormont,9
+Vinnie McCabe,Leo Lefford,9
+Dominic Carter,Lord Janos Slynt,9
+Kelly Long,Joyeuse Erenford,9
+Tobias Winter,Timett,9
+Natalie Lee,Chella,9
+Frank O'Sullivan,a Night's Watch messenger,9
+Unknown,Arwaya Frey,9
+Unknown,Cohollo,9
+Unknown,Haggo,9
+Sean Bean,Lord Eddard Stark (credit only),10
+Michelle Fairley,Lady Catelyn Stark,10
+Nikolaj Coster-Waldau,Ser Jaime Lannister,10
+Lena Headey,Queen Cersei Lannister,10
+Emilia Clarke,Princess Daenerys Targaryen,10
+Iain Glen,Ser Jorah Mormont,10
+Aidan Gillen,Lord Petyr 'Littlefinger' Baelish,10
+Kit Harington,Jon Snow,10
+Richard Madden,Robb Stark,10
+Sophie Turner,Sansa Stark,10
+Maisie Williams,Arya Stark,10
+Alfie Allen,Theon Greyjoy,10
+Isaac Hempstead-Wright,Bran Stark,10
+Jack Gleeson,King Joffrey Baratheon,10
+Rory McCann,Sandor Clegane,10
+and Peter Dinklage,Tyrion Lannister,10
+Jason Momoa,Khal Drogo,10
+Donald Sumpter,Maester Luwin,10
+Conleth Hill,Varys,10
+Jerome Flynn,Bronn (credit only),10
+James Cosmo,Lord Commander Jeor Mormont,10
+Ron Donachie,Ser Rodrik Cassel,10
+Charles Dance,Lord Tywin Lannister,10
+Francis Magee,Yoren,10
+John Bradley-West,Samwell Tarly,10
+Julian Glover,Grand Maester Pycelle,10
+Emun Elliott,Marillion,10
+Sibel Kekilli,Shae,10
+Natalia Tena,Osha,10
+Esme Bianco,Ros,10
+Clive Mantle,Greatjon Umber,10
+Wilko Johnson,Ser Ilyn Payne,10
+Mark Stanley,Grenn,10
+Josef Altin,Pypar,10
+Mia Soteriou,Mirri Maz Duur,10
+Amrita Acharia,Irri,10
+Elyes Gabel,Rakharo,10
+Ian Gelder,Ser Kevan Lannister,10
+Kristian Nairn,Hodor,10
+Eugene Simon,Lancel Lannister,10
+Joe Dempsie,Gendry,10
+Ben Hawkey,Hot Pie,10
+Eros Vlahos,Lommy Greenhands,10
+Art Parkinson,Rickon Stark,10
+Ian Beattie,Ser Meryn Trant,10
+Steven Blount,Lord Rickard Karstark,10
+Gerry O'Brien,Lord Jonos Bracken,10
+Vinnie McCabe,Lord Leo Lefford,10
+B.J. Hogg,Ser Addam Marbrand,10
+Faolan Morgan,a Stark guard,10
+Mark Coney,Galbart Glover,10
+Elizabeth Barrett,Maege Mormont,10
+James Tolcher,Lannister Guard,10
+Unknown,Jaqen H'ghar,10
+Unknown,Rorge,10
+Unknown,Biter,10
+Unknown,Harys Swyft,10
+Unknown,Gyles Rosby,10
+Peter Dinklage,Tyrion Lannister,11
+Lena Headey,Queen Cersei Lannister,11
+Nikolaj Coster-Waldau,Ser Jaime Lannister,11
+Michelle Fairley,Lady Catelyn Stark,11
+Emilia Clarke,Khaleesi Daenerys Targaryen,11
+Aidan Gillen,Lord Petyr Baelish,11
+Iain Glen,Ser Jorah Mormont,11
+Kit Harington,Jon Snow,11
+Liam Cunningham,Ser Davos Seaworth,11
+Isaac Hempstead-Wright,Prince Bran Stark,11
+Richard Madden,King Robb Stark,11
+Sophie Turner,Princess Sansa Stark,11
+Maisie Williams,Princess Arya Stark,11
+Alfie Allen,Theon Greyjoy,11
+John Bradley,Samwell Tarly,11
+Jack Gleeson,King Joffrey Baratheon,11
+Rory McCann,Sandor Clegane,11
+Stephen Dillane,King Stannis Baratheon,11
+Carice van Houten,Melisandre,11
+James Cosmo,Lord Commander Jeor Mormont,11
+Jerome Flynn,Bronn,11
+Conleth Hill,Lord Varys,11
+Sibel Kekilli,Shae,11
+Donald Sumpter,Maester Luwin,11
+Ron Donachie,Ser Rodrik Cassel,11
+Julian Glover,Grand Maester Pycelle,11
+Robert Pugh,Craster,11
+Natalia Tena,Osha,11
+Oliver Ford Davies,Maester Cressen,11
+Mark Stanley,Grenn,11
+Ben Crompton,Eddison Tollett,11
+Joe Dempsie,Gendry,11
+Ben Hawkey,Hot Pie,11
+Eros Vlahos,Lommy Greenhands,11
+Roxanne McKee,Doreah,11
+Amrita Acharia,Irri,11
+Elyes Gabel,Rakharo,11
+Steven Cole,Kovarro,11
+Kristian Nairn,Hodor,11
+Esme Bianco,Ros,11
+Dominic Carter,Lord Janos Slynt,11
+Kerr Logan,Matthos Seaworth,11
+Tony Way,Ser Dontos Hollard,11
+Hannah Murray,Gilly,11
+Karl Davies,Ser Alton Lannister,11
+Ian Beattie,Ser Meryn Trant,11
+Pat Mooney,Northern Lord,11
+Sahara Knite,Armeca,11
+Maisie Dee,Daisy,11
+Antonia Christophers,Mhaegen,11
+Callum Wharry,Prince Tommen Baratheon,11
+Aimee Richardson,Princess Myrcella Baratheon,11
+Andrew Wilde,Tobho Mott,11
+Natalie Lee,Chella,11
+Gordon Fulton,Lord Portan,11
+Marko Cindric,Tourney Herald,11
+Josephine Gillan,a Marei,11
+Dennis Stokes,a male prostitute,11
+Tobias Winter,Timett,11
+Dennis McKeever,Night's Watch Officer 2,11
+Filip Lozić,Young Nobleman,11
+Graeme Peacock,Field Worker,11
+Unknown,Night's Watch Officer (relieved of his axe),11
+Unknown,Lothor Brune,11
+Unknown,Aggo,11
+Sarah MacKeever,Selyse Baratheon,11
+Unknown,Stark Officer 1,11
+Unknown,Stark Officer 2,11
+Unknown,Barra,11
+Peter Dinklage,Tyrion Lannister,12
+Lena Headey,Queen Cersei Lannister,12
+Emilia Clarke,Khaleesi Daenerys Targaryen,12
+Aidan Gillen,Lord Petyr Baelish,12
+Iain Glen,Ser Jorah Mormont,12
+Kit Harington,Jon Snow,12
+Liam Cunningham,Ser Davos Seaworth,12
+Alfie Allen,Theon Greyjoy,12
+Maisie Williams,Princess Arya Stark,12
+Stephen Dillane,King Stannis Baratheon,12
+Carice van Houten,Melisandre,12
+Jerome Flynn,Bronn,12
+Conleth Hill,Lord Varys,12
+John Bradley,Samwell Tarly,12
+Sibel Kekilli,Shae,12
+Julian Glover,Grand Maester Pycelle,12
+Robert Pugh,Craster,12
+Patrick Malahide,King Balon Greyjoy,12
+Francis Magee,Yoren,12
+Dominic Carter,Lord Janos Slynt,12
+Tom Wlaschiha,Jaqen H'ghar,12
+Joe Dempsie,Gendry,12
+Mark Stanley,Grenn,12
+Ben Crompton,Eddison Tollett,12
+Roxanne McKee,Doreah,12
+Amrita Acharia,Irri,12
+Steven Cole,Kovarro (credit only),12
+Ben Hawkey,Hot Pie,12
+Eros Vlahos,Lommy Greenhands,12
+Esme Bianco,Ros,12
+Andy Beckwith,Rorge,12
+Gemma Whelan,Princess Yara Greyjoy,12
+Kerr Logan,Matthos Seaworth,12
+Lucian Msamati,Salladhor Saan,12
+Hannah Murray,Gilly,12
+Karl Davies,Ser Alton Lannister,12
+Amy Dawson,the Captain's daughter,12
+Sahara Knite,Armeca,12
+Jer O'Leary,Lordsport dockhand,12
+Gerard Jordan,Biter,12
+Daniel Portman,Podrick Payne,12
+Ian Whyte,a White Walker,12
+Sam Callis,a Goldcloak on the Kingsroad,12
+Derek Reid,Ros's dissatisfied customer,12
+Josephine Gillan,Marei,12
+Dennis Stokes,a male prostitute,12
+Dennis McKeever,Night's Watch Officer 2,12
+Peter Dinklage,Tyrion Lannister,13
+Lena Headey,Queen Cersei Lannister,13
+Michelle Fairley,Lady Catelyn Stark,13
+Aidan Gillen,Lord Petyr Baelish,13
+Kit Harington,Jon Snow,13
+Alfie Allen,Theon Greyjoy,13
+Isaac Hempstead-Wright,Prince Bran Stark,13
+Sophie Turner,Princess Sansa Stark,13
+Maisie Williams,Princess Arya Stark,13
+John Bradley,Samwell Tarly,13
+Natalie Dormer,Queen Margaery Tyrell,13
+James Cosmo,Lord Commander Jeor Mormont,13
+Jerome Flynn,Bronn,13
+Conleth Hill,Lord Varys,13
+Sibel Kekilli,Shae,13
+Donald Sumpter,Maester Luwin,13
+Ron Donachie,Ser Rodrik Cassel,13
+Julian Glover,Grand Maester Pycelle,13
+Robert Pugh,Craster,13
+Patrick Malahide,King Balon Greyjoy,13
+Francis Magee,Yoren,13
+Gethin Anthony,King Renly Baratheon,13
+Joe Dempsie,Gendry,13
+Tom Wlaschiha,Jaqen H'ghar,13
+Gwendoline Christie,Brienne of Tarth,13
+Finn Jones,Loras Tyrell,13
+Ben Hawkey,Hot Pie,13
+Eros Vlahos,Lommy Greenhands,13
+Gemma Whelan,Princess Yara Greyjoy,13
+Kristian Nairn,Hodor,13
+Hannah Murray,Gilly,13
+Fintan McKeown,Amory Lorch,13
+Andy Kellegher,Polliver,13
+Andy Beckwith,Rorge,13
+Gerard Jordan,Biter,13
+Jonathan Ryan,a Drowned Priest,13
+Aimee Richardson,Princess Myrcella Baratheon,13
+Callum Wharry,Prince Tommen Baratheon,13
+Maisie Dee,Daisy,13
+Tobias Winter,Timett,13
+Ken Fletcher,Gerald,13
+Darren Killeen,Ser Colen of Greenpools,13
+Sam Callis,a Goldcloak on the Kingsroad,13
+Dennis McKeever,Night's Watch Officer 2,13
+Aaron Archer,Tyrell Soldier,13
+Darran Watt,Soldier,13
+Unknown,Night's Watch Officer,13
+Peter Dinklage,Tyrion Lannister,14
+Michelle Fairley,Lady Catelyn Stark,14
+Emilia Clarke,Khaleesi Daenerys Targaryen,14
+Aidan Gillen,Lord Petyr Baelish,14
+Iain Glen,Ser Jorah Mormont,14
+Charles Dance,Lord Tywin Lannister,14
+Liam Cunningham,Ser Davos Seaworth,14
+Jack Gleeson,King Joffrey Baratheon,14
+Richard Madden,King Robb Stark,14
+Sophie Turner,Princess Sansa Stark,14
+Maisie Williams,Princess Arya Stark,14
+Stephen Dillane,King Stannis Baratheon,14
+Carice van Houten,Melisandre,14
+Natalie Dormer,Queen Margaery Tyrell,14
+Jerome Flynn,Bronn,14
+Rory McCann,Sandor Clegane,14
+Gethin Anthony,King Renly Baratheon,14
+Nicholas Blane,the Spice King,14
+Nonso Anozie,Xaro Xhoan Daxos,14
+Michael McElhatton,Lord Roose Bolton,14
+Joe Dempsie,Gendry,14
+Eugene Simon,Ser Lancel Lannister,14
+Oona Chaplin,Talisa Maegyr,14
+Gwendoline Christie,Brienne of Tarth,14
+Ian Hanmore,Pyat Pree,14
+Roxanne McKee,Doreah,14
+Amrita Acharia,Irri,14
+Steven Cole,Kovarro,14
+Ben Hawkey,Hot Pie,14
+Finn Jones,Ser Loras Tyrell,14
+Esme Bianco,Ros,14
+Ian Whyte,Ser Gregor Clegane,14
+Ian Beattie,Ser Meryn Trant,14
+Tony Way,Ser Dontos Hollard,14
+Anthony Morris,the Tickler,14
+Sam Mackay,a Lannister guardsman,14
+David Fynn,Rennick,14
+Andy Kellegher,Polliver,14
+Maisie Dee,Daisy,14
+Gina Moxley,an Old woman prisoner,14
+Fintan McKeown,Ser Amory Lorch,14
+Emmett O'Riabhaigh,a Wounded Lannister,14
+Donal Gallery,a Tortured prisoner,14
+Slavko Juraga,the Thirteen member,14
+Paul Kealyn,Weasel,14
+Graeme Peacock,Field Worker,14
+Darran Watt,Soldier,14
+Peter Dinklage,Tyrion Lannister,15
+Lena Headey,Queen Cersei Lannister,15
+Michelle Fairley,Lady Catelyn Stark,15
+Emilia Clarke,Khaleesi Daenerys Targaryen,15
+Aidan Gillen,Lord Petyr Baelish,15
+Iain Glen,Ser Jorah Mormont,15
+Kit Harington,Jon Snow,15
+Charles Dance,Lord Tywin Lannister,15
+Liam Cunningham,Ser Davos Seaworth,15
+Alfie Allen,Theon Greyjoy,15
+John Bradley,Samwell Tarly,15
+Isaac Hempstead-Wright,Prince Bran Stark,15
+Maisie Williams,Princess Arya Stark,15
+Stephen Dillane,King Stannis Baratheon,15
+Natalie Dormer,Queen Margaery Tyrell,15
+James Cosmo,Lord Commander Jeor Mormont,15
+Jerome Flynn,Bronn,15
+Donald Sumpter,Maester Luwin,15
+Roy Dotrice,Wisdom Hallyne,15
+Ron Donachie,Ser Rodrik Cassel,15
+Gwendoline Christie,Brienne of Tarth,15
+Natalia Tena,Osha,15
+Gethin Anthony,King Renly Baratheon,15
+Ian Hanmore,Pyat Pree,15
+Tom Wlaschiha,Jaqen H'ghar,15
+Joe Dempsie,Gendry,15
+Eugene Simon,Ser Lancel Lannister,15
+Simon Armstrong,Qhorin Halfhand,15
+Mark Stanley,Grenn,15
+Finn Jones,Ser Loras Tyrell,15
+Ben Crompton,Eddison Tollett,15
+Roxanne McKee,Doreah,15
+Amrita Acharia,Irri,15
+Steven Cole,Kovarro,15
+Nonso Anozie,Xaro Xhoan Daxos,15
+Gemma Whelan,Princess Yara Greyjoy,15
+Kristian Nairn,Hodor,15
+Ben Hawkey,Hot Pie,15
+Ralph Ineson,Dagmer Cleftjaw,15
+Forbes KB,Black Lorren,15
+Fintan McKeown,Ser Amory Lorch,15
+Edward Tudor Pole,a Protestor,15
+Laura Pradelska,Quaithe,15
+Patrick Fitzsymons,Reginald Lannister,15
+Art Parkinson,Prince Rickon Stark,15
+Aimee Richardson,Princess Myrcella Baratheon,15
+Anthony Morris,the Tickler,15
+Donagh Deeney,a Winterfell shepherd,15
+Kristina Krepela,a Qartheen woman,15
+Slavko Juraga,a Thirteen member,15
+David Coakley,Drennan,15
+Dez McMahon,Baratheon Commander,15
+Unknown,Ser Emmon Cuy,15
+Unknown,Ser Robar Royce,15
+Unknown,Eglantine,15
+Unknown,Lannister bannerman 1,15
+Unknown,Lannister bannerman 2,15
+Unknown,Lannister bannerman 3,15
+Unknown,Malakho,15
+Unknown,Stonesnake,15
+Unknown,Harker,15
+Unknown,Borba,15
+Peter Dinklage,Tyrion Lannister,16
+Lena Headey,Queen Cersei Lannister,16
+Michelle Fairley,Lady Catelyn Stark,16
+Emilia Clarke,Khaleesi Daenerys Targaryen,16
+Aidan Gillen,Lord Petyr Baelish,16
+Kit Harington,Jon Snow,16
+Charles Dance,Lord Tywin Lannister,16
+Isaac Hempstead-Wright,Prince Bran Stark,16
+Richard Madden,King Robb Stark,16
+Sophie Turner,Princess Sansa Stark,16
+Maisie Williams,Princess Arya Stark,16
+Alfie Allen,Prince Theon Greyjoy,16
+Jack Gleeson,King Joffrey Baratheon,16
+Sibel Kekilli,Shae,16
+Rory McCann,Sandor Clegane,16
+Donald Sumpter,Maester Luwin,16
+Ron Donachie,Ser Rodrik Cassel,16
+Natalia Tena,Osha,16
+Michael McElhatton,Lord Roose Bolton,16
+Nonso Anozie,Xaro Xhoan Daxos,16
+Nicholas Blane,the Spice King,16
+Tom Wlaschiha,Jaqen H'ghar,16
+Rose Leslie,Ygritte,16
+Gwendoline Christie,Brienne of Tarth,16
+Oona Chaplin,Talisa Maegyr,16
+Simon Armstrong,Qhorin Halfhand,16
+Ralph Ineson,Dagmer Cleftjaw,16
+Ian Beattie,Ser Meryn Trant,16
+Fintan McKeown,Ser Amory Lorch,16
+Forbes KB,Black Lorren,16
+Amrita Acharia,Irri,16
+Kristian Nairn,Hodor,16
+Steven Cole,Kovarro,16
+David Verrey,the High Septon,16
+Peter Ballance,Farlen,16
+David Coakley,Drennan,16
+Aimee Richardson,Princess Myrcella Baratheon,16
+Art Parkinson,Prince Rickon Stark,16
+Callum Wharry,Prince Tommen Baratheon,16
+Reg Wayment,a rioter,16
+Aiden Condron,a Lannister captain,16
+Marko Juraga,a rioter,16
+Rea Separovic,a rioter,16
+Paul Caddell,Jacks,16
+Aidan Crowe,Quent,16
+Unknown,Palla,16
+Unknown,Malakho,16
+Unknown,Ser Arys Oakheart,16
+Unknown,Harker,16
+Unknown,Stonesnake,16
+Unknown,Borba,16
+Unknown,a Stark guard,16
+Peter Dinklage,Tyrion Lannister,17
+Lena Headey,Queen Cersei Lannister,17
+Nikolaj Coster-Waldau,Ser Jaime Lannister,17
+Michelle Fairley,Lady Catelyn Stark,17
+Emilia Clarke,Khaleesi Daenerys Targaryen,17
+Iain Glen,Ser Jorah Mormont,17
+Kit Harington,Jon Snow,17
+Charles Dance,Lord Tywin Lannister,17
+Isaac Hempstead-Wright,Prince Bran Stark,17
+Richard Madden,King Robb Stark,17
+Sophie Turner,Princess Sansa Stark,17
+Maisie Williams,Princess Arya Stark,17
+Alfie Allen,Prince Theon Greyjoy,17
+Sibel Kekilli,Shae,17
+Rory McCann,Sandor Clegane,17
+Donald Sumpter,Maester Luwin,17
+Ian Hanmore,Pyat Pree,17
+Nicholas Blane,the Spice King,17
+Nonso Anozie,Xaro Xhoan Daxos,17
+Natalia Tena,Osha,17
+Michael McElhatton,Lord Roose Bolton,17
+Rose Leslie,Ygritte,17
+Gwendoline Christie,Brienne of Tarth,17
+Oona Chaplin,Talisa Maegyr,17
+Ralph Ineson,Dagmer Cleftjaw,17
+Laura Pradelska,Quaithe,17
+John Stahl,Lord Rickard Karstark,17
+Karl Davies,Ser Alton Lannister,17
+Forbes KB,Black Lorren,17
+Kristian Nairn,Hodor,17
+Steven Cole,Kovarro,17
+Ian Whyte,Ser Gregor Clegane,17
+Art Parkinson,Prince Rickon Stark,17
+Donagh Deeney,a Winterfell shepherd,17
+Sara Dylan,a Handmaid,17
+Steve Wilson,Theon's master of hounds,17
+Slavko Juraga,the Thirteen member,17
+Tyrone McElhennon,Torrhen Karstark,17
+Neill Fleming,a Karstark soldier,17
+Peter Ballance,Farlen,17
+David Coakley,Drennan,17
+Paul Caddell,Jacks,17
+Duncan Lacroix,a Karstark soldier,17
+David Sheenan (sic),a Stark guard,17
+Aidan Crowe,Quent,17
+Reg Wayment,a rioter,17
+Paul Monahan,Stark Guard,17
+Unknown,Palla,17
+Unknown,Billy,17
+Unknown,Jack,17
+Unknown,Malakho,17
+Unknown,a Stark guard,17
+Unknown,the Silk King,17
+Unknown,the Copper King,17
+Peter Dinklage,Tyrion Lannister,18
+Lena Headey,Queen Cersei Lannister,18
+Nikolaj Coster-Waldau,Ser Jaime Lannister,18
+Michelle Fairley,Lady Catelyn Stark,18
+Emilia Clarke,Khaleesi Daenerys Targaryen,18
+Iain Glen,Ser Jorah Mormont,18
+Kit Harington,Jon Snow,18
+Charles Dance,Lord Tywin Lannister,18
+Liam Cunningham,Ser Davos Seaworth,18
+Jack Gleeson,King Joffrey Baratheon,18
+Isaac Hempstead-Wright,Prince Bran Stark,18
+Richard Madden,King Robb Stark,18
+Maisie Williams,Princess Arya Stark,18
+Alfie Allen,Prince Theon Greyjoy,18
+John Bradley,Samwell Tarly,18
+Stephen Dillane,King Stannis Baratheon,18
+Sibel Kekilli,Shae,18
+Jerome Flynn,Bronn,18
+Conleth Hill,Lord Varys,18
+Donald Sumpter,Maester Luwin,18
+Natalia Tena,Osha,18
+Oona Chaplin,Lady Talisa Maegyr,18
+Michael McElhatton,Lord Roose Bolton,18
+Tom Wlaschiha,Jaqen H'ghar,18
+Rose Leslie,Ygritte,18
+Simon Armstrong,Qhorin Halfhand,18
+Gemma Whelan,Princess Yara Greyjoy,18
+Joe Dempsie,Gendry,18
+Gwendoline Christie,Brienne of Tarth,18
+Ralph Ineson,Dagmer Cleftjaw,18
+Ian Gelder,Ser Kevan Lannister,18
+John Stahl,Lord Rickard Karstark,18
+Mark Stanley,Grenn,18
+Ben Crompton,Eddison Tollett,18
+Ben Hawkey,Hot Pie,18
+Esme Bianco,Ros,18
+Andy Beckwith,Rorge,18
+Steven Cole,Kovarro,18
+Edward Dogliani,Lord of Bones,18
+Kristian Nairn,Hodor,18
+Gerard Jordan,Biter,18
+Art Parkinson,Prince Rickon Stark,18
+Daniel Portman,Podrick Payne,18
+Ian Whyte,Ser Gregor Clegane,18
+Kerr Logan,Matthos Seaworth,18
+Moe Dunford,a Stark messenger,18
+Mark Byatt,a Lannister torturer,18
+David Sheenan (sic),a Stark guard,18
+Aiden Condron,a Lannister captain,18
+Ciaran McMahon,a Lannister soldier,18
+Unknown,an Ironborn lookout,18
+Unknown,a Tortured Lannister,18
+Unknown,the Fury gunnery officer,18
+Unknown,Lannister bannerman 1,18
+Unknown,Lannister bannerman 2,18
+Unknown,Lannister bannerman 3,18
+Peter Dinklage,Tyrion Lannister,19
+Lena Headey,Queen Cersei Lannister,19
+Charles Dance,Lord Tywin Lannister,19
+Liam Cunningham,Ser Davos Seaworth,19
+Jack Gleeson,King Joffrey Baratheon,19
+Sophie Turner,Princess Sansa Stark,19
+Rory McCann,Sandor Clegane,19
+Stephen Dillane,King Stannis Baratheon,19
+Jerome Flynn,Bronn,19
+Conleth Hill,Lord Varys,19
+Sibel Kekilli,Shae,19
+Roy Dotrice,Wisdom Hallyne,19
+Julian Glover,Grand Maester Pycelle,19
+Eugene Simon,Ser Lancel Lannister,19
+Kerr Logan,Matthos Seaworth,19
+Finn Jones,Ser Loras Tyrell,19
+Sahara Knite,Armeca,19
+Tony Way,Dontos Hollard,19
+Wilko Johnson,Ser Ilyn Payne,19
+Stephen Swift,Singing Lannister soldier,19
+Callum Wharry,Tommen Baratheon,19
+Daniel Portman,Podrick Payne,19
+Gordan Mahon,Ser Imry Florent,19
+James Doran,Ser Mandon Moore,19
+Kieran Cunningham,a Baratheon officer,19
+Michael Grennell,the Captain of the Archers,19
+Hugh Irvine,Lannister Archer,19
+Graeme Peacock,Market Trader,19
+Darran Watt,Soldier,19
+Unknown,Ser Boros Blount,19
+Peter Dinklage,Tyrion Lannister,20
+Lena Headey,Queen Cersei Lannister,20
+Nikolaj Coster-Waldau,Ser Jaime Lannister,20
+Michelle Fairley,Lady Catelyn Stark,20
+Emilia Clarke,Khaleesi Daenerys Targaryen,20
+Aidan Gillen,Lord Petyr Baelish,20
+Iain Glen,Ser Jorah Mormont,20
+Kit Harington,Jon Snow,20
+Charles Dance,Lord Tywin Lannister,20
+Richard Madden,King Robb Stark,20
+Isaac Hempstead-Wright,Prince Bran Stark,20
+Sophie Turner,Princess Sansa Stark,20
+Maisie Williams,Princess Arya Stark,20
+Alfie Allen,Prince Theon Greyjoy,20
+John Bradley,Samwell Tarly,20
+Jack Gleeson,King Joffrey Baratheon,20
+Natalie Dormer,Lady Margaery Tyrell,20
+Stephen Dillane,King Stannis Baratheon,20
+Carice van Houten,Melisandre,20
+Conleth Hill,Lord Varys,20
+Sibel Kekilli,Shae,20
+Jason Momoa,Khal Drogo,20
+Donald Sumpter,Maester Luwin,20
+Julian Glover,Grand Maester Pycelle,20
+Ian Hanmore,Pyat Pree,20
+Natalia Tena,Osha,20
+Tom Wlaschiha,Jaqen H'ghar,20
+Simon Armstrong,Qhorin Halfhand,20
+Gwendoline Christie,Brienne of Tarth,20
+Rose Leslie,Ygritte,20
+Nonso Anozie,Xaro Xhoan Daxos,20
+Joe Dempsie,Gendry,20
+Oona Chaplin,Lady Talisa Maegyr,20
+Esme Bianco,Ros,20
+Finn Jones,Ser Loras Tyrell,20
+Mark Stanley,Grenn,20
+Ben Crompton,Eddison Tollett,20
+Ben Hawkey,Hot Pie,20
+Ralph Ineson,Dagmer Cleftjaw,20
+Roxanne McKee,Doreah,20
+Steven Cole,Kovarro,20
+Kristian Nairn,Hodor,20
+Art Parkinson,Prince Rickon Stark,20
+Edward Dogliani,Lord of Bones,20
+Forbes KB,Black Lorren,20
+Daniel Portman,Podrick Payne,20
+Patrick O'Kane,Jaqen's New Face,20
+Michael Shaeffer,a Stark soldier,20
+Christopher Reilly,Soldier Tom,20
+Terry Byrne,a Septon,20
+Ross Mullan,a White Walker,20
+Wren Ros Elliot-Sloan,Rhaego,20
+Noel Cecil,Wight,20
+Peter Dinklage,Tyrion Lannister,21
+Lena Headey,Queen Cersei Lannister,21
+Emilia Clarke,Khaleesi Daenerys Targaryen,21
+Kit Harington,Jon Snow,21
+Richard Madden,King Robb Stark,21
+Iain Glen,Ser Jorah Mormont,21
+Michelle Fairley,Lady Catelyn Stark,21
+Aidan Gillen,Lord Petyr Baelish,21
+Charles Dance,Lord Tywin Lannister,21
+Liam Cunningham,Ser Davos Seaworth,21
+Stephen Dillane,King Stannis Baratheon,21
+Carice van Houten,Melisandre,21
+Natalie Dormer,Lady Margaery Tyrell,21
+John Bradley,Samwell Tarly,21
+Jack Gleeson,King Joffrey Baratheon,21
+Sophie Turner,Princess Sansa Stark,21
+Oona Chaplin,Queen Talisa Stark,21
+Sibel Kekilli,Shae,21
+Rose Leslie,Ygritte,21
+James Cosmo,Lord Commander Jeor Mormont,21
+Jerome Flynn,Ser Bronn,21
+Ciarán Hinds,Mance Rayder,21
+Michael McElhatton,Lord Roose Bolton,21
+Ian McElhinney,Ser Barristan Selmy,21
+Finn Jones,Ser Loras Tyrell,21
+Anton Lesser,Qyburn,21
+Kristofer Hivju,Tormund Giantsbane,21
+Esme Bianco,Ros,21
+John Stahl,Lord Rickard Karstark,21
+Lucian Msamati,Salladhor Saan,21
+Mark Stanley,Grenn,21
+Ben Crompton,Eddison Tollett,21
+Daniel Portman,Podrick Payne,21
+Dan Hildebrand,Kraznys mo Nakloz,21
+Nathalie Emmanuel,Missandei,21
+Luke Barnes,Rast,21
+Edward Dogliani,Lord of Bones,21
+Ian Beattie,Ser Meryn Trant,21
+Ian Whyte,a giant,21
+Elisa Lasowski,Mirelle,21
+Michael Power,a boat commander,21
+Aisling Jarrett-Gavin,Margaery's handmaiden,21
+Max Barber,a orphan kid,21
+Lottie Steer,a warlock,21
+Rhys Howells,Unsullied 1 (Valar Dohaeris),21
+Omar Youssef,Dothraki,21
+Peter Dinklage,Tyrion Lannister,22
+Nikolaj Coster-Waldau,Ser Jaime Lannister,22
+Lena Headey,Queen Cersei Lannister,22
+Kit Harington,Jon Snow,22
+Richard Madden,King Robb Stark,22
+Michelle Fairley,Lady Catelyn Stark,22
+Natalie Dormer,Lady Margaery Tyrell,22
+Isaac Hempstead-Wright,Prince Bran Stark,22
+Jack Gleeson,King Joffrey Baratheon,22
+Sophie Turner,Princess Sansa Stark,22
+Maisie Williams,Princess Arya Stark,22
+Alfie Allen,Prince Theon Greyjoy,22
+Oona Chaplin,Queen Talisa Stark,22
+Joe Dempsie,Gendry,22
+Rose Leslie,Ygritte,22
+John Bradley,Samwell Tarly,22
+James Cosmo,Lord Commander Jeor Mormont,22
+Sibel Kekilli,Shae,22
+Rory McCann,Sandor Clegane,22
+Diana Rigg,Lady Olenna Tyrell,22
+Ciarán Hinds,Mance Rayder,22
+Mackenzie Crook,Orell,22
+Paul Kaye,Thoros of Myr,22
+Gwendoline Christie,Brienne of Tarth,22
+Noah Taylor,Locke,22
+Natalia Tena,Osha,22
+Michael McElhatton,Lord Roose Bolton,22
+Iwan Rheon,Ramsay Snow,22
+Kristofer Hivju,Tormund Giantsbane,22
+Finn Jones,Ser Loras Tyrell,22
+Thomas Brodie Sangster,Jojen Reed,22
+Ellie Kendrick,Meera Reed,22
+Ben Hawkey,Hot Pie,22
+John Stahl,Lord Rickard Karstark,22
+Philip McGinley,Anguy,22
+Mark Stanley,Grenn,22
+Ben Crompton,Eddison Tollett,22
+Luke Barnes,Rast,22
+Kristian Nairn,Hodor,22
+Art Parkinson,Prince Rickon Stark,22
+Michael Shelford,Master Torturer,22
+Joe Purcell,a Riverrun traveller,22
+Joe Cassidy,a King's Landing tailor,22
+Will Rastall,Tyrell server,22
+Tyrone Kearns,Brotherhood member,22
+Sean Bean,"Lord Eddard Stark (voice only, archive footage)",22
+Peter Dinklage,Tyrion Lannister,23
+Nikolaj Coster-Waldau,Ser Jaime Lannister,23
+Lena Headey,Queen Cersei Lannister,23
+Emilia Clarke,Queen Daenerys Targaryen,23
+Kit Harington,Jon Snow,23
+Richard Madden,King Robb Stark,23
+Iain Glen,Ser Jorah Mormont,23
+Michelle Fairley,Lady Catelyn Stark,23
+Aidan Gillen,Lord Petyr Baelish,23
+Charles Dance,Lord Tywin Lannister,23
+Stephen Dillane,King Stannis Baratheon,23
+Carice van Houten,Melisandre,23
+Alfie Allen,Prince Theon Greyjoy,23
+John Bradley,Samwell Tarly,23
+Maisie Williams,Princess Arya Stark,23
+Oona Chaplin,Queen Talisa Stark,23
+Joe Dempsie,Gendry,23
+Rose Leslie,Ygritte,23
+James Cosmo,Lord Commander Jeor Mormont,23
+Conleth Hill,Lord Varys,23
+Jerome Flynn,Ser Bronn,23
+Rory McCann,Sandor Clegane,23
+Ciarán Hinds,Mance Rayder,23
+Robert Pugh,Craster,23
+Ian McElhinney,Ser Barristan Selmy,23
+Gwendoline Christie,Brienne of Tarth,23
+Mackenzie Crook,Orell,23
+Paul Kaye,Thoros of Myr,23
+Clive Russell,Ser Brynden Tully,23
+Tobias Menzies,Lord Edmure Tully,23
+Kristofer Hivju,Tormund Giantsbane,23
+Julian Glover,Grand Maester Pycelle,23
+Iwan Rheon,Ramsay Snow,23
+Noah Taylor,Locke,23
+Mark Stanley,Grenn,23
+Ben Crompton,Eddison Tollett,23
+Luke Barnes,Rast,23
+Burn Gorman,Karl Tanner,23
+Hannah Murray,Gilly,23
+Ben Hawkey,Hot Pie,23
+Esme Bianco,Ros,23
+Daniel Portman,Podrick Payne,23
+Philip McGinley,Anguy,23
+Dan Hildebrand,Kraznys mo Nakloz,23
+Nathalie Emmanuel,Missandei,23
+Michael Shelford,Master Torturer,23
+Clifford Barry,Greizhen mo Ullhor[1],23
+Gary Lightbody,Bolton soldier,23
+Michelle Costello,Craster's wife,23
+Lisa Walsh,Craster's younger wife,23
+Josephine Gillan,Marei,23
+Kylie Harris,Genna,23
+Pixie Le Knot,Kayla,23
+Dean-Charles Chapman,Martyn Lannister,23
+Timothy Gibbons,Willem Lannister,23
+Mark Drake,a tortured slave[2],23
+Dennis McKeever,Othell Yarwyck,23
+Christopher Newman,Lord Hoster Tully​,23
+Matt Butcher,Riverrun Nobleman,23
+Tyrone Kearns,Brotherhood Member,23
+Peter Dinklage,Tyrion Lannister,24
+Nikolaj Coster-Waldau,Ser Jaime Lannister,24
+Lena Headey,Queen Cersei Lannister,24
+Emilia Clarke,Queen Daenerys Targaryen,24
+Iain Glen,Ser Jorah Mormont,24
+Michelle Fairley,Lady Catelyn Stark,24
+Charles Dance,Lord Tywin Lannister,24
+Natalie Dormer,Lady Margaery Tyrell,24
+Alfie Allen,Prince Theon Greyjoy,24
+Isaac Hempstead-Wright,Prince Bran Stark,24
+Sophie Turner,Princess Sansa Stark,24
+Maisie Williams,Princess Arya Stark,24
+John Bradley,Samwell Tarly,24
+Joe Dempsie,Gendry,24
+Jack Gleeson,King Joffrey Baratheon,24
+Rory McCann,Sandor Clegane,24
+Conleth Hill,Lord Varys,24
+James Cosmo,Lord Commander Jeor Mormont,24
+Diana Rigg,Lady Olenna Tyrell,24
+Robert Pugh,Craster,24
+Gwendoline Christie,Brienne of Tarth,24
+Ian McElhinney,Ser Barristan Selmy,24
+Paul Kaye,Thoros of Myr,24
+Richard Dormer,Lord Beric Dondarrion,24
+Noah Taylor,Locke,24
+Iwan Rheon,Ramsay Snow,24
+Hannah Murray,Gilly,24
+Thomas Brodie-Sangster,Jojen Reed,24
+Burn Gorman,Karl Tanner,24
+Mark Stanley,Grenn,24
+Ben Crompton,Eddison Tollett,24
+Luke Barnes,Rast,24
+Dan Hildebrand,Kraznys mo Nakloz,24
+Nathalie Emmanuel,Missandei,24
+Esme Bianco,Ros,24
+Philip McGinley,Anguy,24
+Clifford Barry,Greizhen mo Ullhor,24
+Sophie Reid,a Tyrell lady[1],24
+Bryan Quinn,a Bolton soldier[2],24
+Harold James McMullan,the Sorcerer,24
+Jamie Michie,Steelshanks,24
+Dennis McKeever,Night's Watch Officer,24
+Tyrone Kearns,Brotherhood Member,24
+Peter Dinklage,Tyrion Lannister,25
+Nikolaj Coster-Waldau,Ser Jaime Lannister,25
+Lena Headey,Queen Cersei Lannister,25
+Emilia Clarke,Queen Daenerys Targaryen,25
+Kit Harington,Jon Snow,25
+Richard Madden,King Robb Stark,25
+Iain Glen,Ser Jorah Mormont,25
+Michelle Fairley,Lady Catelyn Stark,25
+Aidan Gillen,Lord Petyr Baelish,25
+Charles Dance,Lord Tywin Lannister,25
+Liam Cunningham,Ser Davos Seaworth,25
+Stephen Dillane,King Stannis Baratheon,25
+Natalie Dormer,Lady Margaery Tyrell,25
+Oona Chaplin,Queen Talisa Stark,25
+Sophie Turner,Princess Sansa Stark,25
+Maisie Williams,Princess Arya Stark,25
+Joe Dempsie,Gendry,25
+Rose Leslie,Ygritte,25
+Rory McCann,Sandor Clegane,25
+Diana Rigg,Lady Olenna Tyrell,25
+Gwendoline Christie,Brienne of Tarth,25
+Ian McElhinney,Ser Barristan Selmy,25
+Michael McElhatton,Lord Roose Bolton,25
+Paul Kaye,Thoros of Myr,25
+Richard Dormer,Lord Beric Dondarrion,25
+Mackenzie Crook,Orell,25
+Anton Lesser,Qyburn,25
+Clive Russell,Ser Brynden Tully,25
+Tobias Menzies,Lord Edmure Tully,25
+Kristofer Hivju,Tormund Giantsbane,25
+Noah Taylor,Locke,25
+Finn Jones,Ser Loras Tyrell,25
+John Stahl,Lord Rickard Karstark,25
+Tara Fitzgerald,Queen Selyse Baratheon,25
+Kerry Ingram,Princess Shireen Baratheon,25
+Nathalie Emmanuel,Missandei,25
+Jacob Anderson,Grey Worm,25
+Philip McGinley,Anguy,25
+Daniel Portman,Podrick Payne,25
+Will Tudor,Olyvar,25
+Dean-Charles Chapman,Martyn Lannister,25
+Timothy Gibbons,Willem Lannister,25
+Shaun Blaney,a Karstark lookout,25
+Jamie Michie,Steelshanks,25
+Dennis McKeever,Night's Watch Officer,25
+Tyrone Kearns,Brotherhood Member,25
+Peter Dinklage,Tyrion Lannister,26
+Nikolaj Coster-Waldau,Ser Jaime Lannister,26
+Lena Headey,Queen Cersei Lannister,26
+Kit Harington,Jon Snow,26
+Richard Madden,King Robb Stark,26
+Michelle Fairley,Lady Catelyn Stark,26
+Aidan Gillen,Lord Petyr Baelish,26
+Charles Dance,Lord Tywin Lannister,26
+Carice van Houten,Lady Melisandre,26
+Alfie Allen,Prince Theon Greyjoy,26
+Isaac Hempstead-Wright,Prince Bran Stark,26
+Sophie Turner,Princess Sansa Stark,26
+Maisie Williams,Princess Arya Stark,26
+John Bradley,Samwell Tarly,26
+Joe Dempsie,Gendry,26
+Jack Gleeson,King Joffrey Baratheon,26
+Rose Leslie,Ygritte,26
+Conleth Hill,Lord Varys,26
+Sibel Kekilli,Shae,26
+Diana Rigg,Lady Olenna Tyrell,26
+Gwendoline Christie,Brienne of Tarth,26
+Michael McElhatton,Lord Roose Bolton,26
+Paul Kaye,Thoros of Myr,26
+Richard Dormer,Lord Beric Dondarrion,26
+Mackenzie Crook,Orell,26
+Natalia Tena,Osha,26
+Clive Russell,Ser Brynden Tully,26
+Tobias Menzies,Lord Edmure Tully,26
+Kristofer Hivju,Tormund Giantsbane,26
+Iwan Rheon,Ramsay Snow,26
+Hannah Murray,Gilly,26
+Finn Jones,Ser Loras Tyrell,26
+Thomas Brodie Sangster,Jojen Reed,26
+Ellie Kendrick,Meera Reed,26
+Esme Bianco,Ros,26
+Philip McGinley,Anguy,26
+Kristian Nairn,Hodor,26
+Tom Brooke,Lothar Frey,26
+Tim Plester,Black Walder Rivers,26
+Sara Dylan,a Handmaiden,26
+Art Parkinson,Prince Rickon Stark,26
+Jamie Michie,Steelshanks,26
+Tyrone Kearns,Brotherhood Member,26
+Peter Dinklage,Tyrion Lannister,27
+Nikolaj Coster-Waldau,Ser Jaime Lannister,27
+Emilia Clarke,Queen Daenerys Targaryen,27
+Kit Harington,Jon Snow,27
+Richard Madden,King Robb Stark,27
+Iain Glen,Ser Jorah Mormont,27
+Michelle Fairley,Lady Catelyn Stark,27
+Charles Dance,Lord Tywin Lannister,27
+Natalie Dormer,Lady Margaery Tyrell,27
+Carice van Houten,Melisandre,27
+Isaac Hempstead-Wright,Prince Bran Stark,27
+Sophie Turner,Princess Sansa Stark,27
+Maisie Williams,Princess Arya Stark,27
+Alfie Allen,Prince Theon Greyjoy,27
+Oona Chaplin,Queen Talisa Stark,27
+Jack Gleeson,King Joffrey Baratheon,27
+Joe Dempsie,Gendry,27
+Sibel Kekilli,Shae,27
+Rose Leslie,Ygritte,27
+Jerome Flynn,Ser Bronn,27
+Rory McCann,Sandor Clegane,27
+Mackenzie Crook,Orell,27
+Gwendoline Christie,Brienne of Tarth,27
+Richard Dormer,Lord Beric Dondarrion,27
+Paul Kaye,Thoros of Myr,27
+Noah Taylor,Locke,27
+Natalia Tena,Osha,27
+Anton Lesser,Qyburn,27
+Michael McElhatton,Lord Roose Bolton,27
+Clive Russell,Ser Brynden Tully,27
+Tobias Menzies,Lord Edmure Tully,27
+Ian McElhinney,Ser Barristan Selmy,27
+Iwan Rheon,Ramsay Snow,27
+Kristofer Hivju,Tormund Giantsbane,27
+Thomas Brodie-Sangster,Jojen Reed,27
+Ellie Kendrick,Meera Reed,27
+Nathalie Emmanuel,Missandei,27
+Jacob Anderson,Grey Worm,27
+Kristian Nairn,Hodor,27
+Philip McGinley,Anguy,27
+George Georgiou,Razdal mo Eraz,27
+Jamie Michie,Steelshanks,27
+Charlotte Hope,Myranda,27
+Stephanie Blacker,Violet,27
+Art Parkinson,Prince Rickon Stark,27
+Bart the Bear,the eponymous bear.,27
+Michael Stuart,Bolton Guard,27
+Peter Dinklage,Tyrion Lannister,28
+Lena Headey,Queen Cersei Lannister,28
+Emilia Clarke,Queen Daenerys Targaryen,28
+Iain Glen,Ser Jorah Mormont,28
+Charles Dance,Lord Tywin Lannister,28
+Liam Cunningham,Ser Davos Seaworth,28
+Stephen Dillane,King Stannis Baratheon,28
+Carice van Houten,Lady Melisandre,28
+Natalie Dormer,Lady Margaery Tyrell,28
+Jack Gleeson,King Joffrey Baratheon,28
+Sophie Turner,Princess Sansa Stark,28
+Maisie Williams,Princess Arya Stark,28
+John Bradley,Samwell Tarly,28
+Joe Dempsie,Gendry,28
+Sibel Kekilli,Shae,28
+Rory McCann,Sandor Clegane,28
+Conleth Hill,Lord Varys,28
+Jerome Flynn,Ser Bronn,28
+Diana Rigg,Lady Olenna Tyrell,28
+Julian Glover,Grand Maester Pycelle,28
+Ian McElhinney,Ser Barristan Selmy,28
+Hannah Murray,Gilly,28
+Finn Jones,Ser Loras Tyrell,28
+Ed Skrein,Daario Naharis,28
+Jacob Anderson,Grey Worm,28
+Nathalie Emmanuel,Missandei,28
+Mark Killeen,Mero,28
+Ramon Tikaram,Prendahl na Ghezn,28
+Daniel Portman,Podrick Payne,28
+Ian Beattie,Ser Meryn Trant,28
+Paul Bentley,the High Septon,28
+Talitha Luke-Eardley,a Yunkai'i whore,28
+Ross Mullan,a White Walker,28
+Emilia Clarke,Queen Daenerys Targaryen,29
+Kit Harington,Jon Snow,29
+Richard Madden,King Robb Stark,29
+Iain Glen,Ser Jorah Mormont,29
+Michelle Fairley,Lady Catelyn Stark,29
+John Bradley,Samwell Tarly,29
+Isaac Hempstead-Wright,Prince Bran Stark,29
+Maisie Williams,Princess Arya Stark,29
+Oona Chaplin,Queen Talisa Stark,29
+Rose Leslie,Ygritte,29
+Rory McCann,Sandor Clegane,29
+David Bradley,Lord Walder Frey,29
+Mackenzie Crook,Orell,29
+Michael McElhatton,Lord Roose Bolton,29
+Ian McElhinney,Ser Barristan Selmy,29
+Clive Russell,Ser Brynden Tully,29
+Tobias Menzies,Lord Edmure Tully,29
+Kristofer Hivju,Tormund Giantsbane,29
+Natalia Tena,Osha,29
+Thomas Brodie-Sangster,Jojen Reed,29
+Ellie Kendrick,Meera Reed,29
+Hannah Murray,Gilly,29
+Ed Skrein,Daario Naharis,29
+Jacob Anderson,Grey Worm,29
+Nathalie Emmanuel,Missandei,29
+Kristian Nairn,Hodor,29
+Tom Brooke,Lothar Frey,29
+Tim Plester,Black Walder Rivers,29
+Kenneth Hadley,a septon,29
+Art Parkinson,Prince Rickon Stark,29
+Alexandra Dowling,Roslin Frey,29
+Sean Buckley,a Old man,29
+A.J Kennedy,a Frey guard,29
+Grace Hendy,Merry Frey[1],29
+Pat McGrath,a hog farmer,29
+Kelly Long,Lady Joyeuse Erenford,29
+Oddie Braddell,Wendel Manderly,29
+Will Champion,a drummer,29
+Katie Creaven,Marianne Frey,29
+James Bleakney,Frey Guard,29
+Laurence Doherty,Frey Wedding Guest,29
+Darragh O'Connor,Frey Wedding Guest,29
+Darran Watt,Soldier,29
+Peter Dinklage,Tyrion Lannister,30
+Nikolaj Coster-Waldau,Ser Jaime Lannister,30
+Lena Headey,Queen Cersei Lannister,30
+Emilia Clarke,Queen Daenerys Targaryen,30
+Kit Harington,Jon Snow,30
+Iain Glen,Ser Jorah Mormont,30
+Charles Dance,Lord Tywin Lannister,30
+Liam Cunningham,Ser Davos Seaworth,30
+Stephen Dillane,King Stannis Baratheon,30
+Carice van Houten,Lady Melisandre,30
+Isaac Hempstead-Wright,Prince Bran Stark,30
+Sophie Turner,Princess Sansa Stark,30
+Maisie Williams,Princess Arya Stark,30
+Alfie Allen,Prince Theon Greyjoy,30
+Jack Gleeson,King Joffrey Baratheon,30
+Rose Leslie,Ygritte,30
+John Bradley,Samwell Tarly,30
+Joe Dempsie,Gendry,30
+Rory McCann,Sandor Clegane,30
+Conleth Hill,Lord Varys,30
+Sibel Kekilli,Shae,30
+David Bradley,Lord Walder Frey,30
+Patrick Malahide,King Balon Greyjoy,30
+Michael McElhatton,Lord Roose Bolton,30
+Peter Vaughan,Maester Aemon,30
+Julian Glover,Grand Maester Pycelle,30
+Gwendoline Christie,Brienne of Tarth,30
+Iwan Rheon,Ramsay Snow,30
+Ian McElhinney,Ser Barristan Selmy,30
+Anton Lesser,Qyburn,30
+Hannah Murray,Gilly,30
+Thomas Brodie-Sangster,Jojen Reed,30
+Ellie Kendrick,Meera Reed,30
+Gemma Whelan,Princess Yara Greyjoy,30
+Daniel Portman,Podrick Payne,30
+Ed Skrein,Daario Naharis,30
+Kristian Nairn,Hodor,30
+Nathalie Emmanuel,Missandei,30
+Jacob Anderson,Grey Worm,30
+Josef Altin,Pypar,30
+Kerry Ingram,Princess Shireen Baratheon,30
+Ciaran O'Grady,a Frey soldier,30
+Michael Liebmann,a Frey soldier,30
+Alexander Mileman,a fruit vendor,30
+Will O'Connell,a Night's Watchman,30
+Maro Drobnic,Lord Desmond Crakehall,30
+Marin Tudor,a a Yunkai'i slave,30
+Roxanna Kadyrova,a Yunkai'i slave,30
+Jamal Ouarraq,a Yunkai'i slave,30
+El Hasani,a Yunkai'i slave,30
+Mustapha Mekanassi,a Yunkai'i slave,30
+Mustapha Rachidi,Yunkai Citizen,30
+Michael Stuart,Stark Bannerman,30
+Peter Dinklage,Tyrion Lannister,31
+Nikolaj Coster-Waldau,Ser Jaime Lannister,31
+Lena Headey,Queen Cersei Lannister,31
+Emilia Clarke,Queen Daenerys Targaryen,31
+Kit Harington,Jon Snow,31
+Charles Dance,Lord Tywin Lannister,31
+Natalie Dormer,Lady Margaery Tyrell,31
+Jack Gleeson,King Joffrey Baratheon,31
+Sophie Turner,Princess Sansa Stark,31
+Maisie Williams,Princess Arya Stark,31
+John Bradley,Samwell Tarly,31
+Rose Leslie,Ygritte,31
+Kristofer Hivju,Tormund Giantsbane,31
+Rory McCann,Sandor Clegane,31
+Gwendoline Christie,Brienne of Tarth,31
+Jerome Flynn,Ser Bronn of the Blackwater,31
+Sibel Kekilli,Shae,31
+with Iain Glen,Ser Jorah Mormont,31
+Diana Rigg,Lady Olenna Tyrell,31
+Pedro Pascal,Prince Oberyn Martell,31
+Indira Varma,Ellaria Sand,31
+Michiel Huisman,Daario Naharis,31
+Ian McElhinney,Ser Barristan Selmy,31
+Peter Vaughan,Maester Aemon,31
+Owen Teale,Ser Alliser Thorne,31
+Anton Lesser,Qyburn,31
+Yuri Kolokolnikov,"Styr, the Magnar of Thenn",31
+Jacob Anderson,Grey Worm,31
+Nathalie Emmanuel,Missandei,31
+Dominic Carter,Lord Janos Slynt,31
+Daniel Portman,Podrick Payne,31
+Ian Beattie,Ser Meryn Trant,31
+Tony Way,Dontos Hollard,31
+Will Tudor,Olyvar,31
+Andy Kellegher,Polliver,31
+Chris Reilly,Morgan,31
+Stuart Martin,Morgan's friend,31
+Joseph Gatt,a Thenn warg,31
+Martin Walsh,an Innkeeper,31
+Daniel Rabin,Lord Blackmont,31
+Brian Fortune,Othell Yarwyck,31
+Dez McMahon,Ser Endrew Tarth,31
+Sara Dylan,a Handmaiden,31
+Josephine Gillan,Marei,31
+Tommy Dunne,the Valyrian sword smith,31
+Gabrielle Dempsey,Innkeeper's daughter,31
+Maria Sikavica,a Whore,31
+Peter Dinklage,Tyrion Lannister,32
+Nikolaj Coster-Waldau,Ser Jaime Lannister,32
+Lena Headey,Queen Cersei Lannister,32
+Charles Dance,Lord Tywin Lannister,32
+Natalie Dormer,Lady Margaery Tyrell,32
+Liam Cunningham,Ser Davos Seaworth,32
+Stephen Dillane,King Stannis Baratheon,32
+Carice van Houten,Lady Melisandre,32
+Alfie Allen,Prince Theon Greyjoy,32
+Jack Gleeson,King Joffrey Baratheon,32
+Isaac Hempstead-Wright,Bran Stark,32
+Sophie Turner,Lady Sansa Stark,32
+Gwendoline Christie,Brienne of Tarth,32
+Sibel Kekilli,Shae,32
+Iwan Rheon,Ramsay Snow,32
+Conleth Hill,Lord Varys,32
+Jerome Flynn,Ser Bronn,32
+Diana Rigg,Lady Olenna Tyrell,32
+Pedro Pascal,Prince Oberyn Martell,32
+Indira Varma,Ellaria Sand,32
+Michael McElhatton,Lord Roose Bolton,32
+Noah Taylor,Locke,32
+Tara Fitzgerald,Queen Selyse Baratheon,32
+Julian Glover,Grand Maester Pycelle,32
+Roger Ashton-Griffiths,Lord Mace Tyrell,32
+Finn Jones,Ser Loras Tyrell,32
+Thomas Brodie-Sangster,Jojen Reed,32
+Ellie Kendrick,Meera Reed,32
+Kristian Nairn,Hodor,32
+Dean-Charles Chapman,Prince Tommen Baratheon,32
+Daniel Portman,Podrick Payne,32
+Ian Beattie,Ser Meryn Trant,32
+Tony Way,Dontos Hollard,32
+Kerry Ingram,Princess Shireen Baratheon,32
+Charlotte Hope,Myranda,32
+Jazzy de Lisser,Tansy,32
+Paul Bentley,the High Septon,32
+Elizabeth Webster,Lady Walda Bolton,32
+James McHale,Ser Axell Florent,32
+Pixie Le Knot,Kayla,32
+Jón Þór Birgisson,a Musician,32
+Georg Hólm,a Musician,32
+Orri Páll Dýrason,a Musician,32
+Raymond Griffiths,a Dwarf,32
+Max Laird,a Dwarf,32
+Dean Whatton,Dwarf,32
+George Appleby,a Dwarf,32
+Krysten Coombs,a Dwarf,32
+Struan Rodger,the Three-eyed raven,32
+Neil Baltus,a Noble Man,32
+Richard Buick,a Tyrell Wedding Guest,32
+Paul Herbert,a Wedding Guest,32
+Stella Lutz,a Noble Lady,32
+C.C. Smiff,a Wedding Guest,32
+Sean Bean,"Lord Eddard Stark (archive footage, no lines)",32
+Peter Dinklage,Tyrion Lannister,33
+Nikolaj Coster-Waldau,Ser Jaime Lannister,33
+Lena Headey,Queen Cersei Lannister,33
+Emilia Clarke,Queen Daenerys Targaryen,33
+Kit Harington,Jon Snow,33
+Aidan Gillen,Lord Petyr Baelish,33
+Charles Dance,Lord Tywin Lannister,33
+Natalie Dormer,Lady Margaery Tyrell,33
+Liam Cunningham,Ser Davos Seaworth,33
+Stephen Dillane,King Stannis Baratheon,33
+Jack Gleeson,King Joffrey Baratheon,33
+Sophie Turner,Princess Sansa Stark,33
+Maisie Williams,Princess Arya Stark,33
+Rory McCann,Sandor Clegane,33
+John Bradley,Samwell Tarly,33
+Rose Leslie,Ygritte,33
+Kristofer Hivju,Tormund Giantsbane,33
+Hannah Murray,Gilly,33
+Gwendoline Christie,Brienne of Tarth,33
+Conleth Hill,Lord Varys,33
+with Iain Glen,Ser Jorah Mormont,33
+Diana Rigg,Lady Olenna Tyrell,33
+Pedro Pascal,Prince Oberyn Martell,33
+Indira Varma,Ellaria Sand,33
+Michiel Huisman,Daario Naharis,33
+Peter Vaughan,Maester Aemon,33
+Ian McElhinney,Ser Barristan Selmy,33
+Julian Glover,Grand Maester Pycelle,33
+Owen Teale,Ser Alliser Thorne,33
+Yuri Kolokolnikov,"Styr, the Magnar of Thenn",33
+Dominic Carter,Lord Janos Slynt,33
+Jacob Anderson,Grey Worm,33
+Nathalie Emmanuel,Missandei,33
+Mark Stanley,Grenn,33
+Ben Crompton,Eddison Tollett,33
+Daniel Portman,Podrick Payne,33
+Tony Way,Dontos Hollard,33
+Will Tudor,Olyvar,33
+Dean-Charles Chapman,Prince Tommen Baratheon,33
+Josef Altin,Pypar,33
+Ian Beattie,Ser Meryn Trant,33
+Joel Fry,Hizdahr zo Loraq,33
+Finbar Lynch,Farmer Hamlet,33
+Kerry Ingram,Princess Shireen Baratheon,33
+Brenock O'Connor,Olly,33
+Jem Wall,Guymon,33
+Raewyn Lippert,Olly's mother,33
+Lois Winstone,a Mole's Town whore,33
+Lu Corfield,a Mole's Town madam,33
+Joseph Gatt,a Thenn warg,33
+Brian Fortune,Othell Yarwyck,33
+Paul Bentley,the High Septon,33
+Patrick Molloy,a Night's Watch man,33
+Emilio Doorgasingh,a slave master,33
+Trixiebelle Harrowell,Sally,33
+Josephine Gillan,Marei,33
+Xena Avramidis,a whore,33
+Derek Horsham,a slave master,33
+Joshua Sher,a slave,33
+Conor Watters,a Hizdahr zo Loraq's manservant,33
+Daniel Naprous as Oznak zo Pahl (credited,Stunt Performer),33
+James Bleakney,Mole's Town Brothel Patron,33
+Michael Stuart,Night's Watch Officer,33
+Laurence Doherty,slave master[1],33
+Peter Dinklage,Tyrion Lannister,34
+Nikolaj Coster-Waldau,Ser Jaime Lannister,34
+Lena Headey,Queen Cersei Lannister,34
+Emilia Clarke,Queen Daenerys Targaryen,34
+Kit Harington,Jon Snow,34
+Aidan Gillen,Lord Petyr Baelish,34
+Natalie Dormer,Lady Margaery Tyrell,34
+John Bradley,Samwell Tarly,34
+Isaac Hempstead-Wright,Prince Bran Stark,34
+Sophie Turner,Princess Sansa Stark,34
+Gwendoline Christie,Brienne of Tarth,34
+Jerome Flynn,Ser Bronn,34
+with Iain Glen,Ser Jorah Mormont,34
+Diana Rigg,Lady Olenna Tyrell,34
+Michiel Huisman,Daario Naharis,34
+Ian McElhinney,Ser Barristan Selmy,34
+Owen Teale,Ser Alliser Thorne,34
+Burn Gorman,Karl Tanner,34
+Noah Taylor,Locke,34
+Dominic Carter,Lord Janos Slynt,34
+Nathalie Emmanuel,Missandei,34
+Jacob Anderson,Grey Worm,34
+Thomas Brodie-Sangster,Jojen Reed,34
+Ellie Kendrick,Meera Reed,34
+Kristian Nairn,Hodor,34
+Mark Stanley,Grenn,34
+Ben Crompton,Eddison Tollett,34
+Luke Barnes,Rast,34
+Dean-Charles Chapman,Prince Tommen Baratheon,34
+Daniel Portman,Podrick Payne,34
+Josef Altin,Pypar,34
+Brenock O'Connor,Olly,34
+Emilio Doorgasingh,a slave master,34
+Reece Noi,a slave,34
+Philip Philmar,a elder slave,34
+Ross Mullan,a White Walker,34
+Richard Brake,The Night King,34
+Deirdre Monaghan,Morag,34
+Robert Goodman,Valyrian slave,34
+Karl Jackson,an Unsullied,34
+Jane McGrath,Sissy,34
+Aeryn Walker,Craster's wife,34
+Cheryl Lester,Craster's wife,34
+Graeme Peacock,Littlefinger's Crew,34
+Kristy Robinson,Craster's Wife,34
+Michael Stuart,Night's Watch Officer,34
+Nikolaj Coster-Waldau,Ser Jaime Lannister,35
+Lena Headey,Queen Cersei Lannister,35
+Emilia Clarke,Queen Daenerys Targaryen,35
+Kit Harington,Jon Snow,35
+Aidan Gillen,Lord Petyr Baelish,35
+Charles Dance,Lord Tywin Lannister,35
+Natalie Dormer,Lady Margaery Tyrell,35
+Isaac Hempstead-Wright,Prince Bran Stark,35
+Sophie Turner,Princess Sansa Stark,35
+Maisie Williams,Princess Arya Stark,35
+Rory McCann,Sandor Clegane,35
+Gwendoline Christie,Brienne of Tarth,35
+Conleth Hill,Varys,35
+with Iain Glen,Ser Jorah Mormont,35
+Pedro Pascal,Prince Oberyn Martell,35
+Michiel Huisman,Daario Naharis,35
+Burn Gorman,Karl Tanner,35
+Kate Dickie,Lady Lysa Arryn,35
+Ian McElhinney,Ser Barristan Selmy,35
+Julian Glover,Grand Maester Pycelle,35
+Noah Taylor,Locke,35
+Roger Ashton-Griffiths,Lord Mace Tyrell,35
+Thomas Brodie-Sangster,Jojen Reed,35
+Ellie Kendrick,Meera Reed,35
+Nathalie Emmanuel,Missandei,35
+Jacob Anderson,Grey Worm,35
+Dean-Charles Chapman,King Tommen Baratheon,35
+Daniel Portman,Podrick Payne,35
+Finn Jones,Ser Loras Tyrell,35
+Kristian Nairn,Hodor,35
+Mark Stanley,Grenn,35
+Ben Crompton,Eddison Tollett,35
+Luke Barnes,Rast,35
+Deirdre Monaghan,Morag,35
+Lino Facioli,Lord Robin Arryn,35
+Paul Bentley,the High Septon,35
+Jane McGrath,Sissy,35
+Alisdair Simpson,Ser Donnel Waynwood,35
+Niamh Lennon,a King's Landing Handmaiden,35
+Gerald McMullan,a Night's Watch Man,35
+Kristy Robinson,Craster's Wife,35
+Peter Dinklage,Tyrion Lannister,36
+Nikolaj Coster-Waldau,Ser Jaime Lannister,36
+Lena Headey,Queen Cersei Lannister,36
+Emilia Clarke,Queen Daenerys Targaryen,36
+Charles Dance,Lord Tywin Lannister,36
+Natalie Dormer,Lady Margaery Tyrell,36
+Liam Cunningham,Ser Davos Seaworth,36
+Stephen Dillane,King Stannis Baratheon,36
+Alfie Allen,Reek,36
+Iwan Rheon,Ramsay Snow,36
+Conleth Hill,Lord Varys,36
+Sibel Kekilli,Shae,36
+with Iain Glen,Ser Jorah Mormont,36
+Pedro Pascal,Prince Oberyn Martell,36
+Julian Glover,Grand Maester Pycelle,36
+Ian McElhinney,Ser Barristan Selmy,36
+Mark Gatiss,Tycho Nestoris,36
+Roger Ashton-Griffiths,Lord Mace Tyrell,36
+Lucian Msamati,Salladhor Saan,36
+Nathalie Emmanuel,Missandei,36
+Jacob Anderson,Grey Worm,36
+Gemma Whelan,Princess Yara Greyjoy,36
+Finn Jones,Ser Loras Tyrell,36
+Dean-Charles Chapman,King Tommen Baratheon,36
+Ian Beattie,Ser Meryn Trant,36
+Joel Fry,Hizdahr zo Loraq,36
+Charlotte Hope,Myranda,36
+Philip Arditti,a goatherd,36
+Rhodri Miles,a First Mate,36
+Sarine Sofair,Lhara,36
+Samantha McEwan,a Bathhouse prostitute,36
+Michael Hough,Ironborn in skiff,36
+Anthony Boyle,a Bolton guard,36
+Conor Watters,Hizdahr zo Loraq's manservant,36
+Gian Sanghera-Warren,a goatherd's son,36
+Niamh Lennon,a King's Landing Handmaiden,36
+Graeme Peacock,Stannis Crew,36
+Dean Weir,Noble Man,36
+Peter Dinklage,Tyrion Lannister,37
+Nikolaj Coster-Waldau,Ser Jaime Lannister,37
+Lena Headey,Queen Cersei Lannister,37
+Emilia Clarke,Queen Daenerys Targaryen,37
+Kit Harington,Jon Snow,37
+Aidan Gillen,Lord Petyr Baelish,37
+Carice van Houten,Lady Melisandre,37
+John Bradley,Samwell Tarly,37
+Sophie Turner,Princess Sansa Stark,37
+Maisie Williams,Princess Arya Stark,37
+Rory McCann,Sandor Clegane,37
+Gwendoline Christie,Brienne of Tarth,37
+Jerome Flynn,Ser Bronn,37
+with Iain Glen,Ser Jorah Mormont,37
+Pedro Pascal,Prince Oberyn Martell,37
+Michiel Huisman,Daario Naharis,37
+Owen Teale,Ser Alliser Thorne,37
+Tara Fitzgerald,Queen Selyse Baratheon,37
+Kate Dickie,Lady Lysa Arryn,37
+Dominic Carter,Lord Janos Slynt,37
+Barry McGovern,a dying man,37
+Mark Stanley,Grenn,37
+Ben Crompton,Eddison Tollett,37
+Josef Altin,Pypar,37
+Daniel Portman,Podrick Payne,37
+Lino Facioli,Lord Robin Arryn,37
+Brenock O'Connor,Olly,37
+Andy Beckwith,Rorge,37
+Ben Hawkey,Hot Pie,37
+Hafþór Júlíus Björnsson,Ser Gregor Clegane,37
+Brian Fortune,Othell Yarwyck,37
+Gerard Jordan,Biter,37
+Marko Jelic,Prisoner,37
+Michael Stuart,a Night's Watch Officer,37
+Peter Dinklage,Tyrion Lannister,38
+Nikolaj Coster-Waldau,Ser Jaime Lannister,38
+Lena Headey,Queen Cersei Lannister,38
+Emilia Clarke,Queen Daenerys Targaryen,38
+Kit Harington,Jon Snow,38
+Aidan Gillen,Lord Petyr Baelish,38
+Charles Dance,Lord Tywin Lannister,38
+Alfie Allen,Reek,38
+John Bradley,Samwell Tarly,38
+Sophie Turner,Sansa Stark,38
+Maisie Williams,Lady Arya Stark,38
+Rose Leslie,Ygritte,38
+Kristofer Hivju,Tormund,38
+Hannah Murray,Gilly,38
+Iwan Rheon,Ramsay Bolton,38
+Conleth Hill,Lord Varys,38
+Rory McCann,Sandor Clegane,38
+with Iain Glen,Ser Jorah Mormont,38
+Pedro Pascal,Prince Oberyn Martell,38
+Indira Varma,Ellaria Sand,38
+Michael McElhatton,Lord Roose Bolton,38
+Ian McElhinney,Ser Barristan Selmy,38
+Julian Glover,Grand Maester Pycelle,38
+Roger Ashton-Griffiths,Lord Mace Tyrell,38
+Yuri Kolokolnikov,Styr,38
+Jacob Anderson,Grey Worm,38
+Nathalie Emmanuel,Missandei,38
+Mark Stanley,Grenn,38
+Ben Crompton,Eddison Tollett,38
+Josef Altin,Pypar,38
+Paola Dionisotti,Lady Anya Waynwood,38
+Rupert Vansittart,Lord Yohn Royce,38
+Hafþór Júlíus Björnsson,Ser Gregor Clegane,38
+Grahame Fox,Ralf Kenning,38
+Lino Facioli,Lord Robin Arryn,38
+Lois Winstone,the Mole's Town whore,38
+Jody Halse,Adrack Humble,38
+Alisdair Simpson,Ser Donnel Waynwood,38
+Richard Doubleday,Ser Vance Corbray,38
+Lu Corfield,the Mole's Town madam,38
+Tim Landers,Kegs,38
+Cormac McDonagh,Black Jack Bulwer,38
+Andy Moore,Mully,38
+Samuel Paul Small,a Little Bird,38
+Mark Quigley,Bolton Guard,38
+Unknown,Ser Daemon Sand,38
+Unknown,Joss Stilwood,38
+Peter Dinklage,Tyrion Lannister,40
+Nikolaj Coster-Waldau,Ser Jaime Lannister,40
+Lena Headey,Queen Cersei Lannister,40
+Emilia Clarke,Queen Daenerys Targaryen,40
+Kit Harington,Jon Snow,40
+Charles Dance,Lord Tywin Lannister,40
+Liam Cunningham,Ser Davos Seaworth,40
+Stephen Dillane,King Stannis Baratheon,40
+Carice van Houten,Lady Melisandre,40
+John Bradley,Samwell Tarly,40
+Isaac Hempstead-Wright,Bran Stark,40
+Maisie Williams,Princess Arya Stark,40
+Rory McCann,Sandor Clegane,40
+Rose Leslie,Ygritte,40
+Kristofer Hivju,Tormund Giantsbane,40
+Gwendoline Christie,Brienne of Tarth,40
+Conleth Hill,Lord Varys,40
+Sibel Kekilli,Shae,40
+Ciaran Hinds,Mance Rayder,40
+Peter Vaughan,Maester Aemon,40
+Julian Glover,Grand Maester Pycelle,40
+Anton Lesser,Qyburn,40
+Ian McElhinney,Barristan Selmy,40
+Struan Rodger,the Three-eyed raven,40
+Thomas Brodie-Sangster,Jojen Reed,40
+Ellie Kendrick,Meera Reed,40
+Kristian Nairn,Hodor,40
+Tara Fitzgerald,Selyse Baratheon,40
+Dominic Carter,Janos Slynt,40
+Jacob Anderson,Grey Worm,40
+Nathalie Emmanuel,Missandei,40
+Mark Stanley,Grenn,40
+Ben Crompton,Eddison Tollett,40
+Josef Altin,Pypar,40
+Daniel Portman,Podrick Payne,40
+Trevor Allan Davies,Fennesz,40
+Brenock O'Connor,Olly,40
+Kerry Ingram,Shireen Baratheon,40
+Octavia Selena Alexandru,Leaf,40
+Hafþór Júlíus Björnsson,Gregor Clegane,40
+Darren Kent,a goatherd,40
+Ian Whyte,a Giant,40
+Gary Oliver,Ternesio Terys,40
+Alice Hewkin,a Child of the Forest,40
+James Bleakney,a Baratheon Soldier,40
+Mark Quigley,a Baratheon Soldier,40
+Michael Stuart,a Night's Watch Officer,40
+Peter Dinklage,Tyrion Lannister,41
+Nikolaj Coster-Waldau,Ser Jaime Lannister,41
+Lena Headey,Queen Cersei Lannister,41
+Emilia Clarke,Queen Daenerys Targaryen,41
+Kit Harington,Jon Snow,41
+Aidan Gillen,Petyr 'Littlefinger' Baelish,41
+Charles Dance,Lord Tywin Lannister,41
+Natalie Dormer,Lady Margaery Tyrell,41
+Stephen Dillane,King Stannis Baratheon,41
+Liam Cunningham,Ser Davos Seaworth,41
+Carice van Houten,Lady Melisandre,41
+John Bradley,Samwell Tarly,41
+Sophie Turner,Princess Sansa Stark,41
+Kristofer Hivju,Tormund,41
+Hannah Murray,Gilly,41
+Conleth Hill,Lord Varys,41
+Gwendoline Christie,Brienne of Tarth,41
+Michiel Huisman,Daario Naharis,41
+Nathalie Emmanuel,Missandei,41
+Dean-Charles Chapman,King Tommen Baratheon,41
+Ciarán Hinds,King-Beyond-the-Wall Mance Rayder,41
+Owen Teale,Ser Alliser Thorne,41
+Ian McElhinney,Barristan Selmy,41
+Julian Glover,Grand Maester Pycelle,41
+Tara Fitzgerald,Selyse Baratheon,41
+Roger Ashton-Griffiths,Lord Mace Tyrell,41
+Jacob Anderson,Grey Worm,41
+Finn Jones,Ser Loras Tyrell,41
+Daniel Portman,Podrick Payne,41
+Jodhi May,Maggy,41
+Dominic Carter,Janos Slynt,41
+Joel Fry,Hizdahr zo Loraq,41
+Ben Crompton,Eddison Tollett,41
+Eugene Simon,Ser Lancel Lannister,41
+Will Tudor,Olyvar,41
+Rupert Vansittart,Lord Yohn Royce,41
+Ian Beattie,Ser Meryn Trant,41
+Ian Gelder,Ser Kevan Lannister,41
+Brenock O'Connor,Olly,41
+Kerry Ingram,Shireen Baratheon,41
+Paul Bentley,the High Septon,41
+Reece Noi,Mossador,41
+Michael Condron,Bowen Marsh,41
+Lino Facioli,Lord Robin Arryn,41
+Nell Williams,Young Cersei Lannister,41
+Isabella Steinbarth,Melara Hetherspoon,41
+Marcos James,White Rat,41
+Allan Gildea,Sam Stone,41
+Meena Rayann,Vala,41
+Stephen Brown,sparring boy,41
+Joe Hewetson,Helliweg,41
+James Bleakney,a Baratheon Soldier,41
+Cillean Campbell,a Lannister Lord,41
+Mark Quigley,a Baratheon Soldier,41
+Michael Stuart,a Night's Watch Officer,41
+Peter Dinklage,Tyrion Lannister,42
+Nikolaj Coster-Waldau,Ser Jaime Lannister,42
+Lena Headey,Queen Cersei Lannister,42
+Emilia Clarke,Queen Daenerys Targaryen,42
+Kit Harington,Jon Snow,42
+Aidan Gillen,Petyr 'Littlefinger' Baelish,42
+Stephen Dillane,King Stannis Baratheon,42
+Liam Cunningham,Ser Davos Seaworth,42
+Indira Varma,Ellaria Sand,42
+Maisie Williams,Arya Stark,42
+Sophie Turner,Sansa Stark,42
+Conleth Hill,Lord Varys,42
+Jerome Flynn,Ser Bronn,42
+John Bradley,Samwell Tarly,42
+Hannah Murray,Gilly,42
+Gwendoline Christie,Brienne of Tarth,42
+Nathalie Emmanuel,Missandei,42
+Michiel Huisman,Daario Naharis,42
+Tom Wlaschiha,Jaqen H'ghar,42
+Peter Vaughan,Maester Aemon,42
+Ian McElhinney,Barristan Selmy,42
+Julian Glover,Grand Maester Pycelle,42
+Anton Lesser,Qyburn,42
+Tara Fitzgerald,Selyse Baratheon,42
+Owen Teale,Ser Alliser Thorne,42
+Alexander Siddig,Doran Martell,42
+Jacob Anderson,Grey Worm,42
+Ben Crompton,Eddison Tollett,42
+Dominic Carter,Janos Slynt,42
+Daniel Portman,Podrick Payne,42
+Roger Ashton-Griffiths,Lord Mace Tyrell,42
+Joel Fry,Hizdahr zo Loraq,42
+DeObia Oparei,Areo Hotah,42
+Ian Gelder,Ser Kevan Lannister,42
+Ian Beattie,Ser Meryn Trant,42
+Reece Noi,Mossador,42
+Kerry Ingram,Shireen Baratheon,42
+Brenock O'Connor,Olly,42
+Nell Tiger Free,Myrcella Baratheon,42
+Toby Sebastian,Trystane Martell,42
+Elizabeth Cadwallader,Lollys Stokeworth,42
+Cedric Henderson,a Faceless man,42
+Brian Fortune,Othell Yarwyck,42
+Gary Oliver,Ternesio Terys,42
+J.J. Murphy,Denys Mallister,42
+Michael Condron,Bowen Marsh,42
+Tom Fava,Street tough,42
+Derek Lord,Mallister supporter,42
+Paul Kennedy,Eyrie Guard,42
+Winston Davis,Street tough 2,42
+Irene Kelleher,Inn waitress,42
+Curtis-Lee Ashqar,Son of the Harpy,42
+Jonathan Gunning,Dwarf hunter 1,42
+Alan McKee,Dwarf hunter 2,42
+Michael Stuart,a Night's Watch Officer,42
+Peter Dinklage,Tyrion Lannister,43
+Lena Headey,Queen Cersei Lannister,43
+Kit Harington,Lord Commander Jon Snow,43
+Aidan Gillen,Petyr 'Littlefinger' Baelish,43
+Natalie Dormer,Queen Margaery Tyrell,43
+Stephen Dillane,King Stannis Baratheon,43
+Liam Cunningham,Ser Davos Seaworth,43
+Conleth Hill,Lord Varys,43
+Alfie Allen,Reek,43
+Sophie Turner,Sansa Stark,43
+Maisie Williams,Arya Stark,43
+John Bradley,Samwell Tarly,43
+Gwendoline Christie,Brienne of Tarth,43
+Dean-Charles Chapman,King Tommen Baratheon,43
+Tom Wlaschiha,Jaqen H'ghar,43
+Michael McElhatton,Lord Roose Bolton,43
+Iwan Rheon,Ramsay Bolton,43
+Iain Glen,Ser Jorah Mormont,43
+Jonathan Pryce,the High Sparrow,43
+Julian Glover,Grand Maester Pycelle,43
+Anton Lesser,Qyburn,43
+Owen Teale,Ser Alliser Thorne,43
+Roger Ashton-Griffiths,Mace Tyrell,43
+Ben Crompton,Eddison Tollett,43
+Faye Marsay,The Waif,43
+Daniel Portman,Podrick Payne,43
+Dominic Carter,Janos Slynt,43
+Ian Beattie,Ser Meryn Trant,43
+Eugene Simon,Ser Lancel Lannister,43
+Brenock O'Connor,Olly,43
+Will Tudor,Olyvar,43
+Finn Jones,Ser Loras Tyrell,43
+Charlotte Hope,Myranda,43
+Rila Fukushima,Red Priestess,43
+Elizabeth Webster,Walda Bolton,43
+Paul Bentley,the High Septon,43
+Brian Fortune,Othell Yarwyck,43
+Michael Condron,Bowen Marsh,43
+Stella McCusker,Old woman,43
+Mishael Lopes Cardozo,Brothel guard,43
+David Garlick,Despondent man,43
+Matt McArdle,Sellsword,43
+Eddie Elks,a Sellsword 2,43
+Gwyneth Keyworth,Clea,43
+Emina Muftic,Beggar woman,43
+Samantha Bentley,"""The Mother of Dragons"" and The Stranger",43
+Xena Avramidis,The Warrior,43
+Portia Victoria,The Smith,43
+Em Scribbler,The Mother,43
+Rebecca Scott,The Maiden,43
+Rosie Ruthless,The Crone,43
+James Bleakney,a Baratheon Soldier,43
+Cillean Campbell,a Lannister Lord,43
+Bobby Marno,a Night's Watch Man,43
+Michael Stuart,a Night's Watch Officer,43
+Peter Dinklage,Tyrion Lannister,44
+Nikolaj Coster-Waldau,Ser Jaime Lannister,44
+Lena Headey,Queen Cersei Lannister,44
+Emilia Clarke,Queen Daenerys Targaryen,44
+Kit Harington,Lord Commander Jon Snow,44
+Aidan Gillen,Lord Petyr Baelish,44
+Natalie Dormer,Queen Margaery Tyrell,44
+Stephen Dillane,King Stannis Baratheon,44
+Carice van Houten,Lady Melisandre,44
+Indira Varma,Ellaria Sand,44
+John Bradley,Samwell Tarly,44
+Sophie Turner,Lady Sansa Stark,44
+Jerome Flynn,Ser Bronn,44
+Michiel Huisman,Daario Naharis,44
+Nathalie Emmanuel,Missandei,44
+Dean-Charles Chapman,King Tommen Baratheon,44
+with Iain Glen,Ser Jorah Mormont,44
+Jonathan Pryce,the High Sparrow,44
+Ian McElhinney,Ser Barristan Selmy,44
+Julian Glover,Grand Maester Pycelle,44
+Anton Lesser,Qyburn,44
+Tara Fitzgerald,Queen Selyse Baratheon,44
+Roger Ashton-Griffiths,Lord Mace Tyrell,44
+Jacob Anderson,Grey Worm,44
+Ian Beattie,Ser Meryn Trant,44
+Joel Fry,Hizdahr zo Loraq,44
+Eugene Simon,Lancel Lannister,44
+Ben Crompton,Eddison Tollett,44
+Keisha Castle-Hughes,Obara Sand,44
+Rosabell Laurenti Sellers,Tyene Sand,44
+Jessica Henwick,Nymeria Sand,44
+Kerry Ingram,Shireen Baratheon,44
+Brenock O'Connor,Olly,44
+Finn Jones,Ser Loras Tyrell,44
+Will Tudor,Olyvar,44
+Gary Pillai,a merchant captain,44
+Christian Vit,the lead Dornish guard,44
+Josephine Gillan,Marei,44
+Meena Rayann,Vala,44
+Simon Norbury,a Faith Militant,44
+Jack Olohan,a Faith Militant,44
+Slavko Sobin,a Second Son,44
+Paddy Wallace,the lead Kingsguard,44
+Allon Sylvain,a foreign merchant,44
+Ben Yates,a Brothel customer,44
+Samantha Bentley,a whore,44
+Xena Avramidis,a whore,44
+Portia Victoria,a whore,44
+Em Scribbler,a whore,44
+Rebecca Scott,a whore,44
+Rosie Ruthless,a whore,44
+Bobby Marno,Night's Watch Man,44
+Unknown,Boake,44
+Peter Dinklage,Tyrion Lannister,45
+Emilia Clarke,Queen Daenerys Targaryen,45
+Kit Harington,Lord Commander Jon Snow,45
+Stephen Dillane,King Stannis Baratheon,45
+Liam Cunningham,Ser Davos Seaworth,45
+Carice van Houten,Lady Melisandre,45
+Alfie Allen,Reek,45
+John Bradley,Samwell Tarly,45
+Sophie Turner,Lady Sansa Stark,45
+Hannah Murray,Gilly,45
+Michiel Huisman,Daario Naharis,45
+Nathalie Emmanuel,Missandei,45
+Gwendoline Christie,Brienne of Tarth,45
+Kristofer Hivju,Tormund Giantsbane,45
+Michael McElhatton,Lord Roose Bolton,45
+Iwan Rheon,Ramsay Bolton,45
+with Iain Glen,Ser Jorah Mormont,45
+Ian McElhinney,Ser Barristan Selmy,45
+Peter Vaughan,Maester Aemon,45
+Tara Fitzgerald,Queen Selyse Baratheon,45
+Owen Teale,Ser Alliser Thorne,45
+Jacob Anderson,Grey Worm,45
+Joel Fry,Hizdahr zo Loraq,45
+Ben Crompton,Eddison Tollett,45
+Daniel Portman,Podrick Payne,45
+Charlotte Hope,Myranda,45
+Kerry Ingram,Princess Shireen Baratheon,45
+Brenock O'Connor,Olly,45
+Elizabeth Webster,Lady Walda Bolton,45
+Brian Fortune,Othell Yarwyck,45
+Michael Condron,Bowen Marsh,45
+Stella McCusker,an old woman,45
+Gianpiero Cognoli,a Great Master,45
+Raymond Keane,Winter town man,45
+Ratib Asghar,a Great Master,45
+Peter Silverleaf,a Great Master,45
+Davor Jozinovic,a Great Master,45
+Ivan Peric,a Great Master,45
+Hadi Kermani,a Great Master,45
+Tonci Banov,a Great Master,45
+Calvin Heasman,a Stone Man,45
+Bobby Marno,a Night's Watch Man,45
+Michael Stuart,a Night's Watch Officer,45
+Peter Dinklage,Tyrion Lannister,46
+Nikolaj Coster-Waldau,Ser Jaime Lannister,46
+Lena Headey,Queen Mother Cersei Lannister,46
+Aidan Gillen,Lord Petyr Baelish,46
+Natalie Dormer,Queen Margaery Tyrell,46
+Indira Varma,Ellaria Sand,46
+Sophie Turner,Princess Sansa Stark,46
+Maisie Williams,Princess Arya Stark,46
+Jerome Flynn,Ser Bronn,46
+Alfie Allen,Reek,46
+Michael McElhatton,Lord Roose Bolton,46
+Iwan Rheon,Ramsay Bolton,46
+Tom Wlaschiha,Jaqen H'ghar,46
+Dean-Charles Chapman,King Tommen Baratheon,46
+with Iain Glen,Ser Jorah Mormont,46
+Diana Rigg,Lady Olenna Tyrell,46
+Jonathan Pryce,the High Sparrow,46
+Alexander Siddig,Prince Doran Martell,46
+DeObia Oparei,Captain Areo Hotah,46
+Keisha Castle-Hughes,Obara Sand,46
+Rosabell Laurenti Sellers,Tyene Sand,46
+Jessica Henwick,Nymeria Sand,46
+Finn Jones,Ser Loras Tyrell,46
+Will Tudor,Olyvar,46
+Eugene Simon,Lancel,46
+Faye Marsay,The Waif,46
+Adewale Akinnuoye-Agbaje,Malko,46
+Toby Sebastian,Prince Trystane Martell,46
+Nell Tiger Free,Princess Myrcella Baratheon,46
+Charlotte Hope,Myranda,46
+Elizabeth Webster,Walda Bolton,46
+Michael Yare,a slaver,46
+James McKenzie Robinson,Joss,46
+Hattie Gotobed,Ghita,46
+Richard Buick,a Faith Militant,46
+Peter Dinklage,Tyrion Lannister,47
+Nikolaj Coster-Waldau,Ser Jaime Lannister,47
+Lena Headey,Queen Mother Cersei Lannister,47
+Emilia Clarke,Queen Daenerys Targaryen,47
+Kit Harington,Lord Commander Jon Snow,47
+Aidan Gillen,"Petyr ""Littlefinger"" Baelish",47
+Natalie Dormer,Queen Margaery Tyrell,47
+Stephen Dillane,King Stannis Baratheon,47
+Liam Cunningham,Ser Davos Seaworth,47
+Carice van Houten,Melisandre,47
+John Bradley,Samwell Tarly,47
+Kristofer Hivju,Tormund Giantsbane,47
+Hannah Murray,Gilly,47
+Dean-Charles Chapman,King Tommen Baratheon,47
+Alfie Allen,Reek,47
+Sophie Turner,Lady Sansa Stark,47
+Iwan Rheon,Ramsay Bolton,47
+Gwendoline Christie,Brienne of Tarth,47
+Jerome Flynn,Ser Bronn,47
+Michiel Huisman,Daario Naharis,47
+with Iain Glen,Ser Jorah Mormont,47
+Diana Rigg,Lady Olenna Tyrell,47
+Jonathan Pryce,the High Sparrow,47
+Peter Vaughan,Maester Aemon,47
+Owen Teale,Ser Alliser Thorne,47
+Ben Crompton,Eddison Tollett,47
+DeObia Oparei,Captain Areo Hotah,47
+Enzo Cilenti,Yezzan zo Qaggaz,47
+Keisha Castle-Hughes,Obara Sand,47
+Rosabell Laurenti Sellers,Tyene Sand,47
+Jessica Henwick,Nymeria Sand,47
+Daniel Portman,Podrick Payne,47
+Joel Fry,Hizdahr zo Loraq,47
+Nell Tiger Free,Princess Myrcella Baratheon,47
+Brenock O'Connor,Olly,47
+Eugene Simon,Lancel,47
+Adewale Akinnuoye-Agbaje,Malko,47
+Hannah Waddingham,Septa Unella,47
+Brian Fortune,Othell Yarwyck,47
+Michael Condron,Bowen Marsh,47
+Ian Lloyd Anderson,Derek,47
+Jonathan Byrne,Brant,47
+Nikola Bace,a Tyrell guard,47
+Roman Beguns,a Fighter,47
+Rob de Groot,a Fighter,47
+Graeme Peacock,a Volantis Fighter,47
+Mark Quigley,a Baratheon Fighter,47
+Michael Stuart,a Night's Watch Officer,47
+Unknown,Boake,47
+Peter Dinklage,Tyrion Lannister,48
+Lena Headey,Queen Mother Cersei Lannister,48
+Emilia Clarke,Queen Daenerys Targaryen,48
+Kit Harington,Lord Commander Jon Snow,48
+Sophie Turner,Lady Sansa Stark,48
+Maisie Williams,Arya Stark,48
+John Bradley,Samwell Tarly,48
+Hannah Murray,Gilly,48
+Kristofer Hivju,Tormund Giantsbane,48
+Alfie Allen,Reek,48
+Nathalie Emmanuel,Missandei,48
+Tom Wlaschiha,Jaqen H'ghar,48
+Michael McElhatton,Lord Roose Bolton,48
+Iwan Rheon,Ramsay Bolton,48
+with Iain Glen,Ser Jorah Mormont,48
+Anton Lesser,Qyburn,48
+Ben Crompton,Eddison Tollett,48
+Faye Marsay,The Waif,48
+Birgitte Hjort Sørensen,Karsi,48
+Enzo Cilenti,Yezzan zo Qaggaz,48
+Zahary Baharov,Loboda,48
+Hannah Waddingham,Septa Unella,48
+Brenock O'Connor,Olly,48
+Richard Brake,The Night King,48
+Ian Whyte,Wun Wun,48
+Ross O'Hennessy,the Lord of Bones,48
+Murray McArthur,Dim Dalba,48
+Will O'Connell,Todder,48
+Oengus MacNamara,the thin man,48
+Sarine Sofair,Lhara,48
+Morgan C. Jones,a Braavosi captain,48
+Tim Loane,a White Walker,48
+Ali Lyons,Johnna,48
+Karla Lyons,Willa,48
+Brann Dailor,a Wildling,48
+Cassie Friel,a Wight,48
+Brent Hinds,a Wildling,48
+Bill Kelliher,a Wildling,48
+Bobby Marno,a Night's Watch Man,48
+Barrie Martin,a Wight,48
+Simon Millar,a Wildling,48
+Kristy Robinson,a Wildling,48
+Jessica Stevenson,a Wildling,48
+Michael Stuart,a Night's Watch Officer,48
+Unknown,Boake,48
+Peter Dinklage,Tyrion Lannister,49
+Nikolaj Coster-Waldau,Ser Jaime Lannister,49
+Emilia Clarke,Queen Daenerys Targaryen,49
+Kit Harington,Lord Commander Jon Snow,49
+Stephen Dillane,King Stannis Baratheon,49
+Liam Cunningham,Ser Davos Seaworth,49
+Carice van Houten,Melisandre,49
+Indira Varma,Ellaria Sand,49
+Maisie Williams,Arya Stark,49
+Jerome Flynn,Ser Bronn,49
+John Bradley,Samwell Tarly,49
+Kristofer Hivju,Tormund Giantsbane,49
+Tom Wlaschiha,Jaqen H'ghar,49
+Michiel Huisman,Daario Naharis,49
+Nathalie Emmanuel,Missandei,49
+with Iain Glen,Ser Jorah Mormont,49
+Owen Teale,Ser Alliser Thorne,49
+Tara Fitzgerald,Queen Selyse Baratheon,49
+Mark Gatiss,Tycho Nestoris,49
+Alexander Siddig,Prince Doran Martell,49
+DeObia Oparei,Areo Hotah,49
+Joel Fry,Hizdahr zo Loraq,49
+Ian Beattie,Ser Meryn Trant,49
+Roger Ashton-Griffiths,Lord Mace Tyrell,49
+Ben Crompton,Eddison Tollett,49
+Keisha Castle-Hughes,Obara Sand,49
+Rosabell Laurenti Sellers,Tyene Sand,49
+Jessica Henwick,Nymeria Sand,49
+Nell Tiger Free,Princess Myrcella Baratheon,49
+Toby Sebastian,Prince Trystane Martell,49
+Kerry Ingram,Princess Shireen Baratheon,49
+Brenock O'Connor,Olly,49
+Ian Whyte,Wun Wun,49
+Nicholas Boulton,Fighting pit announcer,49
+Oengus MacNamara,the thin man,49
+Lacy Moore,the Braavosi Madam,49
+Jack Hickey,a Young Bravo,49
+Sarine Sofair,Lhara,49
+Karla Lyons,Johnna's sister,49
+Ali Lyons,Johnna,49
+Brian Fortune,First Builder Othell Yarwyck,49
+Michael Condron,First Steward Bowen Marsh,49
+Danny O'Connor,a Lannister guard,49
+Garry Mountaine,Brusco,49
+Dylan McDonough,a sailor,49
+Jason McLaughlin,a Baratheon soldier,49
+Ollie Kram,Anara,49
+Gemita Samarra,Brea,49
+Irma Mali,a prostitute,49
+Aifric O'Donnell,Aya[1],49
+Fiach Kunz,a Lannister guard,49
+Michael Johnston,TBA,49
+Nigel O'Neill,a Baratheon General,49
+Adam Basil,a Strong Fighter,49
+James Bleakney,a Baratheon Soldier,49
+Charles Jarman,a Pit Fighter,49
+Graeme Peacock,a Baratheon Soldier,49
+Mark Quigley,a Baratheon Soldier,49
+Jessica Stevenson,a Wildling,49
+Michael Stuart,a Night's Watch Officer,49
+Peter Dinklage,Tyrion Lannister,50
+Nikolaj Coster-Waldau,Ser Jaime Lannister,50
+Lena Headey,Queen Cersei Lannister,50
+Emilia Clarke,Queen Daenerys Targaryen,50
+Kit Harington,Lord Commander Jon Snow,50
+Stephen Dillane,King Stannis Baratheon,50
+Liam Cunningham,Ser Davos Seaworth,50
+Carice van Houten,Melisandre,50
+Indira Varma,Ellaria Sand,50
+Maisie Williams,Arya Stark,50
+Sophie Turner,Lady Sansa Stark,50
+John Bradley,Samwell Tarly,50
+Hannah Murray,Gilly,50
+Nathalie Emmanuel,Missandei,50
+Michiel Huisman,Daario Naharis,50
+Conleth Hill,Varys,50
+Jerome Flynn,Ser Bronn,50
+Alfie Allen,Reek,50
+Iwan Rheon,Ramsay Bolton,50
+Gwendoline Christie,Brienne of Tarth,50
+Tom Wlaschiha,Jaqen H'ghar,50
+with Iain Glen,Ser Jorah Mormont,50
+Jonathan Pryce,the High Sparrow,50
+Owen Teale,Ser Alliser Thorne,50
+Tara Fitzgerald,Queen Selyse Baratheon,50
+Ian Beattie,Ser Meryn Trant,50
+Anton Lesser,Qyburn,50
+Julian Glover,Grand Maester Pycelle,50
+Alexander Siddig,Prince Doran Martell,50
+Jacob Anderson,Grey Worm,50
+Daniel Portman,Podrick Payne,50
+Faye Marsay,The Waif,50
+DeObia Oparei,Areo Hotah,50
+Keisha Castle-Hughes,Obara Sand,50
+Rosabell Laurenti Sellers,Tyene Sand,50
+Jessica Henwick,Nymeria Sand,50
+Brenock O'Connor,Olly,50
+Charlotte Hope,Myranda,50
+Ian Gelder,Ser Kevan Lannister,50
+Nell Tiger Free,Princess Myrcella Baratheon,50
+Toby Sebastian,Prince Trystane Martell,50
+Hannah Waddingham,Septa Unella,50
+Hafþór Júlíus Björnsson,Gregor Clegane,50
+Brian Fortune,First Builder Othell Yarwyck,50
+Michael Condron,First Steward Bowen Marsh,50
+Nigel O'Neill,a Baratheon General,50
+Maggie Hayes,Septa Moelle,50
+Mary Jordan,Septa Scolera,50
+Hattie Gotobed,Ghita,50
+Ella Tweed,a Brothel child,50
+Isabelle Jones,a Brothel child,50
+David Fennelly,a Baratheon soldier,50
+Jason McLaughlin,a Baratheon soldier,50
+Tristan McConnell,Gordy,50
+Laurence O'Fuarain,a Simpson,50
+Ralph R. Clemente,a woodcutter,50
+Anthony John Crocker,King's Landing drunkard,50
+Kirsty Nicholls,King's Landing whore,50
+Munro Graham,King's Landing flasher,50
+Ben Kelly,King's Landing flasher 2,50
+Rebecca Van Cleave,Cersei Lannister (body double),50
+James Bleakney,a Baratheon Soldier,50
+Graeme Peacock,a Baratheon Soldier,50
+Unknown,Boake,50
+Unknown,Curlew,50
+Peter Dinklage,Tyrion Lannister,51
+Nikolaj Coster-Waldau,Ser Jaime Lannister,51
+Lena Headey,Queen Mother Cersei Lannister,51
+Emilia Clarke,Queen Daenerys Targaryen,51
+Kit Harington,Jon Snow,51
+Liam Cunningham,Ser Davos Seaworth,51
+Carice van Houten,Lady Melisandre,51
+Natalie Dormer,Queen Margaery Tyrell,51
+Indira Varma,Ellaria Sand,51
+Sophie Turner,Princess Sansa Stark,51
+Maisie Williams,Arya Stark,51
+Conleth Hill,Varys,51
+Alfie Allen,Theon Greyjoy,51
+Gwendoline Christie,Brienne of Tarth,51
+Jonathan Pryce,the High Sparrow,51
+Michiel Huisman,Daario Naharis,51
+Michael McElhatton,Lord Roose Bolton,51
+Iwan Rheon,Ramsay Bolton,51
+Iain Glen,Ser Jorah Mormont,51
+Owen Teale,Ser Alliser Thorne,51
+Ben Crompton,Eddison Tollett,51
+Alexander Siddig,Prince Doran Martell,51
+DeObia Oparei,Areo Hotah,51
+Faye Marsay,The Waif,51
+Daniel Portman,Podrick Payne,51
+Keisha Castle-Hughes,Obara Sand,51
+Rosabell Laurenti Sellers,Tyene Sand,51
+Jessica Henwick,Nymeria Sand,51
+Hannah Waddingham,Septa Unella,51
+Toby Sebastian,Trystane Martell,51
+Brenock O'Connor,Olly,51
+Hafþór Júlíus Björnsson,Ser Gregor Clegane,51
+Charlotte Hope,Myranda,51
+Joe Naufahu,Khal Moro,51
+Chuku Modu,Akho[1],51
+Staz Nair,Qhono,51
+Rubi Ali,a Moro's wife,51
+Fola Evans-Akingbola,a Moro's wife,51
+Gerald Lepkowski,Zanrush,51
+Richard Rycroft,Maester Wolkan,51
+Diogo Sales,a Moro's bloodrider,51
+Junade Khan,a Moro's bloodrider,51
+Sara Dylan,handmaiden,51
+Brian Fortune,First Builder Othell Yarwyck,51
+Michael Condron,First Steward Bowen Marsh,51
+Steve Cash,a loyal Night's Watch man,51
+Robert Fawsitt,a loyal Night's Watch man,51
+Michael Hayes,a Night's Watch man,51
+Tony Flynn,a Night's Watch man,51
+Andrew Bryan,a Bolton officer,51
+Tristan Heanue,a Bolton soldier,51
+Sabina Arthur,a Meereenese homeless mother,51
+Colin Azzopardi,Maester Caleotte,51
+Peter Dinklage,Tyrion Lannister,52
+Nikolaj Coster-Waldau,Ser Jaime Lannister,52
+Lena Headey,Queen Mother Cersei Lannister,52
+Kit Harington,Jon Snow,52
+Liam Cunningham,Ser Davos Seaworth,52
+Carice van Houten,Lady Melisandre,52
+Sophie Turner,Princess Sansa Stark,52
+Nathalie Emmanuel,Missandei,52
+Maisie Williams,Arya Stark,52
+Conleth Hill,Varys,52
+Jonathan Pryce,the High Sparrow,52
+Kristofer Hivju,Tormund Giantsbane,52
+Alfie Allen,Theon Greyjoy,52
+Tom Wlaschiha,Jaqen H'ghar,52
+Iwan Rheon,Ramsay Bolton,52
+Michael McElhatton,Lord Roose Bolton,52
+Gwendoline Christie,Brienne of Tarth,52
+Dean-Charles Chapman,King Tommen Baratheon,52
+Isaac Hempstead-Wright,Bran Stark,52
+Max von Sydow,the Three-eyed raven,52
+Patrick Malahide,King Balon Greyjoy,52
+Owen Teale,Ser Alliser Thorne,52
+Ben Crompton,Eddison Tollett,52
+Pilou Asbæk,Euron Greyjoy,52
+Michael Feast,Aeron Greyjoy,52
+Jacob Anderson,Grey Worm,52
+Gemma Whelan,Princess Yara Greyjoy,52
+Kristian Nairn,Hodor,52
+Faye Marsay,The Waif,52
+Ellie Kendrick,Meera Reed,52
+Daniel Portman,Podrick Payne,52
+Ian Whyte,Wun Wun,52
+Kae Alexander,Leaf,52
+Hafþór Júlíus Björnsson,Ser Gregor Clegane,52
+Elizabeth Webster,Walda Bolton,52
+Dylan Edwards,a King's Landing boaster,52
+Richard Rycroft,Maester Wolkan,52
+Paul Rattray,Lord Harald Karstark,52
+Brenock O'Connor,Olly,52
+Nell Tiger Free,Princess Myrcella Baratheon (corpse),52
+Annette Tierney,young Old Nan,52
+Sam Coleman,Wyllis (young Hodor),52
+Fergus Leathem,young Rodrik Cassel,52
+Richard Laing,Lannister captain,52
+Sebastian Croft,young Eddard Stark,52
+Cordelia Hill,young Lyanna Stark,52
+Matteo Elezi,young Benjen Stark,52
+Michael Hayes,a Night's Watch man,52
+Brian Fortune,First Builder Othell Yarwyck,52
+Michael Condron,First Steward Bowen Marsh,52
+Tony Flynn,a Night's Watch man,52
+Robert Fawsitt,a loyal Night's Watch man,52
+Steve Cash,a loyal Night's Watch man,52
+Peter Dinklage,Tyrion Lannister,53
+Nikolaj Coster-Waldau,Ser Jaime Lannister,53
+Lena Headey,Queen Mother Cersei Lannister,53
+Emilia Clarke,Queen Daenerys Targaryen,53
+Kit Harington,Jon Snow,53
+Liam Cunningham,Ser Davos Seaworth,53
+Carice van Houten,Lady Melisandre,53
+Nathalie Emmanuel,Missandei,53
+Maisie Williams,Arya Stark,53
+Conleth Hill,Varys,53
+Kristofer Hivju,Tormund Giantsbane,53
+Isaac Hempstead-Wright,Bran Stark,53
+John Bradley,Samwell Tarly,53
+Iwan Rheon,Lord Ramsay Bolton,53
+Jonathan Pryce,the High Sparrow,53
+Dean-Charles Chapman,King Tommen Baratheon,53
+Hannah Murray,Gilly,53
+Tom Wlaschiha,Jaqen H'ghar,53
+Max von Sydow,the Three-eyed raven,53
+Diana Rigg,Lady Olenna Tyrell,53
+Owen Teale,Ser Alliser Thorne,53
+Anton Lesser,Qyburn,53
+Julian Glover,Grand Maester Pycelle,53
+Jacob Anderson,Grey Worm,53
+Natalia Tena,Osha,53
+Ben Crompton,Eddison Tollett,53
+Faye Marsay,The Waif,53
+Roger Ashton-Griffiths,Lord Mace Tyrell,53
+Ian Gelder,Ser Kevan Lannister,53
+Hafþór Júlíus Björnsson,Ser Gregor Clegane,53
+Brenock O'Connor,Olly,53
+Kae Alexander,Leaf,53
+Dean S. Jagger,Lord Smalljon Umber,53
+Paul Rattray,Lord Harald Karstark,53
+Art Parkinson,Rickon Stark,53
+Meena Rayann,Vala,53
+Joe Naufahu,Khal Moro,53
+Souad Faress,a High Priestess of the Dosh Khaleen,53
+Staz Nair,Qhono,53
+Hannah John-Kamen,Ornela,53
+Angelique Fernandez,a Dothraki widow,53
+Robert Aramayo,Lord Eddard Stark,53
+Luke Roberts,Ser Arthur Dayne,53
+Eddie Eyre,Ser Gerold Hightower,53
+Brian Fortune,First Builder Othell Yarwyck,53
+Michael Condron,First Steward Bowen Marsh,53
+Wuese Houston-Jibo,a Dothraki widow,53
+Diogo Sales,a Moro's bloodrider,53
+Junade Khan,a Moro's bloodrider,53
+Annette Hannah,a little bird,53
+Nathanael Saleh,a little bird,53
+Michael Nevin,a little bird,53
+Jesse Magee,a little bird,53
+Iona Clarke,a little bird,53
+Lucy Gallagher,a little bird,53
+Fionn Kernan,a little bird,53
+Leo Woodruff,Lord Howland Reed,53
+Peter Dinklage,Tyrion Lannister,54
+Nikolaj Coster-Waldau,Ser Jaime Lannister,54
+Lena Headey,Queen Mother Cersei Lannister,54
+Emilia Clarke,Queen Daenerys Targaryen,54
+Kit Harington,Jon Snow,54
+Natalie Dormer,Queen Margaery Tyrell,54
+Aidan Gillen,"Petyr ""Littlefinger"" Baelish",54
+Liam Cunningham,Ser Davos Seaworth,54
+Carice van Houten,Lady Melisandre,54
+Sophie Turner,Princess Sansa Stark,54
+Nathalie Emmanuel,Missandei,54
+Conleth Hill,Varys,54
+Kristofer Hivju,Tormund Giantsbane,54
+Jonathan Pryce,the High Sparrow,54
+Michiel Huisman,Daario Naharis,54
+Dean-Charles Chapman,King Tommen Baratheon,54
+Iwan Rheon,Lord Ramsay Bolton,54
+Gwendoline Christie,Brienne of Tarth,54
+Alfie Allen,Theon Greyjoy,54
+Iain Glen,Ser Jorah Mormont,54
+Diana Rigg,Lady Olenna Tyrell,54
+Ben Crompton,Eddison Tollett,54
+Jacob Anderson,Grey Worm,54
+Natalia Tena,Osha,54
+Gemma Whelan,Princess Yara Greyjoy,54
+Finn Jones,Ser Loras Tyrell,54
+Julian Glover,Grand Maester Pycelle,54
+Ian Gelder,Ser Kevan Lannister,54
+Rupert Vansittart,Lord Yohn Royce,54
+Daniel Portman,Podrick Payne,54
+Hannah Waddingham,Septa Unella,54
+Lino Facioli,Lord Robin Arryn,54
+Enzo Cilenti,Yezzan zo Qaggaz,54
+George Georgiou,Razdal mo Eraz,54
+Eddie Jackson,Belicho Paenymion[1],54
+Yousef Sweid,Ash,54
+Michael Heath,Kesh,54
+Joe Naufahu,Khal Moro,54
+Tamer Hassan,Khal Forzho,54
+Souad Faress,a High Priestess of the Dosh khaleen,54
+Hannah John-Kamen,Ornela,54
+Chuku Modu,Akho[2],54
+Staz Nair,Qhono,54
+Deon Lee-Williams,Iggo,54
+Elie Haddad,Khal Brozho,54
+Andrei Claude,Khal Rhalko,54
+Darius Dar Khan,Khal Qorro,54
+Fola Evans-Akingbola,a Moro's wife,54
+Wuese Houston-Jibo,a Dothraki widow,54
+Angelique Fernandez,a Dothraki widow,54
+Diogo Sales,a Moro's bloodrider,54
+Junade Khan,a Moro's bloodrider,54
+Michael Hooley,a Night's watch man,54
+Robert Fawsitt,a loyal Night's Watch man,54
+Portia Victoria,a Dothraki woman having sex,54
+Oliver Stockwell,a Dothraki man having sex,54
+Peter Dinklage,Tyrion Lannister,55
+Emilia Clarke,Queen Daenerys Targaryen,55
+Kit Harington,Jon Snow,55
+Aidan Gillen,Lord Petyr Baelish,55
+Liam Cunningham,Ser Davos Seaworth,55
+Carice van Houten,Melisandre,55
+Sophie Turner,Princess Sansa Stark,55
+Nathalie Emmanuel,Missandei,55
+Maisie Williams,Princess Arya Stark,55
+Conleth Hill,Varys,55
+Isaac Hempstead-Wright,Prince Bran Stark,55
+Kristofer Hivju,Tormund Giantsbane,55
+Alfie Allen,Prince Theon Greyjoy,55
+Michiel Huisman,Daario Naharis,55
+Gwendoline Christie,Brienne of Tarth,55
+Tom Wlaschiha,Jaqen H'ghar,55
+Iain Glen,Ser Jorah Mormont,55
+Max von Sydow,the three-eyed raven,55
+Kristian Nairn,Hodor,55
+Richard E. Grant,Izembaro,55
+Essie Davis,Lady Crane,55
+Pilou Asbæk,King Euron Greyjoy,55
+Gemma Whelan,Princess Yara Greyjoy,55
+Ben Crompton,Eddison Tollett,55
+Ellie Kendrick,Meera Reed,55
+Faye Marsay,the Waif,55
+Jacob Anderson,Grey Worm,55
+Michael Feast,Aeron Greyjoy,55
+Kae Alexander,Leaf,55
+Daniel Portman,Podrick Payne,55
+Darrell D'Silva,an Ironborn,55
+Kevin Eldon,Camello,55
+Leigh Gill,Bobono,55
+Eline Powell,Bianca,55
+Rob Callender,Clarenzo,55
+Eva Butterly,the mummer playing Margaery Tyrell,55
+Vladimir Furdik,the Night King,55
+Ania Bukstein,Kinvara,55
+Gerald Lepkowski,Zanrush,55
+Annette Tierney,Old Nan,55
+Sam Coleman,young Hodor,55
+Wayne Foskett,Lord Rickard Stark,55
+Sebastian Croft,Eddard Stark,55
+Matteo Elezi,Benjen Stark,55
+Fergus Leathem,Ser Rodrik Cassel,55
+Kate Anthony,a Braavosi woman,55
+Sally Mortemore,a Braavosi woman,55
+Michael Hooley,a Night's Watch man,55
+Ruairí Heading,a Night's Watch man,55
+Robert Render,an Ironborn,55
+James Lecky,an Ironborn,55
+Glen Barry,a mummer,55
+Brendan O'Rourke,a mummer,55
+Ross Anderson-Doherty,a mummer,55
+Nanna Bryndís Hilmarsdóttir,a musician,55
+Ragnar Þórhallsson,a musician,55
+Arnar Rósenkranz Hilmarsson,a musician,55
+Brynjar Leifsson,a musician,55
+Kristján Páll Kristjánsson,a musician,55
+Nikolaj Coster-Waldau,Ser Jaime Lannister,56
+Lena Headey,Queen Mother Cersei Lannister,56
+Emilia Clarke,Queen Daenerys Targaryen,56
+Natalie Dormer,Queen Margaery Tyrell,56
+Maisie Williams,Arya Stark,56
+Jonathan Pryce,the High Sparrow,56
+John Bradley,Samwell Tarly,56
+Isaac Hempstead-Wright,Bran Stark,56
+Michiel Huisman,Daario Naharis,56
+Tom Wlaschiha,Jaqen H'ghar,56
+Dean-Charles Chapman,King Tommen Baratheon,56
+Hannah Murray,Gilly,56
+Diana Rigg,Lady Olenna Tyrell,56
+Richard E. Grant,Izembaro,56
+David Bradley,Lord Walder Frey,56
+Essie Davis,Lady Crane,56
+Joseph Mawle,Benjen Stark,56
+Tobias Menzies,Lord Edmure Tully,56
+Ellie Kendrick,Meera Reed,56
+Faye Marsay,the Waif,56
+Roger Ashton-Griffiths,Lord Mace Tyrell,56
+Ian Gelder,Ser Kevan Lannister,56
+Hannah Waddingham,Septa Unella,56
+James Faulkner,Lord Randyll Tarly,56
+Samantha Spiro,Lady Melessa Tarly,56
+Eugene Simon,Lancel,56
+Tim Plester,Walder Rivers,56
+Daniel Tuite,Lothar Frey,56
+Kevin Eldon,Camello,56
+Leigh Gill,Bobono,56
+Eline Powell,Bianca,56
+Rob Callender,Clarenzo,56
+Eva Butterly,the mummer playing Margaery Tyrell,56
+David Rintoul,King Aerys II Targaryen,56
+Freddie Stroma,Dickon Tarly,56
+Rebecca Benson,Talla Tarly,56
+Robert Aramayo,Lord Eddard Stark,56
+Raül Tortosa,a Tyrell bannerman,56
+Lucy Hayes,Lady Kitty Frey,56
+Glen Barry,a mummer,56
+Brendan O'Rourke,a mummer,56
+Ross Anderson-Doherty,a mummer,56
+William & James Wilson,Sam,56
+Nanna Bryndís Hilmarsdóttir,a musician,56
+Ragnar Þórhallsson,a musician,56
+Arnar Rósenkranz Hilmarsson,a musician,56
+Brynjar Leifsson,a musician,56
+Kristján Páll Kristjánsson,a musician,56
+Nikolaj Coster-Waldau,Ser Jaime Lannister,57
+Lena Headey,Queen Mother Cersei Lannister,57
+Kit Harington,Jon Snow,57
+Natalie Dormer,Queen Margaery Tyrell,57
+Liam Cunningham,Ser Davos Seaworth,57
+Sophie Turner,Lady Sansa Stark,57
+Rory McCann,Sandor Clegane,57
+Maisie Williams,Arya Stark,57
+Jonathan Pryce,the High Sparrow,57
+Kristofer Hivju,Tormund Giantsbane,57
+Jerome Flynn,Ser Bronn,57
+Alfie Allen,Prince Theon Greyjoy,57
+Ian McShane,Brother Ray,57
+Diana Rigg,Lady Olenna Tyrell,57
+Clive Russell,Ser Brynden Tully,57
+Tobias Menzies,Lord Edmure Tully,57
+Gemma Whelan,Princess Yara Greyjoy,57
+Faye Marsay,the Waif,57
+Jóhannes Haukur Jóhannesson,Lem,57
+Tim McInnerny,Lord Robett Glover,57
+Ian Whyte,Wun Wun,57
+Hafþór Júlíus Björnsson,Ser Gregor Clegane,57
+Tim Plester,Walder Rivers,57
+Daniel Tuite,Lothar Frey,57
+Ricky Champ,Gatins[3],57
+Ian Davies,Morgan,57
+Murray McArthur,Dim Dalba,57
+Hannah Waddingham,Septa Unella,57
+Bella Ramsey,Lady Lyanna Mormont,57
+Margaret Jackman,the Waif's disguise,57
+Kevin Horsham,a Westerosi trader,57
+Louis Rolston,the Bear Island maester,57
+Katie Alexander-Thom,a Volantene whore,57
+Jed Murray,a Northman rioter,57
+Michael Patrick,a Wildling rioter,57
+Neil Keery,Brothel Ironborn,57
+Heidi Romanova,a Volantene whore,57
+Danielle Claire Jenner,a Volantene whore,57
+Ella Hughes,a Volantene whore,57
+Zoi Gorman,a Volantene whore,57
 Peter Dinklage,Tyrion Lannister,58
 Nikolaj Coster-Waldau,Ser Jaime Lannister,58
 Lena Headey,Queen Mother Cersei Lannister,58

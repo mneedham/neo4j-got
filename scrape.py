@@ -3,6 +3,7 @@ from bs4 import NavigableString
 from soupselect import select
 import bs4
 import csv
+import re
 
 def process_episode(episode_id):
     wikipedia = BeautifulSoup(open("data/wikipedia/{0}".format(episode_id), "r"), "html.parser")
@@ -59,7 +60,8 @@ def process_episode(episode_id):
 
 episodes = {}
 
-for episode_id in range(1, 10):
+for episode_id in range(1, 59):
+    print "Processing {0}".format(episode_id)
     episodes[episode_id] = process_episode(episode_id)
 
 with open("data/import/overview.csv", "w") as overview_file:
@@ -79,8 +81,14 @@ with open("data/import/characters.csv", "w") as characters_file:
     for episode_id in episodes:
         characters = episodes[episode_id]['characters']
         for raw_character in characters:
-            actor, character = [item.strip().replace("\n", "") for item in raw_character.text.replace(u'\xa0', u' ').split(" as ")]
-            writer.writerow([actor.encode("utf-8"), character, episode_id])
+            raw_character = raw_character.text.replace(u'\xa0', u' ')
+            # exploded_character = raw_character.split(" as ")
+            # print exploded_character
+            matches = re.match( "([A-Za-z\-'\.^\W\d_ ]*) as ([A-Za-z\-'\.^\W\d_ ]*)", raw_character)
+            if matches is not None:
+                actor, character = matches.groups()
+                # actor, character = [item.strip().replace("\n", "") for item in exploded_character]
+                writer.writerow([actor.strip().encode("utf-8"), character.strip().encode("utf-8"), episode_id])
 
 with open("data/import/locations.csv", "w") as locations_file:
     writer = csv.writer(locations_file, delimiter = ",")

@@ -1,4 +1,2770 @@
 episodeId,locationId,locationName,actor
+1,Beyond_the_Wall,Beyond the Wall,Night's Watch
+1,Beyond_the_Wall,Beyond the Wall,Rob Ostlere
+1,Beyond_the_Wall,Beyond the Wall,Bronson Webb
+1,In_King.27s_Landing,In King's Landing,Queen Cersei
+1,In_King.27s_Landing,In King's Landing,Lena Headey
+1,In_King.27s_Landing,In King's Landing,Jaime Lannister
+1,In_King.27s_Landing,In King's Landing,Nikolaj Coster-Waldau
+1,In_King.27s_Landing,In King's Landing,Jon Arryn
+1,In_King.27s_Landing,In King's Landing,John Standing
+1,In_the_North,In the North,"Eddard ""Ned"" Stark"
+1,In_the_North,In the North,"Catelyn ""Cat"" Stark"
+1,In_the_North,In the North,Michelle Fairley
+1,In_the_North,In the North,Robb
+1,In_the_North,In the North,Richard Madden
+1,In_the_North,In the North,Sansa
+1,In_the_North,In the North,Sophie Turner
+1,In_the_North,In the North,Arya
+1,In_the_North,In the North,Maisie Williams
+1,In_the_North,In the North,Bran
+1,In_the_North,In the North,Isaac Hempstead-Wright
+1,In_the_North,In the North,Rickon
+1,In_the_North,In the North,Art Parkinson
+1,In_the_North,In the North,Jon Snow
+1,In_the_North,In the North,Kit Harington
+1,In_the_North,In the North,Theon Greyjoy
+1,In_the_North,In the North,Alfie Allen
+1,In_the_North,In the North,stag
+1,In_the_North,In the North,sigil
+1,In_the_North,In the North,dire wolf
+1,In_the_North,In the North,Robert Baratheon
+1,In_the_North,In the North,Mark Addy
+1,In_the_North,In the North,Joffrey
+1,In_the_North,In the North,Jack Gleeson
+1,In_the_North,In the North,Myrcella
+1,In_the_North,In the North,Aimee Richardson
+1,In_the_North,In the North,Tommen
+1,In_the_North,In the North,Tyrion Lannister
+1,In_the_North,In the North,Peter Dinklage
+1,In_the_North,In the North,Lyanna Stark
+1,In_Pentos,In Pentos,Viserys Targaryen
+1,In_Pentos,In Pentos,Harry Lloyd
+1,In_Pentos,In Pentos,Daenerys
+1,In_Pentos,In Pentos,Emilia Clarke
+1,In_Pentos,In Pentos,Khal Drogo
+1,In_Pentos,In Pentos,Jason Momoa
+1,In_Pentos,In Pentos,Jorah Mormont
+1,In_Pentos,In Pentos,Iain Glen
+1,In_Pentos,In Pentos,Roger Allam
+1,Conception_and_development,Conception and development,A Song of Fire and Ice
+1,Conception_and_development,Conception and development,[1]
+1,Conception_and_development,Conception and development,A Song of Fire and Ice
+1,Conception_and_development,Conception and development,[2]
+1,Conception_and_development,Conception and development,A Game of Thrones
+1,Conception_and_development,Conception and development,[3]
+1,Conception_and_development,Conception and development,[4]
+1,Conception_and_development,Conception and development,[3]
+1,Conception_and_development,Conception and development,Showtime
+1,Conception_and_development,Conception and development,Carolyn Strauss
+1,Conception_and_development,Conception and development,[3]
+1,Conception_and_development,Conception and development,[5]
+1,Conception_and_development,Conception and development,[6]
+1,Conception_and_development,Conception and development,[7]
+1,Conception_and_development,Conception and development,A Game of Thrones
+1,Conception_and_development,Conception and development,[7]
+1,Conception_and_development,Conception and development,[8]
+1,Conception_and_development,Conception and development,pilot
+1,Conception_and_development,Conception and development,[9]
+1,Conception_and_development,Conception and development,[10]
+1,The_original_pilot,The original pilot,Craig Mazin
+1,The_original_pilot,The original pilot,[26]
+1,The_original_pilot,The original pilot,[27]
+1,The_original_pilot,The original pilot,[28]
+1,The_original_pilot,The original pilot,[28]
+1,The_original_pilot,The original pilot,[28]
+1,The_original_pilot,The original pilot,[29]
+1,The_original_pilot,The original pilot,[30]
+1,The_original_pilot,The original pilot,[17]
+1,The_original_pilot,The original pilot,[31]
+1,The_original_pilot,The original pilot,[27]
+1,Aired_episode,Aired episode,[32]
+1,Aired_episode,Aired episode,[27]
+1,Aired_episode,Aired episode,35 mm film
+1,Aired_episode,Aired episode,film grain
+1,Aired_episode,Aired episode,[24]
+1,Preview,Preview,[33]
+1,Preview,Preview,Wired
+1,Preview,Preview,[34]
+1,Preview,Preview,National Post
+1,Preview,Preview,[35]
+1,International,International,HBO Canada
+1,International,International,[35]
+1,International,International,Sky Atlantic
+1,International,International,[36]
+1,International,International,[38]
+1,International,International,[39]
+1,International,International,Dominion Post
+1,International,International,[40]
+1,International,International,A Dance with Dragons
+1,International,International,The Sydney Morning Herald
+1,International,International,[41]
+1,Critical_response,Critical response,Review aggregator
+1,Critical_response,Critical response,Rotten Tomatoes
+1,Critical_response,Critical response,[42]
+1,Critical_response,Critical response,Time
+1,Critical_response,Critical response,[43]
+1,Critical_response,Critical response,The Daily Beast
+1,Critical_response,Critical response,[44]
+1,Critical_response,Critical response,HitFix
+1,Critical_response,Critical response,The Sopranos
+1,Critical_response,Critical response,The Wire
+1,Critical_response,Critical response,[45]
+1,Critical_response,Critical response,IGN
+1,Critical_response,Critical response,[46]
+1,Critical_response,Critical response,The Atlantic
+1,Critical_response,Critical response,[47]
+1,Critical_response,Critical response,[45]
+1,Critical_response,Critical response,[45]
+1,Critical_response,Critical response,[47]
+1,Critical_response,Critical response,[48]
+1,Critical_response,Critical response,True Blood
+1,Critical_response,Critical response,[49]
+1,Accolades,Accolades,Tim Van Patten
+1,Accolades,Accolades,Primetime Emmy Award
+1,Accolades,Accolades,[50]
+1,Accolades,Accolades,edit
+1,Accolades,Accolades,Portal Award
+1,Accolades,Accolades,63rd Primetime Emmy Awards
+1,Accolades,Accolades,Outstanding Directing for a Drama Series
+1,Accolades,Accolades,Tim Van Patten
+1,Accolades,Accolades,63rd Primetime Creative Arts Emmy Awards
+1,Accolades,Accolades,Paul Engelen
+1,Accolades,Accolades,Golden Reel Awards
+1,Accolades,Accolades,64th Directors Guild of America Awards
+1,Accolades,Accolades,Tim Van Patten
+1,Accolades,Accolades,Visual Effects Society
+2,In_the_Dothraki_Sea,In the Dothraki Sea,Iain Glen
+2,In_the_Dothraki_Sea,In the Dothraki Sea,Harry Lloyd
+2,In_the_Dothraki_Sea,In the Dothraki Sea,Jason Momoa
+2,In_the_Dothraki_Sea,In the Dothraki Sea,Emilia Clarke
+2,In_the_Dothraki_Sea,In the Dothraki Sea,Roxanne McKee
+2,In_the_North,In the North,Isaac Hempstead-Wright
+2,In_the_North,In the North,coma
+2,In_the_North,In the North,Jack Gleeson
+2,In_the_North,In the North,Peter Dinklage
+2,In_the_North,In the North,Kit Harington
+2,In_the_North,In the North,Joseph Mawle
+2,In_the_North,In the North,Maisie Williams
+2,In_the_North,In the North,Michelle Fairley
+2,In_the_North,In the North,Sean Bean
+2,In_the_North,In the North,Mark Addy
+2,In_the_North,In the North,Richard Madden
+2,In_the_North,In the North,Donald Sumpter
+2,In_the_North,In the North,Ron Donachie
+2,In_the_North,In the North,ward
+2,In_the_North,In the North,Alfie Allen
+2,At_the_Inn_at_the_Crossroads,At the Inn at the Crossroads,Jack Gleeson
+2,At_the_Inn_at_the_Crossroads,At the Inn at the Crossroads,Sophie Turner
+2,At_the_Inn_at_the_Crossroads,At the Inn at the Crossroads,butcher
+2,At_the_Inn_at_the_Crossroads,At the Inn at the Crossroads,Lena Headey
+2,At_the_Inn_at_the_Crossroads,At the Inn at the Crossroads,Rory McCann
+2,Filming_locations,Filming locations,The Paint Hall
+2,Filming_locations,Filming locations,Ballycarry
+2,Filming_locations,Filming locations,[5]
+2,Filming_locations,Filming locations,[6]
+2,Direwolves,Direwolves,direwolves
+2,Direwolves,Direwolves,Northern Inuit Dogs
+2,Direwolves,Direwolves,[7]
+2,Direwolves,Direwolves,[8]
+2,Direwolves,Direwolves,Sophie Turner
+2,Direwolves,Direwolves,[9]
+2,Critical_response,Critical response,first episode
+2,Critical_response,Critical response,Rotten Tomatoes
+2,Critical_response,Critical response,[11]
+2,Critical_response,Critical response,Entertainment Weekly
+2,Critical_response,Critical response,[12]
+2,Critical_response,Critical response,TV Squad
+2,Critical_response,Critical response,[13]
+2,Critical_response,Critical response,IGN
+2,Critical_response,Critical response,[14]
+2,Critical_response,Critical response,The A.V. Club
+2,Critical_response,Critical response,[15]
+2,Critical_response,Critical response,HitFix
+2,Critical_response,Critical response,[16]
+2,Critical_response,Critical response,[17]
+2,Critical_response,Critical response,Myles McNutt
+2,Critical_response,Critical response,[18]
+3,In_the_Dothraki_Sea,In the Dothraki Sea,Emilia Clarke
+3,In_the_Dothraki_Sea,In the Dothraki Sea,Iain Glen
+3,In_the_Dothraki_Sea,In the Dothraki Sea,Harry Lloyd
+3,In_the_Dothraki_Sea,In the Dothraki Sea,Elyes Gabel
+3,In_the_Dothraki_Sea,In the Dothraki Sea,Amrita Acharia
+3,In_the_Dothraki_Sea,In the Dothraki Sea,Jason Momoa
+3,In_Winterfell,In Winterfell,Isaac Hempstead-Wright
+3,In_Winterfell,In Winterfell,Margaret John
+3,In_Winterfell,In Winterfell,Richard Madden
+3,At_the_Wall,At the Wall,Owen Teale
+3,At_the_Wall,At the Wall,Joseph Mawle
+3,At_the_Wall,At the Wall,Peter Dinklage
+3,At_the_Wall,At the Wall,James Cosmo
+3,At_the_Wall,At the Wall,Peter Vaughan
+3,In_King.27s_Landing,In King's Landing,Sean Bean
+3,In_King.27s_Landing,In King's Landing,Nikolaj Coster-Waldau
+3,In_King.27s_Landing,In King's Landing,Gethin Anthony
+3,In_King.27s_Landing,In King's Landing,eunuch
+3,In_King.27s_Landing,In King's Landing,Conleth Hill
+3,In_King.27s_Landing,In King's Landing,Julian Glover
+3,In_King.27s_Landing,In King's Landing,Aidan Gillen
+3,In_King.27s_Landing,In King's Landing,Ron Donachie
+3,In_King.27s_Landing,In King's Landing,Maisie Williams
+3,In_King.27s_Landing,In King's Landing,Sophie Turner
+3,In_King.27s_Landing,In King's Landing,Miltos Yerolemou
+3,Filming_locations,Filming locations,Magheramorne
+3,Filming_locations,Filming locations,Belfast
+3,Filming_locations,Filming locations,[7]
+3,Filming_locations,Filming locations,Fort Ricasoli
+3,Filming_locations,Filming locations,Mdina Gate
+3,Filming_locations,Filming locations,[8]
+3,Filming_locations,Filming locations,Maltese
+3,Filming_locations,Filming locations,Valletta
+3,Filming_locations,Filming locations,[9]
+3,Other,Other,Duncan and his squire Egg
+3,Other,Other,[10]
+3,Critical_response,Critical response,Review aggregator
+3,Critical_response,Critical response,Rotten Tomatoes
+3,Critical_response,Critical response,[13]
+3,Critical_response,Critical response,Myles McNutt
+3,Critical_response,Critical response,[14]
+3,Critical_response,Critical response,Entertainment Weekly
+3,Critical_response,Critical response,[15]
+3,Critical_response,Critical response,Alan Sepinwall
+3,Critical_response,Critical response,HitFix
+3,Critical_response,Critical response,[16]
+3,Critical_response,Critical response,IGN
+3,Critical_response,Critical response,[17]
+3,Critical_response,Critical response,HitFix
+3,Critical_response,Critical response,Inigo Montoya
+3,Critical_response,Critical response,[18]
+3,Critical_response,Critical response,[16]
+3,Critical_response,Critical response,AOL TV
+3,Critical_response,Critical response,[19]
+3,Critical_response,Critical response,[15]
+3,Critical_response,Critical response,[20]
+3,Critical_response,Critical response,[14]
+3,Critical_response,Critical response,[19]
+4,In_King.27s_Landing,In King's Landing,Julian Glover
+4,In_King.27s_Landing,In King's Landing,Aidan Gillen
+4,In_King.27s_Landing,In King's Landing,King Robert
+4,In_King.27s_Landing,In King's Landing,Conan Stevens
+4,In_Vaes_Dothrak,In Vaes Dothrak,Harry Lloyd
+4,In_Vaes_Dothrak,In Vaes Dothrak,Jason Momoa
+4,In_Vaes_Dothrak,In Vaes Dothrak,Emilia Clarke
+4,In_Vaes_Dothrak,In Vaes Dothrak,Iain Glen
+4,At_the_Wall,At the Wall,Samwell Tarly
+4,At_the_Wall,At the Wall,John Bradley
+4,At_the_Wall,At the Wall,Owen Teale
+4,At_the_Wall,At the Wall,[2]
+4,At_the_Wall,At the Wall,Kit Harington
+4,In_the_North,In the North,Peter Dinklage
+4,In_the_North,In the North,Richard Madden
+4,In_the_North,In the North,paraplegia
+4,In_the_North,In the North,Alfie Allen
+4,In_the_North,In the North,ward
+4,At_the_Inn_at_the_Crossroads,At the Inn at the Crossroads,Michelle Fairley
+4,Props,Props,A Golden Crown
+4,Props,Props,[11]
+4,Filming_locations,Filming locations,
+4,Filming_locations,Filming locations,
+4,Filming_locations,Filming locations,Shane's Castle
+4,Filming_locations,Filming locations,The Paint Hall
+4,Filming_locations,Filming locations,[12]
+4,Filming_locations,Filming locations,Northern Ireland
+4,Filming_locations,Filming locations,Magheramorne
+4,Filming_locations,Filming locations,Shane's Castle
+4,Filming_locations,Filming locations,Mourne Mountains
+4,Filming_locations,Filming locations,[13]
+4,Filming_locations,Filming locations,[14]
+4,Filming_locations,Filming locations,[15]
+4,Critical_response,Critical response,A.V. Club
+4,Critical_response,Critical response,[18]
+4,Critical_response,Critical response,AOL TV
+4,Critical_response,Critical response,[19]
+4,Critical_response,Critical response,[18]
+4,Critical_response,Critical response,IGN
+4,Critical_response,Critical response,[20]
+4,Critical_response,Critical response,Myles McNutt
+4,Critical_response,Critical response,[21]
+4,Critical_response,Critical response,[22]
+4,Critical_response,Critical response,[23]
+5,In_the_Vale,In the Vale,Michelle Fairley
+5,In_the_Vale,In the Vale,Peter Dinklage
+5,In_the_Vale,In the Vale,Kate Dickie
+5,In_the_Vale,In the Vale,Lino Facioli
+5,In_the_Vale,In the Vale,breast-feeds
+5,In_the_North,In the North,Theon Greyjoy
+5,In_the_North,In the North,Alfie Allen
+5,In_the_North,In the North,Esmé Bianco
+5,In_the_North,In the North,Isaac Hempstead-Wright
+5,In_the_North,In the North,Donald Sumpter
+5,In_King.27s_Landing,In King's Landing,Sean Bean
+5,In_King.27s_Landing,In King's Landing,Mark Addy
+5,In_King.27s_Landing,In King's Landing,Conleth Hill
+5,In_King.27s_Landing,In King's Landing,Maisie Williams
+5,In_King.27s_Landing,In King's Landing,Lena Headey
+5,In_King.27s_Landing,In King's Landing,Gethin Anthony
+5,In_King.27s_Landing,In King's Landing,Nikolaj Coster-Waldau
+5,In_King.27s_Landing,In King's Landing,Jamie Sives
+5,Filming_locations,Filming locations,
+5,Filming_locations,Filming locations,
+5,Filming_locations,Filming locations,The Paint Hall
+5,Filming_locations,Filming locations,Shane's Castle
+5,Filming_locations,Filming locations,[8]
+5,Filming_locations,Filming locations,Fort St Angelo
+5,Filming_locations,Filming locations,Vittoriosa
+5,Filming_locations,Filming locations,citation needed
+5,Filming_locations,Filming locations,Meteora
+5,Filming_locations,Filming locations,Zhangjiajie Mountains
+5,Filming_locations,Filming locations,[9]
+5,Choreography,Choreography,[10]
+5,Dedication,Dedication,swine flu
+5,Dedication,Dedication,[11]
+5,Critical_response,Critical response,AOL TV
+5,Critical_response,Critical response,[14]
+5,Critical_response,Critical response,the A.V. Club
+5,Critical_response,Critical response,[15]
+5,Critical_response,Critical response,[16]
+5,Critical_response,Critical response,[16]
+5,Critical_response,Critical response,Time
+5,Critical_response,Critical response,[17]
+5,Critical_response,Critical response,[18]
+5,Critical_response,Critical response,[19]
+5,Critical_response,Critical response,[15]
+5,Critical_response,Critical response,[15]
+5,Accolades,Accolades,Primetime Emmy Award
+5,Accolades,Accolades,[20]
+6,In_the_North,In the North,Isaac Hempstead-Wright
+6,In_the_North,In the North,Richard Madden
+6,In_the_North,In the North,Alfie Allen
+6,In_the_North,In the North,Natalia Tena
+6,In_the_Eyrie,In the Eyrie,Peter Dinklage
+6,In_the_Eyrie,In the Eyrie,Kate Dickie
+6,In_the_Eyrie,In the Eyrie,trial by combat
+6,In_the_Eyrie,In the Eyrie,Jerome Flynn
+6,In_King.27s_Landing,In King's Landing,Sean Bean
+6,In_King.27s_Landing,In King's Landing,Mark Addy
+6,In_King.27s_Landing,In King's Landing,Lena Headey
+6,In_King.27s_Landing,In King's Landing,Maisie Williams
+6,In_King.27s_Landing,In King's Landing,Sophie Turner
+6,In_King.27s_Landing,In King's Landing,Jack Gleeson
+6,In_Vaes_Dothrak,In Vaes Dothrak,Emilia Clarke
+6,In_Vaes_Dothrak,In Vaes Dothrak,Harry Lloyd
+6,In_Vaes_Dothrak,In Vaes Dothrak,Iain Glen
+6,Staging_and_props,Staging and props,The Paint Hall
+6,Staging_and_props,Staging and props,Marsh Arab
+6,Staging_and_props,Staging and props,[5]
+6,Staging_and_props,Staging and props,gummi bear
+6,Staging_and_props,Staging and props,bleach
+6,Staging_and_props,Staging and props,[6]
+6,Staging_and_props,Staging and props,[5]
+6,Staging_and_props,Staging and props,Bryan Cogman
+6,Staging_and_props,Staging and props,"Cripples, Bastards, and Broken Things"
+6,Staging_and_props,Staging and props,[7]
+6,Staging_and_props,Staging and props,[8]
+6,Critical_response,Critical response,A.V. Club
+6,Critical_response,Critical response,[10]
+6,Critical_response,Critical response,AOL TV
+6,Critical_response,Critical response,[11]
+6,Critical_response,Critical response,HitFix
+6,Critical_response,Critical response,[12]
+6,Critical_response,Critical response,[13]
+6,Critical_response,Critical response,[13]
+6,Critical_response,Critical response,Time
+6,Critical_response,Critical response,[14]
+6,Critical_response,Critical response,[15]
+6,Critical_response,Critical response,[10]
+6,Critical_response,Critical response,IGN
+6,Critical_response,Critical response,[16]
+6,Critical_response,Critical response,Tywin Lannister
+6,Critical_response,Critical response,[14]
+6,Critical_response,Critical response,The Atlantic
+6,Critical_response,Critical response,[17]
+6,Critical_response,Critical response,Myles McNutt
+6,Critical_response,Critical response,[18]
+6,Accolades,Accolades,Emmy
+6,Accolades,Accolades,[19]
+7,At_the_Lannister_camp,At the Lannister camp,Charles Dance
+7,At_the_Lannister_camp,At the Lannister camp,Nikolaj Coster-Waldau
+7,At_Winterfell,At Winterfell,Natalia Tena
+7,At_Winterfell,At Winterfell,Alfie Allen
+7,At_Winterfell,At Winterfell,Donald Sumpter
+7,At_the_Wall,At the Wall,Kit Harington
+7,At_the_Wall,At the Wall,Owen Teale
+7,At_the_Wall,At the Wall,John Bradley
+7,In_Vaes_Dothrak,In Vaes Dothrak,Emilia Clarke
+7,In_Vaes_Dothrak,In Vaes Dothrak,Jason Momoa
+7,In_Vaes_Dothrak,In Vaes Dothrak,Iain Glen
+7,In_Vaes_Dothrak,In Vaes Dothrak,Conleth Hill
+7,In_Vaes_Dothrak,In Vaes Dothrak,Iron Throne
+7,In_King.27s_Landing,In King's Landing,Sean Bean
+7,In_King.27s_Landing,In King's Landing,Lena Headey
+7,In_King.27s_Landing,In King's Landing,Mark Addy
+7,In_King.27s_Landing,In King's Landing,Gethin Anthony
+7,In_King.27s_Landing,In King's Landing,will
+7,In_King.27s_Landing,In King's Landing,coup d'état
+7,In_King.27s_Landing,In King's Landing,Aidan Gillen
+7,In_King.27s_Landing,In King's Landing,coronation
+7,In_King.27s_Landing,In King's Landing,fortnight
+7,In_King.27s_Landing,In King's Landing,Ian McElhinney
+7,Filming_locations,Filming locations,The Paint Hall
+7,Filming_locations,Filming locations,[8]
+7,Filming_locations,Filming locations,Rabat
+7,Filming_locations,Filming locations,[9]
+7,Critical_response,Critical response,Time
+7,Critical_response,Critical response,James Poniewozik
+7,Critical_response,Critical response,[11]
+7,Critical_response,Critical response,AOL TV
+7,Critical_response,Critical response,[12]
+7,Critical_response,Critical response,HitFix
+7,Critical_response,Critical response,Alan Sepinwall
+7,Critical_response,Critical response,[13]
+7,Critical_response,Critical response,[13]
+7,Critical_response,Critical response,[11]
+7,Critical_response,Critical response,Myles McNutt
+7,Critical_response,Critical response,[14]
+7,Critical_response,Critical response,IGN
+7,Critical_response,Critical response,[15]
+7,Critical_response,Critical response,The Atlantic
+7,Critical_response,Critical response,[16]
+7,Critical_response,Critical response,[14]
+7,Critical_response,Critical response,Charles Dance
+7,Critical_response,Critical response,the A.V. Club
+7,Critical_response,Critical response,Nikolaj Coster-Waldau
+7,Critical_response,Critical response,[4]
+7,Critical_response,Critical response,Natalia Tena
+7,Critical_response,Critical response,[12]
+7,Critical_response,Critical response,[17]
+7,Critical_response,Critical response,[11]
+7,Critical_response,Critical response,[14]
+7,Critical_response,Critical response,Jason Momoa
+7,Critical_response,Critical response,Emilia Clarke
+7,Critical_response,Critical response,[4]
+7,Critical_response,Critical response,[12]
+7,Critical_response,Critical response,sexposition
+7,Critical_response,Critical response,[14]
+7,Critical_response,Critical response,[16]
+7,Critical_response,Critical response,[11]
+7,Critical_response,Critical response,[17]
+8,In_the_Mountains_of_the_Moon,In the Mountains of the Moon,Peter Dinklage
+8,In_the_Mountains_of_the_Moon,In the Mountains of the Moon,Jerome Flynn
+8,In_the_Eyrie,In the Eyrie,Michelle Fairley
+8,In_the_Eyrie,In the Eyrie,Kate Dickie
+8,In_the_Eyrie,In the Eyrie,Lino Facioli
+8,In_the_North,In the North,Richard Madden
+8,In_the_North,In the North,Alfie Allen
+8,In_the_North,In the North,Clive Mantle
+8,At_the_Wall,At the Wall,Kit Harington
+8,At_the_Wall,At the Wall,John Bradley
+8,At_the_Wall,At the Wall,James Cosmo
+8,At_the_Wall,At the Wall,Owen Teale
+8,At_the_Wall,At the Wall,wight
+8,In_Lhazar,In Lhazar,Jason Momoa
+8,In_Lhazar,In Lhazar,Emilia Clarke
+8,In_Lhazar,In Lhazar,Iain Glen
+8,In_Lhazar,In Lhazar,Mia Soteriou
+8,In_King.27s_Landing,In King's Landing,Sean Bean
+8,In_King.27s_Landing,In King's Landing,Jack Gleeson
+8,In_King.27s_Landing,In King's Landing,Lena Headey
+8,In_King.27s_Landing,In King's Landing,Sophie Turner
+8,In_King.27s_Landing,In King's Landing,Maisie Williams
+8,In_King.27s_Landing,In King's Landing,Miltos Yerolemou
+8,In_King.27s_Landing,In King's Landing,fealty
+8,In_King.27s_Landing,In King's Landing,Charles Dance
+8,In_King.27s_Landing,In King's Landing,Ian McElhinney
+8,Filming_locations,Filming locations,The Paint Hall
+8,Filming_locations,Filming locations,[8]
+8,Filming_locations,Filming locations,Castle Ward
+8,Filming_locations,Filming locations,Strangford
+8,Filming_locations,Filming locations,Audley's Castle
+8,Filming_locations,Filming locations,[8]
+8,Filming_locations,Filming locations,Malta
+8,Filming_locations,Filming locations,Manikata
+8,Filming_locations,Filming locations,[9]
+8,Filming_locations,Filming locations,San Anton Palace
+8,Filming_locations,Filming locations,[10]
+8,Dedication,Dedication,cerebral aneurysm
+8,Dedication,Dedication,[11]
+8,Critical_response,Critical response,AOL TV
+8,Critical_response,Critical response,[13]
+8,Critical_response,Critical response,IGN
+8,Critical_response,Critical response,[14]
+8,Critical_response,Critical response,Entertainment Weekly
+8,Critical_response,Critical response,[15]
+8,Critical_response,Critical response,HitFix
+8,Critical_response,Critical response,[16]
+8,Critical_response,Critical response,the A.V. Club
+8,Critical_response,Critical response,[17]
+8,Critical_response,Critical response,Myles McNutt
+8,Critical_response,Critical response,[18]
+8,Critical_response,Critical response,[13]
+8,Critical_response,Critical response,[16]
+8,Critical_response,Critical response,[13]
+8,Critical_response,Critical response,[19]
+8,Critical_response,Critical response,[20]
+8,Critical_response,Critical response,[13]
+8,Critical_response,Critical response,[16]
+8,Critical_response,Critical response,[21]
+8,Critical_response,Critical response,Time
+8,Critical_response,Critical response,[22]
+8,Critical_response,Critical response,[13]
+8,Emmy_nomination,Emmy nomination,Emmy Award
+8,Emmy_nomination,Emmy nomination,Outstanding Costumes for a Series
+8,Emmy_nomination,Emmy nomination,[23]
+8,Emmy_nomination,Emmy nomination,The Borgias
+8,Emmy_nomination,Emmy nomination,[24]
+9,At_the_Lannister_camp,At the Lannister camp,Charles Dance
+9,At_the_Lannister_camp,At the Lannister camp,Peter Dinklage
+9,At_the_Lannister_camp,At the Lannister camp,vanguard
+9,At_the_Lannister_camp,At the Lannister camp,Sibel Kekilli
+9,At_the_Lannister_camp,At the Lannister camp,Jerome Flynn
+9,At_the_Twins,At the Twins,David Bradley
+9,At_the_Twins,At the Twins,Michelle Fairley
+9,At_the_Twins,At the Twins,Hoster Tully
+9,At_the_Twins,At the Twins,Richard Madden
+9,At_the_Twins,At the Twins,Maisie Williams
+9,At_the_Twins,At the Twins,Nikolaj Coster-Waldau
+9,At_the_Wall,At the Wall,James Cosmo
+9,At_the_Wall,At the Wall,Kit Harington
+9,At_the_Wall,At the Wall,Valyrian steel
+9,At_the_Wall,At the Wall,Iain Glen
+9,At_the_Wall,At the Wall,John Bradley
+9,At_the_Wall,At the Wall,Peter Vaughan
+9,At_the_Wall,At the Wall,Emilia Clarke
+9,In_Lhazar,In Lhazar,Jason Momoa
+9,In_Lhazar,In Lhazar,Mia Soteriou
+9,In_Lhazar,In Lhazar,Dar Salim
+9,In_King.27s_Landing,In King's Landing,Conleth Hill
+9,In_King.27s_Landing,In King's Landing,Sean Bean
+9,In_King.27s_Landing,In King's Landing,Jack Gleeson
+9,In_King.27s_Landing,In King's Landing,Lena Headey
+9,In_King.27s_Landing,In King's Landing,Sophie Turner
+9,In_King.27s_Landing,In King's Landing,Francis Magee
+9,In_King.27s_Landing,In King's Landing,Wilko Johnson
+9,Filming_locations,Filming locations,the Paint Hall
+9,Filming_locations,Filming locations,Castle Ward
+9,Filming_locations,Filming locations,Northern Ireland
+9,Filming_locations,Filming locations,[4]
+9,Filming_locations,Filming locations,Fort Manoel
+9,Filming_locations,Filming locations,Maltese
+9,Filming_locations,Filming locations,Gżira
+9,Filming_locations,Filming locations,[5]
+9,Filming_locations,Filming locations,[6]
+9,Execution,Execution,[7]
+9,Critical_response,Critical response,The A.V. Club
+9,Critical_response,Critical response,[10]
+9,Critical_response,Critical response,[3]
+9,Critical_response,Critical response,[11]
+9,Critical_response,Critical response,[10]
+9,Critical_response,Critical response,Myles McNutt
+9,Critical_response,Critical response,[12]
+9,Critical_response,Critical response,HitFix
+9,Critical_response,Critical response,Alan Sepinwall
+9,Critical_response,Critical response,[13]
+9,Critical_response,Critical response,The Atlantic
+9,Critical_response,Critical response,[14]
+9,Critical_response,Critical response,AOL TV
+9,Critical_response,Critical response,[15]
+9,Critical_response,Critical response,[16]
+9,Critical_response,Critical response,[15]
+9,Critical_response,Critical response,[17]
+9,Critical_response,Critical response,[15]
+9,Critical_response,Critical response,[12]
+9,Critical_response,Critical response,[15]
+9,Critical_response,Critical response,[3]
+9,Critical_response,Critical response,[13]
+9,Critical_response,Critical response,TV Guide
+9,Critical_response,Critical response,[18]
+9,Accolades,Accolades,Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series
+9,Accolades,Accolades,[19]
+9,Accolades,Accolades,Primetime Emmy Award for Outstanding Writing for a Drama Series
+9,Accolades,Accolades,Friday Night Lights
+9,Accolades,Accolades,Always
+9,Accolades,Accolades,[19]
+9,Accolades,Accolades,A Golden Crown
+9,Accolades,Accolades,[19]
+9,Accolades,Accolades,[20]
+9,Accolades,Accolades,edit
+9,Accolades,Accolades,63rd Primetime Emmy Awards
+9,Accolades,Accolades,Outstanding Writing for a Drama Series
+9,Accolades,Accolades,David Benioff
+9,Accolades,Accolades,D. B. Weiss
+9,Accolades,Accolades,IGN Awards
+9,Accolades,Accolades,American Cinema Editors
+10,In_the_North,In the North,Isaac Hempstead-Wright
+10,In_the_North,In the North,Natalia Tena
+10,In_the_North,In the North,Art Parkinson
+10,In_the_North,In the North,Sean Bean
+10,In_the_North,In the North,Donald Sumpter
+10,In_the_Riverlands,In the Riverlands,Michelle Fairley
+10,In_the_Riverlands,In the Riverlands,Richard Madden
+10,In_the_Riverlands,In the Riverlands,Maisie Williams
+10,In_the_Riverlands,In the Riverlands,Sophie Turner
+10,In_the_Riverlands,In the Riverlands,Jack Gleeson
+10,In_the_Riverlands,In the Riverlands,Clive Mantle
+10,In_the_Riverlands,In the Riverlands,Alfie Allen
+10,In_the_Riverlands,In the Riverlands,Nikolaj Coster-Waldau
+10,In_the_Riverlands,In the Riverlands,Charles Dance
+10,In_the_Riverlands,In the Riverlands,sue for peace
+10,In_the_Riverlands,In the Riverlands,Peter Dinklage
+10,In_the_Riverlands,In the Riverlands,Sibel Kekilli
+10,In_King.27s_Landing,In King's Landing,Emun Elliott
+10,In_King.27s_Landing,In King's Landing,Ian Beattie
+10,In_King.27s_Landing,In King's Landing,Rory McCann
+10,In_King.27s_Landing,In King's Landing,Francis Magee
+10,In_King.27s_Landing,In King's Landing,Joe Dempsie
+10,At_the_Wall,At the Wall,Kit Harington
+10,At_the_Wall,At the Wall,John Bradley
+10,At_the_Wall,At the Wall,Josef Altin
+10,At_the_Wall,At the Wall,Mark Stanley
+10,At_the_Wall,At the Wall,James Cosmo
+10,At_the_Wall,At the Wall,Joseph Mawle
+10,In_Lhazar,In Lhazar,Emilia Clarke
+10,In_Lhazar,In Lhazar,Iain Glen
+10,In_Lhazar,In Lhazar,Mia Soteriou
+10,In_Lhazar,In Lhazar,Jason Momoa
+10,In_Lhazar,In Lhazar,catatonic state
+10,Airings_and_ratings,Airings and ratings,Canada
+10,Airings_and_ratings,Airings and ratings,[11]
+10,Airings_and_ratings,Airings and ratings,[11]
+10,Airings_and_ratings,Airings and ratings,[11]
+10,Airings_and_ratings,Airings and ratings,[12]
+10,Airings_and_ratings,Airings and ratings,[13]
+10,Critical_response,Critical response,IGN
+10,Critical_response,Critical response,A Clash of Kings
+10,Critical_response,Critical response,[14]
+10,Critical_response,Critical response,A.V. Club
+10,Critical_response,Critical response,[15]
+10,Critical_response,Critical response,A.V. Club
+10,Critical_response,Critical response,[16]
+10,Critical_response,Critical response,Star-Ledger
+10,Critical_response,Critical response,[17]
+10,Critical_response,Critical response,HitFix
+10,Critical_response,Critical response,[18]
+10,Accolades,Accolades,Primetime Emmy Award for Outstanding Special Visual Effects for a Series
+10,Accolades,Accolades,[19]
+10,Accolades,Accolades,edit
+10,Accolades,Accolades,63rd Primetime Creative Arts Emmy Awards
+10,Accolades,Accolades,Outstanding Special Visual Effects
+10,Accolades,Accolades,Visual Effects Society
+11,At_Dragonstone,At Dragonstone,Stephen Dillane
+11,At_Dragonstone,At Dragonstone,Liam Cunningham
+11,At_Dragonstone,At Dragonstone,Carice van Houten
+11,In_the_Riverlands,In the Riverlands,Richard Madden
+11,In_the_Riverlands,In the Riverlands,Nikolaj Coster-Waldau
+11,In_the_Riverlands,In the Riverlands,independence
+11,In_the_Riverlands,In the Riverlands,Alfie Allen
+11,In_the_Riverlands,In the Riverlands,Michelle Fairley
+11,At_Winterfell,At Winterfell,Isaac Hempstead-Wright
+11,At_Winterfell,At Winterfell,Natalia Tena
+11,Beyond_the_Wall,Beyond the Wall,Robert Pugh
+11,Beyond_the_Wall,Beyond the Wall,James Cosmo
+11,Beyond_the_Wall,Beyond the Wall,Kit Harington
+11,In_the_Red_Waste,In the Red Waste,Emilia Clarke
+11,In_King.27s_Landing,In King's Landing,Jack Gleeson
+11,In_King.27s_Landing,In King's Landing,Sophie Turner
+11,In_King.27s_Landing,In King's Landing,fool
+11,In_King.27s_Landing,In King's Landing,Peter Dinklage
+11,In_King.27s_Landing,In King's Landing,Lena Headey
+11,In_King.27s_Landing,In King's Landing,Joe Dempsie
+11,In_King.27s_Landing,In King's Landing,Maisie Williams
+11,Filming_locations,Filming locations,
+11,Filming_locations,Filming locations,
+11,Filming_locations,Filming locations,Downhill Strand
+11,Filming_locations,Filming locations,Northern Irish
+11,Filming_locations,Filming locations,Downhill Strand
+11,Filming_locations,Filming locations,Castlerock
+11,Filming_locations,Filming locations,[3]
+11,Filming_locations,Filming locations,Clandeboye Estate
+11,Filming_locations,Filming locations,[4]
+11,Filming_locations,Filming locations,Iceland
+11,Filming_locations,Filming locations,Arya
+11,Filming_locations,Filming locations,Winterfell
+11,Filming_locations,Filming locations,[5]
+11,Filming_locations,Filming locations,Armoy
+11,Filming_locations,Filming locations,County Antrim
+11,Filming_locations,Filming locations,
+11,Filming_locations,Filming locations,
+11,Filming_locations,Filming locations,Malta
+11,Filming_locations,Filming locations,Dubrovnik
+11,Filming_locations,Filming locations,[6]
+11,Filming_locations,Filming locations,Fort Lovrijenac
+11,Filming_locations,Filming locations,walls
+11,Accolades,Accolades,American Society of Cinematographers
+11,Accolades,Accolades,[15]
+12,In_King.27s_Landing,In King's Landing,Peter Dinklage
+12,In_King.27s_Landing,In King's Landing,Sibel Kekilli
+12,In_King.27s_Landing,In King's Landing,Conleth Hill
+12,In_King.27s_Landing,In King's Landing,Lena Headey
+12,In_King.27s_Landing,In King's Landing,Dominic Carter
+12,In_King.27s_Landing,In King's Landing,Jerome Flynn
+12,In_King.27s_Landing,In King's Landing,Jack Gleeson
+12,At_Dragonstone,At Dragonstone,Liam Cunningham
+12,At_Dragonstone,At Dragonstone,Lucian Msamati
+12,At_Dragonstone,At Dragonstone,Stephen Dillane
+12,At_Dragonstone,At Dragonstone,Carice van Houten
+12,On_the_Iron_Islands,On the Iron Islands,Alfie Allen
+12,On_the_Iron_Islands,On the Iron Islands,Gemma Whelan
+12,On_the_Iron_Islands,On the Iron Islands,Patrick Malahide
+12,In_the_Red_Waste,In the Red Waste,Elyes Gabel
+12,In_the_Red_Waste,In the Red Waste,Emilia Clarke
+12,In_the_Red_Waste,In the Red Waste,Iain Glen
+12,In_the_outskirts_of_King.27s_Landing,In the outskirts of King's Landing,Joe Dempsie
+12,In_the_outskirts_of_King.27s_Landing,In the outskirts of King's Landing,Francis Magee
+12,In_the_outskirts_of_King.27s_Landing,In the outskirts of King's Landing,Maisie Williams
+12,At_Craster.27s_Keep,At Craster's Keep,John Bradley
+12,At_Craster.27s_Keep,At Craster's Keep,Hannah Murray
+12,At_Craster.27s_Keep,At Craster's Keep,Kit Harington
+12,Filming_locations,Filming locations,
+12,Filming_locations,Filming locations,
+12,Filming_locations,Filming locations,Ballintoy
+12,Filming_locations,Filming locations,Ballintoy
+12,Filming_locations,Filming locations,County of Antrim
+12,Filming_locations,Filming locations,[7]
+12,Filming_locations,Filming locations,[8]
+13,In_King.27s_Landing,In King's Landing,Peter Dinklage
+13,In_King.27s_Landing,In King's Landing,Sibel Kekilli
+13,In_King.27s_Landing,In King's Landing,Lena Headey
+13,In_King.27s_Landing,In King's Landing,Sophie Turner
+13,In_King.27s_Landing,In King's Landing,Julian Glover
+13,In_King.27s_Landing,In King's Landing,Conleth Hill
+13,In_King.27s_Landing,In King's Landing,Aiden Gillen
+13,Beyond_the_Wall,Beyond the Wall,Robert Pugh
+13,Beyond_the_Wall,Beyond the Wall,Kit Harington
+13,Beyond_the_Wall,Beyond the Wall,James Cosmo
+13,At_Winterfell,At Winterfell,Isaac Hempstead-Wright
+13,At_Winterfell,At Winterfell,Donald Sumpter
+13,In_the_Stormlands,In the Stormlands,Gethin Anthony
+13,In_the_Stormlands,In the Stormlands,Natalie Dormer
+13,In_the_Stormlands,In the Stormlands,Finn Jones
+13,In_the_Stormlands,In the Stormlands,Gwendoline Christie
+13,In_the_Stormlands,In the Stormlands,Michelle Fairley
+13,On_the_Iron_Islands,On the Iron Islands,Patrick Malahide
+13,On_the_Iron_Islands,On the Iron Islands,Gemma Whelan
+13,On_the_Iron_Islands,On the Iron Islands,Alfie Allen
+13,In_the_Riverlands,In the Riverlands,Francis Magee
+13,In_the_Riverlands,In the Riverlands,Maisie Williams
+13,In_the_Riverlands,In the Riverlands,Fintan McKeown
+13,In_the_Riverlands,In the Riverlands,Joe Dempsie
+13,In_the_Riverlands,In the Riverlands,Tom Wlaschiha
+13,In_the_Riverlands,In the Riverlands,Andy Kellegher
+13,In_the_Riverlands,In the Riverlands,Eros Vlahos
+13,Filming_locations,Filming locations,
+13,Filming_locations,Filming locations,
+13,Filming_locations,Filming locations,Carrick-a-Rede
+13,Filming_locations,Filming locations,Hurricane Katia
+13,Filming_locations,Filming locations,[7]
+13,Filming_locations,Filming locations,[8]
+14,Outside_Oxcross,Outside Oxcross,Richard Madden
+14,Outside_Oxcross,Outside Oxcross,Michael McElhatton
+14,Outside_Oxcross,Outside Oxcross,Oona Chaplin
+14,In_King.27s_Landing,In King's Landing,Jack Gleeson
+14,In_King.27s_Landing,In King's Landing,Sophie Turner
+14,In_King.27s_Landing,In King's Landing,Peter Dinklage
+14,In_King.27s_Landing,In King's Landing,Jerome Flynn
+14,In_King.27s_Landing,In King's Landing,Esmé Bianco
+14,In_King.27s_Landing,In King's Landing,Eugene Simon
+14,At_Harrenhal,At Harrenhal,Maisie Williams
+14,At_Harrenhal,At Harrenhal,Joe Dempsie
+14,At_Harrenhal,At Harrenhal,Ben Hawkey
+14,At_Harrenhal,At Harrenhal,Ian Whyte
+14,At_Harrenhal,At Harrenhal,Charles Dance
+14,At_Harrenhal,At Harrenhal,Andy Kellegher
+14,Outside_Qarth,Outside Qarth,Emilia Clarke
+14,Outside_Qarth,Outside Qarth,Steven Cole
+14,Outside_Qarth,Outside Qarth,Iain Glen
+14,Outside_Qarth,Outside Qarth,Nicholas Blane
+14,Outside_Qarth,Outside Qarth,Nonso Anozie
+14,In_the_Stormlands,In the Stormlands,Aidan Gillen
+14,In_the_Stormlands,In the Stormlands,Gethin Anthony
+14,In_the_Stormlands,In the Stormlands,Natalie Dormer
+14,In_the_Stormlands,In the Stormlands,Finn Jones
+14,In_the_Stormlands,In the Stormlands,Michelle Fairley
+14,In_the_Stormlands,In the Stormlands,Stephen Dillane
+14,In_the_Stormlands,In the Stormlands,Carice van Houten
+14,In_the_Stormlands,In the Stormlands,Liam Cunningham
+14,Filming_locations,Filming locations,
+14,Filming_locations,Filming locations,
+14,Filming_locations,Filming locations,Belfast
+14,Filming_locations,Filming locations,The Paint Hall
+14,Filming_locations,Filming locations,Dubrovnik
+14,Filming_locations,Filming locations,[9]
+14,Filming_locations,Filming locations,Cushendun
+14,Filming_locations,Filming locations,County Antrim
+14,Filming_locations,Filming locations,[10]
+14,Filming_locations,Filming locations,Banbridge
+14,Filming_locations,Filming locations,County Down
+14,Filming_locations,Filming locations,[11]
+14,Staging_and_props,Staging and props,[12]
+14,Staging_and_props,Staging and props,[13]
+14,Staging_and_props,Staging and props,[14]
+14,Accolades,Accolades,Primetime Emmy Award
+14,Accolades,Accolades,[26]
+15,In_the_Stormlands,In the Stormlands,Gethin Anthony
+15,In_the_Stormlands,In the Stormlands,Michelle Fairley
+15,In_the_Stormlands,In the Stormlands,Gwendoline Christie
+15,In_the_Stormlands,In the Stormlands,Stephen Dillane
+15,In_the_Stormlands,In the Stormlands,Finn Jones
+15,In_the_Stormlands,In the Stormlands,Aidan Gillen
+15,In_the_Stormlands,In the Stormlands,Natalie Dormer
+15,In_the_Stormlands,In the Stormlands,Liam Cunningham
+15,In_King.27s_Landing,In King's Landing,Peter Dinklage
+15,In_King.27s_Landing,In King's Landing,Eugene Simon
+15,In_King.27s_Landing,In King's Landing,Roy Dotrice
+15,In_King.27s_Landing,In King's Landing,Jerome Flynn
+15,At_Lordsport,At Lordsport,Alfie Allen
+15,At_Lordsport,At Lordsport,Ralph Ineson
+15,At_Winterfell,At Winterfell,Isaac Hempstead-Wright
+15,At_Winterfell,At Winterfell,Ron Donachie
+15,At_Winterfell,At Winterfell,Natalia Tena
+15,At_the_Fist_of_the_First_Men,At the Fist of the First Men,Simon Armstrong
+15,At_the_Fist_of_the_First_Men,At the Fist of the First Men,Kit Harington
+15,In_Qarth,In Qarth,Emilia Clarke
+15,In_Qarth,In Qarth,Nonso Anozie
+15,In_Qarth,In Qarth,Ian Hanmore
+15,In_Qarth,In Qarth,Iain Glen
+15,In_Qarth,In Qarth,Iron Throne
+15,At_Harrenhal,At Harrenhal,Maisie Williams
+15,At_Harrenhal,At Harrenhal,Charles Dance
+15,At_Harrenhal,At Harrenhal,Tom Wlaschiha
+15,Filming_locations,Filming locations,The Paint Hall
+15,Filming_locations,Filming locations,
+15,Filming_locations,Filming locations,
+15,Filming_locations,Filming locations,Snæfellsjökull
+15,Filming_locations,Filming locations,[7]
+15,Filming_locations,Filming locations,Snæfellsjökull
+15,Filming_locations,Filming locations,Vík
+15,Filming_locations,Filming locations,[8]
+15,Filming_locations,Filming locations,
+15,Filming_locations,Filming locations,
+15,Filming_locations,Filming locations,Lokrum
+15,Filming_locations,Filming locations,Maximilian
+15,Filming_locations,Filming locations,[9]
+15,Awards_and_nominations,Awards and nominations,Portal Award
+15,Awards_and_nominations,Awards and nominations,64th Primetime Emmy Awards
+15,Awards_and_nominations,Awards and nominations,ADG Excellence in Production Design Award
+16,At_Winterfell,At Winterfell,Alfie Allen
+16,At_Winterfell,At Winterfell,Isaac Hempstead-Wright
+16,At_Winterfell,At Winterfell,Ron Donachie
+16,At_Winterfell,At Winterfell,Natalia Tena
+16,At_Winterfell,At Winterfell,Kristian Nairn
+16,At_Winterfell,At Winterfell,Art Parkinson
+16,In_the_Westerlands,In the Westerlands,Richard Madden
+16,In_the_Westerlands,In the Westerlands,Oona Chaplin
+16,In_the_Westerlands,In the Westerlands,Michelle Fairley
+16,In_the_Westerlands,In the Westerlands,Michael McElhatton
+16,Beyond_the_Wall,Beyond the Wall,Simon Armstrong
+16,Beyond_the_Wall,Beyond the Wall,Rose Leslie
+16,Beyond_the_Wall,Beyond the Wall,Kit Harington
+16,In_King.27s_Landing,In King's Landing,Aimee Richardson
+16,In_King.27s_Landing,In King's Landing,Jack Gleeson
+16,In_King.27s_Landing,In King's Landing,Peter Dinklage
+16,In_King.27s_Landing,In King's Landing,Sophie Turner
+16,In_King.27s_Landing,In King's Landing,Rory McCann
+16,At_Harrenhal,At Harrenhal,Charles Dance
+16,At_Harrenhal,At Harrenhal,Maisie Williams
+16,At_Harrenhal,At Harrenhal,Aidan Gillen
+16,At_Harrenhal,At Harrenhal,Fintan McKeown
+16,At_Harrenhal,At Harrenhal,Tom Wlaschiha
+16,In_Qarth,In Qarth,Emilia Clarke
+16,In_Qarth,In Qarth,Nicholas Blane
+16,In_Qarth,In Qarth,Amrita Acharia
+16,Filming_locations,Filming locations,
+16,Filming_locations,Filming locations,
+16,Filming_locations,Filming locations,The Paint Hall
+16,Filming_locations,Filming locations,Banbridge
+16,Filming_locations,Filming locations,[6]
+16,Filming_locations,Filming locations,Vatnajökull National Park
+16,Filming_locations,Filming locations,Skaftafell
+16,Filming_locations,Filming locations,[7]
+16,Filming_locations,Filming locations,Fort Lovrijenac
+16,Filming_locations,Filming locations,[8]
+16,Filming_locations,Filming locations,[9]
+16,Filming_locations,Filming locations,Rector's Palace
+16,Filming_locations,Filming locations,[10]
+16,Accolades,Accolades,Primetime Emmy Award
+16,Accolades,Accolades,[1]
+17,In_King.27s_Landing,In King's Landing,Sophie Turner
+17,In_King.27s_Landing,In King's Landing,Rory McCann
+17,In_King.27s_Landing,In King's Landing,bled
+17,In_King.27s_Landing,In King's Landing,Sibel Kekilli
+17,In_King.27s_Landing,In King's Landing,Lena Headey
+17,In_King.27s_Landing,In King's Landing,Peter Dinklage
+17,Beyond_the_Wall,Beyond the Wall,Kit Harington
+17,Beyond_the_Wall,Beyond the Wall,Rose Leslie
+17,At_Harrenhal,At Harrenhal,Charles Dance
+17,At_Harrenhal,At Harrenhal,Ian Whyte
+17,At_Harrenhal,At Harrenhal,Maisie Williams
+17,In_the_Westerlands,In the Westerlands,Richard Madden
+17,In_the_Westerlands,In the Westerlands,Karl Davies
+17,In_the_Westerlands,In the Westerlands,Michael McElhatton
+17,In_the_Westerlands,In the Westerlands,Nikolaj Coster-Waldau
+17,In_the_Westerlands,In the Westerlands,Oona Chaplin
+17,In_the_Westerlands,In the Westerlands,Michelle Fairley
+17,In_the_Westerlands,In the Westerlands,Gwendoline Christie
+17,In_Qarth,In Qarth,Emilia Clarke
+17,In_Qarth,In Qarth,Nonso Anozie
+17,In_Qarth,In Qarth,Iain Glen
+17,In_Qarth,In Qarth,Ian Hanmore
+17,In_Qarth,In Qarth,Steven Cole
+17,At_Winterfell,At Winterfell,Alfie Allen
+17,At_Winterfell,At Winterfell,Natalia Tena
+17,At_Winterfell,At Winterfell,Isaac Hempstead-Wright
+17,At_Winterfell,At Winterfell,Art Parkinson
+17,At_Winterfell,At Winterfell,Kristian Nairn
+17,At_Winterfell,At Winterfell,Donald Sumpter
+17,At_Winterfell,At Winterfell,Ralph Ineson
+18,In_King.27s_Landing,In King's Landing,Peter Dinklage
+18,In_King.27s_Landing,In King's Landing,Jerome Flynn
+18,In_King.27s_Landing,In King's Landing,Conleth Hill
+18,In_King.27s_Landing,In King's Landing,Lena Headey
+18,In_King.27s_Landing,In King's Landing,Jack Gleeson
+18,In_King.27s_Landing,In King's Landing,Esme Bianco
+18,In_King.27s_Landing,In King's Landing,Sibel Kekilli
+18,At_sea,At sea,Liam Cunningham
+18,At_sea,At sea,Stephen Dillane
+18,At_sea,At sea,Iron Throne
+18,At_Harrenhal,At Harrenhal,Charles Dance
+18,At_Harrenhal,At Harrenhal,Ian Whyte
+18,At_Harrenhal,At Harrenhal,Maisie Williams
+18,At_Harrenhal,At Harrenhal,Tom Wlaschiha
+18,At_Harrenhal,At Harrenhal,Joe Dempsie
+18,At_Harrenhal,At Harrenhal,Ben Hawkey
+18,In_the_Westerlands,In the Westerlands,Richard Madden
+18,In_the_Westerlands,In the Westerlands,Oona Chaplin
+18,In_the_Westerlands,In the Westerlands,Nikolaj Coster-Waldau
+18,In_the_Westerlands,In the Westerlands,Michelle Fairley
+18,In_the_Westerlands,In the Westerlands,Gwendoline Christie
+18,In_the_Westerlands,In the Westerlands,Michael McElhatton
+18,Beyond_the_Wall,Beyond the Wall,Kit Harington
+18,Beyond_the_Wall,Beyond the Wall,Rose Leslie
+18,Beyond_the_Wall,Beyond the Wall,Simon Armstrong
+18,Beyond_the_Wall,Beyond the Wall,John Bradley-West
+18,Beyond_the_Wall,Beyond the Wall,Mark Stanley
+18,Beyond_the_Wall,Beyond the Wall,dragonglass
+18,In_Qarth,In Qarth,Iain Glen
+18,In_Qarth,In Qarth,Emilia Clarke
+18,At_Winterfell,At Winterfell,Alfie Allen
+18,At_Winterfell,At Winterfell,Isaac Hempstead-Wright
+18,At_Winterfell,At Winterfell,Art Parkinson
+18,At_Winterfell,At Winterfell,Gemma Whelan
+18,At_Winterfell,At Winterfell,Donald Sumpter
+18,At_Winterfell,At Winterfell,Natalia Tena
+18,Accolades,Accolades,Primetime Emmy Award
+18,Accolades,Accolades,[6]
+19,In_King.27s_Landing,In King's Landing,Liam Cunningham
+19,In_King.27s_Landing,In King's Landing,Stephen Dillane
+19,In_King.27s_Landing,In King's Landing,Peter Dinklage
+19,In_King.27s_Landing,In King's Landing,Sibel Kekilli
+19,In_King.27s_Landing,In King's Landing,Lena Headey
+19,In_King.27s_Landing,In King's Landing,Julian Glover
+19,In_King.27s_Landing,In King's Landing,Jerome Flynn
+19,In_King.27s_Landing,In King's Landing,Rory McCann
+19,In_King.27s_Landing,In King's Landing,Conleth Hill
+19,In_King.27s_Landing,In King's Landing,Jack Gleeson
+19,In_King.27s_Landing,In King's Landing,Sophie Turner
+19,In_King.27s_Landing,In King's Landing,Wilko Johnson
+19,In_King.27s_Landing,In King's Landing,Daniel Portman
+19,In_King.27s_Landing,In King's Landing,Finn Jones
+19,In_King.27s_Landing,In King's Landing,Charles Dance
+19,Conception_and_development,Conception and development,showrunners
+19,Conception_and_development,Conception and development,David Benioff
+19,Conception_and_development,Conception and development,D. B. Weiss
+19,Conception_and_development,Conception and development,[2]
+19,Conception_and_development,Conception and development,The Lord of the Rings
+19,Conception_and_development,Conception and development,Battle of Helm's Deep
+19,Conception_and_development,Conception and development,fog of war
+19,Conception_and_development,Conception and development,[2]
+19,Music,Music,Music of Game of Thrones
+19,Music,Music,A Song of Ice and Fire
+19,Music,Music,Ramin Djawadi
+19,Music,Music,indie rock
+19,Music,Music,The National
+19,Music,Music,Matt Berninger
+19,Music,Music,[7]
+19,Music,Music,[8]
+19,Music,Music,stanza
+19,Accolades,Accolades,Hugo Award
+19,Accolades,Accolades,Best Dramatic Presentation — Short Form
+19,Accolades,Accolades,Peter Dinklage
+19,Accolades,Accolades,Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series
+19,Accolades,Accolades,64th Primetime Emmy Awards
+19,Accolades,Accolades,[21]
+19,Accolades,Accolades,64th Primetime Creative Arts Emmy Awards
+19,Accolades,Accolades,Outstanding Sound Editing for a Series
+19,Accolades,Accolades,[22]
+19,Awards_and_nominations,Awards and nominations,Primetime Creative Arts Emmy Awards
+19,Awards_and_nominations,Awards and nominations,British Society of Cinematographers
+19,Awards_and_nominations,Awards and nominations,IGN Awards
+19,Awards_and_nominations,Awards and nominations,IGN People's Choice Award
+19,Awards_and_nominations,Awards and nominations,Cinema Audio Society Awards
+19,Awards_and_nominations,Awards and nominations,Golden Reel Awards
+19,Awards_and_nominations,Awards and nominations,Hugo Awards
+19,Awards_and_nominations,Awards and nominations,"Best Dramatic Presentation, Short Form"
+19,Awards_and_nominations,Awards and nominations,Neil Marshall
+19,Awards_and_nominations,Awards and nominations,George R. R. Martin
+20,In_King.27s_Landing,In King's Landing,Jack Gleeson
+20,In_King.27s_Landing,In King's Landing,Charles Dance
+20,In_King.27s_Landing,In King's Landing,Aidan Gillen
+20,In_King.27s_Landing,In King's Landing,Natalie Dormer
+20,In_King.27s_Landing,In King's Landing,Sophie Turner
+20,In_King.27s_Landing,In King's Landing,Lena Headey
+20,In_King.27s_Landing,In King's Landing,Julian Glover
+20,In_King.27s_Landing,In King's Landing,Conleth Hill
+20,In_King.27s_Landing,In King's Landing,Esme Bianco
+20,In_King.27s_Landing,In King's Landing,Peter Dinklage
+20,In_King.27s_Landing,In King's Landing,Daniel Portman
+20,In_King.27s_Landing,In King's Landing,Sibel Kekilli
+20,At_Dragonstone,At Dragonstone,Stephen Dillane
+20,At_Dragonstone,At Dragonstone,Carice van Houten
+20,In_the_Westerlands,In the Westerlands,Gwendoline Christie
+20,In_the_Westerlands,In the Westerlands,Nikolaj Coster-Waldau
+20,In_the_Westerlands,In the Westerlands,Richard Madden
+20,In_the_Westerlands,In the Westerlands,Michelle Fairley
+20,In_the_Westerlands,In the Westerlands,Oona Chaplin
+20,At_Winterfell,At Winterfell,Alfie Allen
+20,At_Winterfell,At Winterfell,Donald Sumpter
+20,At_Winterfell,At Winterfell,Ralph Ineson
+20,At_Winterfell,At Winterfell,Isaac Hempstead-Wright
+20,At_Winterfell,At Winterfell,Natalia Tena
+20,At_Winterfell,At Winterfell,Art Parkinson
+20,In_the_outskirts_of_Harrenhal,In the outskirts of Harrenhal,Maisie Williams
+20,In_the_outskirts_of_Harrenhal,In the outskirts of Harrenhal,Joe Dempsie
+20,In_the_outskirts_of_Harrenhal,In the outskirts of Harrenhal,Tom Wlaschiha
+20,In_Qarth,In Qarth,Iain Glen
+20,In_Qarth,In Qarth,Emilia Clarke
+20,In_Qarth,In Qarth,Ian Hanmore
+20,In_Qarth,In Qarth,Jason Momoa
+20,In_Qarth,In Qarth,Nonso Anozie
+20,In_Qarth,In Qarth,Roxanne McKee
+20,Beyond_the_Wall,Beyond the Wall,Simon Armstrong
+20,Beyond_the_Wall,Beyond the Wall,Kit Harington
+20,Beyond_the_Wall,Beyond the Wall,John Bradley
+20,Beyond_the_Wall,Beyond the Wall,Mark Stanley
+20,Beyond_the_Wall,Beyond the Wall,Ben Crompton
+20,Beyond_the_Wall,Beyond the Wall,White Walkers'
+20,Beyond_the_Wall,Beyond the Wall,wights
+20,Accolades,Accolades,Primetime Emmy Award
+20,Accolades,Accolades,[10]
+20,Awards_and_nominations,Awards and nominations,Primetime Creative Arts Emmy Awards
+20,Awards_and_nominations,Awards and nominations,Outstanding Special Visual Effects
+20,Awards_and_nominations,Awards and nominations,Golden Reel Awards
+20,Awards_and_nominations,Awards and nominations,Visual Effects Society
+21,Beyond_the_Wall,Beyond the Wall,John Bradley
+21,Beyond_the_Wall,Beyond the Wall,James Cosmo
+21,Beyond_the_Wall,Beyond the Wall,Kit Harington
+21,Beyond_the_Wall,Beyond the Wall,Rose Leslie
+21,Beyond_the_Wall,Beyond the Wall,Ciarán Hinds
+21,Beyond_the_Wall,Beyond the Wall,Kristofer Hivju
+21,In_King.27s_Landing,In King's Landing,Jerome Flynn
+21,In_King.27s_Landing,In King's Landing,Peter Dinklage
+21,In_King.27s_Landing,In King's Landing,Lena Headey
+21,In_King.27s_Landing,In King's Landing,Charles Dance
+21,In_King.27s_Landing,In King's Landing,Aiden Gillen
+21,In_King.27s_Landing,In King's Landing,Sophie Turner
+21,In_King.27s_Landing,In King's Landing,Sibel Kekilli
+21,In_King.27s_Landing,In King's Landing,Esme Bianco
+21,In_King.27s_Landing,In King's Landing,Jack Gleeson
+21,In_King.27s_Landing,In King's Landing,Natalie Dormer
+21,In_King.27s_Landing,In King's Landing,litter
+21,In_Blackwater_Bay,In Blackwater Bay,Liam Cunningham
+21,In_Blackwater_Bay,In Blackwater Bay,Lucian Msamati
+21,In_Blackwater_Bay,In Blackwater Bay,Stephen Dillane
+21,In_Blackwater_Bay,In Blackwater Bay,Carice van Houten
+21,At_Harrenhal,At Harrenhal,Richard Madden
+21,At_Harrenhal,At Harrenhal,Michael McElhatton
+21,At_Harrenhal,At Harrenhal,Michelle Fairley
+21,At_Harrenhal,At Harrenhal,Anton Lesser
+21,Across_the_Narrow_Sea,Across the Narrow Sea,Emilia Clarke
+21,Across_the_Narrow_Sea,Across the Narrow Sea,Iain Glen
+21,Across_the_Narrow_Sea,Across the Narrow Sea,Ian McElhinney
+21,Valyrian,Valyrian,Dothraki language
+21,Valyrian,Valyrian,constructed language
+21,Valyrian,Valyrian,Valyrian
+21,Valyrian,Valyrian,Classical Latin
+21,Valyrian,Valyrian,Vulgar Latin
+21,Valyrian,Valyrian,[6]
+21,Filming_locations,Filming locations,
+21,Filming_locations,Filming locations,
+21,Filming_locations,Filming locations,Paint Hall
+21,Filming_locations,Filming locations,Banbridge
+21,Filming_locations,Filming locations,[7]
+21,Filming_locations,Filming locations,Downhill Strand
+21,Filming_locations,Filming locations,Dubrovnik
+21,Filming_locations,Filming locations,city walls
+21,Filming_locations,Filming locations,Lovrijenac
+21,Filming_locations,Filming locations,[8]
+21,Filming_locations,Filming locations,Mývatn Lake
+21,Filming_locations,Filming locations,Akureyri
+21,Filming_locations,Filming locations,[5]
+21,Filming_locations,Filming locations,[9]
+21,Filming_locations,Filming locations,[10]
+21,Filming_locations,Filming locations,Essaouira
+21,Dedication,Dedication,Martin Kenzie
+21,Accolades,Accolades,65th Primetime Emmy Awards
+21,Accolades,Accolades,Outstanding Special Visual Effects
+21,Awards_and_nominations,Awards and nominations,Primetime Creative Arts Emmy Awards
+21,Awards_and_nominations,Awards and nominations,Outstanding Special Visual Effects
+21,Awards_and_nominations,Awards and nominations,Hollywood Post Alliance Awards
+21,Awards_and_nominations,Awards and nominations,American Society of Cinematographers
+21,Awards_and_nominations,Awards and nominations,Visual Effects Society
+22,In_King.27s_Landing,In King's Landing,Sophie Turner
+22,In_King.27s_Landing,In King's Landing,Natalie Dormer
+22,In_King.27s_Landing,In King's Landing,Diana Rigg
+22,In_King.27s_Landing,In King's Landing,Jack Gleeson
+22,In_King.27s_Landing,In King's Landing,Lena Headey
+22,In_King.27s_Landing,In King's Landing,Peter Dinklage
+22,In_King.27s_Landing,In King's Landing,Sibel Kekilli
+22,Beyond_the_Wall,Beyond the Wall,Ciarán Hinds
+22,Beyond_the_Wall,Beyond the Wall,Kit Harington
+22,Beyond_the_Wall,Beyond the Wall,Kristofer Hivju
+22,Beyond_the_Wall,Beyond the Wall,Rose Leslie
+22,Beyond_the_Wall,Beyond the Wall,Mackenzie Crook
+22,Beyond_the_Wall,Beyond the Wall,John Bradley
+22,Beyond_the_Wall,Beyond the Wall,Mark Stanley
+22,Beyond_the_Wall,Beyond the Wall,Ben Crompton
+22,Beyond_the_Wall,Beyond the Wall,James Cosmo
+22,In_the_North,In the North,Isaac Hempstead-Wright
+22,In_the_North,In the North,Kristian Nairn
+22,In_the_North,In the North,Natalia Tena
+22,In_the_North,In the North,Art Parkinson
+22,In_the_North,In the North,Thomas Brodie Sangster
+22,In_the_North,In the North,Ellie Kendrick
+22,In_an_unknown_location,In an unknown location,Alfie Allen
+22,In_an_unknown_location,In an unknown location,Iwan Rheon
+22,In_the_Riverlands,In the Riverlands,Richard Madden
+22,In_the_Riverlands,In the Riverlands,Michelle Fairley
+22,In_the_Riverlands,In the Riverlands,Oona Chaplin
+22,In_the_Riverlands,In the Riverlands,Maisie Williams
+22,In_the_Riverlands,In the Riverlands,Joe Dempsie
+22,In_the_Riverlands,In the Riverlands,Ben Hawkey
+22,In_the_Riverlands,In the Riverlands,Paul Kaye
+22,In_the_Riverlands,In the Riverlands,Rory McCann
+22,In_the_Riverlands,In the Riverlands,Gwendoline Christie
+22,In_the_Riverlands,In the Riverlands,Nikolaj Coster-Waldau
+22,In_the_Riverlands,In the Riverlands,Noah Taylor
+22,In_the_Riverlands,In the Riverlands,Michael McElhatton
+23,In_King.27s_Landing,In King's Landing,Charles Dance
+23,In_King.27s_Landing,In King's Landing,Conleth Hill
+23,In_King.27s_Landing,In King's Landing,Aidan Gillen
+23,In_King.27s_Landing,In King's Landing,Peter Dinklage
+23,In_King.27s_Landing,In King's Landing,Daniel Portman
+23,In_the_North,In the North,Alfie Allen
+23,In_the_North,In the North,Iwan Rheon
+23,At_Dragonstone,At Dragonstone,Stephen Dillane
+23,At_Dragonstone,At Dragonstone,Carice van Houten
+23,In_Astapor,In Astapor,Iain Glen
+23,In_Astapor,In Astapor,Ian McElhinney
+23,In_Astapor,In Astapor,Emilia Clarke
+23,In_Astapor,In Astapor,Dan Hildebrand
+23,In_Astapor,In Astapor,Nathalie Emmanuel
+23,Beyond_the_Wall,Beyond the Wall,Ciarán Hinds
+23,Beyond_the_Wall,Beyond the Wall,Kit Harington
+23,Beyond_the_Wall,Beyond the Wall,Mackenzie Crook
+23,Beyond_the_Wall,Beyond the Wall,Kristofer Hivju
+23,Beyond_the_Wall,Beyond the Wall,Robert Pugh
+23,Beyond_the_Wall,Beyond the Wall,John Bradley
+23,Beyond_the_Wall,Beyond the Wall,Hannah Murray
+23,At_Riverrun,At Riverrun,
+23,At_Riverrun,At Riverrun,
+23,At_Riverrun,At Riverrun,ship burial
+23,At_Riverrun,At Riverrun,Tobias Menzies
+23,At_Riverrun,At Riverrun,Clive Russell
+23,At_Riverrun,At Riverrun,Richard Madden
+23,At_Riverrun,At Riverrun,Michelle Fairley
+23,At_Riverrun,At Riverrun,Oona Chaplin
+23,In_the_Riverlands,In the Riverlands,Maisie Williams
+23,In_the_Riverlands,In the Riverlands,Rory McCann
+23,In_the_Riverlands,In the Riverlands,killing Arya's friend Mycah
+23,In_the_Riverlands,In the Riverlands,Joe Dempsie
+23,In_the_Riverlands,In the Riverlands,Noah Taylor
+23,In_the_Riverlands,In the Riverlands,Nikolaj Coster-Waldau
+23,In_the_Riverlands,In the Riverlands,Gwendoline Christie
+23,Directing,Directing,Directors Guild of America
+23,Directing,Directing,[4]
+23,Filming_locations,Filming locations,
+23,Filming_locations,Filming locations,
+23,Filming_locations,Filming locations,river Quoile
+23,Filming_locations,Filming locations,Paint Hall Studios
+23,Filming_locations,Filming locations,Belfast
+23,Filming_locations,Filming locations,County Antrim
+23,Filming_locations,Filming locations,Clandeboye Estate
+23,Filming_locations,Filming locations,County Down
+23,Filming_locations,Filming locations,County Londonderry
+23,Filming_locations,Filming locations,River Quoile
+23,Filming_locations,Filming locations,[6]
+23,Filming_locations,Filming locations,Essaouira
+23,Music,Music,The Bear and the Maiden Fair
+23,Music,Music,Ramin Djawadi
+23,Music,Music,Snow Patrol
+23,Music,Music,Gary Lightbody
+23,Music,Music,[7]
+23,Music,Music,The Hold Steady
+23,Music,Music,[8]
+23,Music,Music,[9]
+23,Music,Music,[10]
+24,In_King.27s_Landing,In King's Landing,Peter Dinklage
+24,In_King.27s_Landing,In King's Landing,Conleth Hill
+24,In_King.27s_Landing,In King's Landing,Esme Bianco
+24,In_King.27s_Landing,In King's Landing,Sophie Turner
+24,In_King.27s_Landing,In King's Landing,Diana Rigg
+24,In_King.27s_Landing,In King's Landing,Jack Gleeson
+24,In_King.27s_Landing,In King's Landing,Natalie Dormer
+24,In_King.27s_Landing,In King's Landing,Lena Headey
+24,In_King.27s_Landing,In King's Landing,Charles Dance
+24,In_the_North,In the North,Isaac Hempstead-Wright
+24,In_the_North,In the North,Thomas Brodie Sangster
+24,In_the_North,In the North,Michelle Fairley
+24,In_the_North,In the North,Alfie Allen
+24,In_the_North,In the North,Iwan Rheon
+24,In_the_Riverlands,In the Riverlands,Noah Taylor
+24,In_the_Riverlands,In the Riverlands,Nikolaj Coster-Waldau
+24,In_the_Riverlands,In the Riverlands,Gwendoline Christie
+24,In_the_Riverlands,In the Riverlands,Maisie Williams
+24,In_the_Riverlands,In the Riverlands,Joe Dempsie
+24,In_the_Riverlands,In the Riverlands,Rory McCann
+24,In_the_Riverlands,In the Riverlands,Paul Kaye
+24,In_the_Riverlands,In the Riverlands,Richard Dormer
+24,Beyond_the_Wall,Beyond the Wall,Mark Stanley
+24,Beyond_the_Wall,Beyond the Wall,Ben Crompton
+24,Beyond_the_Wall,Beyond the Wall,John Bradley
+24,Beyond_the_Wall,Beyond the Wall,Hannah Murray
+24,Beyond_the_Wall,Beyond the Wall,Robert Pugh
+24,Beyond_the_Wall,Beyond the Wall,Burn Gorman
+24,Beyond_the_Wall,Beyond the Wall,James Cosmo
+24,In_Astapor,In Astapor,Emilia Clarke
+24,In_Astapor,In Astapor,Dan Hildebrand
+24,In_Astapor,In Astapor,Valyrian
+24,Directing,Directing,Alex Graves
+24,Directing,Directing,[3]
+24,Filming_locations,Filming locations,
+24,Filming_locations,Filming locations,
+24,Filming_locations,Filming locations,Atlas Studios
+24,Filming_locations,Filming locations,Ouarzazate
+24,Filming_locations,Filming locations,The Paint Hall
+24,Filming_locations,Filming locations,Clandeboye Estate
+24,Filming_locations,Filming locations,[5]
+24,Filming_locations,Filming locations,Trsteno Arboretum
+24,Filming_locations,Filming locations,Essaouira
+24,Filming_locations,Filming locations,Atlas Studios
+24,Filming_locations,Filming locations,Ouarzazate
+24,Filming_locations,Filming locations,Kingdom of Heaven
+24,Filming_locations,Filming locations,[6]
+24,Accolades,Accolades,Emilia Clarke
+24,Accolades,Accolades,Primetime Emmy Award for Outstanding Supporting Actress in a Drama Series
+24,Accolades,Accolades,65th Primetime Emmy Awards
+24,Accolades,Accolades,65th Primetime Creative Arts Emmy Awards
+24,Accolades,Accolades,Diana Rigg
+24,Accolades,Accolades,Outstanding Guest Actress in a Drama Series
+24,Accolades,Accolades,Outstanding Sound Editing for a Series
+25,At_Dragonstone,At Dragonstone,Tara Fitzgerald
+25,At_Dragonstone,At Dragonstone,Stephen Dillane
+25,At_Dragonstone,At Dragonstone,Kerry Ingram
+25,At_Dragonstone,At Dragonstone,Liam Cunningham
+25,In_the_Riverlands,In the Riverlands,Paul Kaye
+25,In_the_Riverlands,In the Riverlands,Richard Dormer
+25,In_the_Riverlands,In the Riverlands,Rory McCann
+25,In_the_Riverlands,In the Riverlands,pyrophobia
+25,In_the_Riverlands,In the Riverlands,Maisie Williams
+25,In_the_Riverlands,In the Riverlands,Joe Dempsie
+25,At_Riverrun,At Riverrun,Richard Madden
+25,At_Riverrun,At Riverrun,Oona Chaplin
+25,At_Riverrun,At Riverrun,Michelle Fairley
+25,At_Riverrun,At Riverrun,Tobias Menzies
+25,At_Riverrun,At Riverrun,letting his army cross
+25,At_Harrenhal,At Harrenhal,Noah Taylor
+25,At_Harrenhal,At Harrenhal,Nikolaj Coster-Waldau
+25,At_Harrenhal,At Harrenhal,Gwendoline Christie
+25,At_Harrenhal,At Harrenhal,Michael McElhatton
+25,At_Harrenhal,At Harrenhal,Anton Lesser
+25,Beyond_the_Wall,Beyond the Wall,Kit Harington
+25,Beyond_the_Wall,Beyond the Wall,Kristofer Hivju
+25,Beyond_the_Wall,Beyond the Wall,Rose Leslie
+25,In_Slaver.27s_Bay,In Slaver's Bay,Iain Glen
+25,In_Slaver.27s_Bay,In Slaver's Bay,Ian McElhinney
+25,In_Slaver.27s_Bay,In Slaver's Bay,Emilia Clarke
+25,In_Slaver.27s_Bay,In Slaver's Bay,Jacob Anderson
+25,In_King.27s_Landing,In King's Landing,Lena Headey
+25,In_King.27s_Landing,In King's Landing,Aidan Gillen
+25,In_King.27s_Landing,In King's Landing,Sophie Turner
+25,In_King.27s_Landing,In King's Landing,Natalie Dormer
+25,In_King.27s_Landing,In King's Landing,Finn Jones
+25,In_King.27s_Landing,In King's Landing,Peter Dinklage
+25,In_King.27s_Landing,In King's Landing,Diana Rigg
+25,In_King.27s_Landing,In King's Landing,Charles Dance
+25,Filming_locations,Filming locations,
+25,Filming_locations,Filming locations,
+25,Filming_locations,Filming locations,lake Mývatn
+25,Filming_locations,Filming locations,Grjótagjá
+25,Filming_locations,Filming locations,Pollnagollum cave
+25,Filming_locations,Filming locations,Gosford Castle
+25,Filming_locations,Filming locations,[5]
+25,Filming_locations,Filming locations,lake Mývatn
+25,Filming_locations,Filming locations,cave Grjótagjá
+25,Filming_locations,Filming locations,[6]
+25,Filming_locations,Filming locations,[7]
+25,Filming_locations,Filming locations,Fort Lovrijenac
+25,Filming_locations,Filming locations,Trsteno Arboretum
+25,Accolades,Accolades,65th Primetime Creative Arts Emmy Awards
+25,Accolades,Accolades,Primetime Creative Arts Emmy Awards
+25,Accolades,Accolades,Hollywood Post Alliance Awards
+25,Accolades,Accolades,American Society of Cinematographers
+26,In_King.27s_Landing,In King's Landing,Charles Dance
+26,In_King.27s_Landing,In King's Landing,Diana Rigg
+26,In_King.27s_Landing,In King's Landing,Finn Jones
+26,In_King.27s_Landing,In King's Landing,Lena Headey
+26,In_King.27s_Landing,In King's Landing,Sophie Turner
+26,In_King.27s_Landing,In King's Landing,Peter Dinklage
+26,In_King.27s_Landing,In King's Landing,Jack Gleeson
+26,In_King.27s_Landing,In King's Landing,Sibel Kekilli
+26,In_King.27s_Landing,In King's Landing,Conleth Hill
+26,In_King.27s_Landing,In King's Landing,Aidan Gillen
+26,In_King.27s_Landing,In King's Landing,Esmé Bianco
+26,In_the_Riverlands,In the Riverlands,Philip McGinley
+26,In_the_Riverlands,In the Riverlands,Maisie Williams
+26,In_the_Riverlands,In the Riverlands,Carice van Houten
+26,In_the_Riverlands,In the Riverlands,Paul Kaye
+26,In_the_Riverlands,In the Riverlands,Richard Dormer
+26,In_the_Riverlands,In the Riverlands,Joe Dempsie
+26,In_the_Riverlands,In the Riverlands,Richard Madden
+26,In_the_Riverlands,In the Riverlands,Tom Brooke
+26,In_the_Riverlands,In the Riverlands,Tim Plester
+26,In_the_Riverlands,In the Riverlands,Tobias Menzies
+26,In_the_Riverlands,In the Riverlands,Michael McElhatton
+26,In_the_Riverlands,In the Riverlands,Nikolaj Coster-Waldau
+26,In_the_Riverlands,In the Riverlands,Gwendoline Christie
+26,In_the_North,In the North,Natalia Tena
+26,In_the_North,In the North,Ellie Kendrick
+26,In_the_North,In the North,Isaac Hempstead-Wright
+26,In_the_North,In the North,Thomas Brodie Sangster
+26,In_the_North,In the North,Iwan Rheon
+26,In_the_North,In the North,Alfie Allen
+26,In_the_North,In the North,flaying
+26,Beyond_the_Wall,Beyond the Wall,John Bradley
+26,Beyond_the_Wall,Beyond the Wall,Hannah Murray
+26,Beyond_the_Wall,Beyond the Wall,dragonglass
+26,Beyond_the_Wall,Beyond the Wall,Kristofer Hivju
+26,Beyond_the_Wall,Beyond the Wall,Kit Harington
+26,Beyond_the_Wall,Beyond the Wall,Rose Leslie
+26,Beyond_the_Wall,Beyond the Wall,Mackenzie Crook
+26,Awards_and_nominations,Awards and nominations,Hollywood Post Alliance Awards
+26,Awards_and_nominations,Awards and nominations,Visual Effects Society
+27,In_King.27s_Landing,In King's Landing,Sophie Turner
+27,In_King.27s_Landing,In King's Landing,Natalie Dormer
+27,In_King.27s_Landing,In King's Landing,Peter Dinklage
+27,In_King.27s_Landing,In King's Landing,Jerome Flynn
+27,In_King.27s_Landing,In King's Landing,Sibel Kekilli
+27,In_King.27s_Landing,In King's Landing,Charles Dance
+27,In_King.27s_Landing,In King's Landing,Jack Gleeson
+27,In_King.27s_Landing,In King's Landing,Carice van Houten
+27,In_King.27s_Landing,In King's Landing,Joe Dempsie
+27,In_the_North,In the North,Kit Harington
+27,In_the_North,In the North,Kristofer Hivju
+27,In_the_North,In the North,Rose Leslie
+27,In_the_North,In the North,Mackenzie Crook
+27,In_the_North,In the North,Alfie Allen
+27,In_the_North,In the North,Iwan Rheon
+27,In_the_North,In the North,Isaac Hempstead-Wright
+27,In_the_North,In the North,Thomas Brodie Sangster
+27,In_the_North,In the North,Natalia Tena
+27,In_the_North,In the North,Kristian Nairn
+27,In_the_Riverlands,In the Riverlands,Richard Madden
+27,In_the_Riverlands,In the Riverlands,Tobias Menzies
+27,In_the_Riverlands,In the Riverlands,Michelle Fairley
+27,In_the_Riverlands,In the Riverlands,Clive Russell
+27,In_the_Riverlands,In the Riverlands,Oona Chaplin
+27,In_the_Riverlands,In the Riverlands,Maisie Williams
+27,In_the_Riverlands,In the Riverlands,Richard Dormer
+27,In_the_Riverlands,In the Riverlands,Paul Kaye
+27,In_the_Riverlands,In the Riverlands,Philip McGinley
+27,In_the_Riverlands,In the Riverlands,Rory McCann
+27,Outside_Yunkai,Outside Yunkai,Emilia Clarke
+27,Outside_Yunkai,Outside Yunkai,Iain Glen
+27,Outside_Yunkai,Outside Yunkai,Ian McElhinney
+27,Outside_Yunkai,Outside Yunkai,Jacob Anderson
+27,Outside_Yunkai,Outside Yunkai,George Georgiou
+27,Outside_Yunkai,Outside Yunkai,de
+27,Outside_Yunkai,Outside Yunkai,gold bars
+27,At_Harrenhal,At Harrenhal,Gwendoline Christie
+27,At_Harrenhal,At Harrenhal,Nikolaj Coster-Waldau
+27,At_Harrenhal,At Harrenhal,Noah Taylor
+27,At_Harrenhal,At Harrenhal,Michael McElhatton
+27,At_Harrenhal,At Harrenhal,Anton Lesser
+27,At_Harrenhal,At Harrenhal,bear
+27,Filming_locations,Filming locations,
+27,Filming_locations,Filming locations,
+27,Filming_locations,Filming locations,Aït Benhaddou
+27,Filming_locations,Filming locations,Essaouira
+27,Filming_locations,Filming locations,Aït Benhaddou
+27,Filming_locations,Filming locations,Ouarzazate
+27,Filming_locations,Filming locations,Toome
+27,Filming_locations,Filming locations,County Antrim
+27,Filming_locations,Filming locations,Northern Ireland
+27,Filming_locations,Filming locations,[5]
+27,Filming_locations,Filming locations,[6]
+28,In_King.27s_Landing,In King's Landing,Peter Dinklage
+28,In_King.27s_Landing,In King's Landing,Sophie Turner
+28,In_King.27s_Landing,In King's Landing,Lena Headey
+28,In_King.27s_Landing,In King's Landing,Natalie Dormer
+28,In_King.27s_Landing,In King's Landing,Charles Dance
+28,In_King.27s_Landing,In King's Landing,Jack Gleeson
+28,At_Dragonstone,At Dragonstone,Carice van Houten
+28,At_Dragonstone,At Dragonstone,Joe Dempsie
+28,At_Dragonstone,At Dragonstone,Stephen Dillane
+28,At_Dragonstone,At Dragonstone,Liam Cunningham
+28,At_Dragonstone,At Dragonstone,leeches
+28,In_the_Riverlands,In the Riverlands,Maisie Williams
+28,In_the_Riverlands,In the Riverlands,Rory McCann
+28,At_Yunkai,At Yunkai,Iain Glen
+28,At_Yunkai,At Yunkai,Emilia Clarke
+28,At_Yunkai,At Yunkai,Mark Killeen
+28,At_Yunkai,At Yunkai,Ramon Tikaram
+28,At_Yunkai,At Yunkai,Ed Skrein
+28,At_Yunkai,At Yunkai,Nathalie Emmanuel
+28,Beyond_the_Wall,Beyond the Wall,John Bradley
+28,Beyond_the_Wall,Beyond the Wall,Hannah Murray
+28,Beyond_the_Wall,Beyond the Wall,dragonglass
+28,Filming_locations,Filming locations,The Paint Hall
+28,Filming_locations,Filming locations,[2]
+28,Accolades,Accolades,Peter Dinklage
+28,Accolades,Accolades,Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series
+28,Accolades,Accolades,65th Primetime Emmy Awards
+28,Accolades,Accolades,65th Primetime Creative Arts Emmy Awards
+28,Accolades,Accolades,[8]
+29,In_the_North,In the North,John Bradley
+29,In_the_North,In the North,Hannah Murray
+29,In_the_North,In the North,Isaac Hempstead-Wright
+29,In_the_North,In the North,Kit Harington
+29,In_the_North,In the North,Thomas Brodie Sangster
+29,In_the_North,In the North,Ellie Kendrick
+29,In_the_North,In the North,Kristian Nairn
+29,In_the_North,In the North,Kristofer Hivju
+29,In_the_North,In the North,Mackenzie Crook
+29,In_the_North,In the North,Rose Leslie
+29,In_the_North,In the North,Natalia Tena
+29,In_the_North,In the North,Art Parkinson
+29,In_Yunkai,In Yunkai,Ed Skrein
+29,In_Yunkai,In Yunkai,Emilia Clarke
+29,In_Yunkai,In Yunkai,Iain Glen
+29,In_Yunkai,In Yunkai,Jacob Anderson
+29,At_the_Twins,At the Twins,
+29,At_the_Twins,At the Twins,
+29,At_the_Twins,At the Twins,Michelle Fairley
+29,At_the_Twins,At the Twins,Richard Madden
+29,At_the_Twins,At the Twins,David Bradley
+29,At_the_Twins,At the Twins,Oona Chaplin
+29,At_the_Twins,At the Twins,Maisie Williams
+29,At_the_Twins,At the Twins,Rory McCann
+29,At_the_Twins,At the Twins,Alexandra Dowling
+29,At_the_Twins,At the Twins,Tobias Menzies
+29,At_the_Twins,At the Twins,Tom Brooke
+29,At_the_Twins,At the Twins,Michael McElhatton
+29,At_the_Twins,At the Twins,chainmail
+29,At_the_Twins,At the Twins,Kelly Long
+29,At_the_Twins,At the Twins,Tim Plester
+29,Viewer_reception,Viewer reception,[7]
+29,Viewer_reception,Viewer reception,[20]
+29,Viewer_reception,Viewer reception,[21]
+29,Accolades,Accolades,Primetime Emmy Award for Outstanding Writing for a Drama Series
+29,Accolades,Accolades,65th Primetime Emmy Awards
+29,Accolades,Accolades,"Hugo Award for Best Dramatic Presentation, Short Form"
+29,Awards_and_nominations,Awards and nominations,Primetime Emmy Awards
+29,Awards_and_nominations,Awards and nominations,David Benioff
+29,Awards_and_nominations,Awards and nominations,D.B. Weiss
+29,Awards_and_nominations,Awards and nominations,Primetime Creative Arts Emmy Awards
+29,Awards_and_nominations,Awards and nominations,IGN Awards
+29,Awards_and_nominations,Awards and nominations,American Cinema Editors
+29,Awards_and_nominations,Awards and nominations,Cinema Audio Society Awards
+29,Awards_and_nominations,Awards and nominations,Directors Guild of America Award
+29,Awards_and_nominations,Awards and nominations,David Nutter
+29,Awards_and_nominations,Awards and nominations,Golden Reel Awards
+29,Awards_and_nominations,Awards and nominations,Hugo Awards
+29,Awards_and_nominations,Awards and nominations,"Best Dramatic Presentation, Short Form"
+29,Awards_and_nominations,Awards and nominations,David Benioff
+29,Awards_and_nominations,Awards and nominations,David Nutter
+29,Awards_and_nominations,Awards and nominations,D. B. Weiss
+30,In_King.27s_Landing,In King's Landing,Peter Dinklage
+30,In_King.27s_Landing,In King's Landing,Sophie Turner
+30,In_King.27s_Landing,In King's Landing,Jack Gleeson
+30,In_King.27s_Landing,In King's Landing,Charles Dance
+30,In_King.27s_Landing,In King's Landing,Michael McElhatton
+30,In_King.27s_Landing,In King's Landing,Conleth Hill
+30,In_King.27s_Landing,In King's Landing,Sibel Kekilli
+30,In_King.27s_Landing,In King's Landing,Lena Headey
+30,In_King.27s_Landing,In King's Landing,Nikolaj Coster-Waldau
+30,In_King.27s_Landing,In King's Landing,Gwendoline Christie
+30,In_King.27s_Landing,In King's Landing,Anton Lesser
+30,At_the_Twins,At the Twins,Rory McCann
+30,At_the_Twins,At the Twins,Maisie Williams
+30,At_the_Twins,At the Twins,David Bradley
+30,At_the_Twins,At the Twins,Iwan Rheon
+30,In_the_North,In the North,Isaac Hempstead-Wright
+30,In_the_North,In the North,Ellie Kendrick
+30,In_the_North,In the North,Thomas Brodie-Sangster
+30,In_the_North,In the North,John Bradley
+30,In_the_North,In the North,Hannah Murray
+30,In_the_North,In the North,Peter Vaughan
+30,In_the_North,In the North,Kit Harington
+30,In_the_North,In the North,Rose Leslie
+30,In_the_North,In the North,Josef Altin
+30,In_the_North,In the North,Alfie Allen
+30,On_the_Iron_Islands,On the Iron Islands,Patrick Malahide
+30,On_the_Iron_Islands,On the Iron Islands,Gemma Whelan
+30,At_Dragonstone,At Dragonstone,Liam Cunningham
+30,At_Dragonstone,At Dragonstone,Joe Dempsie
+30,At_Dragonstone,At Dragonstone,Kerry Ingram
+30,At_Dragonstone,At Dragonstone,Stephen Dillane
+30,At_Dragonstone,At Dragonstone,Carice van Houten
+30,Across_the_Narrow_Sea,Across the Narrow Sea,Emilia Clarke
+30,Across_the_Narrow_Sea,Across the Narrow Sea,Nathalie Emmanuel
+30,Television_ratings,Television ratings,HBO
+30,Television_ratings,Television ratings,Nielsen Media Research
+30,Television_ratings,Television ratings,[9]
+30,Television_ratings,Television ratings,second season
+30,Television_ratings,Television ratings,Valar Morghulis
+30,Television_ratings,Television ratings,[9]
+30,Television_ratings,Television ratings,[10]
+30,Television_ratings,Television ratings,True Blood
+30,Television_ratings,Television ratings,The Sopranos
+30,Television_ratings,Television ratings,[9]
+30,Television_ratings,Television ratings,[10]
+30,Television_ratings,Television ratings,[11]
+31,In_King.27s_Landing,In King's Landing,Charles Dance
+31,In_King.27s_Landing,In King's Landing,Nikolaj Coster-Waldau
+31,In_King.27s_Landing,In King's Landing,Peter Dinklage
+31,In_King.27s_Landing,In King's Landing,Daniel Portman
+31,In_King.27s_Landing,In King's Landing,Jerome Flynn
+31,In_King.27s_Landing,In King's Landing,Pedro Pascal
+31,In_King.27s_Landing,In King's Landing,Sibel Kekilli
+31,In_King.27s_Landing,In King's Landing,Sophie Turner
+31,In_King.27s_Landing,In King's Landing,their murders
+31,In_King.27s_Landing,In King's Landing,Tony Way
+31,In_King.27s_Landing,In King's Landing,Joffrey's name-day celebration
+31,In_King.27s_Landing,In King's Landing,Anton Lesser
+31,In_King.27s_Landing,In King's Landing,Lena Headey
+31,In_King.27s_Landing,In King's Landing,Jack Gleeson
+31,In_King.27s_Landing,In King's Landing,Diana Rigg
+31,In_King.27s_Landing,In King's Landing,Natalie Dormer
+31,In_King.27s_Landing,In King's Landing,Gwendoline Christie
+31,In_King.27s_Landing,In King's Landing,Lord Renly was killed
+31,In_the_North,In the North,Ygritte
+31,In_the_North,In the North,Rose Leslie
+31,In_the_North,In the North,Tormund Giantsbane
+31,In_the_North,In the North,Kristofer Hivju
+31,In_the_North,In the North,cannibal
+31,At_Castle_Black,At Castle Black,Kit Harington
+31,At_Castle_Black,At Castle Black,John Bradley
+31,At_Castle_Black,At Castle Black,Owen Teale
+31,At_Castle_Black,At Castle Black,Dominic Carter
+31,At_Castle_Black,At Castle Black,Peter Vaughan
+31,In_Slaver.27s_Bay,In Slaver's Bay,Emilia Clarke
+31,In_Slaver.27s_Bay,In Slaver's Bay,Michiel Huisman
+31,In_Slaver.27s_Bay,In Slaver's Bay,Iain Glen
+31,In_Slaver.27s_Bay,In Slaver's Bay,Ian McElhinney
+31,In_the_Riverlands,In the Riverlands,Rory McCann
+31,In_the_Riverlands,In the Riverlands,Maisie Williams
+31,In_the_Riverlands,In the Riverlands,Andy Kellegher
+31,In_the_Riverlands,In the Riverlands,murdered Lommy
+31,Television_ratings,Television ratings,[6]
+31,Television_ratings,Television ratings,[7]
+31,Television_ratings,Television ratings,the finale episode
+31,Television_ratings,Television ratings,The Sopranos
+31,Television_ratings,Television ratings,[8]
+31,Television_ratings,Television ratings,[9]
+31,Television_ratings,Television ratings,Sky Atlantic
+31,Television_ratings,Television ratings,[10]
+31,Accolades,Accolades,Outstanding Cinematography for A Single-Camera Series
+31,Accolades,Accolades,66th Primetime Creative Arts Emmy Awards
+31,Accolades,Accolades,[16]
+32,At_the_Dreadfort,At the Dreadfort,Iwan Rheon
+32,At_the_Dreadfort,At the Dreadfort,Alfie Allen
+32,At_the_Dreadfort,At the Dreadfort,Charlotte Hope
+32,At_the_Dreadfort,At the Dreadfort,Michael McElhatton
+32,At_the_Dreadfort,At the Dreadfort,The Rains of Castamere
+32,At_the_Dreadfort,At the Dreadfort,Noah Taylor
+32,Beyond_the_Wall,Beyond the Wall,Isaac Hempstead-Wright
+32,Beyond_the_Wall,Beyond the Wall,Kristian Nairn
+32,Beyond_the_Wall,Beyond the Wall,Thomas Brodie Sangster
+32,Beyond_the_Wall,Beyond the Wall,Ellie Kendrick
+32,Beyond_the_Wall,Beyond the Wall,[4]
+32,At_Dragonstone,At Dragonstone,Carice van Houten
+32,At_Dragonstone,At Dragonstone,Stephen Dillane
+32,At_Dragonstone,At Dragonstone,Tara Fitzgerald
+32,At_Dragonstone,At Dragonstone,Kerry Ingram
+32,In_King.27s_Landing,In King's Landing,Nikolaj Coster-Waldau
+32,In_King.27s_Landing,In King's Landing,Peter Dinklage
+32,In_King.27s_Landing,In King's Landing,Jerome Flynn
+32,In_King.27s_Landing,In King's Landing,Conleth Hill
+32,In_King.27s_Landing,In King's Landing,Sibel Kekilli
+32,In_King.27s_Landing,In King's Landing,Charles Dance
+32,In_King.27s_Landing,In King's Landing,Roger Ashton-Griffiths
+32,In_King.27s_Landing,In King's Landing,Jack Gleeson
+32,In_King.27s_Landing,In King's Landing,Valyrian steel
+32,In_King.27s_Landing,In King's Landing,Diana Rigg
+32,In_King.27s_Landing,In King's Landing,Finn Jones
+32,In_King.27s_Landing,In King's Landing,Lena Headey
+32,In_King.27s_Landing,In King's Landing,Gwendoline Christie
+32,In_King.27s_Landing,In King's Landing,Natalie Dormer
+32,In_King.27s_Landing,In King's Landing,Julian Glover
+32,In_King.27s_Landing,In King's Landing,Pedro Pascal
+32,In_King.27s_Landing,In King's Landing,Indira Varma
+32,In_King.27s_Landing,In King's Landing,Sophie Turner
+32,In_King.27s_Landing,In King's Landing,Tony Way
+32,Accolades,Accolades,Primetime Emmy Award
+32,Accolades,Accolades,Outstanding Costumes for a Series
+32,Accolades,Accolades,[14]
+32,Accolades,Accolades,Lena Headey
+32,Accolades,Accolades,Primetime Emmy Award for Outstanding Supporting Actress in a Drama Series
+32,Accolades,Accolades,[15]
+32,Accolades,Accolades,George R. R. Martin
+32,Accolades,Accolades,67th Writers Guild of America Awards
+32,Accolades,Accolades,[16]
+32,Awards_and_nominations,Awards and nominations,Primetime Creative Arts Emmy Awards
+32,Awards_and_nominations,Awards and nominations,Outstanding Costumes For A Series
+32,Awards_and_nominations,Awards and nominations,Outstanding Cinematography For A Single-Camera Series
+32,Awards_and_nominations,Awards and nominations,Writers Guild of America Awards
+32,Awards_and_nominations,Awards and nominations,Episodic Drama
+32,Awards_and_nominations,Awards and nominations,George R. R. Martin
+33,In_King.27s_Landing,In King's Landing,Jack Gleeson
+33,In_King.27s_Landing,In King's Landing,Tony Way
+33,In_King.27s_Landing,In King's Landing,Sophie Turner
+33,In_King.27s_Landing,In King's Landing,Lena Headey
+33,In_King.27s_Landing,In King's Landing,Charles Dance
+33,In_King.27s_Landing,In King's Landing,Aidan Gillen
+33,In_King.27s_Landing,In King's Landing,Diana Rigg
+33,In_King.27s_Landing,In King's Landing,Natalie Dormer
+33,In_King.27s_Landing,In King's Landing,Dean-Charles Chapman
+33,In_King.27s_Landing,In King's Landing,Nikolaj Coster-Waldau
+33,In_King.27s_Landing,In King's Landing,Peter Dinklage
+33,In_King.27s_Landing,In King's Landing,Pedro Pascal
+33,In_King.27s_Landing,In King's Landing,Indira Varma
+33,In_King.27s_Landing,In King's Landing,Daniel Portman
+33,In_King.27s_Landing,In King's Landing,fortnight
+33,In_the_North,In the North,John Bradley
+33,In_the_North,In the North,Owen Teale
+33,In_the_North,In the North,Dominic Carter
+33,In_the_North,In the North,Hannah Murray
+33,In_the_North,In the North,Kristofer Hivju
+33,In_the_North,In the North,Peter Vaughan
+33,In_the_North,In the North,Kit Harington
+33,In_the_North,In the North,Ben Crompton
+33,In_the_North,In the North,Mark Stanley
+33,At_Dragonstone,At Dragonstone,Stephen Dillane
+33,At_Dragonstone,At Dragonstone,Liam Cunningham
+33,At_Dragonstone,At Dragonstone,Kerry Ingram
+33,In_the_Riverlands,In the Riverlands,Rory McCann
+33,In_the_Riverlands,In the Riverlands,Maisie Williams
+33,Outside_Meereen,Outside Meereen,Emilia Clarke
+33,Outside_Meereen,Outside Meereen,Iain Glen
+33,Outside_Meereen,Outside Meereen,Michiel Huisman
+33,Ratings_and_general_reception,Ratings and general reception,[10]
+33,Ratings_and_general_reception,Ratings and general reception,Rotten Tomatoes
+33,Ratings_and_general_reception,Ratings and general reception,[11]
+33,Ratings_and_general_reception,Ratings and general reception,IGN
+33,Ratings_and_general_reception,Ratings and general reception,[12]
+33,Rape_scene,Rape scene,source novel
+33,Rape_scene,Rape scene,[4]
+33,Rape_scene,Rape scene,[13]
+33,Rape_scene,Rape scene,[5]
+33,Rape_scene,Rape scene,Alan Sepinwall
+33,Rape_scene,Rape scene,HitFix
+33,Rape_scene,Rape scene,[14]
+33,Rape_scene,Rape scene,Philadelphia
+33,Rape_scene,Rape scene,[15]
+33,Rape_scene,Rape scene,Forbes
+33,Rape_scene,Rape scene,[9]
+33,Rape_scene,Rape scene,A.V. Club
+33,Rape_scene,Rape scene,[4]
+33,Rape_scene,Rape scene,Time
+33,Rape_scene,Rape scene,[16]
+33,Rape_scene,Rape scene,Slate
+33,Rape_scene,Rape scene,[17]
+33,Rape_scene,Rape scene,Washington Post
+33,Rape_scene,Rape scene,[18]
+33,Rape_scene,Rape scene,Alex Graves
+33,Rape_scene,Rape scene,The Hollywood Reporter
+33,Rape_scene,Rape scene,[19]
+33,Rape_scene,Rape scene,[14]
+33,Rape_scene,Rape scene,Vulture
+33,Rape_scene,Rape scene,[20]
+33,Rape_scene,Rape scene,[14]
+33,Rape_scene,Rape scene,David Benioff
+33,Rape_scene,Rape scene,showrunner
+33,Rape_scene,Rape scene,D. B. Weiss
+33,Rape_scene,Rape scene,[21]
+33,Rape_scene,Rape scene,George R.R. Martin
+33,Rape_scene,Rape scene,[16]
+33,Rape_scene,Rape scene,[22]
+33,Rape_scene,Rape scene,[23]
+33,Rape_scene,Rape scene,exploitation
+33,Rape_scene,Rape scene,[4]
+33,Rape_scene,Rape scene,MTV
+33,Rape_scene,Rape scene,[17]
+33,Rape_scene,Rape scene,[24]
+33,Rape_scene,Rape scene,Salon
+33,Rape_scene,Rape scene,[25]
+33,Rape_scene,Rape scene,The Daily Beast
+33,Rape_scene,Rape scene,[26]
+33,Rape_scene,Rape scene,consent
+33,Rape_scene,Rape scene,[15]
+33,Rape_scene,Rape scene,Wired
+33,Rape_scene,Rape scene,[27]
+34,In_King.27s_Landing,In King's Landing,Nikolaj Coster-Waldau
+34,In_King.27s_Landing,In King's Landing,Jerome Flynn
+34,In_King.27s_Landing,In King's Landing,Peter Dinklage
+34,In_King.27s_Landing,In King's Landing,Diana Rigg
+34,In_King.27s_Landing,In King's Landing,Natalie Dormer
+34,In_King.27s_Landing,In King's Landing,Dean-Charles Chapman
+34,In_King.27s_Landing,In King's Landing,Lena Headey
+34,In_King.27s_Landing,In King's Landing,Gwendoline Christie
+34,In_King.27s_Landing,In King's Landing,Valyrian steel
+34,In_King.27s_Landing,In King's Landing,Daniel Portman
+34,At_sea,At sea,Aidan Gillen
+34,At_sea,At sea,Sophie Turner
+34,At_the_Wall,At the Wall,Owen Teale
+34,At_the_Wall,At the Wall,Kit Harington
+34,At_the_Wall,At the Wall,Dominic Carter
+34,At_the_Wall,At the Wall,Mark Stanley
+34,At_the_Wall,At the Wall,Ben Crompton
+34,At_the_Wall,At the Wall,Noah Taylor
+34,In_Meereen,In Meereen,Emilia Clarke
+34,In_Meereen,In Meereen,Nathalie Emmanuel
+34,In_Meereen,In Meereen,Jacob Anderson
+34,In_Meereen,In Meereen,Ian McElhinney
+34,Beyond_the_Wall,Beyond the Wall,Burn Gorman
+34,Beyond_the_Wall,Beyond the Wall,Isaac Hempstead-Wright
+34,Accolades,Accolades,66th Primetime Creative Arts Emmy Awards
+34,Accolades,Accolades,[17]
+35,In_King.27s_Landing,In King's Landing,Dean-Charles Chapman
+35,In_King.27s_Landing,In King's Landing,crowned as king
+35,In_King.27s_Landing,In King's Landing,Lena Headey
+35,In_King.27s_Landing,In King's Landing,Natalie Dormer
+35,In_King.27s_Landing,In King's Landing,Charles Dance
+35,In_King.27s_Landing,In King's Landing,fortnight
+35,In_King.27s_Landing,In King's Landing,Finn Jones
+35,In_King.27s_Landing,In King's Landing,Pedro Pascal
+35,In_the_Vale,In the Vale,Aidan Gillen
+35,In_the_Vale,In the Vale,Sophie Turner
+35,In_the_Vale,In the Vale,Alisdair Simpson
+35,In_the_Vale,In the Vale,Kate Dickie
+35,In_the_Vale,In the Vale,Lino Facioli
+35,In_Meereen,In Meereen,Emilia Clarke
+35,In_Meereen,In Meereen,Michiel Huisman
+35,In_Meereen,In Meereen,Iain Glen
+35,On_the_Kingsroad,On the Kingsroad,Gwendoline Christie
+35,On_the_Kingsroad,On the Kingsroad,Daniel Portman
+35,On_the_Kingsroad,On the Kingsroad,Battle of the Blackwater
+35,In_the_Riverlands,In the Riverlands,Maisie Williams
+35,In_the_Riverlands,In the Riverlands,Rory McCann
+35,Beyond_the_Wall,Beyond the Wall,Noah Taylor
+35,Beyond_the_Wall,Beyond the Wall,Isaac Hempstead-Wright
+35,Beyond_the_Wall,Beyond the Wall,Kit Harington
+35,Beyond_the_Wall,Beyond the Wall,Burn Gorman
+35,Beyond_the_Wall,Beyond the Wall,Ellie Kendrick
+35,Beyond_the_Wall,Beyond the Wall,Thomas Brodie-Sangster
+35,Beyond_the_Wall,Beyond the Wall,Kristian Nairn
+35,Beyond_the_Wall,Beyond the Wall,Ben Crompton
+35,Television_ratings,Television ratings,[5]
+36,In_Braavos,In Braavos,Stephen Dillane
+36,In_Braavos,In Braavos,Liam Cunningham
+36,In_Braavos,In Braavos,Mark Gatiss
+36,In_Braavos,In Braavos,Lucian Msamati
+36,In_Meereen,In Meereen,Emilia Clarke
+36,In_Meereen,In Meereen,Joel Fry
+36,At_the_Dreadfort,At the Dreadfort,Gemma Whelan
+36,At_the_Dreadfort,At the Dreadfort,Iwan Rheon
+36,At_the_Dreadfort,At the Dreadfort,Alfie Allen
+36,In_King.27s_Landing,In King's Landing,Charles Dance
+36,In_King.27s_Landing,In King's Landing,Peter Dinklage
+36,In_King.27s_Landing,In King's Landing,Conleth Hill
+36,In_King.27s_Landing,In King's Landing,Nikolaj Coster-Waldau
+36,In_King.27s_Landing,In King's Landing,regicide
+36,In_King.27s_Landing,In King's Landing,Dean-Charles Chapman
+36,In_King.27s_Landing,In King's Landing,Pedro Pascal
+36,In_King.27s_Landing,In King's Landing,Roger Ashton-Griffiths
+36,In_King.27s_Landing,In King's Landing,Julian Glover
+36,In_King.27s_Landing,In King's Landing,Lena Headey
+36,In_King.27s_Landing,In King's Landing,Sibel Kekilli
+36,In_King.27s_Landing,In King's Landing,dwarfism
+36,In_King.27s_Landing,In King's Landing,trial by combat
+36,Television_ratings,Television ratings,[5]
+36,Accolades,Accolades,Peter Dinklage
+36,Accolades,Accolades,Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series
+36,Accolades,Accolades,66th Primetime Emmy Awards
+36,Accolades,Accolades,[10]
+36,Accolades,Accolades,67th Primetime Creative Arts Emmy Awards
+36,Accolades,Accolades,Outstanding Art Direction for a Contemporary or Fantasy Series (Single-Camera)
+36,Accolades,Accolades,[11]
+36,Accolades,Accolades,Primetime Creative Arts Emmy Awards
+36,Accolades,Accolades,Outstanding Art Direction for a Single-Camera Fantasy Series
+36,Accolades,Accolades,ADG Excellence in Production Design Award
+37,In_King.27s_Landing,In King's Landing,Nikolaj Coster-Waldau
+37,In_King.27s_Landing,In King's Landing,Peter Dinklage
+37,In_King.27s_Landing,In King's Landing,Jerome Flynn
+37,In_King.27s_Landing,In King's Landing,Lena Headey
+37,In_King.27s_Landing,In King's Landing,Hafþór Júlíus Björnsson
+37,In_King.27s_Landing,In King's Landing,Pedro Pascal
+37,At_Castle_Black,At Castle Black,Kit Harington
+37,At_Castle_Black,At Castle Black,Owen Teale
+37,At_Dragonstone,At Dragonstone,Tara Fitzgerald
+37,At_Dragonstone,At Dragonstone,Carice van Houten
+37,On_the_Kingsroad,On the Kingsroad,Gwendoline Christie
+37,On_the_Kingsroad,On the Kingsroad,Daniel Portman
+37,On_the_Kingsroad,On the Kingsroad,Ben Hawkey
+37,On_the_Kingsroad,On the Kingsroad,Red Wedding massacre
+37,In_the_Riverlands,In the Riverlands,Maisie Williams
+37,In_the_Riverlands,In the Riverlands,Rory McCann
+37,In_the_Riverlands,In the Riverlands,Barry McGovern
+37,In_the_Riverlands,In the Riverlands,Gerard Jordan
+37,In_the_Riverlands,In the Riverlands,Andy Beckwith
+37,In_the_Riverlands,In the Riverlands,cauterize
+37,In_the_Riverlands,In the Riverlands,pyrophobia
+37,In_Meereen,In Meereen,Emilia Clarke
+37,In_Meereen,In Meereen,Michiel Huisman
+37,In_Meereen,In Meereen,Iain Glen
+37,In_Meereen,In Meereen,Ned Stark
+37,At_the_Eyrie,At the Eyrie,Sophie Turner
+37,At_the_Eyrie,At the Eyrie,Lino Facioli
+37,At_the_Eyrie,At the Eyrie,Aidan Gillen
+37,At_the_Eyrie,At the Eyrie,Kate Dickie
+37,Television_ratings,Television ratings,[6]
+37,Accolades,Accolades,Hollywood Professional Alliance
+37,Accolades,Accolades,American Society of Cinematographers
+38,At_the_Wall,At the Wall,Hannah Murray
+38,At_the_Wall,At the Wall,Kristofer Hivju
+38,At_the_Wall,At the Wall,Rose Leslie
+38,At_the_Wall,At the Wall,John Bradley
+38,At_Moat_Cailin,At Moat Cailin,Iwan Rheon
+38,At_Moat_Cailin,At Moat Cailin,Alfie Allen
+38,At_Moat_Cailin,At Moat Cailin,Michael McElhatton
+38,In_Meereen,In Meereen,Nathalie Emmanuel
+38,In_Meereen,In Meereen,Jacob Anderson
+38,In_Meereen,In Meereen,Emilia Clarke
+38,In_Meereen,In Meereen,eunuchs
+38,In_Meereen,In Meereen,Ian McElhinney
+38,In_Meereen,In Meereen,Iain Glen
+38,In_the_Vale,In the Vale,Aidan Gillen
+38,In_the_Vale,In the Vale,Rupert Vansittart
+38,In_the_Vale,In the Vale,Sophie Turner
+38,In_the_Vale,In the Vale,Lino Facioli
+38,In_the_Vale,In the Vale,Rory McCann
+38,In_the_Vale,In the Vale,Maisie Williams
+38,In_the_Vale,In the Vale,Alisdair Simpson
+38,In_King.27s_Landing,In King's Landing,Peter Dinklage
+38,In_King.27s_Landing,In King's Landing,Nikolaj Coster-Waldau
+38,In_King.27s_Landing,In King's Landing,Pedro Pascal
+38,In_King.27s_Landing,In King's Landing,Hafþór Júlíus Björnsson
+38,In_King.27s_Landing,In King's Landing,Charles Dance
+38,In_King.27s_Landing,In King's Landing,regicide
+38,Television_ratings,Television ratings,[5]
+38,Accolades,Accolades,Primetime Emmy Award
+38,Accolades,Accolades,Outstanding Art Direction for a Contemporary or Fantasy Series (Single-Camera)
+38,Accolades,Accolades,[10]
+38,Awards_and_nominations,Awards and nominations,Primetime Creative Arts Emmy Awards
+38,Awards_and_nominations,Awards and nominations,Ramin Djawadi
+38,Awards_and_nominations,Awards and nominations,SFX Awards
+38,Awards_and_nominations,Awards and nominations,Hugo Awards
+39,At_the_Wall,At the Wall,John Bradley
+39,At_the_Wall,At the Wall,Rose Leslie
+39,At_the_Wall,At the Wall,Joseph Gatt
+39,At_the_Wall,At the Wall,Peter Vaughan
+39,At_the_Wall,At the Wall,Hannah Murray
+39,At_the_Wall,At the Wall,Owen Teale
+39,At_the_Wall,At the Wall,Dominic Carter
+39,At_the_Wall,At the Wall,Mark Stanley
+39,At_the_Wall,At the Wall,woolly mammoth
+39,At_the_Wall,At the Wall,Kristofer Hivju
+39,At_the_Wall,At the Wall,Josef Altin
+39,At_the_Wall,At the Wall,Ben Crompton
+39,At_the_Wall,At the Wall,Brenock O'Connor
+39,Television_ratings,Television ratings,[6]
+39,Television_ratings,Television ratings,[7]
+39,Accolades,Accolades,Neil Marshall
+39,Accolades,Accolades,Primetime Emmy Award
+39,Accolades,Accolades,Outstanding Directing for a Drama Series
+39,Accolades,Accolades,[12]
+39,Accolades,Accolades,Primetime Emmy Awards
+39,Accolades,Accolades,Outstanding Directing for a Drama Series
+39,Accolades,Accolades,Neil Marshall
+39,Accolades,Accolades,Primetime Creative Arts Emmy Awards
+39,Accolades,Accolades,Outstanding Sound Editing for a Series
+39,Accolades,Accolades,Golden Reel Award
+39,Accolades,Accolades,Visual Effects Society
+40,In_Meereen,In Meereen,Emilia Clarke
+40,Beyond_the_Wall,Beyond the Wall,Kit Harington
+40,Beyond_the_Wall,Beyond the Wall,Ciarán Hinds
+40,Beyond_the_Wall,Beyond the Wall,Stephen Dillane
+40,Beyond_the_Wall,Beyond the Wall,Liam Cunningham
+40,Beyond_the_Wall,Beyond the Wall,Rose Leslie
+40,Beyond_the_Wall,Beyond the Wall,Kristofer Hivju
+40,Beyond_the_Wall,Beyond the Wall,Isaac Hempstead-Wright
+40,Beyond_the_Wall,Beyond the Wall,Thomas Brodie Sangster
+40,Beyond_the_Wall,Beyond the Wall,Kristian Nairn
+40,Beyond_the_Wall,Beyond the Wall,Ellie Kendrick
+40,Beyond_the_Wall,Beyond the Wall,Struan Rodger
+40,In_King.27s_Landing,In King's Landing,Hafþór Júlíus Björnsson
+40,In_King.27s_Landing,In King's Landing,Anton Lesser
+40,In_King.27s_Landing,In King's Landing,Julian Glover
+40,In_King.27s_Landing,In King's Landing,Lena Headey
+40,In_King.27s_Landing,In King's Landing,Charles Dance
+40,In_King.27s_Landing,In King's Landing,Nikolaj Coster-Waldau
+40,In_King.27s_Landing,In King's Landing,Peter Dinklage
+40,In_King.27s_Landing,In King's Landing,Sibel Kekilli
+40,In_King.27s_Landing,In King's Landing,falsely testified against Tyrion
+40,In_King.27s_Landing,In King's Landing,Conleth Hill
+40,In_the_Vale,In the Vale,Gwendoline Christie
+40,In_the_Vale,In the Vale,Daniel Portman
+40,In_the_Vale,In the Vale,Maisie Williams
+40,In_the_Vale,In the Vale,Rory McCann
+40,In_the_Vale,In the Vale,the coin Jaqen H'ghar gave her
+40,Television_ratings,Television ratings,previous season finale
+40,Television_ratings,Television ratings,[7]
+40,Television_ratings,Television ratings,[8]
+40,Piracy,Piracy,BitTorrent
+40,Piracy,Piracy,[13]
+40,Accolades,Accolades,Creative Arts Emmy Awards
+40,Accolades,Accolades,Outstanding Special and Visual Effects
+40,Accolades,Accolades,[14]
+40,Accolades,Accolades,David Benioff
+40,Accolades,Accolades,D. B. Weiss
+40,Accolades,Accolades,Primetime Emmy Award for Outstanding Writing for a Drama Series
+40,Accolades,Accolades,[15]
+40,Accolades,Accolades,Alex Graves
+40,Accolades,Accolades,Directors Guild of America Award for Outstanding Directing – Drama Series
+40,Accolades,Accolades,[16]
+40,Awards_and_nominations,Awards and nominations,Primetime Emmy Awards
+40,Awards_and_nominations,Awards and nominations,Outstanding Writing for a Drama Series
+40,Awards_and_nominations,Awards and nominations,David Benioff
+40,Awards_and_nominations,Awards and nominations,D.B. Weiss
+40,Awards_and_nominations,Awards and nominations,Primetime Creative Arts Emmy Awards
+40,Awards_and_nominations,Awards and nominations,Outstanding Special and Visual Effects
+40,Awards_and_nominations,Awards and nominations,Hollywood Professional Alliance
+40,Awards_and_nominations,Awards and nominations,IGN Awards
+40,Awards_and_nominations,Awards and nominations,Cinema Audio Society Awards
+40,Awards_and_nominations,Awards and nominations,American Society of Cinematographers
+40,Awards_and_nominations,Awards and nominations,Directors Guild of America Award
+40,Awards_and_nominations,Awards and nominations,Alex Graves
+40,Awards_and_nominations,Awards and nominations,Golden Reel Award
+40,Awards_and_nominations,Awards and nominations,Visual Effects Society
+41,Prologue.2C_in_the_Westerlands,"Prologue, in the Westerlands",Nell Williams
+41,Prologue.2C_in_the_Westerlands,"Prologue, in the Westerlands",Jodhi May
+41,In_King.27s_Landing,In King's Landing,Lena Headey
+41,In_King.27s_Landing,In King's Landing,Charles Dance
+41,In_King.27s_Landing,In King's Landing,Nikolaj Coster-Waldau
+41,In_King.27s_Landing,In King's Landing,Ian Gelder
+41,In_King.27s_Landing,In King's Landing,Eugene Simon
+41,In_King.27s_Landing,In King's Landing,Natalie Dormer
+41,In_King.27s_Landing,In King's Landing,Finn Jones
+41,In_King.27s_Landing,In King's Landing,Will Tudor
+41,In_Pentos,In Pentos,Peter Dinklage
+41,In_Pentos,In Pentos,Conleth Hill
+41,In_Meereen,In Meereen,Emilia Clarke
+41,In_Meereen,In Meereen,Jacob Anderson
+41,In_Meereen,In Meereen,Michiel Huisman
+41,In_Meereen,In Meereen,Joel Fry
+41,In_the_Vale,In the Vale,Aidan Gillen
+41,In_the_Vale,In the Vale,Sophie Turner
+41,In_the_Vale,In the Vale,Lino Facioli
+41,In_the_Vale,In the Vale,Rupert Vansittart
+41,In_the_Vale,In the Vale,Daniel Portman
+41,In_the_Vale,In the Vale,Gwendoline Christie
+41,At_the_Wall,At the Wall,Kit Harington
+41,At_the_Wall,At the Wall,John Bradley
+41,At_the_Wall,At the Wall,Hannah Murray
+41,At_the_Wall,At the Wall,Owen Teale
+41,At_the_Wall,At the Wall,Carice van Houten
+41,At_the_Wall,At the Wall,Stephen Dillane
+41,At_the_Wall,At the Wall,Ciarán Hinds
+41,Television_ratings,Television ratings,[4]
+41,Television_ratings,Television ratings,[5]
+41,Television_ratings,Television ratings,Sky Atlantic
+41,Television_ratings,Television ratings,[6]
+41,Television_ratings,Television ratings,Mother's Mercy
+41,Television_ratings,Television ratings,[7]
+41,Critical_reviews,Critical reviews,Rotten Tomatoes
+41,Critical_reviews,Critical reviews,[8]
+41,Critical_reviews,Critical reviews,BBC
+41,Critical_reviews,Critical reviews,Peter Dinklage
+41,Critical_reviews,Critical reviews,first season
+41,Critical_reviews,Critical reviews,[9]
+41,Critical_reviews,Critical reviews,IGN
+41,Critical_reviews,Critical reviews,[10]
+41,Critical_reviews,Critical reviews,The A.V. Club
+41,Critical_reviews,Critical reviews,[11]
+41,Critical_reviews,Critical reviews,[12]
+41,Critical_reviews,Critical reviews,[12]
+41,Critical_reviews,Critical reviews,The Daily Telegraph
+41,Critical_reviews,Critical reviews,[13]
+42,In_King.27s_Landing,In King's Landing,Lena Headey
+42,In_King.27s_Landing,In King's Landing,Nikolaj Coster-Waldau
+42,In_King.27s_Landing,In King's Landing,Jerome Flynn
+42,In_King.27s_Landing,In King's Landing,Anton Lesser
+42,In_King.27s_Landing,In King's Landing,Roger Ashton-Griffiths
+42,In_King.27s_Landing,In King's Landing,Ian Gelder
+42,At_the_Wall,At the Wall,Hannah Murray
+42,At_the_Wall,At the Wall,Kerry Ingram
+42,At_the_Wall,At the Wall,Tara Fitzgerald
+42,At_the_Wall,At the Wall,Kit Harington
+42,At_the_Wall,At the Wall,Stephen Dillane
+42,At_the_Wall,At the Wall,Liam Cunningham
+42,At_the_Wall,At the Wall,Owen Teale
+42,At_the_Wall,At the Wall,John Bradley
+42,At_the_Wall,At the Wall,Peter Vaughan
+42,At_the_Wall,At the Wall,Dominic Carter
+42,At_the_Wall,At the Wall,Derek Lord
+42,At_the_Wall,At the Wall,J. J. Murphy
+42,In_the_Vale,In the Vale,Gwendoline Christie
+42,In_the_Vale,In the Vale,Daniel Portman
+42,In_the_Vale,In the Vale,Sophie Turner
+42,In_the_Vale,In the Vale,Aidan Gillen
+42,In_Braavos,In Braavos,Maisie Williams
+42,In_Braavos,In Braavos,Gary Oliver
+42,In_Braavos,In Braavos,Tom Wlaschiha
+42,In_Dorne,In Dorne,
+42,In_Dorne,In Dorne,
+42,In_Dorne,In Dorne,Alcázar of Seville
+42,In_Dorne,In Dorne,Indira Varma
+42,In_Dorne,In Dorne,Toby Sebastian
+42,In_Dorne,In Dorne,Nell Tiger Free
+42,In_Dorne,In Dorne,Alexander Siddig
+42,In_Dorne,In Dorne,DeObia Oparei
+42,In_the_Flatlands,In the Flatlands,Peter Dinklage
+42,In_the_Flatlands,In the Flatlands,Conleth Hill
+42,In_Meereen,In Meereen,Michiel Huisman
+42,In_Meereen,In Meereen,Jacob Anderson
+42,In_Meereen,In Meereen,Reece Noi
+42,In_Meereen,In Meereen,Emilia Clarke
+42,In_Meereen,In Meereen,Ian McElhinney
+42,Television_ratings,Television ratings,[7]
+42,Television_ratings,Television ratings,[8]
+42,Critical_reviews,Critical reviews,IGN
+42,Critical_reviews,Critical reviews,[9]
+42,Critical_reviews,Critical reviews,Rotten Tomatoes
+42,Critical_reviews,Critical reviews,[10]
+43,In_King.27s_Landing,In King's Landing,Dean-Charles Chapman
+43,In_King.27s_Landing,In King's Landing,Natalie Dormer
+43,In_King.27s_Landing,In King's Landing,consummate
+43,In_King.27s_Landing,In King's Landing,Lena Headey
+43,In_King.27s_Landing,In King's Landing,Eugene Simon
+43,In_King.27s_Landing,In King's Landing,Jonathan Pryce
+43,In_King.27s_Landing,In King's Landing,Anton Lesser
+43,In_the_North,In the North,Alfie Allen
+43,In_the_North,In the North,Michael McElhatton
+43,In_the_North,In the North,Iwan Rheon
+43,In_the_North,In the North,Aidan Gillen
+43,In_the_North,In the North,Sophie Turner
+43,In_the_North,In the North,Elizabeth Webster
+43,In_the_North,In the North,Gwendoline Christie
+43,In_the_North,In the North,Daniel Portman
+43,At_the_Wall,At the Wall,Kit Harington
+43,At_the_Wall,At the Wall,Stephen Dillane
+43,At_the_Wall,At the Wall,legitimize
+43,At_the_Wall,At the Wall,Owen Teale
+43,At_the_Wall,At the Wall,Dominic Carter
+43,In_Braavos,In Braavos,Maisie Williams
+43,In_Braavos,In Braavos,Tom Wlaschiha
+43,In_Braavos,In Braavos,Faye Marsay
+43,In_Volantis,In Volantis,Peter Dinklage
+43,In_Volantis,In Volantis,Conleth Hill
+43,In_Volantis,In Volantis,Rila Fukushima
+43,In_Volantis,In Volantis,Iain Glen
+43,Television_ratings,Television ratings,[9]
+43,Television_ratings,Television ratings,[10]
+43,Critical_reviews,Critical reviews,Rotten Tomatoes
+43,Critical_reviews,Critical reviews,[11]
+43,Critical_reviews,Critical reviews,[6]
+43,Critical_reviews,Critical reviews,[5]
+43,Critical_reviews,Critical reviews,[6]
+43,Accolades,Accolades,Outstanding Production Design for a Narrative Contemporary or Fantasy Program (One Hour or More)
+43,Accolades,Accolades,67th Primetime Creative Arts Emmy Awards
+43,Accolades,Accolades,Primetime Creative Arts Emmy Awards
+43,Accolades,Accolades,ADG Excellence in Production Design Award
+43,Accolades,Accolades,Visual Effects Society Awards 2015
+44,In_King.27s_Landing,In King's Landing,Roger Ashton-Griffiths
+44,In_King.27s_Landing,In King's Landing,Lena Headey
+44,In_King.27s_Landing,In King's Landing,Ian Beattie
+44,In_King.27s_Landing,In King's Landing,Jonathan Pryce
+44,In_King.27s_Landing,In King's Landing,Finn Jones
+44,In_King.27s_Landing,In King's Landing,Natalie Dormer
+44,In_King.27s_Landing,In King's Landing,Dean-Charles Chapman
+44,At_the_Wall,At the Wall,Kit Harington
+44,At_the_Wall,At the Wall,Carice van Houten
+44,At_the_Wall,At the Wall,Stephen Dillane
+44,At_the_Wall,At the Wall,Kerry Ingram
+44,At_Winterfell,At Winterfell,Sophie Turner
+44,At_Winterfell,At Winterfell,Aidan Gillen
+44,In_Dorne,In Dorne,Nikolaj Coster-Waldau
+44,In_Dorne,In Dorne,Jerome Flynn
+44,In_Dorne,In Dorne,Indira Varma
+44,In_Dorne,In Dorne,Keisha Castle-Hughes
+44,In_Dorne,In Dorne,Jessica Henwick
+44,In_Dorne,In Dorne,Rosabell Laurenti Sellers
+44,On_the_Summer_Sea,On the Summer Sea,Iain Glen
+44,On_the_Summer_Sea,On the Summer Sea,Peter Dinklage
+44,In_Meereen,In Meereen,Ian McElhinney
+44,In_Meereen,In Meereen,Emilia Clarke
+44,In_Meereen,In Meereen,Joel Fry
+44,In_Meereen,In Meereen,Jacob Anderson
+44,Television_ratings,Television ratings,[11]
+44,Television_ratings,Television ratings,[12]
+44,Critical_reviews,Critical reviews,Rotten Tomatoes
+44,Critical_reviews,Critical reviews,[13]
+44,Critical_reviews,Critical reviews,[10]
+44,Critical_reviews,Critical reviews,[14]
+45,In_the_North,In the North,Gwendoline Christie
+45,In_the_North,In the North,Daniel Portman
+45,In_the_North,In the North,Sophie Turner
+45,In_the_North,In the North,Iwan Rheon
+45,In_the_North,In the North,Charlotte Hope
+45,In_the_North,In the North,Alfie Allen
+45,In_the_North,In the North,Michael McElhatton
+45,In_the_North,In the North,Elizabeth Webster
+45,At_the_Wall,At the Wall,John Bradley
+45,At_the_Wall,At the Wall,Peter Vaughan
+45,At_the_Wall,At the Wall,Kit Harington
+45,At_the_Wall,At the Wall,Kristofer Hivju
+45,At_the_Wall,At the Wall,Stephen Dillane
+45,At_the_Wall,At the Wall,Liam Cunningham
+45,At_the_Wall,At the Wall,Tara Fitzgerald
+45,At_the_Wall,At the Wall,Kerry Ingram
+45,In_Meereen,In Meereen,Jacob Anderson
+45,In_Meereen,In Meereen,Nathalie Emmanuel
+45,In_Meereen,In Meereen,Ian McElhinney
+45,In_Meereen,In Meereen,Emilia Clarke
+45,In_Meereen,In Meereen,Michiel Huisman
+45,In_Meereen,In Meereen,Joel Fry
+45,In_Valyria,In Valyria,Peter Dinklage
+45,In_Valyria,In Valyria,Iain Glen
+45,In_Valyria,In Valyria,sandbar
+45,Television_ratings,Television ratings,[5]
+45,Television_ratings,Television ratings,[6]
+45,Television_ratings,Television ratings,[7]
+45,Critical_reviews,Critical reviews,Vanity Fair
+45,Critical_reviews,Critical reviews,[8]
+45,Critical_reviews,Critical reviews,IGN
+45,Critical_reviews,Critical reviews,[9]
+45,Critical_reviews,Critical reviews,The Atlantic
+45,Critical_reviews,Critical reviews,[10]
+45,Critical_reviews,Critical reviews,Rotten Tomatoes
+45,Critical_reviews,Critical reviews,[11]
+46,In_Braavos,In Braavos,Maisie Williams
+46,In_Braavos,In Braavos,Faye Marsay
+46,In_Braavos,In Braavos,Tom Wlaschiha
+46,In_Dorne,In Dorne,Toby Sebastian
+46,In_Dorne,In Dorne,Nell Tiger Free
+46,In_Dorne,In Dorne,Alexander Siddig
+46,In_Dorne,In Dorne,Nikolaj Coster-Waldau
+46,In_Dorne,In Dorne,Jerome Flynn
+46,In_Dorne,In Dorne,Keisha Castle-Hughes
+46,In_Dorne,In Dorne,Jessica Henwick
+46,In_Dorne,In Dorne,Rosabell Laurenti Sellers
+46,In_Dorne,In Dorne,DeObia Oparei
+46,In_Dorne,In Dorne,Indira Varma
+46,On_the_Valyrian_peninsula,On the Valyrian peninsula,Iain Glen
+46,On_the_Valyrian_peninsula,On the Valyrian peninsula,Peter Dinklage
+46,On_the_Valyrian_peninsula,On the Valyrian peninsula,after killing his father Tywin
+46,On_the_Valyrian_peninsula,On the Valyrian peninsula,killed by Night's Watch mutineers
+46,In_King.27s_Landing,In King's Landing,Aidan Gillen
+46,In_King.27s_Landing,In King's Landing,Eugene Simon
+46,In_King.27s_Landing,In King's Landing,Diana Rigg
+46,In_King.27s_Landing,In King's Landing,Finn Jones
+46,In_King.27s_Landing,In King's Landing,Jonathan Pryce
+46,In_King.27s_Landing,In King's Landing,Natalie Dormer
+46,In_King.27s_Landing,In King's Landing,Will Tudor
+46,In_King.27s_Landing,In King's Landing,Dean-Charles Chapman
+46,In_Winterfell,In Winterfell,Charlotte Hope
+46,In_Winterfell,In Winterfell,Sophie Turner
+46,In_Winterfell,In Winterfell,Iwan Rheon
+46,In_Winterfell,In Winterfell,Alfie Allen
+46,Critical_reviews_and_controversy,Critical reviews and controversy,Rotten Tomatoes
+46,Critical_reviews_and_controversy,Critical reviews and controversy,rating average
+46,Critical_reviews_and_controversy,Critical reviews and controversy,[3]
+46,Critical_reviews_and_controversy,Critical reviews and controversy,The Daily Telegraph
+46,Critical_reviews_and_controversy,Critical reviews and controversy,[15]
+46,Critical_reviews_and_controversy,Critical reviews and controversy,[16]
+46,Critical_reviews_and_controversy,Critical reviews and controversy,[17]
+46,Critical_reviews_and_controversy,Critical reviews and controversy,The A.V. Club
+46,Critical_reviews_and_controversy,Critical reviews and controversy,[9]
+46,Critical_reviews_and_controversy,Critical reviews and controversy,Vanity Fair
+46,Critical_reviews_and_controversy,Critical reviews and controversy,[16]
+46,Critical_reviews_and_controversy,Critical reviews and controversy,[18]
+46,Critical_reviews_and_controversy,Critical reviews and controversy,[19]
+46,Critical_reviews_and_controversy,Critical reviews and controversy,[20]
+46,Critical_reviews_and_controversy,Critical reviews and controversy,[21]
+46,Critical_reviews_and_controversy,Critical reviews and controversy,[22]
+46,Critical_reviews_and_controversy,Critical reviews and controversy,[8]
+46,Critical_reviews_and_controversy,Critical reviews and controversy,Cathy Young
+46,Critical_reviews_and_controversy,Critical reviews and controversy,Reason
+46,Critical_reviews_and_controversy,Critical reviews and controversy,[23]
+46,Critical_reviews_and_controversy,Critical reviews and controversy,[16]
+46,Critical_reviews_and_controversy,Critical reviews and controversy,[24]
+46,Critical_reviews_and_controversy,Critical reviews and controversy,[25]
+46,Critical_reviews_and_controversy,Critical reviews and controversy,Claire McCaskill
+46,Critical_reviews_and_controversy,Critical reviews and controversy,[25]
+46,Critical_reviews_and_controversy,Critical reviews and controversy,[26]
+46,Critical_reviews_and_controversy,Critical reviews and controversy,The Gift
+46,Critical_reviews_and_controversy,Critical reviews and controversy,[27]
+46,Critical_reviews_and_controversy,Critical reviews and controversy,Wetpaint
+46,Critical_reviews_and_controversy,Critical reviews and controversy,[28]
+46,Critical_reviews_and_controversy,Critical reviews and controversy,Blackwater
+46,Critical_reviews_and_controversy,Critical reviews and controversy,[29]
+46,Critical_reviews_and_controversy,Critical reviews and controversy,[30]
+46,Critical_reviews_and_controversy,Critical reviews and controversy,Hardhome
+46,Critical_reviews_and_controversy,Critical reviews and controversy,[31]
+46,Accolades,Accolades,67th Primetime Emmy Awards
+46,Accolades,Accolades,Outstanding Directing for a Drama Series
+46,Accolades,Accolades,[32]
+46,Accolades,Accolades,67th Primetime Creative Arts Emmy Awards
+46,Accolades,Accolades,Primetime Emmy Award
+46,Accolades,Accolades,Outstanding Directing for a Drama Series
+46,Accolades,Accolades,Jeremy Podeswa
+46,Accolades,Accolades,Primetime Creative Arts Emmy Awards
+46,Accolades,Accolades,Outstanding Cinematography for a Single-Camera Series
+46,Accolades,Accolades,ADG Excellence in Production Design Award
+47,At_the_Wall,At the Wall,Kit Harington
+47,At_the_Wall,At the Wall,Kristofer Hivju
+47,At_the_Wall,At the Wall,Owen Teale
+47,At_the_Wall,At the Wall,John Bradley
+47,At_the_Wall,At the Wall,Hannah Murray
+47,At_the_Wall,At the Wall,Peter Vaughan
+47,At_Winterfell,At Winterfell,Alfie Allen
+47,At_Winterfell,At Winterfell,Sophie Turner
+47,At_Winterfell,At Winterfell,Iwan Rheon
+47,At_Winterfell,At Winterfell,flaying
+47,At_Winterfell,At Winterfell,Gwendoline Christie
+47,At_Winterfell,At Winterfell,Daniel Portman
+47,In_the_North,In the North,Stephen Dillane
+47,In_the_North,In the North,Liam Cunningham
+47,In_the_North,In the North,Carice van Houten
+47,In_Meereen,In Meereen,Iain Glen
+47,In_Meereen,In Meereen,Enzo Cilenti
+47,In_Meereen,In Meereen,Peter Dinklage
+47,In_Meereen,In Meereen,Emilia Clarke
+47,In_Meereen,In Meereen,Michiel Huisman
+47,In_Meereen,In Meereen,Joel Fry
+47,In_Dorne,In Dorne,Nell Tiger Free
+47,In_Dorne,In Dorne,Nikolaj Coster-Waldau
+47,In_Dorne,In Dorne,Jerome Flynn
+47,In_Dorne,In Dorne,Rosabell Laurenti Sellers
+47,In_King.27s_Landing,In King's Landing,Diana Rigg
+47,In_King.27s_Landing,In King's Landing,Jonathan Pryce
+47,In_King.27s_Landing,In King's Landing,Natalie Dormer
+47,In_King.27s_Landing,In King's Landing,Aidan Gillen
+47,In_King.27s_Landing,In King's Landing,Dean-Charles Chapman
+47,In_King.27s_Landing,In King's Landing,Lena Headey
+47,In_King.27s_Landing,In King's Landing,Eugene Simon
+47,In_King.27s_Landing,In King's Landing,Hannah Waddingham
+47,Critical_reviews,Critical reviews,Rotten Tomatoes
+47,Critical_reviews,Critical reviews,rating average
+47,Critical_reviews,Critical reviews,[15]
+47,Critical_reviews,Critical reviews,The A.V. Club
+47,Critical_reviews,Critical reviews,[4]
+47,Critical_reviews,Critical reviews,[16]
+48,In_King.27s_Landing,In King's Landing,Lena Headey
+48,In_King.27s_Landing,In King's Landing,Hannah Waddingham
+48,In_King.27s_Landing,In King's Landing,Anton Lesser
+48,In_Braavos,In Braavos,Maisie Williams
+48,In_Braavos,In Braavos,Tom Wlaschiha
+48,At_the_Wall,At the Wall,Hannah Murray
+48,At_the_Wall,At the Wall,John Bradley
+48,At_the_Wall,At the Wall,Brenock O'Connor
+48,In_Winterfell,In Winterfell,Theon Greyjoy/Reek
+48,In_Winterfell,In Winterfell,Alfie Allen
+48,In_Winterfell,In Winterfell,Sophie Turner
+48,In_Winterfell,In Winterfell,Iwan Rheon
+48,In_Winterfell,In Winterfell,Michael McElhatton
+48,In_Meereen,In Meereen,Iain Glen
+48,In_Meereen,In Meereen,Peter Dinklage
+48,In_Meereen,In Meereen,Emilia Clarke
+48,In_Meereen,In Meereen,Enzo Cilenti
+48,At_Hardhome,At Hardhome,Kit Harington
+48,At_Hardhome,At Hardhome,Kristofer Hivju
+48,At_Hardhome,At Hardhome,Ross O'Hennessy
+48,At_Hardhome,At Hardhome,Birgitte Hjort Sørensen
+48,At_Hardhome,At Hardhome,White Walker
+48,At_Hardhome,At Hardhome,Zahari Baharov
+48,At_Hardhome,At Hardhome,wights
+48,At_Hardhome,At Hardhome,Richard Brake
+48,Accolades,Accolades,Peter Dinklage
+48,Accolades,Accolades,Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series
+48,Accolades,Accolades,67th Primetime Emmy Awards
+48,Accolades,Accolades,[23]
+48,Accolades,Accolades,67th Primetime Creative Arts Emmy Awards
+48,Accolades,Accolades,Outstanding Sound Editing for a Series
+48,Accolades,Accolades,Primetime Creative Arts Emmy Awards
+48,Accolades,Accolades,Outstanding Cinematography for a Single-Camera Series
+48,Accolades,Accolades,Fabian Wagner
+48,Accolades,Accolades,Hollywood Professional Alliance
+48,Accolades,Accolades,IGN Awards
+48,Accolades,Accolades,ADG Excellence in Production Design Award
+48,Accolades,Accolades,Shorty Awards
+48,Accolades,Accolades,Cinema Audio Society Awards
+48,Accolades,Accolades,American Society of Cinematographers
+48,Accolades,Accolades,American Cinema Editors Awards 2016
+48,Accolades,Accolades,Golden Reel Awards
+48,Accolades,Accolades,USC Scripter Award
+48,Accolades,Accolades,Visual Effects Society Awards 2015
+49,In_Braavos,In Braavos,Maisie Williams
+49,In_Braavos,In Braavos,Tom Wlaschiha
+49,In_Braavos,In Braavos,Roger Ashton-Griffiths
+49,In_Braavos,In Braavos,Ian Beattie
+49,In_Braavos,In Braavos,sexually attracted to pubescent girls
+49,At_the_Wall,At the Wall,Kit Harington
+49,At_the_Wall,At the Wall,Kristofer Hivju
+49,At_the_Wall,At the Wall,Owen Teale
+49,At_the_Wall,At the Wall,John Bradley
+49,In_the_North,In the North,Stephen Dillane
+49,In_the_North,In the North,Liam Cunningham
+49,In_the_North,In the North,Carice van Houten
+49,In_the_North,In the North,Kerry Ingram
+49,In_the_North,In the North,Tara Fitzgerald
+49,In_Dorne,In Dorne,Nikolaj Coster-Waldau
+49,In_Dorne,In Dorne,Alexander Siddig
+49,In_Dorne,In Dorne,Nell Tiger Free
+49,In_Dorne,In Dorne,Indira Varma
+49,In_Dorne,In Dorne,Toby Sebastian
+49,In_Dorne,In Dorne,Jerome Flynn
+49,In_Dorne,In Dorne,DeObia Oparei
+49,In_Meereen,In Meereen,Emilia Clarke
+49,In_Meereen,In Meereen,Peter Dinklage
+49,In_Meereen,In Meereen,Nathalie Emmanuel
+49,In_Meereen,In Meereen,Michiel Huisman
+49,In_Meereen,In Meereen,Joel Fry
+49,In_Meereen,In Meereen,Iain Glen
+49,Accolades,Accolades,Emilia Clarke
+49,Accolades,Accolades,Primetime Emmy Award for Outstanding Supporting Actress in a Drama Series
+49,Accolades,Accolades,67th Primetime Emmy Awards
+49,Accolades,Accolades,[16]
+49,Accolades,Accolades,67th Primetime Creative Arts Emmy Awards
+49,Accolades,Accolades,Outstanding Single-Camera Picture Editing for a Drama Series
+49,Accolades,Accolades,Outstanding Special Visual Effects
+49,Accolades,Accolades,Primetime Creative Arts Emmy Awards
+49,Accolades,Accolades,Outstanding Cinematography for a Single-Camera Series
+49,Accolades,Accolades,Outstanding Special Visual Effects
+49,Accolades,Accolades,Hollywood Professional Alliance
+49,Accolades,Accolades,American Cinema Editors Awards 2016
+49,Accolades,Accolades,Visual Effects Society Awards 2015
+50,In_the_North,In the North,Stephen Dillane
+50,In_the_North,In the North,Carice van Houten
+50,In_the_North,In the North,Tara Fitzgerald
+50,In_the_North,In the North,Daniel Portman
+50,In_the_North,In the North,Gwendoline Christie
+50,In_the_North,In the North,Iwan Rheon
+50,In_the_North,In the North,Renly
+50,In_the_North,In the North,[3]
+50,In_the_North,In the North,[4]
+50,In_the_North,In the North,Sophie Turner
+50,In_the_North,In the North,Charlotte Hope
+50,In_the_North,In the North,Alfie Allen
+50,In_Dorne,In Dorne,Nikolaj Coster-Waldau
+50,In_Dorne,In Dorne,Nell Tiger Free
+50,In_Dorne,In Dorne,Jerome Flynn
+50,In_Dorne,In Dorne,Toby Sebastian
+50,In_Dorne,In Dorne,Indira Varma
+50,In_Braavos,In Braavos,Maisie Williams
+50,In_Braavos,In Braavos,Ian Beattie
+50,In_Braavos,In Braavos,Tom Wlaschiha
+50,In_Braavos,In Braavos,Faye Marsay
+50,In_Meereen,In Meereen,Emilia Clarke
+50,In_Meereen,In Meereen,Michiel Huisman
+50,In_Meereen,In Meereen,Iain Glen
+50,In_Meereen,In Meereen,Peter Dinklage
+50,In_Meereen,In Meereen,Nathalie Emmanuel
+50,In_Meereen,In Meereen,Jacob Anderson
+50,In_Meereen,In Meereen,Conleth Hill
+50,In_King.27s_Landing,In King's Landing,Lena Headey
+50,In_King.27s_Landing,In King's Landing,Jonathan Pryce
+50,In_King.27s_Landing,In King's Landing,Anton Lesser
+50,In_King.27s_Landing,In King's Landing,Hafþór Júlíus Björnsson
+50,At_the_Wall,At the Wall,Kit Harington
+50,At_the_Wall,At the Wall,John Bradley
+50,At_the_Wall,At the Wall,Hannah Murray
+50,At_the_Wall,At the Wall,Liam Cunningham
+50,At_the_Wall,At the Wall,Brenock O'Connor
+50,At_the_Wall,At the Wall,Owen Teale
+50,At_the_Wall,At the Wall,Michael Condron
+50,At_the_Wall,At the Wall,Brian Fortune
+50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,
+50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,
+50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,Cersei Lannister
+50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,Lena Headey
+50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,Dubrovnik
+50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,close-ups
+50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,long shots
+50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,CGI
+50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,[6]
+50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,[7]
+50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,[8]
+50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,[9]
+50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,[10]
+50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,[9]
+50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,[11]
+50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,[12]
+50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,Belfast
+50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,David Nutter
+50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,[8]
+50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,[6]
+50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,[10]
+50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,[13]
+50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,[6]
+50,Fate_of_Jon_Snow,Fate of Jon Snow,when we cut Ned’s head off
+50,Fate_of_Jon_Snow,Fate of Jon Snow,[14]
+50,Fate_of_Jon_Snow,Fate of Jon Snow,[15]
+50,Fate_of_Jon_Snow,Fate of Jon Snow,[14]
+50,Fate_of_Jon_Snow,Fate of Jon Snow,[16]
+50,Fate_of_Jon_Snow,Fate of Jon Snow,[14]
+50,Fate_of_Jon_Snow,Fate of Jon Snow,[16]
+50,Fate_of_Jon_Snow,Fate of Jon Snow,[17]
+50,Fate_of_Jon_Snow,Fate of Jon Snow,[18]
+50,Fate_of_Jon_Snow,Fate of Jon Snow,[19]
+50,Fate_of_Jon_Snow,Fate of Jon Snow,[17]
+50,Fate_of_Jon_Snow,Fate of Jon Snow,[20]
+50,Fate_of_Jon_Snow,Fate of Jon Snow,Charles Dance
+50,Fate_of_Jon_Snow,Fate of Jon Snow,Tywin Lannister
+50,Fate_of_Jon_Snow,Fate of Jon Snow,[20]
+50,Fate_of_Jon_Snow,Fate of Jon Snow,[21]
+50,Fate_of_Jon_Snow,Fate of Jon Snow,[22]
+50,Fate_of_Jon_Snow,Fate of Jon Snow,[23]
+50,Fates_of_other_characters,Fates of other characters,[24]
+50,Accolades,Accolades,Lena Headey
+50,Accolades,Accolades,Primetime Emmy Award for Outstanding Supporting Actress in a Drama Series
+50,Accolades,Accolades,67th Primetime Emmy Awards
+50,Accolades,Accolades,[32]
+50,Accolades,Accolades,Outstanding Directing for a Drama Series
+50,Accolades,Accolades,Outstanding Writing for a Drama Series
+50,Accolades,Accolades,[33]
+50,Accolades,Accolades,67th Primetime Creative Arts Emmy Awards
+50,Accolades,Accolades,[34]
+50,Accolades,Accolades,Primetime Emmy Award
+50,Accolades,Accolades,Outstanding Directing for a Drama Series
+50,Accolades,Accolades,David Nutter
+50,Accolades,Accolades,Outstanding Writing for a Drama Series
+50,Accolades,Accolades,David Benioff
+50,Accolades,Accolades,D. B. Weiss
+50,Accolades,Accolades,Primetime Creative Arts Emmy Awards
+50,Accolades,Accolades,Directors Guild of America Award
+50,Accolades,Accolades,Dramatic Series
+50,Accolades,Accolades,David Nutter
+50,Accolades,Accolades,Visual Effects Society Awards 2015
+50,Accolades,Accolades,Writers Guild of America Awards
+50,Accolades,Accolades,Episodic Drama
+50,Accolades,Accolades,[35]
+51,In_the_North,In the North,Ramsay
+51,In_the_North,In the North,Iwan Rheon
+51,In_the_North,In the North,Charlotte Hope
+51,In_the_North,In the North,Roose
+51,In_the_North,In the North,Michael McElhatton
+51,In_the_North,In the North,Stannis Baratheon
+51,In_the_North,In the North,Sansa
+51,In_the_North,In the North,Sophie Turner
+51,In_the_North,In the North,Theon
+51,In_the_North,In the North,Alfie Allen
+51,In_the_North,In the North,Brienne
+51,In_the_North,In the North,Gwendoline Christie
+51,In_the_North,In the North,Daniel Portman
+51,In_Dorne,In Dorne,Alexander Siddig
+51,In_Dorne,In Dorne,DeObia Oparei
+51,In_Dorne,In Dorne,Indira Varma
+51,In_Dorne,In Dorne,Rosabell Laurenti Sellers
+51,In_King.27s_Landing,In King's Landing,Jaime Lannister
+51,In_King.27s_Landing,In King's Landing,Nikolaj Coster-Waldau
+51,In_King.27s_Landing,In King's Landing,Cersei
+51,In_King.27s_Landing,In King's Landing,Lena Headey
+51,In_King.27s_Landing,In King's Landing,Margaery
+51,In_King.27s_Landing,In King's Landing,Natalie Dormer
+51,In_King.27s_Landing,In King's Landing,High Sparrow
+51,In_King.27s_Landing,In King's Landing,Jonathan Pryce
+51,In_King.27s_Landing,In King's Landing,Toby Sebastian
+51,In_King.27s_Landing,In King's Landing,Keisha Castle-Hughes
+51,In_King.27s_Landing,In King's Landing,Jessica Henwick
+51,In_Meereen,In Meereen,Tyrion
+51,In_Meereen,In Meereen,Peter Dinklage
+51,In_Meereen,In Meereen,Varys
+51,In_Meereen,In Meereen,Conleth Hill
+51,In_the_Dothraki_Sea,In the Dothraki Sea,Daario
+51,In_the_Dothraki_Sea,In the Dothraki Sea,Michiel Huisman
+51,In_the_Dothraki_Sea,In the Dothraki Sea,Jorah
+51,In_the_Dothraki_Sea,In the Dothraki Sea,Iain Glen
+51,In_the_Dothraki_Sea,In the Dothraki Sea,Daenerys's
+51,In_the_Dothraki_Sea,In the Dothraki Sea,Emilia Clarke
+51,In_the_Dothraki_Sea,In the Dothraki Sea,Joe Naufahu
+51,In_Braavos,In Braavos,Arya Stark
+51,In_Braavos,In Braavos,Maisie Williams
+51,In_Braavos,In Braavos,Faye Marsay
+51,At_the_Wall,At the Wall,Jon Snow
+51,At_the_Wall,At the Wall,Kit Harington
+51,At_the_Wall,At the Wall,Davos
+51,At_the_Wall,At the Wall,Liam Cunningham
+51,At_the_Wall,At the Wall,Ben Crompton
+51,At_the_Wall,At the Wall,Melisandre
+51,At_the_Wall,At the Wall,Carice Van Houten
+51,At_the_Wall,At the Wall,Owen Teale
+52,In_the_North,In the North,Winterfell
+52,In_the_North,In the North,Sansa
+52,In_the_North,In the North,Sophie Turner
+52,In_the_North,In the North,Theon
+52,In_the_North,In the North,Alfie Allen
+52,In_the_North,In the North,Ramsay
+52,In_the_North,In the North,Iwan Rheon
+52,In_the_North,In the North,Castle Black
+52,In_the_North,In the North,Night's Watch
+52,In_the_North,In the North,Roose
+52,In_the_North,In the North,Michael McElhatton
+52,In_the_North,In the North,Elizabeth Webster
+52,In_the_North,In the North,Brienne
+52,In_the_North,In the North,Gwendoline Christie
+52,In_the_North,In the North,Podrick
+52,In_the_North,In the North,Daniel Portman
+52,In_the_North,In the North,Arya
+52,In_the_North,In the North,Maisie Williams
+52,In_the_North,In the North,Riverlands
+52,In_King.27s_Landing,In King's Landing,Hafþór Júlíus Björnsson
+52,In_King.27s_Landing,In King's Landing,Myrcella
+52,In_King.27s_Landing,In King's Landing,Nell Tiger Free
+52,In_King.27s_Landing,In King's Landing,Jaime
+52,In_King.27s_Landing,In King's Landing,Nikolaj Coster-Waldau
+52,In_King.27s_Landing,In King's Landing,High Sparrow
+52,In_King.27s_Landing,In King's Landing,Jonathan Pryce
+52,In_King.27s_Landing,In King's Landing,Cersei
+52,In_King.27s_Landing,In King's Landing,Lena Headey
+52,In_King.27s_Landing,In King's Landing,King Tommen
+52,In_King.27s_Landing,In King's Landing,Dean-Charles Chapman
+52,In_Meereen,In Meereen,Tyrion
+52,In_Meereen,In Meereen,Peter Dinklage
+52,In_Meereen,In Meereen,Varys
+52,In_Meereen,In Meereen,Conleth Hill
+52,In_Meereen,In Meereen,Missandei
+52,In_Meereen,In Meereen,Nathalie Emmanuel
+52,In_Meereen,In Meereen,Grey Worm
+52,In_Meereen,In Meereen,Jacob Anderson
+52,In_Braavos,In Braavos,Faye Marsay
+52,In_Braavos,In Braavos,Jaqen
+52,In_Braavos,In Braavos,Tom Wlaschiha
+52,Beyond_the_Wall,Beyond the Wall,Bran
+52,Beyond_the_Wall,Beyond the Wall,Isaac Hempstead Wright
+52,Beyond_the_Wall,Beyond the Wall,Three-eyed Raven
+52,Beyond_the_Wall,Beyond the Wall,Max von Sydow
+52,Beyond_the_Wall,Beyond the Wall,Ellie Kendrick
+52,On_the_Iron_Islands,On the Iron Islands,Balon Greyjoy
+52,On_the_Iron_Islands,On the Iron Islands,Patrick Malahide
+52,On_the_Iron_Islands,On the Iron Islands,Yara
+52,On_the_Iron_Islands,On the Iron Islands,Gemma Whelan
+52,On_the_Iron_Islands,On the Iron Islands,Euron Greyjoy
+52,On_the_Iron_Islands,On the Iron Islands,Pilou Asbæk
+52,On_the_Iron_Islands,On the Iron Islands,Michael Feast
+52,At_the_Wall,At the Wall,Davos
+52,At_the_Wall,At the Wall,Liam Cunningham
+52,At_the_Wall,At the Wall,Alliser
+52,At_the_Wall,At the Wall,Owen Teale
+52,At_the_Wall,At the Wall,Tormund
+52,At_the_Wall,At the Wall,Kristofer Hivju
+52,At_the_Wall,At the Wall,Edd
+52,At_the_Wall,At the Wall,Ben Crompton
+52,At_the_Wall,At the Wall,Melisandre
+52,At_the_Wall,At the Wall,Carice van Houten
+52,At_the_Wall,At the Wall,Kit Harington
+53,In_the_Narrow_Sea,In the Narrow Sea,Sam
+53,In_the_Narrow_Sea,In the Narrow Sea,John Bradley
+53,In_the_Narrow_Sea,In the Narrow Sea,Hannah Murray
+53,Beyond_the_Wall,Beyond the Wall,Bran
+53,Beyond_the_Wall,Beyond the Wall,Isaac Hempstead Wright
+53,Beyond_the_Wall,Beyond the Wall,Max von Sydow
+53,Beyond_the_Wall,Beyond the Wall,Eddard Stark
+53,Beyond_the_Wall,Beyond the Wall,Robert Aramayo
+53,Beyond_the_Wall,Beyond the Wall,Robert
+53,Beyond_the_Wall,Beyond the Wall,Luke Roberts
+53,Beyond_the_Wall,Beyond the Wall,Rhaegar
+53,Beyond_the_Wall,Beyond the Wall,Mad King
+53,Beyond_the_Wall,Beyond the Wall,his sister
+53,In_Vaes_Dothrak,In Vaes Dothrak,Daenerys
+53,In_Vaes_Dothrak,In Vaes Dothrak,Emilia Clarke
+53,In_Vaes_Dothrak,In Vaes Dothrak,Joe Naufahu
+53,In_Vaes_Dothrak,In Vaes Dothrak,Souad Faress
+53,In_Meereen,In Meereen,Varys
+53,In_Meereen,In Meereen,Conleth Hill
+53,In_Meereen,In Meereen,Tyrion
+53,In_Meereen,In Meereen,Peter Dinklage
+53,In_Meereen,In Meereen,Jacob Anderson
+53,In_Meereen,In Meereen,Nathalie Emmanuel
+53,In_King.27s_Landing,In King's Landing,Anton Lesser
+53,In_King.27s_Landing,In King's Landing,Cersei
+53,In_King.27s_Landing,In King's Landing,Lena Headey
+53,In_King.27s_Landing,In King's Landing,Jaime
+53,In_King.27s_Landing,In King's Landing,Nikolaj Coster-Waldau
+53,In_King.27s_Landing,In King's Landing,Hafþór Júlíus Björnsson
+53,In_King.27s_Landing,In King's Landing,Ian Gelder
+53,In_King.27s_Landing,In King's Landing,Diana Rigg
+53,In_King.27s_Landing,In King's Landing,Roger Ashton-Griffiths
+53,In_King.27s_Landing,In King's Landing,Julian Glover
+53,In_King.27s_Landing,In King's Landing,Indira Varma
+53,In_King.27s_Landing,In King's Landing,Tommen
+53,In_King.27s_Landing,In King's Landing,Dean-Charles Chapman
+53,In_King.27s_Landing,In King's Landing,Jonathan Pryce
+53,In_Braavos,In Braavos,Arya
+53,In_Braavos,In Braavos,Maisie Williams
+53,In_Braavos,In Braavos,Faye Marsay
+53,In_Braavos,In Braavos,Tom Wlaschiha
+53,At_Winterfell,At Winterfell,Ramsay
+53,At_Winterfell,At Winterfell,Iwan Rheon
+53,At_Winterfell,At Winterfell,Art Parkinson
+53,At_Winterfell,At Winterfell,Natalia Tena
+53,At_the_Wall,At the Wall,Jon Snow
+53,At_the_Wall,At the Wall,Kit Harington
+53,At_the_Wall,At the Wall,Davos
+53,At_the_Wall,At the Wall,Liam Cunningham
+53,At_the_Wall,At the Wall,Melisandre
+53,At_the_Wall,At the Wall,Carice van Houten
+53,At_the_Wall,At the Wall,a heroic prince
+53,At_the_Wall,At the Wall,Kristofer Hivju
+53,At_the_Wall,At the Wall,Ben Crompton
+53,At_the_Wall,At the Wall,Owen Teale
+53,At_the_Wall,At the Wall,Brenock O'Connor
+53,At_the_Wall,At the Wall,Brian Fortune
+53,At_the_Wall,At the Wall,Michael Condron
+54,At_the_Wall,At the Wall,Jon
+54,At_the_Wall,At the Wall,Kit Harington
+54,At_the_Wall,At the Wall,Sansa
+54,At_the_Wall,At the Wall,Sophie Turner
+54,At_the_Wall,At the Wall,Brienne
+54,At_the_Wall,At the Wall,Gwendoline Christie
+54,At_the_Wall,At the Wall,Daniel Portman
+54,At_the_Wall,At the Wall,Davos
+54,At_the_Wall,At the Wall,Liam Cunningham
+54,At_the_Wall,At the Wall,Melisandre
+54,At_the_Wall,At the Wall,Carice Van Houten
+54,At_the_Wall,At the Wall,Stannis
+54,At_the_Wall,At the Wall,Kristofer Hivju
+54,At_Runestone,At Runestone,Littlefinger
+54,At_Runestone,At Runestone,Aiden Gillen
+54,At_Runestone,At Runestone,Robin Arryn
+54,At_Runestone,At Runestone,Lino Facioli
+54,At_Runestone,At Runestone,Yohn Royce
+54,At_Runestone,At Runestone,Rupert Vansittart
+54,In_Meereen,In Meereen,Jacob Anderson
+54,In_Meereen,In Meereen,Nathalie Emmanuel
+54,In_Meereen,In Meereen,Tyrion
+54,In_Meereen,In Meereen,Peter Dinklage
+54,In_King.27s_Landing,In King's Landing,Margaery
+54,In_King.27s_Landing,In King's Landing,Natalie Dormer
+54,In_King.27s_Landing,In King's Landing,Jonathan Pryce
+54,In_King.27s_Landing,In King's Landing,Finn Jones
+54,In_King.27s_Landing,In King's Landing,Cersei
+54,In_King.27s_Landing,In King's Landing,Lena Headey
+54,In_King.27s_Landing,In King's Landing,Tommen
+54,In_King.27s_Landing,In King's Landing,Dean-Charles Chapman
+54,In_King.27s_Landing,In King's Landing,Ian Gelder
+54,In_King.27s_Landing,In King's Landing,Diana Rigg
+54,In_the_Iron_Islands,In the Iron Islands,Theon
+54,In_the_Iron_Islands,In the Iron Islands,Alfie Allen
+54,In_the_Iron_Islands,In the Iron Islands,Gemma Whelan
+54,In_the_Iron_Islands,In the Iron Islands,assault on the Dreadfort
+54,In_Winterfell,In Winterfell,Natalia Tena
+54,In_Winterfell,In Winterfell,Ramsay
+54,In_Winterfell,In Winterfell,Iwan Rheon
+54,In_Vaes_Dothrak,In Vaes Dothrak,Jorah
+54,In_Vaes_Dothrak,In Vaes Dothrak,Iain Glen
+54,In_Vaes_Dothrak,In Vaes Dothrak,Daario
+54,In_Vaes_Dothrak,In Vaes Dothrak,Michiel Huisman
+54,In_Vaes_Dothrak,In Vaes Dothrak,Daenerys
+54,In_Vaes_Dothrak,In Vaes Dothrak,Emilia Clarke
+54,In_Vaes_Dothrak,In Vaes Dothrak,Hannah John-Kamen
+54,In_Vaes_Dothrak,In Vaes Dothrak,her pregnancy ritual
+54,In_Vaes_Dothrak,In Vaes Dothrak,her husband's vow
+55,At_the_Wall,At the Wall,Sansa
+55,At_the_Wall,At the Wall,Sophie Turner
+55,At_the_Wall,At the Wall,Brienne
+55,At_the_Wall,At the Wall,Gwendoline Christie
+55,At_the_Wall,At the Wall,Littlefinger
+55,At_the_Wall,At the Wall,Aiden Gillen
+55,At_the_Wall,At the Wall,Ramsay Bolton
+55,At_the_Wall,At the Wall,Clive Russell
+55,At_the_Wall,At the Wall,Jon
+55,At_the_Wall,At the Wall,Kit Harington
+55,At_the_Wall,At the Wall,Davos
+55,At_the_Wall,At the Wall,Liam Cunningham
+55,At_the_Wall,At the Wall,Carice van Houten
+55,At_the_Wall,At the Wall,Kristofer Hivju
+55,At_the_Wall,At the Wall,Daniel Portman
+55,In_Vaes_Dothrak,In Vaes Dothrak,Jorah
+55,In_Vaes_Dothrak,In Vaes Dothrak,Iain Glen
+55,In_Vaes_Dothrak,In Vaes Dothrak,Daenerys
+55,In_Vaes_Dothrak,In Vaes Dothrak,Emilia Clarke
+55,In_Vaes_Dothrak,In Vaes Dothrak,Daario
+55,In_Vaes_Dothrak,In Vaes Dothrak,Michiel Huisman
+55,On_the_Iron_Islands,On the Iron Islands,Gemma Whelan
+55,On_the_Iron_Islands,On the Iron Islands,Theon
+55,On_the_Iron_Islands,On the Iron Islands,Alfie Allen
+55,On_the_Iron_Islands,On the Iron Islands,Pilou Asbæk
+55,In_Braavos,In Braavos,Arya
+55,In_Braavos,In Braavos,Maisie Williams
+55,In_Braavos,In Braavos,Faye Marsay
+55,In_Braavos,In Braavos,Tom Wlaschiha
+55,In_Braavos,In Braavos,Essie Davis
+55,In_Braavos,In Braavos,Cersei Lannister
+55,In_Braavos,In Braavos,a play recounting the death
+55,In_Braavos,In Braavos,Robert Baratheon
+55,In_Braavos,In Braavos,Eddard Stark
+55,In_Meereen,In Meereen,Tyrion
+55,In_Meereen,In Meereen,Peter Dinklage
+55,In_Meereen,In Meereen,Varys
+55,In_Meereen,In Meereen,Conleth Hill
+55,In_Meereen,In Meereen,Ania Bukstein
+55,Beyond_the_Wall,Beyond the Wall,Bran
+55,Beyond_the_Wall,Beyond the Wall,Isaac Hempstead Wright
+55,Beyond_the_Wall,Beyond the Wall,Max Von Sydow
+55,Beyond_the_Wall,Beyond the Wall,dragonglass
+55,Beyond_the_Wall,Beyond the Wall,Ellie Kendrick
+56,Beyond_the_Wall,Beyond the Wall,Bran
+56,Beyond_the_Wall,Beyond the Wall,Isaac Hempstead Wright
+56,Beyond_the_Wall,Beyond the Wall,Ellie Kendrick
+56,Beyond_the_Wall,Beyond the Wall,White Walker
+56,Beyond_the_Wall,Beyond the Wall,Joseph Mawle
+56,At_Horn_Hill,At Horn Hill,Sam
+56,At_Horn_Hill,At Horn Hill,John Bradley-West
+56,At_Horn_Hill,At Horn Hill,Gilly
+56,At_Horn_Hill,At Horn Hill,Hannah Murray
+56,At_Horn_Hill,At Horn Hill,Samantha Spiro
+56,At_Horn_Hill,At Horn Hill,Rebecca Benson
+56,At_Horn_Hill,At Horn Hill,James Faulkner
+56,At_Horn_Hill,At Horn Hill,Freddie Stroma
+56,In_Braavos,In Braavos,Arya
+56,In_Braavos,In Braavos,Maisie Williams
+56,In_Braavos,In Braavos,Essie Davis
+56,In_Braavos,In Braavos,Faye Marsay
+56,In_Braavos,In Braavos,Tom Wlaschiha
+56,In_King.27s_Landing,In King's Landing,High Sparrow
+56,In_King.27s_Landing,In King's Landing,Jonathan Pryce
+56,In_King.27s_Landing,In King's Landing,Tommen
+56,In_King.27s_Landing,In King's Landing,Dean-Charles Chapman
+56,In_King.27s_Landing,In King's Landing,Natalie Dormer
+56,In_King.27s_Landing,In King's Landing,Nikolaj Coster-Waldau
+56,In_King.27s_Landing,In King's Landing,Roger Ashton-Griffiths
+56,In_King.27s_Landing,In King's Landing,Diana Rigg
+56,In_King.27s_Landing,In King's Landing,Lena Headey
+56,At_the_Twins,At the Twins,David Bradley
+56,At_the_Twins,At the Twins,Tobias Menzies
+56,In_the_Dothraki_Sea,In the Dothraki Sea,Daenerys
+56,In_the_Dothraki_Sea,In the Dothraki Sea,Emilia Clarke
+56,In_the_Dothraki_Sea,In the Dothraki Sea,Daario
+56,In_the_Dothraki_Sea,In the Dothraki Sea,Michiel Huisman
+57,In_the_North,In the North,Kit Harington
+57,In_the_North,In the North,Sophie Turner
+57,In_the_North,In the North,Liam Cunningham
+57,In_the_North,In the North,Tim McInnerny
+57,In_King.27s_Landing,In King's Landing,Jonathan Pryce
+57,In_King.27s_Landing,In King's Landing,Natalie Dormer
+57,In_King.27s_Landing,In King's Landing,Diana Rigg
+57,In_King.27s_Landing,In King's Landing,Lena Headey
+57,In_Volantis,In Volantis,Alfie Allen
+57,In_Volantis,In Volantis,Gemma Whelan
+57,In_Braavos,In Braavos,Maisie Williams
+57,In_Braavos,In Braavos,Faye Marsay
+57,In_the_Riverlands,In the Riverlands,Nikolaj Coster-Waldau
+57,In_the_Riverlands,In the Riverlands,Jerome Flynn
+57,In_the_Riverlands,In the Riverlands,Tim Plester
+57,In_the_Riverlands,In the Riverlands,Clive Russell
+57,In_the_Riverlands,In the Riverlands,Tobias Menzies
+57,In_the_Riverlands,In the Riverlands,Rory McCann
+57,In_the_Riverlands,In the Riverlands,Ian McShane
 58,In_the_Riverlands,In the Riverlands,Rory McCann
 58,In_the_Riverlands,In the Riverlands,Richard Dormer
 58,In_the_Riverlands,In the Riverlands,Paul Kaye
