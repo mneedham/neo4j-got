@@ -1,47 +1,47 @@
-actor,character,season,episode
-Peter Dinklage,Tyrion Lannister,6,8
-Nikolaj Coster-Waldau,Ser Jaime Lannister,6,8
-Lena Headey,Queen Mother Cersei Lannister,6,8
-Emilia Clarke,Queen Daenerys Targaryen,6,8
-Nathalie Emmanuel,Missandei,6,8
-Maisie Williams,Arya Stark,6,8
-Conleth Hill,Varys,6,8
-Rory McCann,Sandor Clegane,6,8
-Jerome Flynn,Ser Bronn,6,8
-Gwendoline Christie,Brienne of Tarth,6,8
-Tom Wlaschiha,Jaqen H'ghar,6,8
-Dean-Charles Chapman,King Tommen Baratheon,6,8
-Richard E. Grant,Izembaro (voice),6,8
-Essie Davis,Lady Crane,6,8
-Julian Glover,Grand Maester Pycelle,6,8
-Anton Lesser,Qyburn,6,8
-Ian Gelder,Ser Kevan Lannister,6,8
-Faye Marsay,the Waif,6,8
-Jacob Anderson,Grey Worm,6,8
-Richard Dormer,Lord Beric Dondarrion,6,8
-Paul Kaye,Thoros of Myr,6,8
-Clive Russell,Ser Brynden Tully,6,8
-Tobias Menzies,Lord Edmure Tully,6,8
-Tim Plester,Walder Rivers,6,8
-Daniel Tuite,Lothar Frey,6,8
-Daniel Portman,Podrick Payne,6,8
-Eugene Simon,Lancel,6,8
-Roger Ashton-Griffiths,Lord Mace Tyrell,6,8
-Hafþór Júlíus Björnsson,Ser Gregor Clegane,6,8
-Jóhannes Haukur Jóhannesson,Lem,6,8
-Melanie Liburd,a Red Priestess,6,8
-Leigh Gill,Bobono (voice),6,8
-Rob Callender,Clarenzo,6,8
-Sam Redford,a Tully bannerman,6,8
-Ricky Champ,Gatins,6,8
-Ian Davies,Morgan,6,8
-Ross McKinney,Riddell,6,8
-Steve Love,Steve,6,8
-Brahm Gallagher,a Lannister soldier,6,8
-Adam Turns,the Waif's disguise,6,8
-Nanna Bryndís Hilmarsdóttir,a musician,6,8
-Ragnar Þórhallsson,a musician,6,8
-Arnar Rósenkranz Hilmarsson,a musician,6,8
-Brynjar Leifsson,a musician,6,8
-Kristján Páll Kristjánsson,a musician,6,8
-Tyrone Kearns,a Brotherhood member,6,8
+actor,character,episodeId
+Peter Dinklage,Tyrion Lannister,58
+Nikolaj Coster-Waldau,Ser Jaime Lannister,58
+Lena Headey,Queen Mother Cersei Lannister,58
+Emilia Clarke,Queen Daenerys Targaryen,58
+Nathalie Emmanuel,Missandei,58
+Maisie Williams,Arya Stark,58
+Conleth Hill,Varys,58
+Rory McCann,Sandor Clegane,58
+Jerome Flynn,Ser Bronn,58
+Gwendoline Christie,Brienne of Tarth,58
+Tom Wlaschiha,Jaqen H'ghar,58
+Dean-Charles Chapman,King Tommen Baratheon,58
+Richard E. Grant,Izembaro (voice),58
+Essie Davis,Lady Crane,58
+Julian Glover,Grand Maester Pycelle,58
+Anton Lesser,Qyburn,58
+Ian Gelder,Ser Kevan Lannister,58
+Faye Marsay,the Waif,58
+Jacob Anderson,Grey Worm,58
+Richard Dormer,Lord Beric Dondarrion,58
+Paul Kaye,Thoros of Myr,58
+Clive Russell,Ser Brynden Tully,58
+Tobias Menzies,Lord Edmure Tully,58
+Tim Plester,Walder Rivers,58
+Daniel Tuite,Lothar Frey,58
+Daniel Portman,Podrick Payne,58
+Eugene Simon,Lancel,58
+Roger Ashton-Griffiths,Lord Mace Tyrell,58
+Hafþór Júlíus Björnsson,Ser Gregor Clegane,58
+Jóhannes Haukur Jóhannesson,Lem,58
+Melanie Liburd,a Red Priestess,58
+Leigh Gill,Bobono (voice),58
+Rob Callender,Clarenzo,58
+Sam Redford,a Tully bannerman,58
+Ricky Champ,Gatins,58
+Ian Davies,Morgan,58
+Ross McKinney,Riddell,58
+Steve Love,Steve,58
+Brahm Gallagher,a Lannister soldier,58
+Adam Turns,the Waif's disguise,58
+Nanna Bryndís Hilmarsdóttir,a musician,58
+Ragnar Þórhallsson,a musician,58
+Arnar Rósenkranz Hilmarsson,a musician,58
+Brynjar Leifsson,a musician,58
+Kristján Páll Kristjánsson,a musician,58
+Tyrone Kearns,a Brotherhood member,58
