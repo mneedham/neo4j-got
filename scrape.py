@@ -82,12 +82,9 @@ with open("data/import/characters.csv", "w") as characters_file:
         characters = episodes[episode_id]['characters']
         for raw_character in characters:
             raw_character = raw_character.text.replace(u'\xa0', u' ')
-            # exploded_character = raw_character.split(" as ")
-            # print exploded_character
             matches = re.match( "([A-Za-z\-'\.^\W\d_ ]*) as ([A-Za-z\-'\.^\W\d_ ]*)", raw_character)
             if matches is not None:
                 actor, character = matches.groups()
-                # actor, character = [item.strip().replace("\n", "") for item in exploded_character]
                 writer.writerow([actor.strip().encode("utf-8"), character.strip().encode("utf-8"), episode_id])
 
 with open("data/import/locations.csv", "w") as locations_file:
