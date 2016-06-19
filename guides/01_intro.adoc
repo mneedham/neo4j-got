@@ -164,10 +164,55 @@ MERGE (location:Location {name: 'Winterfell'})
 RETURN location
 ----
 
-== The real dataset
+== Create relationships
 
-Game of Thrones!
+Now we need to connect our nodes together.
 
-<Put a GoT picture here>
+We'll start by writing a query to find and return `Arya Stark` and `House Stark`:
 
-We've scrapped some data from the various Wikis and converted it into CSV format to make it easy to load into neo4j.
+[source, cypher]
+----
+MATCH (allegiance:Allegiance {name: 'House Stark'})
+MATCH (character:Character {name: 'Arya Stark'})
+RETURN character, allegiance
+----
+
+To create a relationship between them we can use the `CREATE` or `MERGE` keywords.
+
+[source, cypher]
+----
+MATCH (allegiance:Allegiance {name: 'House Stark'})
+MATCH (character:Character {name: 'Arya Stark'})
+CREATE (character)-[:HAS_ALLEGIANCE_TO]->(allegiance)
+----
+
+or
+
+[source, cypher]
+----
+MATCH (allegiance:Allegiance {name: 'House Stark'})
+MATCH (character:Character {name: 'Arya Stark'})
+MERGE (character)-[:HAS_ALLEGIANCE_TO]->(allegiance)
+----
+
+The `MERGE` version of the query will only create the relationship once no matter how many times we run it.
+The `CREATE` version will create a new relationship each time we run it.
+
+== Exercise: Create a relationship between `Arya Stark` and `Winterfell`
+
+Following the example in the previous example, let's now create a relationship with Arya and Winterfell.
+
+== Answer: Create a relationship between `Arya Stark` and `Winterfell`
+
+[source, cypher]
+----
+MATCH (character:Character {name: 'Arya Stark'})
+MATCH (location:Location {name: 'Winterfell'})
+MERGE (character)-[:COMES_FROM]->(location)
+----
+
+== Next Step
+
+In the next section we're going to import the full dataset and play with that
+
+pass:a[<a play-topic='{guides}/02_got.html'>Game of Thrones dataset</a>]
