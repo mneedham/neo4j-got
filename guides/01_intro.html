@@ -1,0 +1,513 @@
+<style type="text/css" media="screen">
+/*
+.nodes-image {
+	margin:-100;
+}
+*/	
+@import url("//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css");
+
+.imageblock .content img {max-width: 900px;max-height: 300px;}
+.deck h3, .deck h4 {display: block !important;margin-bottom:8px;margin-top:5px;}
+.listingblock {margin:8px;}
+.pull-bottom {position:relative;bottom:1em;}
+.admonitionblock td.icon [class^="fa icon-"]{font-size:2.5em;text-shadow:1px 1px 2px rgba(0,0,0,.5);cursor:default}
+.admonitionblock td.icon .icon-note:before{content:"\f05a";color:#19407c}
+.admonitionblock td.icon .icon-tip:before{content:"\f0eb";text-shadow:1px 1px 2px rgba(155,155,0,.8);color:#111}
+.admonitionblock td.icon .icon-warning:before{content:"\f071";color:#bf6900}
+.admonitionblock td.icon .icon-caution:before{content:"\f06d";color:#bf3400}
+.admonitionblock td.icon .icon-important:before{content:"\f06a";color:#bf0000}
+</style>
+<style type="text/css" media="screen">
+#editor.maximize-editor .CodeMirror-code { font-size:24px; line-height:26px; }
+</style>
+<article class="guide" ng-controller="AdLibDataController">
+  <carousel class="deck container-fluid">
+    <!--slide class="row-fluid">
+      <div class="col-sm-3">
+        <h3>Similar groups</h3>
+        <p class="lead">Information</p>
+			<!dl>
+				
+				
+				
+				
+				
+			</dl>
+		</div>
+      <div class="col-sm-9">
+        <figure>
+          <img style="width:300px" src=""/>
+        </figure>
+      </div>
+    </slide-->
+    
+
+
+<slide class="row-fluid">
+  <div class="col-sm-12">
+    <h3>Intro to Neo4j</h3>
+    <br/>
+    <div>
+      <div class="paragraph">
+<p>Something something, introduction, not sure how much we should do</p>
+</div>
+	</div>
+  </div>
+</slide>
+
+
+
+<slide class="row-fluid">
+  <div class="col-sm-12">
+    <h3>What is Cypher ?</h3>
+    <br/>
+    <div>
+      <div class="ulist">
+<ul>
+<li>
+<p>Ascii Art + Query Language = Cypher</p>
+</li>
+<li>
+<p>Declarative, Readable, Concise</p>
+</li>
+<li>
+<p>Made for Graphs</p>
+</li>
+<li>
+<p>All about Patterns</p>
+</li>
+</ul>
+</div>
+	</div>
+  </div>
+</slide>
+
+
+
+<slide class="row-fluid">
+  <div class="col-sm-12">
+    <h3>Nodes</h3>
+    <br/>
+    <div>
+      
+
+
+   <h4><code>()</code> or <code>(n)</code></h4>
+   <div class="ulist">
+<ul>
+<li>
+<p>Surrounded with <em>parentheses</em></p>
+</li>
+<li>
+<p>Use an <em>alias</em> to refer to our node later</p>
+</li>
+</ul>
+</div>
+
+
+
+   <h4><code>(n:Label)</code></h4>
+   <div class="ulist">
+<ul>
+<li>
+<p>Specify a <code>Label</code> - grouping nodes by roles or types</p>
+</li>
+<li>
+<p>Think of <code>Labels</code> like "Tables"++</p>
+</li>
+</ul>
+</div>
+
+
+
+   <h4><code>(n:Label {prop: 'value'})</code></h4>
+   <div class="ulist">
+<ul>
+<li>
+<p>Nodes can have <em>properties</em></p>
+</li>
+</ul>
+</div>
+	</div>
+  </div>
+</slide>
+
+
+
+<slide class="row-fluid">
+  <div class="col-sm-12">
+    <h3>Relationships</h3>
+    <br/>
+    <div>
+      
+
+
+   <h4><code>--&gt;</code> or <code>-[:TYPE]-&gt;</code></h4>
+   <div class="ulist">
+<ul>
+<li>
+<p>Encased with <em>hypens</em> &amp; <em>square brackets</em></p>
+</li>
+<li>
+<p>Like labels, a <em>relationship type</em> starts with a <em>colon</em> <code>:</code></p>
+</li>
+<li>
+<p><code>&lt; &gt;</code> Specify the direction of the relationship</p>
+</li>
+</ul>
+</div>
+
+
+
+   <h4><code>-[:KNOWS {since: 2010}]-&gt;</code></h4>
+   <div class="ulist">
+<ul>
+<li>
+<p>Relationships can have properties too!</p>
+</li>
+</ul>
+</div>
+	</div>
+  </div>
+</slide>
+
+
+
+<slide class="row-fluid">
+  <div class="col-sm-12">
+    <h3>Your Turn - <code>CREATE</code> Arya</h3>
+    <br/>
+    <div>
+      <div class="paragraph">
+<p>We&#8217;ll use the <code>CREATE</code> keyword to create a node representing Arya Stark.
+Run the following query:</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->CREATE (:Character {name: 'Arya Stark'})<!--/code--></pre>
+</div>
+</div>
+<div class="paragraph">
+<p>This query:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>creates a node</p>
+</li>
+<li>
+<p>with the <code>Character</code> label and</p>
+</li>
+<li>
+<p>a <code>name</code> property with value <code>Arya Stark</code></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Properties are stored as key/value pairs.
+The allowed data types are: strings, numbers, booleans and arrays.</p>
+</div>
+	</div>
+  </div>
+</slide>
+
+
+
+<slide class="row-fluid">
+  <div class="col-sm-12">
+    <h3>MATCH - Finding Arya</h3>
+    <br/>
+    <div>
+      <div class="paragraph">
+<p>Now let&#8217;s try and find Arya.</p>
+</div>
+<div class="paragraph">
+<p>We want to <code>MATCH</code> a pattern in the graph.
+In this case that pattern is a node with the <code>Character</code> label and with the <code>name</code> property set to <code>Arya Stark</code>.</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->MATCH (character:Character {name: 'Arya Stark'})
+RETURN character<!--/code--></pre>
+</div>
+</div>
+<div class="paragraph">
+<p>This is syntactic sugar for the following long hand:</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->MATCH (character:Character)
+WHERE character.name = 'Arya Stark'
+RETURN character<!--/code--></pre>
+</div>
+</div>
+	</div>
+  </div>
+</slide>
+
+
+
+<slide class="row-fluid">
+  <div class="col-sm-12">
+    <h3>SET - Add and update properties</h3>
+    <br/>
+    <div>
+      <div class="paragraph">
+<p>Let&#8217;s add Arya&#8217;s title to the Arya node:</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->MATCH (character:Character {name: 'Arya Stark'})
+SET character.title = "Princess"
+RETURN character<!--/code--></pre>
+</div>
+</div>
+	</div>
+  </div>
+</slide>
+
+
+
+<slide class="row-fluid">
+  <div class="col-sm-12">
+    <h3>Schema-less by default</h3>
+    <br/>
+    <div>
+      <div class="paragraph">
+<p>Try creating Arya again:</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->CREATE (:Character {name: 'Arya Stark'})<!--/code--></pre>
+</div>
+</div>
+<div class="paragraph">
+<p>What happens?</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre>MATCH (character:Character {name: 'Arya Stark'})
+RETURN character</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>Oh no! We&#8217;ve now got two Aryas!</p>
+</div>
+	</div>
+  </div>
+</slide>
+
+
+
+<slide class="row-fluid">
+  <div class="col-sm-12">
+    <h3>Constraints</h3>
+    <br/>
+    <div>
+      <div class="paragraph">
+<p>Neo4j is schema optional and by default no schema is applied which we saw on the previous section.</p>
+</div>
+<div class="paragraph">
+<p>We&#8217;d like to ensure that we don&#8217;t have two characters with the same <code>name</code>.
+We&#8217;ll create a unique constraint to do this.</p>
+</div>
+<div class="paragraph">
+<p>A unique constraint will:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Assert uniqueness</p>
+</li>
+<li>
+<p>For a given property</p>
+</li>
+<li>
+<p>On a particular Label</p>
+</li>
+</ul>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->CREATE CONSTRAINT ON (c:Character)
+ASSERT c.name IS UNIQUE;<!--/code--></pre>
+</div>
+</div>
+<div class="paragraph">
+<p>Unfortunately we can&#8217;t actually create the constraint because we already have two <code>Character</code> nodes with the same <code>name</code>.</p>
+</div>
+	</div>
+  </div>
+</slide>
+
+
+
+<slide class="row-fluid">
+  <div class="col-sm-12">
+    <h3>Deleting the second Arya</h3>
+    <br/>
+    <div>
+      <div class="paragraph">
+<p>We need to delete the second Arya we created.</p>
+</div>
+<div class="paragraph">
+<p>We can work out which node that is by finding the one that doesn&#8217;t have the <code>title</code> property.
+We&#8217;ll then use the <code>DELETE</code> command to get rid of that node:</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->MATCH (character:Character {name: 'Arya Stark'})
+WHERE NOT EXISTS (character.title)
+DELETE character<!--/code--></pre>
+</div>
+</div>
+<div class="paragraph">
+<p>Now we can try and apply our constraint again:</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->CREATE CONSTRAINT ON (c:Character)
+ASSERT c.name IS UNIQUE;<!--/code--></pre>
+</div>
+</div>
+	</div>
+  </div>
+</slide>
+
+
+
+<slide class="row-fluid">
+  <div class="col-sm-12">
+    <h3>MERGE - Get-Or-Create</h3>
+    <br/>
+    <div>
+      <div class="paragraph">
+<p>Now let&#8217;s try and create Arya again:</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->CREATE (:Character {name: 'Arya Stark'})<!--/code--></pre>
+</div>
+</div>
+<div class="paragraph">
+<p>This time the unique constraint stops us.</p>
+</div>
+<div class="paragraph">
+<p>The <code>MERGE</code> keyword can come in useful here.
+<code>MERGE</code> will:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><code>MATCH</code> to check the whole pattern exists</p>
+</li>
+<li>
+<p>If not, Cypher will <code>CREATE</code> it</p>
+</li>
+<li>
+<p><code>MERGE</code>-ing on the constraint - ensures strong guarantees</p>
+</li>
+</ul>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->MERGE (character:Character {name: 'Arya Stark'})
+RETURN character<!--/code--></pre>
+</div>
+</div>
+	</div>
+  </div>
+</slide>
+
+
+
+<slide class="row-fluid">
+  <div class="col-sm-12">
+    <h3>ON CREATE / MATCH SET - Conditionals</h3>
+    <br/>
+    <div>
+      
+	</div>
+  </div>
+</slide>
+
+
+
+<slide class="row-fluid">
+  <div class="col-sm-12">
+    <h3>The real dataset</h3>
+    <br/>
+    <div>
+      <div class="paragraph">
+<p>Game of Thrones!</p>
+</div>
+<div class="paragraph">
+<p>&lt;Put a GoT picture here&gt;</p>
+</div>
+<div class="paragraph">
+<p>We&#8217;ve scrapped some data from the various Wikis and converted it into CSV format to make it easy to load into neo4j.</p>
+</div>
+	</div>
+  </div>
+</slide>
+
+
+
+<slide class="row-fluid">
+  <div class="col-sm-12">
+    <h3>What&#8217;s the most popular topic?</h3>
+    <br/>
+    <div>
+      <div class="listingblock">
+<div class="content">
+<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->MATCH (t:Topic)<-[:HAS_TOPIC]-()
+RETURN t.name, COUNT(*) AS count
+ORDER BY count DESC<!--/code--></pre>
+</div>
+</div>
+<div class="paragraph">
+<p><em>Hint:</em> The <a href="http://neo4j.com/docs/milestone/cypher-refcard/">Cypher refcard</a> will come in handy for syntax we haven&#8217;t covered yet!</p>
+</div>
+	</div>
+  </div>
+</slide>
+
+
+
+<slide class="row-fluid">
+  <div class="col-sm-12">
+    <h3>Which group was created most recently?</h3>
+    <br/>
+    <div>
+      <div class="listingblock">
+<div class="content">
+<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->MATCH (g:Group)
+RETURN g
+ORDER BY g.created DESC
+LIMIT 1<!--/code--></pre>
+</div>
+</div>
+	</div>
+  </div>
+</slide>
+
+
+
+<slide class="row-fluid">
+  <div class="col-sm-12">
+    <h3>How many groups have been running for at least 4 years?</h3>
+    <br/>
+    <div>
+      <div class="listingblock">
+<div class="content">
+<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->WITH (4 * 365 * 24 * 60 * 60 * 1000) AS fourYears
+MATCH (g:Group)
+WHERE g.created < timestamp() - fourYears
+RETURN g<!--/code--></pre>
+</div>
+</div>
+	</div>
+  </div>
+</slide>
+  </carousel>
+</article>

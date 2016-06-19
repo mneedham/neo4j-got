@@ -1,0 +1,222 @@
+= Similar groups
+:csv-url: https://raw.githubusercontent.com/neo4j-meetups/modeling-worked-example/master/data/
+:icons: font
+
+== Intro to Neo4j
+
+Something something, introduction, not sure how much we should do
+
+== What is Cypher ?
+
+[options={options}]
+* Ascii Art + Query Language = Cypher
+* Declarative, Readable, Concise
+* Made for Graphs
+* All about Patterns
+
+== Nodes
+
+=== `()` or `(n)`
+
+* Surrounded with _parentheses_
+* Use an _alias_ to refer to our node later
+
+=== `(n:Label)`
+
+* Specify a `Label` - grouping nodes by roles or types
+* Think of `Labels` like "Tables"++
+
+=== `(n:Label {prop: 'value'})`
+
+* Nodes can have _properties_
+
+== Relationships
+
+=== `+-->+` or `+-[:TYPE]->+`
+
+[options={options}]
+* Encased with _hypens_ & _square brackets_
+* Like labels, a _relationship type_ starts with a _colon_ `:`
+* `< >` Specify the direction of the relationship
+
+=== `+-[:KNOWS {since: 2010}]->+`
+
+* Relationships can have properties too!
+
+== Your Turn - `CREATE` Arya
+
+We'll use the `CREATE` keyword to create a node representing Arya Stark.
+Run the following query:
+
+[source,cypher]
+----
+CREATE (:Character {name: 'Arya Stark'})
+----
+
+This query:
+
+* creates a node
+* with the `Character` label and
+* a `name` property with value `Arya Stark`
+
+Properties are stored as key/value pairs.
+The allowed data types are: strings, numbers, booleans and arrays.
+
+== MATCH - Finding Arya
+
+Now let's try and find Arya.
+
+We want to `MATCH` a pattern in the graph.
+In this case that pattern is a node with the `Character` label and with the `name` property set to `Arya Stark`.
+
+[source,cypher]
+----
+MATCH (character:Character {name: 'Arya Stark'})
+RETURN character
+----
+
+This is syntactic sugar for the following long hand:
+
+[source,cypher]
+----
+MATCH (character:Character)
+WHERE character.name = 'Arya Stark'
+RETURN character
+----
+
+== SET - Add and update properties
+
+Let's add Arya's title to the Arya node:
+
+[source, cypher]
+----
+MATCH (character:Character {name: 'Arya Stark'})
+SET character.title = "Princess"
+RETURN character
+----
+
+== Schema-less by default
+
+Try creating Arya again:
+
+[source,cypher]
+----
+CREATE (:Character {name: 'Arya Stark'})
+----
+
+What happens?
+
+----
+MATCH (character:Character {name: 'Arya Stark'})
+RETURN character
+----
+
+Oh no! We've now got two Aryas!
+
+== Constraints
+
+Neo4j is schema optional and by default no schema is applied which we saw on the previous section.
+
+We'd like to ensure that we don't have two characters with the same `name`.
+We'll create a unique constraint to do this.
+
+A unique constraint will:
+
+* Assert uniqueness
+* For a given property
+* On a particular Label
+
+[source, cypher]
+----
+CREATE CONSTRAINT ON (c:Character)
+ASSERT c.name IS UNIQUE;
+----
+
+Unfortunately we can't actually create the constraint because we already have two `Character` nodes with the same `name`.
+
+== Deleting the second Arya
+
+We need to delete the second Arya we created.
+
+We can work out which node that is by finding the one that doesn't have the `title` property.
+We'll then use the `DELETE` command to get rid of that node:
+
+[source, cypher]
+----
+MATCH (character:Character {name: 'Arya Stark'})
+WHERE NOT EXISTS (character.title)
+DELETE character
+----
+
+Now we can try and apply our constraint again:
+
+[source, cypher]
+----
+CREATE CONSTRAINT ON (c:Character)
+ASSERT c.name IS UNIQUE;
+----
+
+== MERGE - Get-Or-Create
+
+Now let's try and create Arya again:
+
+[source,cypher]
+----
+CREATE (:Character {name: 'Arya Stark'})
+----
+
+This time the unique constraint stops us.
+
+The `MERGE` keyword can come in useful here.
+`MERGE` will:
+
+* `MATCH` to check the whole pattern exists
+* If not, Cypher will `CREATE` it
+* `MERGE`-ing on the constraint - ensures strong guarantees
+
+[source, cypher]
+----
+MERGE (character:Character {name: 'Arya Stark'})
+RETURN character
+----
+
+== ON CREATE / MATCH SET - Conditionals
+
+== The real dataset
+
+Game of Thrones!
+
+<Put a GoT picture here>
+
+We've scrapped some data from the various Wikis and converted it into CSV format to make it easy to load into neo4j.
+
+==  What's the most popular topic?
+
+[source,cypher,subs=attributes]
+----
+MATCH (t:Topic)<-[:HAS_TOPIC]-()
+RETURN t.name, COUNT(*) AS count
+ORDER BY count DESC
+----
+
+_Hint:_ The link:http://neo4j.com/docs/milestone/cypher-refcard/[Cypher refcard] will come in handy for syntax we haven't covered yet!
+
+== Which group was created most recently?
+
+[source,cypher,subs=attributes]
+----
+MATCH (g:Group)
+RETURN g
+ORDER BY g.created DESC
+LIMIT 1
+----
+
+== How many groups have been running for at least 4 years?
+
+[source,cypher,subs=attributes]
+----
+WITH (4 * 365 * 24 * 60 * 60 * 1000) AS fourYears
+MATCH (g:Group)
+WHERE g.created < timestamp() - fourYears
+RETURN g
+----
