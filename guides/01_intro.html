@@ -423,10 +423,41 @@ RETURN character<!--/code--></pre>
 
 <slide class="row-fluid">
   <div class="col-sm-12">
-    <h3>ON CREATE / MATCH SET - Conditionals</h3>
+    <h3>Exercise: Create some more nodes</h3>
     <br/>
     <div>
-      
+      <div class="paragraph">
+<p>Now it&#8217;s your turn!
+We need to create nodes to represent <code>House Stark</code> and <code>Winterfell</code>.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="http://localhost:8001/img/nodes.png" alt="nodes">
+</div>
+</div>
+	</div>
+  </div>
+</slide>
+
+
+
+<slide class="row-fluid">
+  <div class="col-sm-12">
+    <h3>Answer: Create some more nodes</h3>
+    <br/>
+    <div>
+      <div class="listingblock">
+<div class="content">
+<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->MERGE (allegiance:Allegiance {name: 'House Stark'})
+RETURN allegiance<!--/code--></pre>
+</div>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->MERGE (location:Location {name: 'Winterfell'})
+RETURN location<!--/code--></pre>
+</div>
+</div>
 	</div>
   </div>
 </slide>
@@ -446,65 +477,6 @@ RETURN character<!--/code--></pre>
 </div>
 <div class="paragraph">
 <p>We&#8217;ve scrapped some data from the various Wikis and converted it into CSV format to make it easy to load into neo4j.</p>
-</div>
-	</div>
-  </div>
-</slide>
-
-
-
-<slide class="row-fluid">
-  <div class="col-sm-12">
-    <h3>What&#8217;s the most popular topic?</h3>
-    <br/>
-    <div>
-      <div class="listingblock">
-<div class="content">
-<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->MATCH (t:Topic)<-[:HAS_TOPIC]-()
-RETURN t.name, COUNT(*) AS count
-ORDER BY count DESC<!--/code--></pre>
-</div>
-</div>
-<div class="paragraph">
-<p><em>Hint:</em> The <a href="http://neo4j.com/docs/milestone/cypher-refcard/">Cypher refcard</a> will come in handy for syntax we haven&#8217;t covered yet!</p>
-</div>
-	</div>
-  </div>
-</slide>
-
-
-
-<slide class="row-fluid">
-  <div class="col-sm-12">
-    <h3>Which group was created most recently?</h3>
-    <br/>
-    <div>
-      <div class="listingblock">
-<div class="content">
-<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->MATCH (g:Group)
-RETURN g
-ORDER BY g.created DESC
-LIMIT 1<!--/code--></pre>
-</div>
-</div>
-	</div>
-  </div>
-</slide>
-
-
-
-<slide class="row-fluid">
-  <div class="col-sm-12">
-    <h3>How many groups have been running for at least 4 years?</h3>
-    <br/>
-    <div>
-      <div class="listingblock">
-<div class="content">
-<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->WITH (4 * 365 * 24 * 60 * 60 * 1000) AS fourYears
-MATCH (g:Group)
-WHERE g.created < timestamp() - fourYears
-RETURN g<!--/code--></pre>
-</div>
 </div>
 	</div>
   </div>

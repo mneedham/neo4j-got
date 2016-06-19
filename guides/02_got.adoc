@@ -1,0 +1,11 @@
+= Similar groups
+:csv-url: https://raw.githubusercontent.com/neo4j-meetups/modeling-worked-example/master/data/
+:icons: font
+
+== The Game of Thrones dataset
+
+Game of Thrones!
+
+<Put a GoT picture here>
+
+We've scrapped some data from the various Wikis and converted it into CSV format to make it easy to load into neo4j.
