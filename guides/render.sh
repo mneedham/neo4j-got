@@ -10,15 +10,15 @@ $GUIDES/run.sh 02_got.adoc 02_got.html +1 "$@"
 
 # -a env-training is a flag to enable full content, if you comment it out, the guides are rendered minimally e.g. for a presentation
 if [ "$1" == "publish" ]; then
-  URL=guides.neo4j.com/reco
-  render http://$URL -a csv-url=https://raw.githubusercontent.com/neo4j-meetups/modeling-worked-example/master/data/ -a env-training
+  URL=guides.neo4j.com/got
+  render http://$URL -a csv-url=https://raw.githubusercontent.com/mneedham/neo4j-got/master/data/import -a env-training
   s3cmd put --recursive -P *.html img s3://${URL}/
   s3cmd put -P index.html s3://${URL}
 
-  URL=guides.neo4j.com/reco/file
-  render http://$URL -a env-training -a csv-url=file:///
-  s3cmd put --recursive -P *.html img s3://${URL}/
-  s3cmd put -P index.html s3://${URL}
+  # URL=guides.neo4j.com/reco/file
+  # render http://$URL -a env-training -a csv-url=file:///
+  # s3cmd put --recursive -P *.html img s3://${URL}/
+  # s3cmd put -P index.html s3://${URL}
   echo "Publication Done"
 else
   URL=localhost:8001

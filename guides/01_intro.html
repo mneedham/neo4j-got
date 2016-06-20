@@ -59,122 +59,6 @@
 
 <slide class="row-fluid">
   <div class="col-sm-12">
-    <h3>What is Cypher ?</h3>
-    <br/>
-    <div>
-      <div class="ulist">
-<ul>
-<li>
-<p>Ascii Art + Query Language = Cypher</p>
-</li>
-<li>
-<p>Declarative, Readable, Concise</p>
-</li>
-<li>
-<p>Made for Graphs</p>
-</li>
-<li>
-<p>All about Patterns</p>
-</li>
-</ul>
-</div>
-	</div>
-  </div>
-</slide>
-
-
-
-<slide class="row-fluid">
-  <div class="col-sm-12">
-    <h3>Nodes</h3>
-    <br/>
-    <div>
-      
-
-
-   <h4><code>()</code> or <code>(n)</code></h4>
-   <div class="ulist">
-<ul>
-<li>
-<p>Surrounded with <em>parentheses</em></p>
-</li>
-<li>
-<p>Use an <em>alias</em> to refer to our node later</p>
-</li>
-</ul>
-</div>
-
-
-
-   <h4><code>(n:Label)</code></h4>
-   <div class="ulist">
-<ul>
-<li>
-<p>Specify a <code>Label</code> - grouping nodes by roles or types</p>
-</li>
-<li>
-<p>Think of <code>Labels</code> like "Tables"++</p>
-</li>
-</ul>
-</div>
-
-
-
-   <h4><code>(n:Label {prop: 'value'})</code></h4>
-   <div class="ulist">
-<ul>
-<li>
-<p>Nodes can have <em>properties</em></p>
-</li>
-</ul>
-</div>
-	</div>
-  </div>
-</slide>
-
-
-
-<slide class="row-fluid">
-  <div class="col-sm-12">
-    <h3>Relationships</h3>
-    <br/>
-    <div>
-      
-
-
-   <h4><code>--&gt;</code> or <code>-[:TYPE]-&gt;</code></h4>
-   <div class="ulist">
-<ul>
-<li>
-<p>Encased with <em>hypens</em> &amp; <em>square brackets</em></p>
-</li>
-<li>
-<p>Like labels, a <em>relationship type</em> starts with a <em>colon</em> <code>:</code></p>
-</li>
-<li>
-<p><code>&lt; &gt;</code> Specify the direction of the relationship</p>
-</li>
-</ul>
-</div>
-
-
-
-   <h4><code>-[:KNOWS {since: 2010}]-&gt;</code></h4>
-   <div class="ulist">
-<ul>
-<li>
-<p>Relationships can have properties too!</p>
-</li>
-</ul>
-</div>
-	</div>
-  </div>
-</slide>
-
-
-
-<slide class="row-fluid">
-  <div class="col-sm-12">
     <h3>Your Turn - <code>CREATE</code> Arya</h3>
     <br/>
     <div>
@@ -432,7 +316,7 @@ We need to create nodes to represent <code>House Stark</code> and <code>Winterfe
 </div>
 <div class="imageblock">
 <div class="content">
-<img src="http://localhost:8001/img/nodes.png" alt="nodes">
+<img src="http://guides.neo4j.com/got/img/nodes.png" alt="nodes">
 </div>
 </div>
 	</div>
@@ -466,17 +350,94 @@ RETURN location<!--/code--></pre>
 
 <slide class="row-fluid">
   <div class="col-sm-12">
-    <h3>The real dataset</h3>
+    <h3>Create relationships</h3>
     <br/>
     <div>
       <div class="paragraph">
-<p>Game of Thrones!</p>
+<p>Now we need to connect our nodes together.</p>
 </div>
 <div class="paragraph">
-<p>&lt;Put a GoT picture here&gt;</p>
+<p>We&#8217;ll start by writing a query to find and return <code>Arya Stark</code> and <code>House Stark</code>:</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->MATCH (allegiance:Allegiance {name: 'House Stark'})
+MATCH (character:Character {name: 'Arya Stark'})
+RETURN character, allegiance<!--/code--></pre>
+</div>
 </div>
 <div class="paragraph">
-<p>We&#8217;ve scrapped some data from the various Wikis and converted it into CSV format to make it easy to load into neo4j.</p>
+<p>To create a relationship between them we can use the <code>CREATE</code> or <code>MERGE</code> keywords.</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->MATCH (allegiance:Allegiance {name: 'House Stark'})
+MATCH (character:Character {name: 'Arya Stark'})
+CREATE (character)-[:HAS_ALLEGIANCE_TO]-&gt;(allegiance)<!--/code--></pre>
+</div>
+</div>
+<div class="paragraph">
+<p>or</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->MATCH (allegiance:Allegiance {name: 'House Stark'})
+MATCH (character:Character {name: 'Arya Stark'})
+MERGE (character)-[:HAS_ALLEGIANCE_TO]-&gt;(allegiance)<!--/code--></pre>
+</div>
+</div>
+<div class="paragraph">
+<p>The <code>MERGE</code> version of the query will only create the relationship once no matter how many times we run it.
+The <code>CREATE</code> version will create a new relationship each time we run it.</p>
+</div>
+	</div>
+  </div>
+</slide>
+
+
+
+<slide class="row-fluid">
+  <div class="col-sm-12">
+    <h3>Exercise: Create a relationship between <code>Arya Stark</code> and <code>Winterfell</code></h3>
+    <br/>
+    <div>
+      <div class="paragraph">
+<p>Following the example in the previous example, let&#8217;s now create a relationship with Arya and Winterfell.</p>
+</div>
+	</div>
+  </div>
+</slide>
+
+
+
+<slide class="row-fluid">
+  <div class="col-sm-12">
+    <h3>Answer: Create a relationship between <code>Arya Stark</code> and <code>Winterfell</code></h3>
+    <br/>
+    <div>
+      <div class="listingblock">
+<div class="content">
+<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->MATCH (character:Character {name: 'Arya Stark'})
+MATCH (location:Location {name: 'Winterfell'})
+MERGE (character)-[:COMES_FROM]-&gt;(location)<!--/code--></pre>
+</div>
+</div>
+	</div>
+  </div>
+</slide>
+
+
+
+<slide class="row-fluid">
+  <div class="col-sm-12">
+    <h3>Next Step</h3>
+    <br/>
+    <div>
+      <div class="paragraph">
+<p>In the next section we&#8217;re going to import the full dataset and play with that</p>
+</div>
+<div class="paragraph">
+<p><a play-topic='http://guides.neo4j.com/got/02_got.html'>Game of Thrones dataset</a></p>
 </div>
 	</div>
   </div>
