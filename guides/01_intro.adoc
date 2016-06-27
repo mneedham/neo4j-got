@@ -78,6 +78,10 @@ Oh no! We've now got two Aryas!
 
 == Constraints
 
+image::{img}/slides.jpg[]
+
+== Constraints
+
 Neo4j is schema optional and by default no schema is applied which we saw on the previous section.
 
 We'd like to ensure that we don't have two characters with the same `name`.

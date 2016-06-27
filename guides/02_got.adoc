@@ -4,8 +4,56 @@
 
 == The Game of Thrones dataset
 
-Game of Thrones!
+Now that you've got a bit of practice with the Cypher syntax it's time to work with a bigger dataset.
 
-<Put a GoT picture here>
+We've extracted data from the Game of Thrones Wikia and Wikipedia pages into CSV files
 
-We've scrapped some data from the various Wikis and converted it into CSV format to make it easy to load into neo4j.
+== LOAD CSV - The ETL Power Tool
+
+We're going to be using the `LOAD CSV` command in Cypher so first look at the slides for a brief introduction.
+
+image::{img}/slides.jpg[]
+
+== LOAD CSV - Exploring the data
+
+As well as importing data from CSV files we can also use `LOAD CSV` to explore those same files.
+
+Run the following query to see how many characters there are:
+
+[source, cypher]
+----
+LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/mneedham/neo4j-got/master/data/import/characters.csv" AS row
+RETURN COUNT(*)
+----
+
+Refer to the link:https://neo4j.com/docs/cypher-refcard/current/[Cypher Refcard] to see the full set of commands/functions available to us.
+
+== LOAD CSV - Exploring the data
+
+We can look at the individual rows by returning them directly rather than applying the `COUNT` function.
+
+The following query will return the first 5 rows of the CSV file.
+
+[source, cypher]
+----
+LOAD CSV WITH HEADERS FROM "" AS row
+RETURN row
+LIMIT 5
+----
+
+The `LIMIT` clause works the same way as in SQL.
+
+Try returning more rows or using the `SKIP`
+
+-- we'll do characters on this page
+
+== Create the characters
+
+Now let's combine `LOAD CSV` with the commands we learnt in the first half of the session and put all the GoT characters into our graph.
+Run the following query:
+
+[source, cypher]
+----
+LOAD CSV WITH HEADERS FROM "" AS row
+MERGE (c:Character {name: row.name})
+----
