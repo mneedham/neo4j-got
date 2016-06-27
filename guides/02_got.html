@@ -62,12 +62,95 @@
 
 <slide class="row-fluid">
   <div class="col-sm-12">
-    <h3>LOAD CSV</h3>
+    <h3>LOAD CSV - The ETL Power Tool</h3>
     <br/>
     <div>
-      <div class="imageblock">
+      <div class="paragraph">
+<p>We&#8217;re going to be using the <code>LOAD CSV</code> command in Cypher so first look at the slides for a brief introduction.</p>
+</div>
+<div class="imageblock">
 <div class="content">
 <img src="http://localhost:8001/img/slides.jpg" alt="slides">
+</div>
+</div>
+	</div>
+  </div>
+</slide>
+
+
+
+<slide class="row-fluid">
+  <div class="col-sm-12">
+    <h3>LOAD CSV - Exploring the data</h3>
+    <br/>
+    <div>
+      <div class="paragraph">
+<p>As well as importing data from CSV files we can also use <code>LOAD CSV</code> to explore those same files.</p>
+</div>
+<div class="paragraph">
+<p>Run the following query to see how many characters there are:</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/mneedham/neo4j-got/master/data/import/characters.csv" AS row
+RETURN COUNT(*)<!--/code--></pre>
+</div>
+</div>
+<div class="paragraph">
+<p>Refer to the <a href="https://neo4j.com/docs/cypher-refcard/current/">Cypher Refcard</a> to see the full set of commands/functions available to us.</p>
+</div>
+	</div>
+  </div>
+</slide>
+
+
+
+<slide class="row-fluid">
+  <div class="col-sm-12">
+    <h3>LOAD CSV - Exploring the data</h3>
+    <br/>
+    <div>
+      <div class="paragraph">
+<p>We can look at the individual rows by returning them directly rather than applying the <code>COUNT</code> function.</p>
+</div>
+<div class="paragraph">
+<p>The following query will return the first 5 rows of the CSV file.</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->LOAD CSV WITH HEADERS FROM "" AS row
+RETURN row
+LIMIT 5<!--/code--></pre>
+</div>
+</div>
+<div class="paragraph">
+<p>The <code>LIMIT</code> clause works the same way as in SQL.</p>
+</div>
+<div class="paragraph">
+<p>Try returning more rows or using the <code>SKIP</code></p>
+</div>
+<div class="paragraph">
+<p>&#8201;&#8212;&#8201;we&#8217;ll do characters on this page</p>
+</div>
+	</div>
+  </div>
+</slide>
+
+
+
+<slide class="row-fluid">
+  <div class="col-sm-12">
+    <h3>Create the characters</h3>
+    <br/>
+    <div>
+      <div class="paragraph">
+<p>Now let&#8217;s combine <code>LOAD CSV</code> with the commands we learnt in the first half of the session and put all the GoT characters into our graph.
+Run the following query:</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->LOAD CSV WITH HEADERS FROM "" AS row
+MERGE (c:Character {name: row.name})<!--/code--></pre>
 </div>
 </div>
 	</div>

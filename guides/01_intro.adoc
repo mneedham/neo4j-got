@@ -69,6 +69,7 @@ CREATE (:Character {name: 'Arya Stark'})
 
 What happens?
 
+[source,cypher]
 ----
 MATCH (character:Character {name: 'Arya Stark'})
 RETURN character
