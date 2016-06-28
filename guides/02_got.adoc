@@ -1,5 +1,5 @@
 = Similar groups
-:csv-url: https://raw.githubusercontent.com/neo4j-meetups/modeling-worked-example/master/data/
+:csv-url: https://raw.githubusercontent.com/mneedham/neo4j-got/master/data/import/
 :icons: font
 
 == The Game of Thrones dataset
@@ -22,7 +22,7 @@ Run the following query to see how many characters there are:
 
 [source, cypher]
 ----
-LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/mneedham/neo4j-got/master/data/import/characters.csv" AS row
+LOAD CSV WITH HEADERS FROM "{csv-url}characters.csv" AS row
 RETURN COUNT(*)
 ----
 
@@ -36,7 +36,7 @@ The following query will return the first 5 rows of the CSV file.
 
 [source, cypher]
 ----
-LOAD CSV WITH HEADERS FROM "" AS row
+LOAD CSV WITH HEADERS FROM "{csv-url}characters.csv" AS row
 RETURN row
 LIMIT 5
 ----
@@ -54,6 +54,91 @@ Run the following query:
 
 [source, cypher]
 ----
-LOAD CSV WITH HEADERS FROM "" AS row
-MERGE (c:Character {name: row.name})
+LOAD CSV WITH HEADERS FROM "{csv-url}characters.csv" AS row
+MERGE (c:Character {id: row.link})
+ON CREATE SET c.name = row.name
 ----
+
+This query:
+
+* iterates over every row in the `characters.csv` file
+* creates a node with the `Character` label and an `id` property if such a node doesn't already exist
+* sets the `name` property if the node is being created
+
+== Finding characters
+
+Now let's see what we've imported into the database.
+Run the following query to see a sample of the nodes we've just created:
+
+[source, cypher]
+----
+MATCH (c:Character)
+RETURN c
+ORDER BY rand()
+LIMIT 25
+----
+
+The use of the `rand()` function means we get a different 25 characters each time.
+Try running the query a few times.
+
+Now that we've got the characters loaded it's time to import some episodes for them to appear in.
+
+== Importing episodes
+
+We have a CSV file containing episodes which we can explore by running the following query:
+
+[source, cypher]
+----
+LOAD CSV WITH HEADERS FROM "{csv-url}overview.csv" AS row
+RETURN row
+LIMIT 10
+----
+
+We'll run the following query to create a node for each episode:
+
+[source, cypher]
+----
+LOAD CSV WITH HEADERS FROM "{csv-url}overview.csv" AS row
+MERGE (episode:Episode {id: TOINT(row.episodeId)})
+ON CREATE SET
+  episode.season = TOINT(row.season),
+  episode.number = TOINT(row.episode),
+  episode.title = row.title
+----
+
+By default properties have the `String` data type.
+In this case we want `season`, `number` and `id` to be numeric so we coerce the data using the `TOINT` function.
+
+So now we've got characters and episodes but we still haven't got a graph as they aren't connected yet.
+Let's do that next
+
+== Connecting episodes and characters
+
+(Surprise, surprise) We also have a CSV file containing the episodes that characters appeared in.
+We can explore that by running the following query:
+
+[source, cypher]
+----
+LOAD CSV WITH HEADERS FROM "{csv-url}characters_episodes.csv" AS row
+RETURN row
+LIMIT 10
+----
+
+We're going to create an `APPEARED_IN` relationship between a `Character` and `Episode` for each row in the file.
+
+[source, cypher]
+----
+LOAD CSV WITH HEADERS FROM "{csv-url}characters_episodes.csv" AS row
+
+MATCH (episode:Episode {id: TOINT(row.episodeId)})
+MATCH (character:Character {id: row.character})
+MERGE (character)-[:APPEARED_IN]->(episode)
+----
+
+This query:
+
+* looks up an episode
+* looks up a character
+* creates an `APPEARED_IN` relationship between them if one doesn't already exist.
+
+If you run this query twice you'll see that it doesn't do anything the second time around.
