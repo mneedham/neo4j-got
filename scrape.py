@@ -4,6 +4,7 @@ from soupselect import select
 import bs4
 import csv
 import re
+import sys
 
 def process_episode(episode_id):
     wikipedia = BeautifulSoup(open("data/wikipedia/{0}".format(episode_id), "r"), "html.parser")
@@ -59,10 +60,23 @@ def process_episode(episode_id):
         }
 
 episodes = {}
-
 for episode_id in range(1, 59):
     print "Processing {0}".format(episode_id)
     episodes[episode_id] = process_episode(episode_id)
+
+characters = {}
+for episode_id in episodes:
+    for raw_character in episodes[episode_id]['characters']:
+        links = select(raw_character, "a")
+        if len(links) == 2:
+            characters[links[1].get("href")] = links[1].text
+
+with open("data/import/characters.csv", "w") as characters_file:
+    writer = csv.writer(characters_file, delimiter = ",")
+    writer.writerow(["link", "character"])
+
+    for key in characters:
+        writer.writerow([key, characters[key]])
 
 with open("data/import/overview.csv", "w") as overview_file:
     writer = csv.writer(overview_file, delimiter = ",")
@@ -74,18 +88,20 @@ with open("data/import/overview.csv", "w") as overview_file:
         title = episodes[episode_id]['title']
         writer.writerow([episode_id, season, episode, title])
 
-with open("data/import/characters.csv", "w") as characters_file:
-    writer = csv.writer(characters_file, delimiter = ",")
-    writer.writerow(["actor", "character", "episodeId"])
+with open("data/import/characters_episodes.csv", "w") as characters_episodes_file:
+    writer = csv.writer(characters_episodes_file, delimiter = ",")
+    # writer.writerow(["episodeId", "locationId", "locationName", "actor"])
+    writer.writerow(["episodeId", "character"])
 
     for episode_id in episodes:
-        characters = episodes[episode_id]['characters']
-        for raw_character in characters:
-            raw_character = raw_character.text.replace(u'\xa0', u' ')
-            matches = re.match( "([^0-9\(]*) as ([^0-9\(]*)", raw_character)
-            if matches is not None:
-                actor, character = matches.groups()
-                writer.writerow([actor.strip().encode("utf-8"), character.strip().encode("utf-8"), episode_id])
+        for raw_character in episodes[episode_id]['characters']:
+            links = select(raw_character, "a")
+            if len(links) == 2:
+                character = links[1].get("href")
+                writer.writerow([episode_id, character])
+
+
+sys.exit(1)
 
 with open("data/import/locations.csv", "w") as locations_file:
     writer = csv.writer(locations_file, delimiter = ",")
@@ -95,3 +111,16 @@ with open("data/import/locations.csv", "w") as locations_file:
         actors_locations = episodes[episode_id]['actors_locations']
         for actor_location in actors_locations:
             writer.writerow(actor_location)
+
+# with open("data/import/characters.csv", "w") as characters_file:
+#     writer = csv.writer(characters_file, delimiter = ",")
+#     writer.writerow(["actor", "character", "episodeId"])
+#
+#     for episode_id in episodes:
+#         characters = episodes[episode_id]['characters']
+#         for raw_character in characters:
+#             raw_character = raw_character.text.replace(u'\xa0', u' ')
+#             matches = re.match( "([^0-9\(]*) as ([^0-9\(]*)", raw_character)
+#             if matches is not None:
+#                 actor, character = matches.groups()
+#                 writer.writerow([actor.strip().encode("utf-8"), character.strip().encode("utf-8"), episode_id])
