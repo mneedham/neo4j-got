@@ -27,7 +27,7 @@ def process_episode(episode_id):
 
     if len(characters) == 0:
         titles = select(wikia, "h3")
-        cast = [title for title in titles if len(select(title, 'span[id="Cast"]')) > 0][0]
+        cast = [t for t in titles if len(select(t, 'span[id="Cast"]')) > 0][0]
 
         starring_element = cast.next_sibling.next_sibling.next_sibling.next_sibling
         guest_starring_element = starring_element.next_sibling.next_sibling.next_sibling.next_sibling
