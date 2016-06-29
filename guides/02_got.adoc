@@ -20,7 +20,7 @@ As well as importing data from CSV files we can also use `LOAD CSV` to explore t
 
 Run the following query to see how many characters there are:
 
-[source, cypher]
+[source, cypher,subs=attributes]
 ----
 LOAD CSV WITH HEADERS FROM "{csv-url}characters.csv" AS row
 RETURN COUNT(*)
@@ -34,7 +34,7 @@ We can look at the individual rows by returning them directly rather than applyi
 
 The following query will return the first 5 rows of the CSV file.
 
-[source, cypher]
+[source, cypher,subs=attributes]
 ----
 LOAD CSV WITH HEADERS FROM "{csv-url}characters.csv" AS row
 RETURN row
@@ -43,20 +43,18 @@ LIMIT 5
 
 The `LIMIT` clause works the same way as in SQL.
 
-Try returning more rows or using the `SKIP`
-
--- we'll do characters on this page
+Try returning more rows or removing the `LIMIT` clause to see what other data the file contains.
 
 == Create the characters
 
 Now let's combine `LOAD CSV` with the commands we learnt in the first half of the session and put all the GoT characters into our graph.
 Run the following query:
 
-[source, cypher]
+[source, cypher,subs=attributes]
 ----
 LOAD CSV WITH HEADERS FROM "{csv-url}characters.csv" AS row
 MERGE (c:Character {id: row.link})
-ON CREATE SET c.name = row.name
+ON CREATE SET c.name = row.character
 ----
 
 This query:
@@ -87,7 +85,7 @@ Now that we've got the characters loaded it's time to import some episodes for t
 
 We have a CSV file containing episodes which we can explore by running the following query:
 
-[source, cypher]
+[source, cypher, subs=attributes]
 ----
 LOAD CSV WITH HEADERS FROM "{csv-url}overview.csv" AS row
 RETURN row
@@ -96,7 +94,7 @@ LIMIT 10
 
 We'll run the following query to create a node for each episode:
 
-[source, cypher]
+[source, cypher, subs=attributes]
 ----
 LOAD CSV WITH HEADERS FROM "{csv-url}overview.csv" AS row
 MERGE (episode:Episode {id: TOINT(row.episodeId)})
@@ -117,7 +115,7 @@ Let's do that next
 (Surprise, surprise) We also have a CSV file containing the episodes that characters appeared in.
 We can explore that by running the following query:
 
-[source, cypher]
+[source, cypher, subs=attributes]
 ----
 LOAD CSV WITH HEADERS FROM "{csv-url}characters_episodes.csv" AS row
 RETURN row
@@ -126,7 +124,7 @@ LIMIT 10
 
 We're going to create an `APPEARED_IN` relationship between a `Character` and `Episode` for each row in the file.
 
-[source, cypher]
+[source, cypher, subs=attributes]
 ----
 LOAD CSV WITH HEADERS FROM "{csv-url}characters_episodes.csv" AS row
 
@@ -141,4 +139,67 @@ This query:
 * looks up a character
 * creates an `APPEARED_IN` relationship between them if one doesn't already exist.
 
-If you run this query twice you'll see that it doesn't do anything the second time around.
+If you run this query again you'll see that it doesn't do anything the second time around.
+
+== Characters and Episodes
+
+We should now have a graph connecting Game of Thrones characters with the episodes that they appear in.
+
+Run the following query to check everything has imported correctly:
+
+[source, cypher]
+----
+MATCH (character:Character)-[:APPEARED_IN]->(episode:Episode)
+RETURN *
+ORDER BY rand()
+LIMIT 25
+----
+
+This query:
+
+* looks up nodes with the label `Character`
+* that have an outgoing `APPEARED_IN` relationship
+* to nodes with the label `Episode`
+* and finds 25 paths that match that pattern and returns them
+
+Spend a couple of minutes clicking around the graph visualisation to get a feel for the data we've imported.
+
+== Exercise
+
+Here's a few questions for you to try and answer:
+
+* Who appeared in the most episodes?
+* Which `Stark` character appeared the least times?
+* Which episode does `Arya Stark` not appear in?
+
+Don't forget the link:https://neo4j.com/docs/cypher-refcard/current/[Cypher Refcard] is your friend!
+
+== Answer: Who appeared in the most episodes?
+
+[source, cypher]
+----
+match (character:Character)-[:APPEARED_IN]->()
+RETURN character.name, COUNT(*) AS appearances
+ORDER BY appearances DESC
+----
+
+== Answer: Which `Stark` character appeared the least times?
+
+[source, cypher]
+----
+match (character:Character)-[:APPEARED_IN]->()
+WHERE character.name ENDS WITH "Stark"
+RETURN character.name, COUNT(*) AS appearances
+ORDER BY appearances
+LIMIT 1
+----
+
+== Answer: Which episode does `Arya Stark` not appear in?
+
+[source, cypher]
+----
+match (character:Character {name: "Arya Stark"}), (episode: Episode)
+WHERE NOT (character)-[:APPEARED_IN]->(episode)
+RETURN episode
+ORDER BY episode.id
+----
