@@ -25,6 +25,16 @@ def process_episode(episode_id):
     episode = episode.replace("Episode ", "").strip()
     characters = select(wikia, "table li")
 
+    if len(characters) == 0:
+        titles = select(wikia, "h3")
+        cast = [title for title in titles if len(select(title, 'span[id="Cast"]')) > 0][0]
+
+        starring_element = cast.next_sibling.next_sibling.next_sibling.next_sibling
+        guest_starring_element = starring_element.next_sibling.next_sibling.next_sibling.next_sibling
+        uncredited_element = guest_starring_element.next_sibling.next_sibling.next_sibling.next_sibling
+
+        characters = select(starring_element, "li") + select(guest_starring_element, "li") + select(uncredited_element, "li")
+
     actors_locations = []
     for section in [section for section in  select(wikipedia, "h3 span.mw-headline") if not section.text in ["Writing", "Casting", "Filming", "Ratings", "Critical reception"] ]:
         content = []
