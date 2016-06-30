@@ -29,7 +29,6 @@ def extract_houses(elements):
     items = []
     current = []
     for element in pre_parsed:
-        # print element.name, element
         if element.name == "br":
             items.append(current)
             current = []
