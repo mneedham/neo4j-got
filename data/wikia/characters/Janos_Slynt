@@ -1,0 +1,2489 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.24" />
+<meta name="keywords" content="Game of Thrones Wiki,gameofthrones,Janos Slynt,Season 1,Season 2,Season 4,Season 5,Cripples, Bastards and Broken Things,High Sparrow (episode),Lord of Harrenhal,Lord Commander,City Watch,Jon Snow" />
+<meta name="description" content="Lord Janos Slynt is a recurring character in the first, second, fourth and fifth seasons. He is..." />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Wikia" />
+<meta name="twitter:url" content="http://gameofthrones.wikia.com/wiki/Janos_Slynt" />
+<meta name="twitter:title" content="Janos Slynt - Game of Thrones Wiki - Wikia" />
+<meta name="twitter:description" content="Lord Janos Slynt is a recurring character in the first, second, fourth and fifth seasons. He is played by guest star Dominic Carter and debuts in &quot;Cripples, Bastards and Broken Things.&quot; Janos..." />
+<link rel="canonical" href="http://gameofthrones.wikia.com/wiki/Janos_Slynt" />
+<link rel="apple-touch-icon" href="http://img1.wikia.nocookie.net/__cb87/gameofthrones/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/gameofthrones/images/6/64/Favicon.ico/revision/latest?cb=20120302041013" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Game of Thrones Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://gameofthrones.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="Game of Thrones Wiki Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>Janos Slynt - Game of Thrones Wiki - Wikia</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images3.wikia.nocookie.net/__am/1467115692/sasses/background-dynamic%3Dtrue%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb20150716154804%252Fgameofthrones%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1920%26color-body%3D%2523000%26color-body-middle%3D%2523000000%26color-buttons%3D%25231e5467%26color-header%3D%25235f4416%26color-links%3D%252347518e%26color-page%3D%2523d7cbab%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/skins/oasis/css/oasis.scss,extensions/wikia/Forum/css/ForumTag.scss,extensions/wikia/Recirculation/styles/recirculation.scss,extensions/wikia/PortableInfobox/styles/PortableInfobox.scss,extensions/wikia/CommunityPage/styles/benefitsModal/benefitsModal.scss,extensions/wikia/VisualEditorTourExperiment/styles/VisualEditorTourExperimentInit.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationUserLoginDropdown.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationNotifications.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,extensions/wikia/GlobalNavigation/styles/GoogleSearchAPI.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/PageShare/styles/PageShare.scss,extensions/wikia/GlobalFooter/styles/GlobalFooter.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://slot1.images2.wikia.nocookie.net/__am/1467115692/sasses/background-dynamic%3Dtrue%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb20150716154804%252Fgameofthrones%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1920%26color-body%3D%2523000%26color-body-middle%3D%2523000000%26color-buttons%3D%25231e5467%26color-header%3D%25235f4416%26color-links%3D%252347518e%26color-page%3D%2523d7cbab%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/extensions/wikia/ARecoveryEngine/css/recoveryUnlock.scss" /><link rel="stylesheet" href="http://gameofthrones.wikia.com/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: gameofthrones:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="tv",
+wgWikiCategories=[],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Join the Chat","chat-start-a-chat":"Start a Chat","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live! Chat","chat-edit-count":"$1 edits","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":1,"delayBtf":true,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true,"sourcePointDetectionUrl":"http://gameofthrones.wikia.com/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/bff059a5f42252c9a2849154bd5ba1ce","yavliUrl":"http://gameofthrones.wikia.com/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/23f932df761212033f419414f6e48910"},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"esrbRating":"teen","mappedVerticalName":"ent","pageArticleId":2259,"pageIsArticle":true,"pageName":"Janos_Slynt","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"media=tv;genre=fantasy;tv=hbo;sex=m;age=18-24;age=18-34;age=25-34;esrb=mature;media=books;gnre=action;gnre=adventure;theme=sword;theme=magic;gnre=drama;gnre=fighting;theme=dragon;theme=mature;theme=zombiesex=m;age=18-24;age=25-34;age=18-34;age=teen;media=tv;media=comics;media=books;gnre=action;theme=zombie;gnre=horror;theme=postapocalypse;gnre=3rdpersonshooter;pform=xbox360;pform=ps3;esrb=mature;tv=amc;sex=m;age=13-17;age=18-24;age=under18;age=kids;age=teen;gnre=anime;media=tv;media=comics;gnre=fighting;gnre=fantasyage=under18;age=18-24;age=teen;age=kids;media=tv;media=comics;media=cards;gnre=anime;gnre=fantasy;gnre=fighting;gnre=action;gnre=adventure;pform=xbox360;pform=ps3;pform=wii;pform=ds;esrb=teen;tv=cn;theme=heroes;tv=onhulu;tv=hulu","wikiDbName":"gameofthrones","wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"tv","newWikiCategories":["ent"]},"providers":{"evolve2":true,"rubiconFastlane":true,"taboola":true},"slots":{"exitstitial":true,"invisibleHighImpact":true},"forcedProvider":null},"runtime":{"sp":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[100056,100057,100058,100059,100397],
+wgWikiFactoryTagNames=["wow","t9","skyscraper","skyscrapperwow","en"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1467115692",
+wgDBname="gameofthrones",
+wgCityId="130814",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=2259,
+wgCategories=["Characters","Recurring Characters","Season 1 Characters","Season 2 Characters","House Slynt","Lords","Small council","Season 4 Characters","City Watch of King\'s Landing","Members of the Night\'s Watch","Characters from the Crownlands","Nobility","Season 5 Characters","Status: Dead"],
+wgPageName="Janos_Slynt",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="character",
+wgNamespaceNumber=0,
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=true,
+wgStyleVersion="1467115692",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/complex","env":"prod","hostname":"ap-s86","php_version":"5.6.11","wiki":"gameofthrones","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"complex"},
+wgEnableOpenXSPC=true,
+wgEnableReviveSpotlights=true,
+wgSeoTestingBucket=1;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<!-- Nielsen is disabled --><script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1467115692&amp;c=130814&amp;lc=en&amp;lid=75&amp;x=gameofthrones&amp;y=c2&amp;u=0&amp;a=2259&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+		document.write('<img src="http://logs-01.loggly.com/inputs/88a88e56-77c6-49cc-af41-6f44f83fe7fe.gif?message=wikia_beacon_id%20is%20empty" style="position:absolute;top:-1000px" />');
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1467115692&amp;c=130814&amp;lc=en&amp;lid=75&amp;x=gameofthrones&amp;y=c2&amp;u=0&amp;a=2259&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1467115692/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine2_tracking_js,adengine2_amazon_match_js,adengine2_ox_bidder_js,adengine2_rubicon_fastlane_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="Game of Thrones Wiki" />
+	<meta property="og:title" content="Janos Slynt" />
+	<meta property="og:description" content="Lord Janos Slynt is a recurring character in the first, second, fourth and fifth seasons. He is played by guest star Dominic Carter and debuts in &quot;Cripples, Bastards and Broken Things.&quot; Janos Slynt is the commander of the City Watch in King's Landing, and founder of House Slynt. Janos Slynt is the commander of the King's Landing City Watch (also called the &quot;Gold Cloaks&quot;), with almost two thousand men under his command. He is charged with keeping peace and order in the city and quelling unrest." />
+	<meta property="og:url" content="http://gameofthrones.wikia.com/wiki/Janos_Slynt" />
+	<meta property="og:image" content="http://vignette2.wikia.nocookie.net/gameofthrones/images/c/ce/S4_Slynt_HD.png/revision/latest?cb=20151006235041" />
+<meta name="apple-itunes-app" content="app-id=920825172, app-arguments=http://gameofthrones.wikia.com/wiki/Janos_Slynt">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Janos_Slynt  TOC_hide oasis-breakpoints wikinav2 skin-oasis  user-anon background-fixed background-not-tiled background-dynamic wiki-gameofthrones" >
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fgameofthrones.wikia.com%2Fwiki%2FJanos_Slynt%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for RubiconFastlane, page_view -->
+<script id="analytics-provider-rubicon-fastlane">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.rubiconFastlane")
+	], function (geo, instantGlobals, rubiconFastlane) {
+		if (geo.isProperGeo(instantGlobals["wgAdDriverRubiconFastlaneCountries"])) {
+			rubiconFastlane.call();
+		};
+	});
+</script>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.amazonMatch"),
+	], function (geo, globals, amazon) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (geo.isProperGeo(ac)) {
+			amazon.call();
+		}
+	});
+</script>
+
+<!-- Start for OpenXBidder, page_view -->
+<script id="analytics-provider-openx-bidder">
+	require([
+		"wikia.geo",
+		"wikia.querystring",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.openXBidder")
+	], function (geo, Querystring, globals, oxBidder) {
+		var ac = globals["wgAdDriverOpenXBidderCountries"],
+			qs = new Querystring();
+
+		if (geo.isProperGeo(ac) || qs.getVal('oxbidder', '0') === '1') {
+			oxBidder.call();
+		};
+	});
+</script>
+<!-- Begin Krux Tag -->
+<script type="text/javascript">
+	require(['wikia.krux'], function (krux) {
+		krux.load('JU3_GW1b');
+	});
+</script>
+<!-- End Krux Tag -->
+<!-- Begin IVW3 Tag -->
+<script type="text/javascript">
+	var iam_data = {
+		st: 'wikia',
+		cp: 'tv/pc',
+		sv: 'i2'
+	};
+
+	if (window.Wikia &&
+		window.Wikia.InstantGlobals &&
+		!window.Wikia.InstantGlobals.wgSitewideDisableIVW3 &&
+		window.Wikia.geo.isProperGeo(["AT","CH","DE"])
+	) {
+		window.ivw3Initialized = true;
+		document.write('<script type="text/javascript" src="https://script.ioam.de/iam.js"><\/script>');
+		document.write('<script type="text/javascript">window.iom.c(iam_data, 2);<\/script>');
+	}
+</script>
+<!-- End IVW3 Tag -->
+<!-- Unsupported language for AnalyticsProviderIVW2 --><div class="WikiaSiteWrapper">
+	
+	<h2>Wikia</h2>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_LEADERBOARD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_BUTTON_WIDE"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["INVISIBLE_SKIN"]);
+	</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+<div id="InvisibleHighImpactWrapper" class="hidden">
+	<div class="background"></div>
+	<a class="close">
+		<div class="close-button"></div>
+	</a>
+	<div class="label">Advertisement</div>
+	<div id="INVISIBLE_HIGH_IMPACT_2" class="wikia-ad noprint"></div>
+</div>
+<nav class="global-navigation" id="globalNavigation">
+	<div class="global-navigation-container">
+		<div class="wikia-logo-container table-cell">
+			<a href="http://www.wikia.com/fandom"
+				class="wikia-logo final-url"
+				rel="nofollow"
+				data-id="wikia-logo">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+					height="24"
+					width="91"
+					alt="Wikia"
+					title="Wikia">
+									<span class="wikia-logo__subtitle">The Home of Fandom</span>
+							</a >
+		</div >
+					<div class="table-cell hubs-links" data-visibility="desktop">
+									<a class="cell-link top-level" href="http://fandom.wikia.com/games"
+					   data-tracking-label="hub-games">
+						Games					</a>
+									<a class="cell-link top-level" href="http://fandom.wikia.com/movies"
+					   data-tracking-label="hub-movies">
+						Movies					</a>
+									<a class="cell-link top-level" href="http://fandom.wikia.com/tv"
+					   data-tracking-label="hub-tv">
+						TV					</a>
+							</div>
+				<div class="table-cell">
+			<div class="explore-wikia-entry-point" id="exploreWikiaEntryPoint">
+				<a class="cell-link top-level final-url"
+					href="http://www.wikia.com/explore"
+					data-tracking-label="explore-wikia">
+					Explore Wikia					<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+				</a>
+				<ul class="explore-wikia-dropdown" id="exploreWikiaDropdown">
+																		<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://fandom.wikia.com/games"
+								   data-tracking-label="hub-games">
+									Games								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://fandom.wikia.com/movies"
+								   data-tracking-label="hub-movies">
+									Movies								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://fandom.wikia.com/tv"
+								   data-tracking-label="hub-tv">
+									TV								</a>
+							</li>
+																						<li>
+							<a class="cell-link"
+							   href="http://www.wikia.com/WAM"
+							   data-tracking-label="top-communities">
+								Trending Wikias							</a>
+						</li>
+											<li>
+							<a class="cell-link"
+							   href="http://community.wikia.com"
+							   data-tracking-label="community-central">
+								Community Central							</a>
+						</li>
+									</ul>
+			</div>
+		</div>
+		<div class="search-container table-cell">
+			<div class="search-form-wrapper">
+	<form action="http://gameofthrones.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search Game of Thrones Wiki..." data-search-url="http://gameofthrones.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search Game of Thrones Wiki..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+		</div>
+		<div class="account-navigation-container table-cell">
+			<ul id="AccountNavigation" class="AccountNavigation table-cell newAuth ">
+	<li class="account-navigation-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/signin?redirect=http%3A%2F%2Fgameofthrones.wikia.com%2Fwiki%2FJanos_Slynt" rel="nofollow" title="Sign In" class="auth-link sign-in" accesskey="o">			<div class="avatar-container anon-avatar-placeholder">
+							</div>
+		</a>
+						<span class="auth-label">
+					<a class="auth-link sign-in" href="/signin?redirect=http%3A%2F%2Fgameofthrones.wikia.com%2Fwiki%2FJanos_Slynt">Sign In</a> or <a class="auth-link register" href="/register?redirect=http%3A%2F%2Fgameofthrones.wikia.com%2Fwiki%2FJanos_Slynt">Register</a>				</span>
+				</div>
+		</li>
+</ul>
+		</div>
+				<div class="start-wikia-container table-cell">
+			<a href="http://www.wikia.com/Special:CreateNewWiki"
+			   class="start-wikia"
+			   title="Start a wikia"
+			   data-id="start-wikia">
+				<span>Start a wikia</span>
+			</a>
+		</div>
+			</div>
+</nav>
+
+	<!-- BEGIN CONTAINER: TOP_LEADERBOARD_AB -->
+	<div id="TOP_LEADERBOARD_AB">
+		<script>
+			window.adslots2.push(["TOP_LEADERBOARD_AB"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: TOP_LEADERBOARD_AB -->
+
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h2 class="wordmark medium graphic ">
+	<a accesskey="z" href="/wiki/Game_of_Thrones_Wiki">
+					<img src="http://img1.wikia.nocookie.net/__cb87/gameofthrones/images/8/89/Wiki-wordmark.png" alt="Game of Thrones Wiki"  width="250" height="65" >
+			</a>
+</h2>
+	<nav class="WikiNav">
+					<h2>Game of Thrones Wiki Navigation</h2>
+				<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Images" data-canonical="images">Images</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Blogs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum" data-canonical="forum">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="/wiki/Category:Episodes">Episodes</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Season_1">Season 1<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Winter_is_Coming">1 - Winter is Coming</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Kingsroad">2 - The Kingsroad</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Lord_Snow">3 - Lord Snow</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Cripples,_Bastards_and_Broken_Things">4 - Cripples, Bastards and Broken Things</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Wolf_and_the_Lion">5 - The Wolf and the Lion</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/A_Golden_Crown">6 - A Golden Crown</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/You_Win_or_You_Die">7 - You Win or You Die</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Pointy_End">8 - The Pointy End</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Baelor">9 - Baelor</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Fire_and_Blood">10 - Fire and Blood</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Season_2">Season 2<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_North_Remembers">1 - The North Remembers</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Night_Lands">2 - The Night Lands</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/What_is_Dead_May_Never_Die">3 - What is Dead May Never Die</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Garden_of_Bones">4 - Garden of Bones</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Ghost_of_Harrenhal">5 - The Ghost of Harrenhal</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Old_Gods_and_the_New">6 - The Old Gods and the New</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/A_Man_Without_Honor">7 - A Man Without Honor</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Prince_of_Winterfell">8 - The Prince of Winterfell</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Blackwater">9 - Blackwater</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Valar_Morghulis">10 - Valar Morghulis</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Season_3">Season 3<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Valar_Dohaeris">1 - Valar Dohaeris</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Dark_Wings,_Dark_Words">2 - Dark Wings, Dark Words</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Walk_of_Punishment">3 - Walk of Punishment</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/And_Now_His_Watch_is_Ended">4 - And Now His Watch is Ended</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kissed_by_Fire">5 - Kissed by Fire</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Climb">6 - The Climb</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Bear_and_the_Maiden_Fair_(episode)">7 - The Bear and the Maiden Fair</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Second_Sons_(episode)">8 - Second Sons</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Rains_of_Castamere_(episode)">9 - The Rains of Castamere</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Mhysa">10 - Mhysa</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Season_4">Season 4<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Two_Swords">1 - Two Swords</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Lion_and_the_Rose">2 - The Lion and the Rose</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Breaker_of_Chains">3 - Breaker of Chains</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Oathkeeper">4 - Oathkeeper</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/First_of_His_Name">5 - First of His Name</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Laws_of_Gods_and_Men">6 - The Laws of Gods and Men</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Mockingbird">7 - Mockingbird</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Mountain_and_the_Viper">8 - The Mountain and the Viper</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Watchers_on_the_Wall">9 - The Watchers on the Wall</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Children">10 - The Children</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Season_5">Season 5<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Wars_to_Come">1 - The Wars to Come</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_House_of_Black_and_White">2 - The House of Black and White</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/High_Sparrow_(episode)">3 - High Sparrow</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Sons_of_the_Harpy_(episode)">4 - Sons of the Harpy</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kill_the_Boy">5 - Kill the Boy</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Unbowed,_Unbent,_Unbroken">6 - Unbowed, Unbent, Unbroken</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Gift_(episode)">7 - The Gift</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Hardhome_(episode)">8 - Hardhome</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Dance_of_Dragons">9 - The Dance of Dragons</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Mother%27s_Mercy">10 - Mother's Mercy</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Season_6">Season 6<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Red_Woman">1 - The Red Woman</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Home">2 - Home</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Oathbreaker">3 - Oathbreaker</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Book_of_the_Stranger">4 - Book of the Stranger</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Door">5 - The Door</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Blood_of_My_Blood">6 - Blood of My Blood</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Broken_Man">7 - The Broken Man</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/No_One">8 - No One</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Battle_of_the_Bastards_(episode)">9 - Battle of the Bastards</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Winds_of_Winter">10 - The Winds of Winter</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Extras">Extras<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Histories_%26_Lore">Histories & Lore</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Telltale%27s_Game_of_Thrones_Super_Walkthrough">Telltale video game navigation sub-portal</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Iron_From_Ice">1 - Iron From Ice</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Lost_Lords">2 - The Lost Lords</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Sword_in_the_Darkness">3 - The Sword in the Darkness</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Sons_of_Winter">4 - Sons of Winter</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/A_Nest_of_Vipers">5 - A Nest of Vipers</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Ice_Dragon">6 - The Ice Dragon</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Category:Characters">Characters</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/House_Stark">Stark<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Eddard_Stark">Eddard Stark</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Catelyn_Stark">Catelyn Stark</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Robb_Stark">Robb Stark</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Sansa_Stark">Sansa Stark</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Arya_Stark">Arya Stark</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Bran_Stark">Bran Stark</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Rickon_Stark">Rickon Stark</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jon_Snow">Jon Snow</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Brynden_Tully">Brynden Tully</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Edmure_Tully">Edmure Tully</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/House_Lannister">Lannister<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tywin_Lannister">Tywin Lannister</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Cersei_Lannister">Cersei Lannister</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jaime_Lannister">Jaime Lannister</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tyrion_Lannister">Tyrion Lannister</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Joffrey_Baratheon">Joffrey Baratheon</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Myrcella_Baratheon">Myrcella Baratheon</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tommen_Baratheon">Tommen Baratheon</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kevan_Lannister">Kevan Lannister</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Lancel_Lannister">Lancel Lannister</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Gregor_Clegane">Gregor Clegane</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/House_Tyrell">Tyrell<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Mace_Tyrell">Mace Tyrell</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Olenna_Tyrell">Olenna Tyrell</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Margaery_Tyrell">Margaery Tyrell</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Loras_Tyrell">Loras Tyrell</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Tarly">House Tarly</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Randyll_Tarly">Randyll Tarly</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Melessa_Tarly">Melessa Tarly</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Samwell_Tarly">Samwell Tarly</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Dickon_Tarly">Dickon Tarly</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Talla_Tarly">Talla Tarly</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/House_Targaryen">Targaryen<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Daenerys_Targaryen">Daenerys Targaryen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Viserys_Targaryen">Viserys Targaryen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Aerys_II_Targaryen">Aerys II Targaryen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Rhaegar_Targaryen">Rhaegar Targaryen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Aemon">Maester Aemon</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Varys">Varys</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Missandei">Missandei</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Grey_Worm">Grey Worm</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Daario_Naharis">Daario Naharis</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jorah_Mormont">Jorah Mormont</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Red_Wedding">Bolton & Frey<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Bolton">House Bolton</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Roose_Bolton">Roose Bolton</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Ramsay_Bolton">Ramsay Bolton</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Walda_Bolton">"Fat Walda" Frey</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Harald_Karstark">Harald Karstark</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Frey">House Frey</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Walder_Frey">Walder Frey</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Lothar_Frey">"Lame Lothar" Frey</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Walder_Rivers">"Black Walder" Rivers</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Roslin_Frey">Roslin Frey</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/House_Greyjoy">Greyjoy<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Theon_Greyjoy">Theon Greyjoy</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Yara_Greyjoy">Yara Greyjoy</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Balon_Greyjoy">Balon Greyjoy</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Euron_Greyjoy">Euron Greyjoy</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Aeron_Greyjoy">Aeron "Damp Hair" Greyjoy</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Rodrik_Greyjoy">Rodrik Greyjoy</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Maron_Greyjoy">Maron Greyjoy</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Alannys_Greyjoy">Alannys Greyjoy</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Brotherhood_Without_Banners">Allies&Enemies<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Brienne_of_Tarth">Brienne of Tarth</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Bronn">Ser Bronn</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Pycelle">Grand Maester Pycelle</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Melisandre">Melisandre</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Sandor_Clegane">Sandor Clegane</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Arryn">House Arryn</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Petyr_Baelish">Petyr "Littlefinger" Baelish</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Baratheon">House Baratheon</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Davos_Seaworth">Davos Seaworth</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Martell">House Martell</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Category:Culture_%26_Society">Culture&Society</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Timeline">Timeline<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Dawn_Age">Dawn Age</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Long_Night">The Long Night</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Andal_Invasion">Andal Invasion</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Doom_of_Valyria">Doom of Valyria</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/War_of_Conquest">The Targaryen Conquest</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Robert%27s_Rebellion">Robert's Rebellion</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Greyjoy_Rebellion">Greyjoy Rebellion</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/War_of_the_Five_Kings">War of the Five Kings</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Conflict_Beyond_the_Wall">Conflict Beyond the Wall</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Liberation_of_Slaver%27s_Bay">Targaryen campaign in Slaver's Bay</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Organizations">Organizations<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Night%27s_Watch">Night's Watch</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Maesters">Order of Maesters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Small_Council">Small Council</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/City_Watch">City Watch ("Gold Cloaks")</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kingsguard">Kingsguard</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Iron_Bank_of_Braavos">Iron Bank of Braavos</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Faceless_Men">Faceless Men</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Warlocks_of_Qarth">Warlocks of Qarth</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Unsullied">Unsullied</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Brotherhood_Without_Banners">Brotherhood Without Banners</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Religion">Religions<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Old_Gods_of_the_Forest">Old Gods of the Forest</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Faith_of_the_Seven">Faith of the Seven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Drowned_God">Drowned God</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/R%27hllor">R'hllor, the Lord of Light</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/God_of_Death">The Many-faced God of Death</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Great_Stallion">Great Stallion</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Great_Shepherd">Great Shepherd</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Ghiscari_religion">Ghiscari religion</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Bearded_Priests_of_Norvos">Bearded Priests of Norvos</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Black_Goat_of_Qohor">Black Goat of Qohor</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Social_groups">Groups<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Great_Houses">Great Houses</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Noble_houses">Noble Houses</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Bastardy">Bastardy</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Knighthood">Knighthood</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Ward">Ward</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Smallfolk">Smallfolk</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Handmaiden">Handmaiden</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Mercenary">Mercenary</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Prostitution">Prostitution</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Slavery">Slavery</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Laws_and_Customs">Customs<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Heraldry">Heraldry</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_words">House words</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Guest_right">Guest right</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Science_and_Technology">Science and Technology</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Currency">Currency</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Food_and_Drink">Food and Drink</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Languages">Languages</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Magic">Magic</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Armament">Armament</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Animals_and_Plants">Animals and Plants</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Westeros">Westeros<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/First_Men">First Men</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Andals">Andals</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Ironborn">Ironborn</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Dornishmen">Dornishmen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Northmen">Northmen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Crannogmen">Crannogmen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Hill_tribes">Hill tribes</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Free_Folk">Wildlings</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/White_Walkers">White Walkers</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Children_of_the_Forest">Children of the Forest</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Essos">Essos<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Free_Cities">Free Cities</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Valyrian_Freehold">Valyrian Freehold</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Slaver%27s_Bay">Slaver's Bay</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Rhoynar">Rhoynar</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Lhazareen">Lhazareen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Dothraki">Dothraki</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Qarth">Qarth</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Yi_Ti">Yi Ti</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Asshai">Asshai</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Sothoryos">Sothoryos</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Category:Production">Production</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Writer">Writers<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/George_R.R._Martin">George R.R. Martin</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/David_Benioff">David Benioff</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/D.B._Weiss">D.B. Weiss</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Bryan_Cogman">Bryan Cogman</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jane_Espenson">Jane Espenson (Season 1, episode 6)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Vanessa_Taylor">Vanessa Taylor (Seasons 2-3)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Dave_Hill">Dave Hill</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Director">Directors 1-3<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Daniel_Minahan">Daniel Minahan</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/David_Nutter">David Nutter</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Alan_Taylor">Alan Taylor</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/David_Petrarca">David Petrarca</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Brian_Kirk">Brian Kirk</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tim_van_Patten">Tim van Patten</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Thomas_McCarthy">Thomas McCarthy</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Director">Directors 4-5<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Michael_Slovis">Michael Slovis</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Mark_Mylod">Mark Mylod</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jeremy_Podeswa">Jeremy Podeswa</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Miguel_Sapochnik">Miguel Sapochnik</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/David_Nutter">David Nutter</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Alex_Graves">Alex Graves</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Michelle_MacLaren">Michelle MacLaren</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Alik_Sakharov">Alik Sakharov</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Neil_Marshall">Neil Marshall</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Production">Crew<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Gemma_Jackson">Gemma Jackson - Set designer (Seasons 1-3)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Deborah_Riley">Deborah Riley - Set designer (Season 4 onwards)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Michele_Clapton">Michele Clapton - Costume designer (Seasons 1-5)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/April_Ferry">April Ferry - Costume designer (Season 6 onwards)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/David_J._Peterson">David J. Peterson - Language creator (Dothraki, Valyrian)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/William_Simpson">William Simpson - Storyboard artist</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jim_Stanes">Jim Stanes - Graphic artist, heraldry and handwriting design</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Ramin_Djawadi">Ramin Djawadi - Music composer</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kimberley_Pope">Kimberley Pope - Concept artist</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tommy_Dunne">Tommy Dunne - Weapons master</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Starring_cast_appearances">Actors<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Peter_Dinklage">Peter Dinklage</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kit_Harington">Kit Harington</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Emilia_Clarke">Emilia Clarke</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Maisie_Williams">Maisie Williams</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Sophie_Turner">Sophie Turner</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Lena_Headey">Lena Headey</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Nikolaj_Coster-Waldau">Nikolaj Coster-Waldau</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Natalie_Dormer">Natalie Dormer</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Gwendoline_Christie">Gwendoline Christie</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Rose_Leslie">Rose Leslie</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Production">Production<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Game_of_Thrones_(TV_series)">Game of Thrones (TV series)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tales_of_Dunk_and_Egg">Tales of Dunk and Egg prequel</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Differences_between_books_and_TV_series">Differences between books & TV series</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Costumes">Costumes</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Title_sequence">Title sequence</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Filming_locations">Filming locations</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Pronunciation_guide">Pronunciation guide</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Visual_effects_production_companies">Visual effects production companies</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Sexposition">Sexposition</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/List_of_references_to_Game_of_Thrones_in_other_media">List of references to Game of Thrones in other media</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Merchandise">Merchandise<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/A_Song_of_Ice_and_Fire">A Song of Ice and Fire novel series</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Merchandise#Blu-ray_and_DVD_releases">Blu ray & DVD releases by TV Season</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Soundtracks">Soundtracks by TV Season</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Merchandise#Action_figures">Action figures</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Inside_HBO%27s_Game_of_Thrones">Inside HBO's Game of Thrones (Seasons 1 & 2)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Inside_HBO%27s_Game_of_Thrones:_Seasons_3_%26_4">Inside HBO's Game of Thrones: Seasons 3 & 4</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Living_Language_Dothraki">Living Language Dothraki</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Computer_games">Video games</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Game_of_Thrones:_A_Telltale_Games_Series">Game of Thrones: A Telltale Games Series</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>	</nav>
+			<div class="buttons">
+			<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Special:Maps"  data-id="maps"   class="wikia-maps-create-map">Create a Map</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+		</div>
+		<div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent changes</a>	</div>
+</header>
+		
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+					<header id="WikiaPageHeader" class="WikiaPageHeader wikia-page-header">
+		<div class="header-container">
+			<div class="header-column header-title">
+				<h1>Janos Slynt</h1>
+							</div>
+			<div class="header-column header-tally">
+				<div id="PageShareContainer" class="page-share-container">
+									</div>
+									<div class="tally"><em>3,312</em><span>pages on<br /> this wiki</span></div>
+							</div>
+		</div>
+		<nav class="wikia-menu-button" >
+	<a   href="/wiki/Janos_Slynt?action=edit" data-id="source" id="ca-viewsource">
+		<img alt="" class="sprite lock" height="12" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="9" /> View source	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Janos_Slynt?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="/wiki/Talk:Janos_Slynt" class="wikia-button comments secondary talk" rel="nofollow" data-id="comment"> Talk<span class="commentsbubble">0</span></a>
+	</header>
+	
+
+												<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+										
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text"><table style="width:280px; float:right;">
+<tr>
+<td>
+</td><td><div class="floatleft"><a href="/wiki/City_Watch" 	class="image image-thumbnail link-internal" 	 title="City Watch"  	 	><img src="http://vignette4.wikia.nocookie.net/gameofthrones/images/e/ed/Gold-Cloak-Shield-Icon.PNG/revision/latest/scale-to-width-down/50?cb=20160316112729" 	 alt="Gold-Cloak-Shield-Icon"  	class="" 	 	data-image-key="Gold-Cloak-Shield-Icon.PNG" 	data-image-name="Gold-Cloak-Shield-Icon.PNG" 	 	 width="50"  	 height="61"  	 	 	 	></a></div>
+</td><td>
+</td><td>
+</td><td>
+</td><td><div class="floatright"><a href="/wiki/Night%27s_Watch" 	class="image image-thumbnail link-internal" 	 title="Night&#39;s Watch"  	 	><img src="http://vignette4.wikia.nocookie.net/gameofthrones/images/e/ed/Night%27s-Watch-Main-Shield.PNG/revision/latest/scale-to-width-down/50?cb=20160604181942" 	 alt="Night&amp;#039;s-Watch-Main-Shield"  	class="" 	 	data-image-key="Night%27s-Watch-Main-Shield.PNG" 	data-image-name="Night&#39;s-Watch-Main-Shield.PNG" 	 	 width="50"  	 height="61"  	 	 	 	></a></div>
+</td></tr></table>
+
+<aside class="portable-infobox pi-background pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title">Janos Slynt</h2>
+
+<figure class="pi-item pi-image">
+	<a href="http://vignette2.wikia.nocookie.net/gameofthrones/images/c/ce/S4_Slynt_HD.png/revision/latest?cb=20151006235041" class="image image-thumbnail"
+	   title="Janos Slynt">
+		<img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/c/ce/S4_Slynt_HD.png/revision/latest/scale-to-width-down/270?cb=20151006235041" class="pi-image-thumbnail" alt="Janos Slynt" width="270" height="346"
+		     data-image-key="S4_Slynt_HD.png" data-image-name="S4 Slynt HD.png"/>
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Season(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Season_1" title="Season 1">1</a>, <a href="/wiki/Season_2" title="Season 2">2</a>, <a href="/wiki/Season_4" title="Season 4">4</a>, <a href="/wiki/Season_5" title="Season 5">5</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">First seen</h3>
+	
+	<div class="pi-data-value pi-font">"<a href="/wiki/Cripples,_Bastards_and_Broken_Things" title="Cripples, Bastards and Broken Things">Cripples, Bastards and Broken Things</a>"</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Last seen</h3>
+	
+	<div class="pi-data-value pi-font">"<a href="/wiki/High_Sparrow_(episode)" title="High Sparrow (episode)">High Sparrow</a>"</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appeared in</h3>
+	
+	<div class="pi-data-value pi-font">15 episodes <small>(<a href="#Appearances">see below</a>)</small></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Titles</h3>
+	
+	<div class="pi-data-value pi-font">Lord<br /><a href="/wiki/Lord_of_Harrenhal" title="Lord of Harrenhal">Lord of Harrenhal</a> (formerly) <br /><a href="/wiki/Lord_Commander" title="Lord Commander">Lord Commander</a> of the <a href="/wiki/City_Watch" title="City Watch">City Watch</a> (formerly)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Category:Status:_Dead" title="Category:Status: Dead">Deceased</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Death</h3>
+	
+	<div class="pi-data-value pi-font">Beheaded for insubordination by <a href="/wiki/Jon_Snow" title="Jon Snow">Jon Snow</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Death shown in episode</h3>
+	
+	<div class="pi-data-value pi-font">"<a href="/wiki/High_Sparrow_(episode)" title="High Sparrow (episode)">High Sparrow</a>"</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Origin</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/King%27s_Landing" title="King's Landing">King's Landing</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Allegiance</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/House_Baratheon_of_King%27s_Landing" title="House Baratheon of King's Landing">House Baratheon of King's Landing</a><br /><a href="/wiki/House_Slynt" title="House Slynt">House Slynt</a><br /><a href="/wiki/Night%27s_Watch" title="Night's Watch">Night's Watch</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Dominic_Carter" title="Dominic Carter">Dominic Carter</a></div>
+</div>
+</aside>
+
+<p><br />
+</p>
+<div class="quote">
+<dl><dd><span><b>Janos Slynt</b>: "<i>Are you drunk!? I'll not have my honor questioned by an imp!</i>"
+</dd><dd><b>Tyrion Lannister</b>: "<i>I'm not questioning your honor, Lord Janos. I'm denying its existence.</i>"</span>
+</dd><dd>&#8212; <a href="/wiki/Tyrion_Lannister" title="Tyrion Lannister">Tyrion Lannister</a> to Janos Slynt<sup class="noprint"><a href="/wiki/The_Night_Lands" title="The Night Lands">[src]</a></sup>
+</dd></dl>
+</div>
+<p>Lord <b>Janos Slynt</b> is a recurring character in the <a href="/wiki/Season_1" title="Season 1">first</a>, <a href="/wiki/Season_2" title="Season 2">second</a>, <a href="/wiki/Season_4" title="Season 4">fourth</a> and <a href="/wiki/Season_5" title="Season 5">fifth</a> seasons. He is played by guest star <a href="/wiki/Dominic_Carter" title="Dominic Carter">Dominic Carter</a> and debuts in "<a href="/wiki/Cripples,_Bastards_and_Broken_Things" title="Cripples, Bastards and Broken Things">Cripples, Bastards and Broken Things</a>." Janos Slynt is the commander of the <a href="/wiki/City_Watch" title="City Watch">City Watch</a> in <a href="/wiki/King%27s_Landing" title="King's Landing">King's Landing</a>, and founder of <a href="/wiki/House_Slynt" title="House Slynt">House Slynt</a>.
+</p>
+<nav id="toc" class="toc"><div id="toctitle"><h2>Contents</h2><span class="toctoggle">[<a href="#" class="internal" id="togglelink" data-show="show" data-hide="hide">show</a>]</span></div><ol></ol></nav>
+<h2><span class="mw-headline" id="Biography">Biography</span></h2>
+<h3><span class="mw-headline" id="Background">Background</span></h3>
+<p>Janos Slynt is the commander of the <a href="/wiki/King%27s_Landing" title="King's Landing">King's Landing</a> <a href="/wiki/City_Watch" title="City Watch">City Watch</a> (also called the "Gold Cloaks"), with almost two thousand men under his command. He is charged with keeping peace and order in the city and quelling unrest.<sup id="cite_ref-0" class="reference"><a href="#cite_note-0">[1]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Season_1"><a href="/wiki/Season_1" title="Season 1">Season 1</a></span></h3>
+<figure class="article-thumb tright show-info-icon" style="width: 180px"> 	<a href="http://vignette1.wikia.nocookie.net/gameofthrones/images/3/36/JanosSlynt.jpg/revision/latest?cb=20110531002026" 	class="image image-thumbnail" 	 	 	><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/3/36/JanosSlynt.jpg/revision/latest/scale-to-width-down/180?cb=20110531002026" 	 alt="JanosSlynt"  	class="thumbimage " 	 	data-image-key="JanosSlynt.jpg" 	data-image-name="JanosSlynt.jpg" 	 	 width="180"  	 height="101"  	 	 	 	></a>  	<figcaption> 		 			<a href="/wiki/File:JanosSlynt.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Slynt commanding the <a href="/wiki/City_Watch" title="City Watch">City Watch</a> in the throne room in "<a href="/wiki/You_Win_or_You_Die" title="You Win or You Die">You Win or You Die</a>".</p> 		 	</figcaption> </figure>
+<p>Janos reports to the <a href="/wiki/Small_council" title="Small council" class="mw-redirect">small council</a> about the disruptions to the city caused by the <a href="/wiki/Tournament" title="Tournament">tournament</a> to celebrate Lord <a href="/wiki/Eddard_Stark" title="Eddard Stark">Eddard Stark</a>'s appointment. Lord <a href="/wiki/Renly_Baratheon" title="Renly Baratheon">Renly Baratheon</a> suggests dismissing Janos in favor of someone more competent, but Janos angrily replies he doesn't have enough resources. Eddard offers him twenty of his household guard and commands <a href="/wiki/Littlefinger" title="Littlefinger" class="mw-redirect">Littlefinger</a> to find gold to pay for an expansion of the City Watch by another fifty men.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[2]</a></sup>
+</p><p>After Eddard resolves to expose <a href="/wiki/Joffrey_Baratheon" title="Joffrey Baratheon">Joffrey Baratheon</a>'s true birth, he asks for the help of the City Watch. Littlefinger agrees to bribe them into supporting Eddard's plan. Janos tells Eddard that they are with him, but is then seen exchanging looks with Queen <a href="/wiki/Cersei_Lannister" title="Cersei Lannister">Cersei</a>. During the confrontation, the City Watch turns on Eddard and <a href="/wiki/Massacre_in_the_Red_Keep" title="Massacre in the Red Keep">kills his men</a>, allowing him to be taken prisoner.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[3]</a></sup> Following Lord Stark's arrest, Janos is named the new Lord of <a href="/wiki/Harrenhal" title="Harrenhal">Harrenhal</a> and head of <a href="/wiki/House_Slynt" title="House Slynt">House Slynt</a> by King Joffrey, as a reward for his loyalty.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[4]</a></sup> He also attends the execution of Lord Stark.
+</p>
+<h3><span class="mw-headline" id="Season_2"> <a href="/wiki/Season_2" title="Season 2">Season 2</a> </span></h3>
+<figure class="article-thumb tleft show-info-icon" style="width: 180px"> 	<a href="http://vignette1.wikia.nocookie.net/gameofthrones/images/c/c3/JanosSlynt.png/revision/latest?cb=20140521023147" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="JanosSlynt"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="JanosSlynt.png" 	data-image-name="JanosSlynt.png" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/c/c3/JanosSlynt.png/revision/latest/scale-to-width-down/180?cb=20140521023147"  	 width="180"  	 height="101"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/c/c3/JanosSlynt.png/revision/latest/scale-to-width-down/180?cb=20140521023147" 	 alt="JanosSlynt"  	class="thumbimage " 	 	data-image-key="JanosSlynt.png" 	data-image-name="JanosSlynt.png" 	 	 width="180"  	 height="101"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:JanosSlynt.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Janos Slynt about to kill the baby <a href="/wiki/Barra" title="Barra">Barra</a> in "<a href="/wiki/The_North_Remembers" title="The North Remembers">The North Remembers</a>".</p> 		 	</figcaption> </figure>
+<p>Lord Janos has been given a place in the <a href="/wiki/Small_council" title="Small council" class="mw-redirect">small council</a>. During a session that coincides with King <a href="/wiki/Joffrey_Baratheon" title="Joffrey Baratheon">Joffrey Baratheon</a>'s sixteenth nameday and the official announcement of the end of the longest summer in living memory, he expresses his concern with the influx of refugees fleeing the <a href="/wiki/War_of_the_Five_Kings" title="War of the Five Kings">civil war</a>. He is ordered by Queen Regent <a href="/wiki/Cersei_Lannister" title="Cersei Lannister">Cersei Lannister</a> to bar the city gates to peasants. Later, Janos oversees the <a href="/wiki/Massacre_in_King%27s_Landing" title="Massacre in King's Landing">massacre</a> of all of the late King <a href="/wiki/Robert_Baratheon" title="Robert Baratheon">Robert Baratheon</a>'s bastard children. He personally murders the baby <a href="/wiki/Barra" title="Barra">Barra</a> before the eyes of her mother <a href="/wiki/Mhaegen" title="Mhaegen">Mhaegen</a>, one of Littlefinger's prostitutes. He also interrogates <a href="/wiki/Tobho_Mott" title="Tobho Mott">Tobho Mott</a>, who is being tortured by one of the gold cloaks, about the whereabouts of <a href="/wiki/Gendry" title="Gendry">Gendry</a> and learns that he has left to join the <a href="/wiki/Night%27s_Watch" title="Night's Watch">Night's Watch</a> and is heading to <a href="/wiki/Castle_Black" title="Castle Black">Castle Black</a>. Janos sends a small party of men after Gendry.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[5]</a></sup>
+</p>
+<figure class="article-thumb tright show-info-icon" style="width: 180px"> 	<a href="http://vignette1.wikia.nocookie.net/gameofthrones/images/3/3b/Janos_2x02.jpg/revision/latest?cb=20120530211058" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Janos 2x02"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Janos_2x02.jpg" 	data-image-name="Janos 2x02.jpg" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/3/3b/Janos_2x02.jpg/revision/latest/scale-to-width-down/180?cb=20120530211058"  	 width="180"  	 height="103"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/3/3b/Janos_2x02.jpg/revision/latest/scale-to-width-down/180?cb=20120530211058" 	 alt="Janos 2x02"  	class="thumbimage " 	 	data-image-key="Janos_2x02.jpg" 	data-image-name="Janos 2x02.jpg" 	 	 width="180"  	 height="103"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Janos_2x02.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Lord Janos is told of his fate.</p> 		 	</figcaption> </figure>
+<p>Janos is present at a small council meeting when they receive a request for more men from Lord Commander <a href="/wiki/Jeor_Mormont" title="Jeor Mormont">Jeor Mormont</a> of the <a href="/wiki/Night%27s_Watch" title="Night's Watch">Night's Watch</a>. Tyrion later has Janos as a dinner guest in the <a href="/wiki/Tower_of_the_Hand" title="Tower of the Hand">Tower of the Hand</a>. Tyrion dismisses his squire, <a href="/wiki/Podrick_Payne" title="Podrick Payne">Podrick Payne</a>, after Janos begins to chastise the boy for spilling wine on his hand. The two exchange compliments and jokes. Tyrion asks about the incident in Petyr's brothel, which Janos calls a nasty business, but necessary. Tyrion feigns agreement, saying that the peace must be kept. However, the discussion quickly turns sour when Tyrion brings up the subject of Janos's role in the murder of Robert's bastards, subtly accusing him of taking bribes from Cersei or Joffrey to carry out such a horrific crime, though Janos defends his position and hints that it was not Cersei who gave him the order. He also defends himself for betraying Eddard to the usurpers, claiming Eddard was a traitor who tried to buy him, though Tyrion counters that Slynt had already been bought by Littlefinger and the Lannisters, and accuses him outright of lacking in honor. At this point, Slynt stands up and threatens Tyrion, but is interrupted by <a href="/wiki/Bronn" title="Bronn">Bronn</a>, whom Tyrion claims is the new Lord Commander of the City Watch. Over Slynt's protests and threats that he has friends at court who will not stand for this, Tyrion has four gold cloaks seize Slynt, informing him that he does not trust him and is sending him to <a href="/wiki/Castle_Black" title="Castle Black">Castle Black</a> to join the <a href="/wiki/Night%27s_Watch" title="Night's Watch">Night's Watch</a>. Slynt is dragged from the Red Keep to board a ship bound for <a href="/wiki/Eastwatch-by-the-Sea" title="Eastwatch-by-the-Sea">Eastwatch-by-the-Sea</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[6]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Season_4"> <a href="/wiki/Season_4" title="Season 4">Season 4</a> </span></h3>
+<div class="quote">
+<dl><dd><span><b>Janos Slynt</b>: "<i>I commanded the City Watch of King's Landing, boy.</i>"
+</dd><dd><b>Jon Snow</b>: "<i>And now you're <a href="/wiki/Night%27s_Watch" title="Night's Watch">here</a>: you must not have been very good at your job.</i>"</span>
+</dd><dd>&#8212; Janos Slynt and Jon Snow<sup class="noprint"><a href="/wiki/Two_Swords" title="Two Swords">[src]</a></sup>
+</dd></dl>
+</div>
+<figure class="article-thumb tright show-info-icon" style="width: 180px"> 	<a href="http://vignette2.wikia.nocookie.net/gameofthrones/images/8/8e/Aemon_part_of_jon_s_judging.png/revision/latest?cb=20140626190224" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Aemon part of jon s judging"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Aemon_part_of_jon_s_judging.png" 	data-image-name="Aemon part of jon s judging.png" 	 data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/8/8e/Aemon_part_of_jon_s_judging.png/revision/latest/scale-to-width-down/180?cb=20140626190224"  	 width="180"  	 height="101"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/8/8e/Aemon_part_of_jon_s_judging.png/revision/latest/scale-to-width-down/180?cb=20140626190224" 	 alt="Aemon part of jon s judging"  	class="thumbimage " 	 	data-image-key="Aemon_part_of_jon_s_judging.png" 	data-image-name="Aemon part of jon s judging.png" 	 	 width="180"  	 height="101"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Aemon_part_of_jon_s_judging.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Janos during Jon Snow's judging.</p> 		 	</figcaption> </figure>
+<p>Janos Slynt has arrived at <a href="/wiki/Castle_Black" title="Castle Black">Castle Black</a> along with Ser <a href="/wiki/Alliser_Thorne" title="Alliser Thorne">Alliser Thorne</a>, who has taken temporary command of the castle. He joins Ser Alliser, <a href="/wiki/Maester" title="Maester" class="mw-redirect">Maester</a> <a href="/wiki/Aemon" title="Aemon">Aemon</a> and two other black brothers to listen <a href="/wiki/Jon_Snow" title="Jon Snow">Jon Snow</a>'s testimonies (it is unexplained how Slynt was immediately high-ranking enough to join the panel). Slynt is dismissive of Jon's claims, referring to Jon as "the <a href="/wiki/Bastard" title="Bastard" class="mw-redirect">bastard</a> son of a <a href="/wiki/Eddard_Stark" title="Eddard Stark">traitor</a>" and argues for his execution. When Jon asks him if he has ever been North of the Wall, he boasts that he commanded the City Watch of King's Landing and grows angered when Jon sarcastically retorts he must have been bad at his job to have been sent to the Wall. Slynt clearly does not believe Jon's report as he laughs at his claims of giants in the Free Folk's army, but is somewhat mollified when he realizes that the other black brothers do.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[7]</a></sup>
+</p><p>Janos warns Ser Alliser Thorne that since Snow is popular amongst the Night's Watch, this will give him an edge over him when a new Lord Commander is elected. Slynt suggests sanctioning Jon Snow's expedition to Craster's Keep so the mutineers may kill Jon.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[8]</a></sup>
+</p><p>Much to his disappointment, Jon survives and returns to Castle Black. Janos is later present when Jon urges the Night's Watch to seal Castle Black's tunnel because of Mance Rayder's superior forces.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[9]</a></sup>
+</p><p>During the <a href="/wiki/Battle_of_Castle_Black" title="Battle of Castle Black">Battle of Castle Black</a>, Janos accompanies Alliser Thorne atop the Wall and oversees the defenses. When Alliser leaves the Wall to help the black brothers under attack by wildlings from the south, he leaves Janos in charge of the Wall's defenses. Janos, having no true leadership experience, begins to break down at the sight of <a href="/wiki/Giants" title="Giants">Giants</a> and massive wildling army. <a href="/wiki/Grenn" title="Grenn">Grenn</a> steps in by falsely claiming that Alliser needs Janos back down in Castle Black. Janos either believes him or pretends to as a pretext to flee, allowing Jon to take command. Once down below, Janos locks himself in the kitchens, where he discovers <a href="/wiki/Gilly" title="Gilly">Gilly</a> and her <a href="/wiki/Gilly%27s_baby" title="Gilly's baby" class="mw-redirect">son</a>. When <a href="/wiki/Samwell_Tarly" title="Samwell Tarly">Samwell Tarly</a> returns to Gilly, he discovers Janos still in hiding.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[10]</a></sup>
+</p><p>Slynt is present in the courtyard of Castle Black when the dead of the Night's Watch are burned in the presence of the recently arrived <a href="/wiki/Stannis_Baratheon" title="Stannis Baratheon">Stannis Baratheon</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[11]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Season_5"><a href="/wiki/Season_5" title="Season 5">Season 5</a></span></h3>
+<p>Janos Slynt remains at Alliser Thorne's side, who has recovered from his wounds. He is later present when <a href="/wiki/Mance_Rayder" title="Mance Rayder">Mance Rayder</a> is executed by Stannis Baratheon for refusing to bend the knee.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[12]</a></sup>
+</p><p>Janos supports Alliser Thorne during the choosing of the 998th Lord Commander of the Night's Watch. He is later laughed at by his fellow black brothers when <a href="/wiki/Samwell_Tarly" title="Samwell Tarly">Samwell Tarly</a> reveals how he cowered in fear in the larder of Castle Black with <a href="/wiki/Gilly" title="Gilly">Gilly</a> and her <a href="/wiki/Sam" title="Sam">baby</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[13]</a></sup>
+</p>
+<figure class="article-thumb tright show-info-icon" style="width: 180px"> 	<a href="http://vignette2.wikia.nocookie.net/gameofthrones/images/6/6f/Janos_before_execution.png/revision/latest?cb=20150427203655" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Janos before execution"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Janos_before_execution.png" 	data-image-name="Janos before execution.png" 	 data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/6/6f/Janos_before_execution.png/revision/latest/scale-to-width-down/180?cb=20150427203655"  	 width="180"  	 height="101"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/6/6f/Janos_before_execution.png/revision/latest/scale-to-width-down/180?cb=20150427203655" 	 alt="Janos before execution"  	class="thumbimage " 	 	data-image-key="Janos_before_execution.png" 	data-image-name="Janos before execution.png" 	 	 width="180"  	 height="101"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Janos_before_execution.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Janos right before he is executed by Jon Snow.</p> 		 	</figcaption> </figure>
+<figure class="article-thumb tright show-info-icon" style="width: 180px"> 	<a href="http://vignette3.wikia.nocookie.net/gameofthrones/images/7/79/Small_justice_for_Ned.png/revision/latest?cb=20150430224639" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Small justice for Ned"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Small_justice_for_Ned.png" 	data-image-name="Small justice for Ned.png" 	 data-src="http://vignette3.wikia.nocookie.net/gameofthrones/images/7/79/Small_justice_for_Ned.png/revision/latest/scale-to-width-down/180?cb=20150430224639"  	 width="180"  	 height="101"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette3.wikia.nocookie.net/gameofthrones/images/7/79/Small_justice_for_Ned.png/revision/latest/scale-to-width-down/180?cb=20150430224639" 	 alt="Small justice for Ned"  	class="thumbimage " 	 	data-image-key="Small_justice_for_Ned.png" 	data-image-name="Small justice for Ned.png" 	 	 width="180"  	 height="101"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Small_justice_for_Ned.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Small justice for Ned Stark.</p> 		 	</figcaption> </figure>
+<p>During a meeting, Janos is assigned by Lord Commander Snow to take charge of rebuilding efforts at the castle of Greyguard. Slynt rudely refuses before Jon is even finished speaking. The Lord Commander clarifies that this is official command, not an offer. Janos further insults Jon, telling him that he can "stick [his] order up [his] bastard arse." Calmly, Jon orders Janos to be taken outside and calls for his sword. At first, Janos is dragged out to the courtyard believing that this is simply a scare tactic, but he realizes his mistake when <a href="/wiki/Eddison_Tollett" title="Eddison Tollett">Eddison Tollett</a> forces him down onto the chopping block. Terrified, Janos begs for Jon to give him another chance, admitting that he was wrong to question him and that he has been afraid for a long time, and breaks into tears. His pleas for mercy are ultimately futile and Jon beheads Janos with <a href="/wiki/Longclaw" title="Longclaw">Longclaw</a> - exacting a small justice for the deceased Ned Stark, as well as the Stark guardsmen who were slaughtered in the throne room and King Robert's murdered children.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[14]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span></h2>
+<table class="appearances" border="1" style="width: 90%; margin: 1em 1em 1em 0; border: 1px #000000 solid; border-collapse: collapse; text-align: center; font-size:11px">
+
+<tr bgcolor="#C19A6B">
+<td colspan="5"><b><a href="/wiki/Season_1" title="Season 1">Season One</a> appearances</b>
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;">Winter is Coming
+</td><td style="width: 20%;"> The Kingsroad
+</td><td style="width: 20%;"> Lord Snow
+</td><td style="width: 20%;"> <b><a href="/wiki/Cripples,_Bastards_and_Broken_Things" title="Cripples, Bastards and Broken Things">Cripples, Bastards and Broken Things</a></b>
+</td><td style="width: 20%;"> The Wolf and the Lion
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> A Golden Crown
+</td><td style="width: 20%;"> <b><a href="/wiki/You_Win_or_You_Die" title="You Win or You Die">You Win or You Die</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/The_Pointy_End" title="The Pointy End">The Pointy End</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/Baelor" title="Baelor">Baelor</a></b>
+</td><td style="width: 20%;"> Fire and Blood
+</td></tr></table>
+<table class="appearances" border="1" style="width: 90%; margin: 1em 1em 1em 0; border: 1px #000000 solid; border-collapse: collapse; text-align: center; font-size:11px">
+
+<tr bgcolor="#C19A6B">
+<td colspan="5"><b><a href="/wiki/Season_2" title="Season 2">Season Two</a> appearances</b>
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> <b><a href="/wiki/The_North_Remembers" title="The North Remembers">The North Remembers</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/The_Night_Lands" title="The Night Lands">The Night Lands</a></b>
+</td><td style="width: 20%;"> What is Dead May Never Die
+</td><td style="width: 20%;"> Garden of Bones
+</td><td style="width: 20%;"> The Ghost of Harrenhal
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> The Old Gods and the New
+</td><td style="width: 20%;"> A Man Without Honor
+</td><td style="width: 20%;"> The Prince of Winterfell
+</td><td style="width: 20%;"> Blackwater
+</td><td style="width: 20%;"> Valar Morghulis
+</td></tr></table>
+<table class="appearances" border="1" style="width: 90%; margin: 1em 1em 1em 0; border: 1px #000000 solid; border-collapse: collapse; text-align: center; font-size:11px">
+
+<tr bgcolor="#C19A6B">
+<td colspan="5"><b><a href="/wiki/Season_4" title="Season 4">Season Four</a> appearances</b>
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> <b><a href="/wiki/Two_Swords" title="Two Swords">Two Swords</a></b>
+</td><td style="width: 20%;"> The Lion and the Rose
+</td><td style="width: 20%;"> <b><a href="/wiki/Breaker_of_Chains" title="Breaker of Chains">Breaker of Chains</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/Oathkeeper" title="Oathkeeper">Oathkeeper</a></b>
+</td><td style="width: 20%;"> First of His Name
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> The Laws of Gods and Men
+</td><td style="width: 20%;"> <b><a href="/wiki/Mockingbird" title="Mockingbird">Mockingbird</a></b>
+</td><td style="width: 20%;"> The Mountain and the Viper
+</td><td style="width: 20%;"> <b><a href="/wiki/The_Watchers_on_the_Wall" title="The Watchers on the Wall">The Watchers on the Wall</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/The_Children" title="The Children">The Children</a></b>
+</td></tr></table>
+<table class="appearances" border="1" style="width: 90%; margin: 1em 1em 1em 0; border: 1px #000000 solid; border-collapse: collapse; text-align: center; font-size:11px">
+
+<tr bgcolor="#C19A6B">
+<td colspan="5"><b><a href="/wiki/Season_5" title="Season 5">Season Five</a> appearances</b>
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> <b><a href="/wiki/The_Wars_to_Come" title="The Wars to Come">The Wars to Come</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/The_House_of_Black_and_White" title="The House of Black and White">The House of Black and White</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/High_Sparrow_(episode)" title="High Sparrow (episode)">High Sparrow</a></b>
+</td><td style="width: 20%;"> Sons of the Harpy
+</td><td style="width: 20%;"> Kill the Boy
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> Unbowed, Unbent, Unbroken
+</td><td style="width: 20%;"> The Gift
+</td><td style="width: 20%;"> Hardhome
+</td><td style="width: 20%;"> The Dance of Dragons
+</td><td style="width: 20%;"> Mother’s Mercy
+</td></tr></table>
+<h2><span class="mw-headline" id="Quotes">Quotes</span></h2>
+<div class="quote">
+<dl><dd><span><b>Tyrion Lannister</b>: "<i>Tell me, when your men <a href="/wiki/Massacre_in_the_Red_Keep" title="Massacre in the Red Keep">slaughtered Ned Stark's men in the throne men</a>, did you give the order?</i>"
+</dd><dd><b>Janos Slynt</b>: "<i>I did, and I would again. The man was a traitor. He tried to buy my loyalty.</i>"
+</dd><dd><b>Tyrion Lannister</b>: "<i>The fool. He had no idea you were already bought.</i>"</span>
+</dd><dd>&#8212; Tyrion Lannister interrogates Janos Slynt.<sup class="noprint"><a href="/wiki/The_Night_Lands" title="The Night Lands">[src]</a></sup>
+</dd></dl>
+</div>
+<div class="quote">
+<dl><dd><span><b>Jon Snow</b>: "<i>Have you ever been beyond the Wall, Ser?</i>"
+</dd><dd><b>Janos Slynt</b>: "<i>I commanded the City Watch of King's Landing, boy.</i>"
+</dd><dd><b>Jon Snow</b>: "<i>And now you're <a href="/wiki/The_Wall" title="The Wall">here</a>. You must not have been very good at your job.</i>"
+</dd><dd><b>Janos Slynt</b>: "<i>How dare you?!</i>"</span>
+</dd><dd>&#8212; <a href="/wiki/Jon_Snow" title="Jon Snow">Jon Snow</a> antagonizes Janos Slynt.<sup class="noprint"><a href="/wiki/Two_Swords" title="Two Swords">[src]</a></sup>
+</dd></dl>
+</div>
+<div class="quote">
+<dl><dd><span><b>Janos Slynt</b>: "<i>I was charged with the defense of King's Landing when you were soiling your swaddling clothes. Keep your <a href="/wiki/Greyguard" title="Greyguard">ruin</a>.</i>"
+</dd><dd><b>Jon Snow</b>: "<i>You mistake me, my Lord. That was a <u>command</u>, not an offer. Pack your arms and armor, say your farewells, and ride for Greyguard.</i>"
+</dd><dd><b>Janos Slynt</b>: "<i>I will not go meekly off to freeze and die. Give it to one of the fools who cast a stone for you! I will not have it! do you hear me, boy?! I will </i>not<i> have it!</i>"
+</dd><dd><b>Jon Snow</b>: "<i>Are you refusing to obey my order?</i>"
+</dd><dd><b>Janos Slynt</b>: "<i>You can stick your order up your bastard arse!</i>"</span>
+</dd><dd>&#8212; Janos shows his contempt for Jon despite his ascension to Lord Commander.<sup class="noprint"><a href="/wiki/High_Sparrow_(episode)" title="High Sparrow (episode)">[src]</a></sup>
+</dd></dl>
+</div>
+<div class="quote">
+<dl><dd><span><b>Jon Snow</b>: "<i>If you have any last words, my lord, now's the time.</i>"
+</dd><dd><b>Janos Slynt</b>: "<i>I was wrong! You're the Lord Commander! We all serve you! I'm sorry! Not only for this, for all I've done and said! I was wrong! My lord, please, mercy! Mercy! I'll go, I will! Please.......I'm afraid........I've always been afraid.......</i>"</span>
+</dd><dd>&#8212; Janos Slynt's final words before he is executed by Jon Snow for insubordination.<sup class="noprint"><a href="/wiki/High_Sparrow_(episode)" title="High Sparrow (episode)">[src]</a></sup>
+</dd></dl>
+</div>
+<h2><span class="mw-headline" id="In_the_books">In the books</span></h2>
+<p>In the <i><a href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, Janos Slynt was a commoner, a butcher's son, who joined the City Watch and rose through the ranks first to captain of the Iron Gate and then to become its commander at the death of the former commander, Manly Stokeworth. The City Watch, or "Gold Cloaks," is one of the few institutions in Westeros to permit promotion of non-nobles from the ranks. He is a somewhat humorless man who is arrogant and proud of his achievements. He is bald, stout, and heavily jowled, often described as frog-faced and shaped like a keg. He is the father of Morros, Jothos, Danos, and a daughter.
+</p><p><a href="/wiki/Arya_Stark" title="Arya Stark">Arya Stark</a> sees Janos Slynt at the Sept of Baelor throw her father down on his knees for Ser <a href="/wiki/Ilyn_Payne" title="Ilyn Payne">Ilyn Payne</a> to behead him and later triumphantly holds Ned's head up for all to see. <a href="/wiki/Tywin_Lannister" title="Tywin Lannister">Tywin Lannister</a> is indignant that he was raised to Lord of Harrenhal, due to his low birth and Harrenhal having been the seat of a King. He vows that Slynt will never take up his seat if he has any part in it. Slynt's elevation is one of the many questionable decisions by Cersei and Joffrey that prompts Tywin to send Tyrion to King's Landing to be acting Hand, and rein them in. When confronted about Slynt's appointment, Cersei admits to Tyrion that Slynt is not as competent as could be wished (as he was stupid enough to believe he could arrest as skilled a knight as <a href="/wiki/Barristan_Selmy" title="Barristan Selmy">Barristan Selmy</a> with only two men, not thinking that Selmy might choose to fight rather than come quietly).
+</p><p>The books also establish that Slynt had amassed wealth by taking bribes, selling positions, and selling promotions. By the end of his tenure, over half the officers were paying him part of their salaries. Jon Arryn discovered this and had two men who were willing to come forward to testify against Janos, but both were found dead a short time later. Jon still wanted to dismiss Slynt, but King Robert preferred a known thief over someone who might be worse. According to <a href="/wiki/Stannis_Baratheon" title="Stannis Baratheon">Stannis Baratheon</a>, these were Littlefinger's words, which Robert was merely repeating. Littlefinger managed to successfully convince Robert that Janos was no worse than past Commanders who took bribes now and again, when he was in fact one of the most corrupt in the history of the City Watch - according to Stannis, outright selling positions and promotions in the City Watch is actually <i>very</i> unusual, even in their jaded history. Stannis also believes that Littlefinger not only knew of Slynt's corruption, but also made sure the crown profited from it: Janos was probably on Littlefinger's direct payroll for years, though at what point he sided <i>exclusively</i> with Littlefinger is difficult to say. Stannis also comments that were he King, Slynt would have lost more than his position for such corruption. If Janos wasn't already an active agent for Littlefinger, as soon as Robert died he certainly sided with Littlefinger in the coup against Ned Stark, simply for more bribes - Littlefinger seems to have been laying the groundwork of his schemes for years, buying out men in positions of authority in the capital.
+</p><p>Sansa deeply hates Slynt, remembering how he had thrown down her father for Ilyn Payne to behead. She wishes she could hurt him, or that some hero would throw him down and cut off his head. When she hears Tyrion sends him to the Wall, she carelessly says in Joffrey's presence "I hope <a href="/wiki/White_Walkers" title="White Walkers">the Others</a> get him" and gets beaten.
+</p><p>In <i>A Clash of Kings</i>, Janos doesn't personally kill <a href="/wiki/Barra" title="Barra">Barra</a>, but instead sends one of his subordinates, Allar Deem. Tyrion is still disgusted with Slynt (as he is in the TV series) because he happily passed on the orders to a man under his command, and was thus ultimately responsible for it. Deem is exiled to the Wall with Slynt, though Tyrion gives orders for Deem to be killed and thrown overboard before he arrives.
+</p><p>In <i>A Storm of Swords</i> Lord Slynt is not present during most of the Battle of Castle Black. He arrives with his crony Alliser Thorne at very late stage of the battle, both of them contributing nothing to the battle, only interfering. They seize command on the castle and interrogate Jon roughly. They accuse him of oathbreaking, cowardice, and desertion. Maester Aemon assures them that Jon has already explained his deeds to him and Donal Noye, but they either do not believe or do not care. Jon repeats what he told before, that he was acting at Qhorin's orders, but his explanations are rejected. Slynt taunts Jon by claiming that Eddard Stark died a traitor. Hearing the lies about his father, Jon's patience runs out, and he attacks Thorne. The Eastwatch men pull Jon off Thorne and he is locked in an ice cell. Four days later, he is released (as Aemon in that time has rallied several senior members of the Night's Watch to testify to Jon's loyalty, preventing Slynt and Thorne from executing him). Slynt and Thorne order Jon Snow to go to <a href="/wiki/Mance_Rayder" title="Mance Rayder">Mance Rayder</a> under the pretext of <a href="/wiki/Parley" title="Parley">parley</a> and assassinate him. Jon knows well that the wildlings will probably kill him on the spot, but he has no other choice but to do as told, knowing that a refusal will confirm the false accusations against him and give Thorne and Slynt an excuse to kill him. Jon also grudgingly acknowledges that the plan to assassinate Mance at the cost of his own life is the only viable plan they have left for saving the Night's Watch - though ultimately his meeting with Mance is interrupted by the arrival of Stannis Baratheon's army.
+</p><p>Slynt puts himself forth as candidate to succeed Jeor Mormont as Lord Commander of the Night's Watch, with the support of Ser Alliser Thorne and later on of Bowen Marsh as well. Slynt also tries to persuade Stannis Baratheon to support him, but Stannis's personal dislike for Slynt over his corruption scandal and his distaste for the man's sycophantic flattery put an end to it. Tywin Lannister, angered by the Night's Watch's neutrality in the War of the Five Kings and wanting to bring them under his control, tries to interfere in the election by sending a veiled threat to the Watch that they would receive no more reinforcements from the Crown unless Slynt was elected. Due to the rivalry between Cotter Pyke and Ser Denys Mallister, Slynt's chances improve. In the end, he is defeated by the efforts of Samwell Tarly, who persuades Pyke and Mallister to support Jon Snow as a compromise candidate.
+</p><p>Jon Snow executes Janos after he refuses his direct order, three times, to leave to take command of <a href="/wiki/Greyguard" title="Greyguard">Greyguard</a>. Initially Jon was going to have him hanged, but then commands his men to bring him down - only to reveal that he meant that <i>hanging</i> him was wrong, because his father taught him that "the man who passes the sentence must swing the sword". Jon then personally beheads Janos.
+</p><p>Ned Stark's own son beheading Janos has one more layer of narrative resonance in the novels: though the TV show doesn't show it, in the books Janos not only betrayed Ned to his eventual death, but after <a href="/wiki/Ilyn_Payne" title="Ilyn Payne">Ilyn Payne</a> beheaded Ned on the steps of the Great Sept, Janos personally lifted up Ned's severed head by the hair, and <i>proudly</i> held it up to display it to the crowd, even as Ned's blood splattered out of it onto the steps.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul><li><a href="http://vignette1.wikia.nocookie.net/gameofthrones/images/6/63/A_Wiki_of_Ice_and_Fire_favicon.PNG/revision/latest?cb=20140327143233" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="A Wiki of Ice and Fire favicon"  	class="lzy lzyPlcHld " 	 	data-image-key="A_Wiki_of_Ice_and_Fire_favicon.PNG" 	data-image-name="A Wiki of Ice and Fire favicon.PNG" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/6/63/A_Wiki_of_Ice_and_Fire_favicon.PNG/revision/latest?cb=20140327143233"  	 width="32"  	 height="32"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/6/63/A_Wiki_of_Ice_and_Fire_favicon.PNG/revision/latest?cb=20140327143233" 	 alt="A Wiki of Ice and Fire favicon"  	class="" 	 	data-image-key="A_Wiki_of_Ice_and_Fire_favicon.PNG" 	data-image-name="A Wiki of Ice and Fire favicon.PNG" 	 	 width="32"  	 height="32"  	 	 	 	></noscript></a> <a href="http://awoiaf.westeros.org/index.php/Janos_Slynt" class="extiw exitstitial" title="awoiaf:Janos Slynt">Janos Slynt</a> on <a rel="nofollow" class="external text exitstitial" href="http://awoiaf.westeros.org/">A Wiki of Ice and Fire</a>
+</li></ul>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<div class="references-small" style="-moz-column-count:2; -webkit-column-count:2; column-count:2;">
+<ol class="references"><li id="cite_note-0"><a href="#cite_ref-0">↑</a> <span class="reference-text"><a rel="nofollow" class="external text exitstitial" href="http://viewers-guide.hbo.com/game-of-thrones/season2/#!/guide/houses/jbaratheon/janos-slynt/">HBO viewers guide, season 2 guide to houses, House Baratheon of King's Landing - Janos Slynt entry</a></span>
+</li>
+<li id="cite_note-1"><a href="#cite_ref-1">↑</a> <span class="reference-text">"<a href="/wiki/Cripples,_Bastards_and_Broken_Things" title="Cripples, Bastards and Broken Things">Cripples, Bastards and Broken Things</a>"</span>
+</li>
+<li id="cite_note-2"><a href="#cite_ref-2">↑</a> <span class="reference-text">"<a href="/wiki/You_Win_or_You_Die" title="You Win or You Die">You Win or You Die</a>"</span>
+</li>
+<li id="cite_note-3"><a href="#cite_ref-3">↑</a> <span class="reference-text">"<a href="/wiki/The_Pointy_End" title="The Pointy End">The Pointy End</a>"</span>
+</li>
+<li id="cite_note-4"><a href="#cite_ref-4">↑</a> <span class="reference-text">"<a href="/wiki/The_North_Remembers" title="The North Remembers">The North Remembers</a>"</span>
+</li>
+<li id="cite_note-5"><a href="#cite_ref-5">↑</a> <span class="reference-text">"<a href="/wiki/The_Night_Lands" title="The Night Lands">The Night Lands</a>"</span>
+</li>
+<li id="cite_note-6"><a href="#cite_ref-6">↑</a> <span class="reference-text">"<a href="/wiki/Two_Swords" title="Two Swords">Two Swords</a>"</span>
+</li>
+<li id="cite_note-7"><a href="#cite_ref-7">↑</a> <span class="reference-text">"<a href="/wiki/Oathkeeper" title="Oathkeeper">Oathkeeper</a>"</span>
+</li>
+<li id="cite_note-8"><a href="#cite_ref-8">↑</a> <span class="reference-text">"<a href="/wiki/Mockingbird" title="Mockingbird">Mockingbird</a>"</span>
+</li>
+<li id="cite_note-9"><a href="#cite_ref-9">↑</a> <span class="reference-text">"<a href="/wiki/The_Watchers_on_the_Wall" title="The Watchers on the Wall">The Watchers on the Wall</a>"</span>
+</li>
+<li id="cite_note-10"><a href="#cite_ref-10">↑</a> <span class="reference-text">"<a href="/wiki/The_Children" title="The Children">The Children</a>"</span>
+</li>
+<li id="cite_note-11"><a href="#cite_ref-11">↑</a> <span class="reference-text">"<a href="/wiki/The_Wars_to_Come" title="The Wars to Come">The Wars to Come</a>"</span>
+</li>
+<li id="cite_note-12"><a href="#cite_ref-12">↑</a> <span class="reference-text">"<a href="/wiki/The_House_of_Black_and_White" title="The House of Black and White">The House of Black and White</a>"</span>
+</li>
+<li id="cite_note-13"><a href="#cite_ref-13">↑</a> <span class="reference-text">"<a href="/wiki/High_Sparrow_(episode)" title="High Sparrow (episode)">High Sparrow (episode)</a>"</span>
+</li></ol></div>
+<table class="nowraplinks navbox collapsible collapsed" cellspacing="0" style="width: 100%;">
+<tr>
+<th colspan="2" class="navbox-title"> <div style="padding-right:0em"><div style="float:left; text-align:left; width:6em;"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small;&#160;;"><a href="/wiki/Template:Watch_navbox" title="Template:Watch navbox"><span title="View this template" style=";">v</span></a>&#160;<span style="font-size: 80%;">•</span>&#160;<span class="plainlinks"><a  class="text" href="http://gameofthrones.wikia.com/wiki/Template_talk:Watch_navbox"><span style=";" title="Discussion about this template">d</span></a></span>&#160;<span style="font-size: 80%;">•</span>&#160;<a  class="text" href="http://gameofthrones.wikia.com/wiki/Template:Watch_navbox?action=edit"><span style=";" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><div style="text-align:centre"><span style=""><a href="/wiki/Night%27s_Watch" title="Night's Watch">The Night's Watch</a></span></div></div>
+</th></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/Lord_Commander_of_the_Night%27s_Watch" title="Lord Commander of the Night's Watch">Lord Commander</a>:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Jon_Snow" title="Jon Snow">Jon Snow</a>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Former Lords Commander:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Night%27s_King" title="Night's King">The Night's King</a> <b>·</b> <a href="/wiki/Brynden_Rivers" title="Brynden Rivers">Brynden Rivers</a> <b>·</b> <a href="/wiki/Jeor_Mormont" title="Jeor Mormont">Jeor Mormont</a>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Commanders:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Denys_Mallister" title="Denys Mallister">Ser Denys Mallister</a> <b>·</b> <a href="/wiki/Cotter_Pyke" title="Cotter Pyke">Cotter Pyke</a>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Maesters:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Aemon" title="Aemon">Aemon</a>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/Ranger" title="Ranger">Rangers</a>:</b>
+</td><td class="navbox-list" style="padding:0; border-bottom:0;">
+<table class="nowraplinks navbox collapsible autocollapse" cellspacing="0" style="width: 100%;">
+
+
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/First_Ranger" title="First Ranger">First Ranger</a>:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Alliser_Thorne" title="Alliser Thorne">Ser Alliser Thorne</a>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Current:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Balian" title="Balian">Balian</a> <b>·</b> <a href="/wiki/Escan" title="Escan">Escan</a> <b>·</b> <a href="/wiki/Matthar" title="Matthar">Matthar</a> <b>·</b> <a href="/wiki/Nelugo" title="Nelugo">Nelugo</a> <b>·</b> <a href="/wiki/Niko" title="Niko">Niko</a> <b>·</b> <a href="/wiki/Jaremy_Rykker" title="Jaremy Rykker">Ser Jaremy Rykker</a> <b>·</b> <a href="/wiki/Gared_Tuttle" title="Gared Tuttle">Gared Tuttle</a> <b>·</b> <a href="/wiki/Finn" title="Finn">Finn</a> <b>·</b> <a href="/wiki/Hugh_(Telltale)" title="Hugh (Telltale)">Hugh</a>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Former:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Bannen" title="Bannen">Bannen</a> <b>·</b> <a href="/wiki/Borba" title="Borba">Borba</a> <b>·</b> <a href="/wiki/Gared" title="Gared">Gared</a> <b>·</b> <a href="/wiki/Grenn" title="Grenn">Grenn</a> <b>·</b> <a href="/wiki/Harker" title="Harker">Harker</a>  <b>·</b> <a href="/wiki/Jafer_Flowers" title="Jafer Flowers">Jafer Flowers</a> <b>·</b> <a href="/wiki/Karl_Tanner" title="Karl Tanner">Karl Tanner</a> <b>·</b> <a href="/wiki/Othor" title="Othor">Othor</a> <b>·</b> <a href="/wiki/Qhorin" title="Qhorin">Qhorin Halfhand</a> <b>·</b> <a href="/wiki/Rast" title="Rast">Rast</a> <b>·</b> <a href="/wiki/Mance_Rayder" title="Mance Rayder">Mance Rayder</a> <b>·</b> <a href="/wiki/Waymar_Royce" title="Waymar Royce">Ser Waymar Royce</a> <b>·</b> <a href="/wiki/Benjen_Stark" title="Benjen Stark">Benjen Stark</a> <i>(MIA)</i> <b>·</b> <a href="/wiki/Stiv" title="Stiv">Stiv</a> <b>·</b> <a href="/wiki/Stonesnake" title="Stonesnake">Stonesnake</a> <b>·</b> <a href="/wiki/Wallen" title="Wallen">Wallen</a> <b>·</b> <a href="/wiki/Will" title="Will">Will</a> <b>·</b> <a href="/wiki/Cooper" title="Cooper">Cooper</a> <b>·</b> <a href="/wiki/Smitty" title="Smitty">Smitty</a> 
+</p>
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/Steward_(Night%27s_Watch)" title="Steward (Night's Watch)">Stewards</a>:</b>
+</td><td class="navbox-list" style="">
+<table class="nowraplinks navbox collapsible autocollapse" cellspacing="0" style="width: 100%;">
+
+
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/First_Steward" title="First Steward">First Steward</a>:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Bowen_Marsh" title="Bowen Marsh">Bowen Marsh</a>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Current:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Borcas" title="Borcas">Borcas</a> <b>·</b> <a href="/wiki/Clydas" title="Clydas">Clydas</a> <b>·</b> <a href="/wiki/Dareon" title="Dareon">Dareon</a> <b>·</b> <a href="/wiki/Gordo" title="Gordo">Gordo</a> <b>·</b> <a href="/wiki/Hobb" title="Hobb">Hobb</a> <b>·</b> <a href="/wiki/Mink" title="Mink">Mink</a> <b>·</b> <a href="/wiki/Myk" title="Myk">Myk</a> <b>·</b> <a href="/wiki/Samwell_Tarly" title="Samwell Tarly">Samwell Tarly</a> <b>·</b> <a href="/wiki/Eddison_Tollett" title="Eddison Tollett">Eddison Tollett</a> <b>·</b> <a href="/wiki/Joby" title="Joby">Joby</a> <b>·</b> <a href="/wiki/Joe" title="Joe">One-Eyed Joe</a> <b>·</b> <a href="/wiki/Luke" title="Luke">Luke</a> <b>·</b> <a href="/wiki/Lobor" title="Lobor">Lobor</a> <b>·</b> <a href="/wiki/Erik" title="Erik">Erik</a>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Former:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Donnel_Hill" title="Donnel Hill">Donnel Hill</a> <b>·</b> <a href="/wiki/Pypar" title="Pypar">Pypar</a> 
+</p>
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/Builder" title="Builder">Builders</a>:</b>
+</td><td class="navbox-list" style="">
+<table class="nowraplinks navbox collapsible autocollapse" cellspacing="0" style="width: 100%;">
+
+
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/First_Builder" title="First Builder">First Builder</a>:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Othell_Yarwyck" title="Othell Yarwyck">Othell Yarwyck</a>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Current:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Allo" title="Allo">Allo</a> <b>·</b> <a href="/wiki/Echiel" title="Echiel">Echiel</a> <b>·</b> <a href="/wiki/Halder" title="Halder">Halder</a> <b>·</b> <a href="/wiki/Rancer" title="Rancer">Rancer</a> <b>·</b> <a href="/wiki/Toad" title="Toad" class="mw-redirect">Toad</a> <b>·</b> <a href="/wiki/Vorkoy" title="Vorkoy">Vorkoy</a> <b>·</b> <a href="/wiki/Casper" title="Casper">Casper</a> <b>·</b> <a href="/wiki/Cotter" title="Cotter">Cotter</a>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Former:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Kegs" title="Kegs">Kegs</a> <b>·</b> <a href="/wiki/Jack_Bulwer" title="Jack Bulwer">Black Jack Bulwer</a> <b>·</b> <a href="/wiki/Mully" title="Mully">Mully</a> 
+</p>
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/Wandering_Crows" title="Wandering Crows">Recruiters</a>:</b>
+</td><td class="navbox-list" style="">
+<table class="nowraplinks navbox collapsible autocollapse" cellspacing="0" style="width: 100%;">
+
+
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Current:</b>
+</td><td class="navbox-list" style="">
+<p><i>Unknown</i>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Former:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Yoren" title="Yoren">Yoren</a> 
+</p>
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Castles of the Watch:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/The_Shadow_Tower" title="The Shadow Tower">The Shadow Tower</a> <b>·</b> <a href="/wiki/Castle_Black" title="Castle Black">Castle Black</a> <b>·</b> <a href="/wiki/Eastwatch-by-the-Sea" title="Eastwatch-by-the-Sea">Eastwatch-by-the-Sea</a> <b>·</b> <a href="/wiki/Deep_Lake" title="Deep Lake">Deep Lake</a> <b>·</b> <a href="/wiki/Greyguard" title="Greyguard">Greyguard</a> <b>·</b> <a href="/wiki/Nightfort" title="Nightfort" class="mw-redirect">Nightfort</a> 
+</p>
+</td></tr></table>
+<table class="nowraplinks navbox collapsible autocollapse" cellspacing="0" style="width: 100%;">
+<tr>
+<th colspan="2" class="navbox-title"> <div style="padding-right:0em"><div style="float:left; text-align:left; width:6em;"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small;&#160;;"><a href="/wiki/Template:SmallCouncil_navbox" title="Template:SmallCouncil navbox"><span title="View this template" style=";">v</span></a>&#160;<span style="font-size: 80%;">•</span>&#160;<span class="plainlinks"><a  class="text" href="http://gameofthrones.wikia.com/wiki/Template_talk:SmallCouncil_navbox"><span style=";" title="Discussion about this template">d</span></a></span>&#160;<span style="font-size: 80%;">•</span>&#160;<a  class="text" href="http://gameofthrones.wikia.com/wiki/Template:SmallCouncil_navbox?action=edit"><span style=";" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><div style="text-align:centre"><span style=""><a href="/wiki/Small_Council" title="Small Council">The Small Council</a></span></div></div>
+</th></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/Hand_of_the_King" title="Hand of the King">Hand of the King</a></b>
+</td><td class="navbox-list" style="">
+<table class="nowraplinks navbox collapsible autocollapse" cellspacing="0" style="width: 100%;">
+
+
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Current:</b>
+</td><td class="navbox-list" style="">
+<p><i>Vacant</i>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Former:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Jon_Arryn" title="Jon Arryn">Lord Jon Arryn</a> <b>·</b> <a href="/wiki/Eddard_Stark" title="Eddard Stark">Lord Eddard Stark</a> <b>·</b> <a href="/wiki/Tyrion_Lannister" title="Tyrion Lannister">Tyrion Lannister</a> <b>·</b>  <a href="/wiki/Tywin_Lannister" title="Tywin Lannister">Lord Tywin Lannister</a> 
+</p>
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/Lord_Commander_of_the_Kingsguard" title="Lord Commander of the Kingsguard">Lord Commander of the Kingsguard</a></b>
+</td><td class="navbox-list" style="">
+<table class="nowraplinks navbox collapsible autocollapse" cellspacing="0" style="width: 100%;">
+
+
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Current:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Jaime_Lannister" title="Jaime Lannister">Ser Jaime Lannister</a>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Former:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Barristan_Selmy" title="Barristan Selmy">Ser Barristan Selmy </a> 
+</p>
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/Grand_Maester" title="Grand Maester">Grand Maester</a></b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Pycelle" title="Pycelle">Pycelle</a>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/Master_of_Coin" title="Master of Coin">Master of Coin</a></b>
+</td><td class="navbox-list" style="">
+<table class="nowraplinks navbox collapsible autocollapse" cellspacing="0" style="width: 100%;">
+
+
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Current:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Mace_Tyrell" title="Mace Tyrell">Lord Mace Tyrell</a>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Former:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Petyr_Baelish" title="Petyr Baelish">Lord Petyr Baelish</a> <b>·</b> <a href="/wiki/Tyrion_Lannister" title="Tyrion Lannister">Tyrion Lannister</a> 
+</p>
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/Master_of_Whisperers" title="Master of Whisperers">Master of Whisperers</a></b>
+</td><td class="navbox-list" style="">
+<table class="nowraplinks navbox collapsible autocollapse" cellspacing="0" style="width: 100%;">
+
+
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Current:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Qyburn" title="Qyburn">Qyburn</a>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Former:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Varys" title="Varys">Varys</a> 
+</p>
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/Master_of_Laws" title="Master of Laws">Master of Laws</a></b>
+</td><td class="navbox-list" style="">
+<table class="nowraplinks navbox collapsible autocollapse" cellspacing="0" style="width: 100%;">
+
+
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Current:</b>
+</td><td class="navbox-list" style="">
+<p><i>Vacant</i>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Former:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Renly_Baratheon" title="Renly Baratheon">Lord Renly Baratheon</a> 
+</p>
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/Master_of_Ships" title="Master of Ships">Master of Ships</a></b>
+</td><td class="navbox-list" style="">
+<table class="nowraplinks navbox collapsible autocollapse" cellspacing="0" style="width: 100%;">
+
+
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Current:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Mace_Tyrell" title="Mace Tyrell">Lord Mace Tyrell</a>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Former:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Stannis_Baratheon" title="Stannis Baratheon">Lord Stannis Baratheon</a> 
+</p>
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Other members</b>
+</td><td class="navbox-list" style="">
+<table class="nowraplinks navbox collapsible autocollapse" cellspacing="0" style="width: 100%;">
+
+
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Current:</b>
+</td><td class="navbox-list" style="">
+<p><i>Vacant</i>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Former:</b>
+</td><td class="navbox-list" style="">
+<p><strong class="selflink">Lord Janos Slynt</strong> <b>·</b> <a href="/wiki/Oberyn_Martell" title="Oberyn Martell">Prince Oberyn Martell</a> <b>·</b> "<a href="/wiki/Master_of_War" title="Master of War">Master of War</a>" 
+</p>
+</td></tr></table>
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 3519/300000
+Post‐expand include size: 91682/2097152 bytes
+Template argument size: 27412/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key gameofthrones:pcache:idhash:2259-0!*!0!!en!2!* -->
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://gameofthrones.wikia.com/wiki/Janos_Slynt?oldid=264141">http://gameofthrones.wikia.com/wiki/Janos_Slynt?oldid=264141</a>"</div>
+
+				</div>
+
+															<nav class="article-categories CategorySelect articlePage" id="articleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="Characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Characters" title="Category:Characters">Characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Recurring Characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Recurring_Characters" title="Category:Recurring Characters">Recurring Characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Season 1 Characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Season_1_Characters" title="Category:Season 1 Characters">Season 1 Characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Season 2 Characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Season_2_Characters" title="Category:Season 2 Characters">Season 2 Characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="House Slynt" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:House_Slynt" title="Category:House Slynt">House Slynt</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Lords" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Lords" title="Category:Lords">Lords</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Small council" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Small_council" title="Category:Small council">Small council</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Season 4 Characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Season_4_Characters" title="Category:Season 4 Characters">Season 4 Characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="City Watch of King&#039;s Landing" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:City_Watch_of_King%27s_Landing" title="Category:City Watch of King's Landing">City Watch of King's Landing</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Members of the Night&#039;s Watch" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Members_of_the_Night%27s_Watch" title="Category:Members of the Night's Watch">Members of the Night's Watch</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Characters from the Crownlands" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Characters_from_the_Crownlands" title="Category:Characters from the Crownlands">Characters from the Crownlands</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Nobility" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Nobility" title="Category:Nobility">Nobility</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Season 5 Characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Season_5_Characters" title="Category:Season 5 Characters">Season 5 Characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Status: Dead" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Status:_Dead" title="Category:Status: Dead">Status: Dead</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+					</ul>
+	</div>
+	</nav>									
+				<nav class="WikiaArticleInterlang">
+	<h3>Languages: </h3>
+	<ul>
+			<li><a href="http://de.gameofthrones.wikia.com/wiki/Janos_Slynt">Deutsch</a></li>
+			<li><a href="http://hieloyfuego.wikia.com/wiki/Janos_Slynt">Español</a></li>
+			<li><a href="http://ru.gameofthrones.wikia.com/wiki/%D0%94%D0%B6%D0%B0%D0%BD%D0%BE%D1%81_%D0%A1%D0%BB%D0%B8%D0%BD%D1%82">Русский</a></li>
+			<li><a href="http://graotron.wikia.com/wiki/Janos_Slynt">Polski</a></li>
+			<li><a href="http://fr.game-of-thrones.wikia.com/wiki/Janos_Slynt">Français</a></li>
+			<li><a href="http://it.iltronodispade.wikia.com/wiki/Janos_Slynt">Italiano</a></li>
+			<li><a href="http://zh.asoiaf.wikia.com/wiki/%E6%9D%B0%E8%AF%BA%E6%96%AF%C2%B7%E5%8F%B2%E6%9E%97%E7%89%B9">中文</a></li>
+		</ul>
+</nav>
+
+				
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+							<!-- BEGIN CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<div id="NATIVE_TABOOLA_ARTICLE">
+		<script>
+			window.adslots2.push(["NATIVE_TABOOLA_ARTICLE"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+<div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+				
+
+
+
+
+<script>
+    if (typeof(Wikia.geo) !== 'undefined' && ['US'].indexOf(Wikia.geo.getCountryCode()) >= 0) {
+        document.write('<aside id="monetization-amazon_video-above_footer" class="monetization-module amazon-video hide-for-edit above-footer amazon-video-full" data-mon-type="amazon_video" data-mon-slot="above_footer"><div class="affiliate" data-mon-pid="B00HV2BQCQ" data-mon-ptag="gameofthrones-janos_slynt-130814-2259-B00HV2BQCQ-piv-fl-npr-af-f" data-mon-pname="Game of Thrones: Season 3"><div class="affiliate-header"><a class="product-thumb" target="_blank" href="http://www.amazon.com/gp/product/B00HV2BQCQ/ref=atv_feed_catalog?tag=wikia-monsvc-af-pvn-20&ascsubtag=gameofthrones-janos_slynt-130814-2259-B00HV2BQCQ-piv-fl-npr-af-f"><img  src="http://ecx.images-amazon.com/images/I/41iUz4aNrmL._SX320_SY240_.jpg"></a></div><a class="product-name" target="_blank" href="http://www.amazon.com/gp/product/B00HV2BQCQ/ref=atv_feed_catalog?tag=wikia-monsvc-af-pvn-20&ascsubtag=gameofthrones-janos_slynt-130814-2259-B00HV2BQCQ-piv-fl-npr-af-f"><span class="product-title">Game of Thrones: Season 3</span><span class="product-detail">Season 3</span><span class="rating-bar"><span class="rating" style="width: 100.0%"></span></span></a><div class="product-button non-prime"><a class="amazon-logo" target="_blank" href="http://www.amazon.com/gp/product/B00HV2BQCQ/ref=atv_feed_catalog?tag=wikia-monsvc-af-pvn-20&ascsubtag=gameofthrones-janos_slynt-130814-2259-B00HV2BQCQ-piv-fl-npr-af-f"></a><a class="product-btn" target="_blank" href="http://www.amazon.com/gp/product/B00HV2BQCQ/ref=atv_feed_catalog?tag=wikia-monsvc-af-pvn-20&ascsubtag=gameofthrones-janos_slynt-130814-2259-B00HV2BQCQ-piv-fl-npr-af-f"></a></div></div></aside>');
+    } else 
+
+
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['AU','CA','DE','GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write('<div id="monetization-adunit-above_footer" class="monetization-module adunit hide-for-edit above-footer" data-mon-type="adunit" data-mon-slot="above_footer"><div class="ad-header">Advertisement</div><div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><ins class="adsbygoogle ad-responsive" style="display:inline-block;" data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_af_fss_fft mon_hub_tv mon_sl_af" data-ad-type="text" data-font-size="small"data-font-face="times" data-color-bg="#d7cbab" data-color-border="#d7cbab" data-color-link="#47518e" data-color-url="#47518e" data-color-text="#3a3a3a" ></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt></div></div>');
+}
+</script>				<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+										<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+						<div id="WikiaRail" class="WikiaRail">
+
+		<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+					<div class="loading"></div>
+		
+	</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	<div id="BOTTOM_LEADERBOARD"></div>
+	
+			<section>
+	<div class="header-container">
+		<h2>Around Wikia's network</h2>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/130814" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer">
+	<nav>
+		<div class="branding vertical-tv black">
+			<a class="wikia-logo" href="http://tvhub.wikia.com/wiki/TV_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>TV</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com/wiki/Help:Contents">Help</a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Sitemap">Global Sitemap</a>
+									</li>
+							<li>
+											<a href="/wiki/Special:AllPages">Local Sitemap</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Vacation like an Avenger. Explore real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;},{&quot;text&quot;:&quot;Vacation like an Avenger. Explore real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;},{&quot;text&quot;:&quot;Vacation like an Avenger. Explore real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;},{&quot;text&quot;:&quot;Vacation like an Avenger. Explore real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;},{&quot;text&quot;:&quot;Vacation like an Avenger. Explore real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["GPT_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: EVOLVE_FLUSH -->
+<div id="EVOLVE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["EVOLVE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: EVOLVE_FLUSH -->
+<!-- BEGIN SLOTNAME: HITMEDIA_FLUSH -->
+<div id="HITMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["HITMEDIA_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: HITMEDIA_FLUSH -->
+<!-- BEGIN SLOTNAME: TURTLE_FLUSH -->
+<div id="TURTLE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TURTLE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TURTLE_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"gameofthrones","kv_article_id":2259,"kv_wpage":"Janos_Slynt","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"media=tv;genre=fantasy;tv=hbo;sex=m;age=18-24;age=18-34;age=25-34;esrb=mature;media=books;gnre=action;gnre=adventure;theme=sword;theme=magic;gnre=drama;gnre=fighting;theme=dragon;theme=mature;theme=zombiesex=m;age=18-24;age=25-34;age=18-34;age=teen;media=tv;media=comics;media=books;gnre=action;theme=zombie;gnre=horror;theme=postapocalypse;gnre=3rdpersonshooter;pform=xbox360;pform=ps3;esrb=mature;tv=amc;sex=m;age=13-17;age=18-24;age=under18;age=kids;age=teen;gnre=anime;media=tv;media=comics;gnre=fighting;gnre=fantasyage=under18;age=18-24;age=teen;age=kids;media=tv;media=comics;media=cards;gnre=anime;gnre=fantasy;gnre=fighting;gnre=action;gnre=adventure;pform=xbox360;pform=ps3;pform=wii;pform=ds;esrb=teen;tv=cn;theme=heroes;tv=onhulu;tv=hulu","kv_domain":"gameofthrones.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://gameofthrones.wikia.com/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26newve%3D1%26only%3Dscripts%26skin%3Doasis/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgPageName":"Janos_Slynt","wgTitle":"Janos Slynt","wgCurRevisionId":264141,"wgArticleId":2259,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Characters","Recurring Characters","Season 1 Characters","Season 2 Characters","House Slynt","Lords","Small council","Season 4 Characters","City Watch of King\'s Landing","Members of the Night\'s Watch","Characters from the Crownlands","Nobility","Season 5 Characters","Status: Dead"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Janos_Slynt","wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"true","background-image":"http://img4.wikia.nocookie.net/__cb20150716154804/gameofthrones/images/5/50/Wiki-background","background-image-height":"720","background-image-width":"1920","color-body":"#000","color-body-middle":"#000000","color-buttons":"#1e5467","color-header":"#5f4416","color-links":"#47518e","color-page":"#d7cbab","oasisTypography":1,"page-opacity":"100","widthType":0},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"Game of Thrones Wiki","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1467115692/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1467115692/common","wgSitename":"Game of Thrones Wiki","wgMWrevId":false,"wgRevisionId":264141,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableNewAuthModal":true,"wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgWikiaMaxNameChars":50,"wgMinimalPasswordLength":1,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=Janos_Slynt","fbReturnToTitle":"Janos_Slynt","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":[],"wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"1200":true,"500":true,"501":true,"502":true,"503":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":true,"interactiveMapsApiURL":"http://maps.wikia-services.com:80/api/v1","VignettePathPrefix":null,"reCaptchaPublicKey":"6LdDSA4TAAAAANZDWjPdTiQcYsTuge5fMPQTd7D_","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgEnablePortableInfoboxBuilderInVE":true,"wgEnableVisualEditorTourExperiment":true,"wgOasisResponsive":false,"wgOasisBreakpoints":true,"verticalName":"Entertainment","wgArticleInterlangList":["de:Janos Slynt","es:Janos Slynt","fr:Janos Slynt","it:Janos Slynt","pl:Janos Slynt","ru:Джанос Слинт","zh:杰诺斯·史林特"],"WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgContentReviewExtEnabled":true,"wgContentReviewTestModeEnabled":false,"wgReviewedScriptsTimestamp":"1441727506","wgScriptsTimestamp":"1332971928","wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"Janos Slynt"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"editor":2,"enotifwallthread":2,"wallshowsource":false,"walldelete":false,"founderemails-joins-130814":0,"founderemails-edits-130814":0,"founderemails-views-digest-130814":0,"founderemails-complete-digest-130814":0,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true,"searchNs15":false,"searchNs110":false,"searchNs111":false,"searchNs500":false,
+"searchNs501":false,"searchNs502":false,"searchNs503":false,"searchNs828":false,"searchNs829":false,"searchNs1000":false,"searchNs1010":false,"searchNs1020":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"searchNs2000":false,"searchNs2001":false,"searchNs2002":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: gameofthrones:resourceloader:filter:minify-js:7:5ffb247b4f4ef073d23e4edf309a4c85 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikia.viewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.bannerNotifications","ext.cookiePolicyMessages","ext.userLogin"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1467115692/groups/-/oasis_shared_core_js,oasis_shared_js,oasis_anon_js,adengine2_oasis_exitstitial_js,adengine2_desktop_js,liftium_ads_js,liftium_ads_extra_js,adengine2_gcs_js,adengine2_taboola_js,adengine2_revcontent_js,adengine2_interactive_maps_js,recirculation_trackers_js,recirculation_js,toc_js,qualaroo_js,wikia_maps_contribution_button_create_map_js,spotlights_js,relatedpages_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1467115692/group/-/videos_module_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1467115692/group/-/auth_modal_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1467115692/group/-/cookie_policy_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1467115692/group/-/wikia_in_your_lang_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1467115692/group/-/portable_infobox_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1467115692/group/-/visit_source_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1467115692/group/-/community_page_benefits_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1467115692/group/-/visual_editor_tour_experiment_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=AdEngine%2CConfirmModal%2CImagePlaceholder%2COasis-generic%2CRecirculation%2CVideosModule&amp;uselang=en&amp;cb=1467115692.269577.0"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1467115692/group/-/monetization_module_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1467115692/group/-/global_navigation_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1467115692/group/-/page_share_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1467115692/group/-/global_footer_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://gameofthrones.wikia.com/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://gameofthrones.wikia.com/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26reviewed%3D1441727506%26skin%3Doasis/site"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1467115692/group/-/facebook_client_fbtags_js"></script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/Forum\/css\/ForumTag.scss","extensions\/wikia\/Recirculation\/styles\/recirculation.scss","extensions\/wikia\/PortableInfobox\/styles\/PortableInfobox.scss","extensions\/wikia\/CommunityPage\/styles\/benefitsModal\/benefitsModal.scss","extensions\/wikia\/VisualEditorTourExperiment\/styles\/VisualEditorTourExperimentInit.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModule.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationUserLoginDropdown.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationNotifications.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","extensions\/wikia\/GlobalNavigation\/styles\/GoogleSearchAPI.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/PageShare\/styles\/PageShare.scss","extensions\/wikia\/GlobalFooter\/styles\/GlobalFooter.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+</body>
+
+
+
+</html>

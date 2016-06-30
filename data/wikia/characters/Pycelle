@@ -1,0 +1,1624 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.24" />
+<meta name="keywords" content="Game of Thrones Wiki,gameofthrones,Pycelle,Season 1,Season 2,Season 3,Season 4,Season 5,Season 6,Lord Snow,The Winds of Winter,Grand Maester,Qyburn" />
+<meta name="description" content="Pycelle is a recurring character in the first, second, third, fourth, fifth, and sixth seasons..." />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Wikia" />
+<meta name="twitter:url" content="http://gameofthrones.wikia.com/wiki/Pycelle" />
+<meta name="twitter:title" content="Pycelle - Game of Thrones Wiki - Wikia" />
+<meta name="twitter:description" content="Pycelle is a recurring character in the first, second, third, fourth, fifth, and sixth seasons. He was played by guest star Julian Glover and debuts in &quot;Lord Snow.&quot; Pycelle was the Grand Maester..." />
+<link rel="canonical" href="http://gameofthrones.wikia.com/wiki/Pycelle" />
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/wiki/Pycelle?action=edit" />
+<link rel="edit" title="Edit" href="/wiki/Pycelle?action=edit" />
+<link rel="apple-touch-icon" href="http://img1.wikia.nocookie.net/__cb87/gameofthrones/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/gameofthrones/images/6/64/Favicon.ico/revision/latest?cb=20120302041013" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Game of Thrones Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://gameofthrones.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="Game of Thrones Wiki Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>Pycelle - Game of Thrones Wiki - Wikia</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images1.wikia.nocookie.net/__am/1467115692/sasses/background-dynamic%3Dtrue%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb20150716154804%252Fgameofthrones%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1920%26color-body%3D%2523000%26color-body-middle%3D%2523000000%26color-buttons%3D%25231e5467%26color-header%3D%25235f4416%26color-links%3D%252347518e%26color-page%3D%2523d7cbab%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/skins/oasis/css/oasis.scss,extensions/wikia/Forum/css/ForumTag.scss,extensions/wikia/Recirculation/styles/recirculation.scss,extensions/wikia/PortableInfobox/styles/PortableInfobox.scss,extensions/wikia/VisualEditorTourExperiment/styles/VisualEditorTourExperimentInit.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationUserLoginDropdown.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationNotifications.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,extensions/wikia/GlobalNavigation/styles/GoogleSearchAPI.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/PageShare/styles/PageShare.scss,extensions/wikia/GlobalFooter/styles/GlobalFooter.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://slot1.images2.wikia.nocookie.net/__am/1467115692/sasses/background-dynamic%3Dtrue%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb20150716154804%252Fgameofthrones%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1920%26color-body%3D%2523000%26color-body-middle%3D%2523000000%26color-buttons%3D%25231e5467%26color-header%3D%25235f4416%26color-links%3D%252347518e%26color-page%3D%2523d7cbab%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/extensions/wikia/ARecoveryEngine/css/recoveryUnlock.scss" /><link rel="stylesheet" href="http://gameofthrones.wikia.com/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: gameofthrones:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="tv",
+wgWikiCategories=[],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Join the Chat","chat-start-a-chat":"Start a Chat","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live! Chat","chat-edit-count":"$1 edits","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":1,"delayBtf":true,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true,"sourcePointDetectionUrl":"http://gameofthrones.wikia.com/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/57760d8e437e238c3641afedb4a476d1","yavliUrl":"http://gameofthrones.wikia.com/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/38b0394988142491ae86c66ddc260800"},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"esrbRating":"teen","mappedVerticalName":"ent","pageArticleId":2187,"pageIsArticle":true,"pageName":"Pycelle","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"media=tv;genre=fantasy;tv=hbo;sex=m;age=18-24;age=18-34;age=25-34;esrb=mature;media=books;gnre=action;gnre=adventure;theme=sword;theme=magic;gnre=drama;gnre=fighting;theme=dragon;theme=mature;theme=zombiesex=m;age=18-24;age=25-34;age=18-34;age=teen;media=tv;media=comics;media=books;gnre=action;theme=zombie;gnre=horror;theme=postapocalypse;gnre=3rdpersonshooter;pform=xbox360;pform=ps3;esrb=mature;tv=amc;sex=m;age=13-17;age=18-24;age=under18;age=kids;age=teen;gnre=anime;media=tv;media=comics;gnre=fighting;gnre=fantasyage=under18;age=18-24;age=teen;age=kids;media=tv;media=comics;media=cards;gnre=anime;gnre=fantasy;gnre=fighting;gnre=action;gnre=adventure;pform=xbox360;pform=ps3;pform=wii;pform=ds;esrb=teen;tv=cn;theme=heroes;tv=onhulu;tv=hulu","wikiDbName":"gameofthrones","wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"tv","newWikiCategories":["ent"]},"providers":{"evolve2":true,"rubiconFastlane":true,"taboola":true},"slots":{"exitstitial":true,"invisibleHighImpact":true},"forcedProvider":null},"runtime":{"sp":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[100056,100057,100058,100059,100397],
+wgWikiFactoryTagNames=["wow","t9","skyscraper","skyscrapperwow","en"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1467115692",
+wgDBname="gameofthrones",
+wgCityId="130814",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=2187,
+wgCategories=["Characters","Recurring Characters","Season 1 Characters","Season 2 Characters","Maesters","Small council","Season 3 Characters","Characters from Westeros","Season 4 Characters","Spies","Season 5 Characters","Grand Maesters","Season 6 Characters","Status: Dead"],
+wgPageName="Pycelle",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="character",
+wgNamespaceNumber=0,
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=true,
+wgStyleVersion="1467115692",
+wgTransactionContext={"type":"page/main/view/oasis/parser/complex","env":"prod","hostname":"ap-s245","php_version":"5.6.11","wiki":"gameofthrones","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":false,"size_category":"complex"},
+wgEnableOpenXSPC=true,
+wgEnableReviveSpotlights=true,
+wgSeoTestingBucket=1;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<!-- Nielsen is disabled --><script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1467115692&amp;c=130814&amp;lc=en&amp;lid=75&amp;x=gameofthrones&amp;y=c2&amp;u=0&amp;a=2187&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+		document.write('<img src="http://logs-01.loggly.com/inputs/88a88e56-77c6-49cc-af41-6f44f83fe7fe.gif?message=wikia_beacon_id%20is%20empty" style="position:absolute;top:-1000px" />');
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1467115692&amp;c=130814&amp;lc=en&amp;lid=75&amp;x=gameofthrones&amp;y=c2&amp;u=0&amp;a=2187&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1467115692/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine2_tracking_js,adengine2_amazon_match_js,adengine2_ox_bidder_js,adengine2_rubicon_fastlane_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="Game of Thrones Wiki" />
+	<meta property="og:title" content="Pycelle" />
+	<meta property="og:description" content="Pycelle is a recurring character in the first, second, third, fourth, fifth, and sixth seasons. He was played by guest star Julian Glover and debuts in &quot;Lord Snow.&quot; Pycelle was the Grand Maester for multiple kings and a member of the small council, but also served as a spy for Cersei Lannister. He died moments before the destruction of the Great Sept of Baelor as a result of a plot orchestrated by Qyburn, stabbed to death by Qyburn's little birds. Pycelle has been Grand Maester of the Seven..." />
+	<meta property="og:url" content="http://gameofthrones.wikia.com/wiki/Pycelle" />
+	<meta property="og:image" content="http://vignette4.wikia.nocookie.net/gameofthrones/images/e/e9/Pycelle_%28S04E06%29.jpg/revision/latest?cb=20150313210334" />
+<meta name="apple-itunes-app" content="app-id=920825172, app-arguments=http://gameofthrones.wikia.com/wiki/Pycelle">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Pycelle  TOC_hide oasis-breakpoints wikinav2 skin-oasis  user-anon background-fixed background-not-tiled background-dynamic wiki-gameofthrones" >
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fgameofthrones.wikia.com%2Fwiki%2FPycelle%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for RubiconFastlane, page_view -->
+<script id="analytics-provider-rubicon-fastlane">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.rubiconFastlane")
+	], function (geo, instantGlobals, rubiconFastlane) {
+		if (geo.isProperGeo(instantGlobals["wgAdDriverRubiconFastlaneCountries"])) {
+			rubiconFastlane.call();
+		};
+	});
+</script>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.amazonMatch"),
+	], function (geo, globals, amazon) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (geo.isProperGeo(ac)) {
+			amazon.call();
+		}
+	});
+</script>
+
+<!-- Start for OpenXBidder, page_view -->
+<script id="analytics-provider-openx-bidder">
+	require([
+		"wikia.geo",
+		"wikia.querystring",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.openXBidder")
+	], function (geo, Querystring, globals, oxBidder) {
+		var ac = globals["wgAdDriverOpenXBidderCountries"],
+			qs = new Querystring();
+
+		if (geo.isProperGeo(ac) || qs.getVal('oxbidder', '0') === '1') {
+			oxBidder.call();
+		};
+	});
+</script>
+<!-- Begin Krux Tag -->
+<script type="text/javascript">
+	require(['wikia.krux'], function (krux) {
+		krux.load('JU3_GW1b');
+	});
+</script>
+<!-- End Krux Tag -->
+<!-- Begin IVW3 Tag -->
+<script type="text/javascript">
+	var iam_data = {
+		st: 'wikia',
+		cp: 'tv/pc',
+		sv: 'i2'
+	};
+
+	if (window.Wikia &&
+		window.Wikia.InstantGlobals &&
+		!window.Wikia.InstantGlobals.wgSitewideDisableIVW3 &&
+		window.Wikia.geo.isProperGeo(["AT","CH","DE"])
+	) {
+		window.ivw3Initialized = true;
+		document.write('<script type="text/javascript" src="https://script.ioam.de/iam.js"><\/script>');
+		document.write('<script type="text/javascript">window.iom.c(iam_data, 2);<\/script>');
+	}
+</script>
+<!-- End IVW3 Tag -->
+<!-- Unsupported language for AnalyticsProviderIVW2 --><div class="WikiaSiteWrapper">
+	
+	<h2>Wikia</h2>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_LEADERBOARD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_BUTTON_WIDE"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["INVISIBLE_SKIN"]);
+	</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+<div id="InvisibleHighImpactWrapper" class="hidden">
+	<div class="background"></div>
+	<a class="close">
+		<div class="close-button"></div>
+	</a>
+	<div class="label">Advertisement</div>
+	<div id="INVISIBLE_HIGH_IMPACT_2" class="wikia-ad noprint"></div>
+</div>
+<nav class="global-navigation" id="globalNavigation">
+	<div class="global-navigation-container">
+		<div class="wikia-logo-container table-cell">
+			<a href="http://www.wikia.com/fandom"
+				class="wikia-logo final-url"
+				rel="nofollow"
+				data-id="wikia-logo">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+					height="24"
+					width="91"
+					alt="Wikia"
+					title="Wikia">
+									<span class="wikia-logo__subtitle">The Home of Fandom</span>
+							</a >
+		</div >
+					<div class="table-cell hubs-links" data-visibility="desktop">
+									<a class="cell-link top-level" href="http://fandom.wikia.com/games"
+					   data-tracking-label="hub-games">
+						Games					</a>
+									<a class="cell-link top-level" href="http://fandom.wikia.com/movies"
+					   data-tracking-label="hub-movies">
+						Movies					</a>
+									<a class="cell-link top-level" href="http://fandom.wikia.com/tv"
+					   data-tracking-label="hub-tv">
+						TV					</a>
+							</div>
+				<div class="table-cell">
+			<div class="explore-wikia-entry-point" id="exploreWikiaEntryPoint">
+				<a class="cell-link top-level final-url"
+					href="http://www.wikia.com/explore"
+					data-tracking-label="explore-wikia">
+					Explore Wikia					<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+				</a>
+				<ul class="explore-wikia-dropdown" id="exploreWikiaDropdown">
+																		<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://fandom.wikia.com/games"
+								   data-tracking-label="hub-games">
+									Games								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://fandom.wikia.com/movies"
+								   data-tracking-label="hub-movies">
+									Movies								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://fandom.wikia.com/tv"
+								   data-tracking-label="hub-tv">
+									TV								</a>
+							</li>
+																						<li>
+							<a class="cell-link"
+							   href="http://www.wikia.com/WAM"
+							   data-tracking-label="top-communities">
+								Trending Wikias							</a>
+						</li>
+											<li>
+							<a class="cell-link"
+							   href="http://community.wikia.com"
+							   data-tracking-label="community-central">
+								Community Central							</a>
+						</li>
+									</ul>
+			</div>
+		</div>
+		<div class="search-container table-cell">
+			<div class="search-form-wrapper">
+	<form action="http://gameofthrones.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search Game of Thrones Wiki..." data-search-url="http://gameofthrones.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search Game of Thrones Wiki..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+		</div>
+		<div class="account-navigation-container table-cell">
+			<ul id="AccountNavigation" class="AccountNavigation table-cell newAuth ">
+	<li class="account-navigation-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/signin?redirect=http%3A%2F%2Fgameofthrones.wikia.com%2Fwiki%2FPycelle" rel="nofollow" title="Sign In" class="auth-link sign-in" accesskey="o">			<div class="avatar-container anon-avatar-placeholder">
+							</div>
+		</a>
+						<span class="auth-label">
+					<a class="auth-link sign-in" href="/signin?redirect=http%3A%2F%2Fgameofthrones.wikia.com%2Fwiki%2FPycelle">Sign In</a> or <a class="auth-link register" href="/register?redirect=http%3A%2F%2Fgameofthrones.wikia.com%2Fwiki%2FPycelle">Register</a>				</span>
+				</div>
+		</li>
+</ul>
+		</div>
+				<div class="start-wikia-container table-cell">
+			<a href="http://www.wikia.com/Special:CreateNewWiki"
+			   class="start-wikia"
+			   title="Start a wikia"
+			   data-id="start-wikia">
+				<span>Start a wikia</span>
+			</a>
+		</div>
+			</div>
+</nav>
+
+	<!-- BEGIN CONTAINER: TOP_LEADERBOARD_AB -->
+	<div id="TOP_LEADERBOARD_AB">
+		<script>
+			window.adslots2.push(["TOP_LEADERBOARD_AB"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: TOP_LEADERBOARD_AB -->
+
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h2 class="wordmark medium graphic ">
+	<a accesskey="z" href="/wiki/Game_of_Thrones_Wiki">
+					<img src="http://img1.wikia.nocookie.net/__cb87/gameofthrones/images/8/89/Wiki-wordmark.png" alt="Game of Thrones Wiki"  width="250" height="65" >
+			</a>
+</h2>
+	<nav class="WikiNav">
+					<h2>Game of Thrones Wiki Navigation</h2>
+				<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Images" data-canonical="images">Images</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Blogs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum" data-canonical="forum">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="#">Popular pages</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="#">Most visited articles<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Rhaegar_Targaryen">Rhaegar Targaryen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Game_of_Thrones_Wiki">Game of Thrones Wiki</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Lyanna_Stark">Lyanna Stark</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jon_Snow">Jon Snow</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Daenerys_Targaryen">Daenerys Targaryen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Winds_of_Winter">The Winds of Winter</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Lyanna_Mormont">Lyanna Mormont</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Characters">Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Daenerys_Targaryen">Daenerys Targaryen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Eddard_Stark">Eddard Stark</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tyrion_Lannister">Tyrion Lannister</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Joffrey_Baratheon">Joffrey Baratheon</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Arya_Stark">Arya Stark</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jon_Snow">Jon Snow</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Cersei_Lannister">Cersei Lannister</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Actor">Actor<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Emilia_Clarke">Emilia Clarke</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Sophie_Turner">Sophie Turner</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tamzin_Merchant">Tamzin Merchant</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jack_Gleeson">Jack Gleeson</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Maisie_Williams">Maisie Williams</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jason_Momoa">Jason Momoa</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Oona_Chaplin">Oona Chaplin</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Game_of_Thrones_Wiki:Community_Portal">Community</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Recent blog posts</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Forum:Index">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>	</nav>
+			<div class="buttons">
+			<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Pycelle?action=edit"  data-id="edit"  >Edit this Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Maps"  data-id="maps"   class="wikia-maps-create-map">Create a Map</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+		</div>
+		<div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent changes</a>	</div>
+</header>
+		
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+					<header id="WikiaPageHeader" class="WikiaPageHeader wikia-page-header">
+		<div class="header-container">
+			<div class="header-column header-title">
+				<h1>Pycelle</h1>
+							</div>
+			<div class="header-column header-tally">
+				<div id="PageShareContainer" class="page-share-container">
+									</div>
+									<div class="tally"><em>3,312</em><span>pages on<br /> this wiki</span></div>
+							</div>
+		</div>
+		<nav class="wikia-menu-button" >
+	<a accesskey="e"  href="/wiki/Pycelle?veaction=edit" data-id="ve-edit" id="ca-ve-edit">
+		<img alt="" class="sprite edit-pencil" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Edit	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Pycelle?action=edit"  accesskey="s" data-id="edit"   id="ca-edit">Classic editor</a>
+		</li>
+		<li>
+			<a href="/wiki/Pycelle?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="/wiki/Talk:Pycelle" class="wikia-button comments secondary talk" rel="nofollow" data-id="comment"> Talk<span class="commentsbubble">3</span></a>
+	</header>
+	
+
+												<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+										
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text"><table style="width:280px; float:right;">
+<tr>
+<td>
+</td><td><div class="floatleft"><a href="/wiki/Maesters" 	class="image image-thumbnail link-internal" 	 title="Maesters"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Maester&amp;#039;s mini chain"  	class="lzy lzyPlcHld " 	 	data-image-key="Maester%27s_mini_chain.png" 	data-image-name="Maester&#39;s mini chain.png" 	 data-src="http://vignette3.wikia.nocookie.net/gameofthrones/images/0/0d/Maester%27s_mini_chain.png/revision/latest/scale-to-width-down/50?cb=20150222095807"  	 width="50"  	 height="50"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette3.wikia.nocookie.net/gameofthrones/images/0/0d/Maester%27s_mini_chain.png/revision/latest/scale-to-width-down/50?cb=20150222095807" 	 alt="Maester&amp;#039;s mini chain"  	class="" 	 	data-image-key="Maester%27s_mini_chain.png" 	data-image-name="Maester&#39;s mini chain.png" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a></div>
+</td><td>
+</td><td>
+</td><td>
+</td><td><div class="floatright"><a href="/wiki/House_Lannister" 	class="image image-thumbnail link-internal" 	 title="House Lannister"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="House-Lannister-Main-Shield"  	class="lzy lzyPlcHld " 	 	data-image-key="House-Lannister-Main-Shield.PNG" 	data-image-name="House-Lannister-Main-Shield.PNG" 	 data-src="http://vignette3.wikia.nocookie.net/gameofthrones/images/8/8a/House-Lannister-Main-Shield.PNG/revision/latest/scale-to-width-down/50?cb=20151207184048"  	 width="50"  	 height="61"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette3.wikia.nocookie.net/gameofthrones/images/8/8a/House-Lannister-Main-Shield.PNG/revision/latest/scale-to-width-down/50?cb=20151207184048" 	 alt="House-Lannister-Main-Shield"  	class="" 	 	data-image-key="House-Lannister-Main-Shield.PNG" 	data-image-name="House-Lannister-Main-Shield.PNG" 	 	 width="50"  	 height="61"  	 	 	 	></noscript></a></div>
+</td></tr></table>
+
+<aside class="portable-infobox pi-background pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title">Pycelle</h2>
+
+<figure class="pi-item pi-image">
+	<a href="http://vignette4.wikia.nocookie.net/gameofthrones/images/e/e9/Pycelle_%28S04E06%29.jpg/revision/latest?cb=20150313210334" class="image image-thumbnail"
+	   title="Pycelle">
+		<img src="http://vignette4.wikia.nocookie.net/gameofthrones/images/e/e9/Pycelle_%28S04E06%29.jpg/revision/latest/scale-to-width-down/270?cb=20150313210334" class="pi-image-thumbnail" alt="Pycelle" width="270" height="316"
+		     data-image-key="Pycelle_%28S04E06%29.jpg" data-image-name="Pycelle (S04E06).jpg"/>
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Season(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Season_1" title="Season 1">1</a>, <a href="/wiki/Season_2" title="Season 2">2</a>, <a href="/wiki/Season_3" title="Season 3">3</a>, <a href="/wiki/Season_4" title="Season 4">4</a>, <a href="/wiki/Season_5" title="Season 5">5</a>, <a href="/wiki/Season_6" title="Season 6">6</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">First seen</h3>
+	
+	<div class="pi-data-value pi-font">"<a href="/wiki/Lord_Snow" title="Lord Snow">Lord Snow</a>"</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Last seen</h3>
+	
+	<div class="pi-data-value pi-font">"<a href="/wiki/The_Winds_of_Winter" title="The Winds of Winter">The Winds of Winter</a>"</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appeared in</h3>
+	
+	<div class="pi-data-value pi-font">31 episodes <small>(<a href="#Appearances">see below</a>)</small></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Titles</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Grand_Maester" title="Grand Maester">Grand Maester</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Category:Status:_Dead" title="Category:Status: Dead">Deceased</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Death</h3>
+	
+	<div class="pi-data-value pi-font">Stabbed repeatedly by <a href="/wiki/Qyburn" title="Qyburn">Qyburn's</a> <a href="/wiki/Little_birds" title="Little birds">little birds</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Death shown in episode</h3>
+	
+	<div class="pi-data-value pi-font">"<a href="/wiki/The_Winds_of_Winter" title="The Winds of Winter">The Winds of Winter</a>"</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Allegiance</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/House_Lannister" title="House Lannister">House Lannister</a> (until 300 AL)<br /><a href="/wiki/Faith_Militant" title="Faith Militant">Faith Militant</a> (after 300 AL)<br /><a href="/wiki/Maesters" title="Maesters">Order of Maesters</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Julian_Glover" title="Julian Glover">Julian Glover</a></div>
+</div>
+</aside>
+
+<div class="quote">
+<dl><dd><span title="Source: What is Dead May Never Die">"<i>All I did, I did for <a href="/wiki/House_Lannister" title="House Lannister">House Lannister</a>!  Always! Your <a href="/wiki/Tywin_Lannister" title="Tywin Lannister">lord father</a>, ask him!  I've always been his servant, since the days of the <a href="/wiki/Aerys_II_Targaryen" title="Aerys II Targaryen">Mad King</a>!</i>"</span>
+</dd><dd>&#8213;Grand Maester Pycelle, to <a href="/wiki/Tyrion_Lannister" title="Tyrion Lannister">Tyrion Lannister</a><span class="noprint"><sup><a href="/wiki/What_is_Dead_May_Never_Die" title="What is Dead May Never Die">[src]</a></sup></span></div>
+</dd></dl>
+<p><b>Pycelle</b> is a recurring character in the <a href="/wiki/Season_1" title="Season 1">first</a>, <a href="/wiki/Season_2" title="Season 2">second</a>, <a href="/wiki/Season_3" title="Season 3">third</a>, <a href="/wiki/Season_4" title="Season 4">fourth</a>, <a href="/wiki/Season_5" title="Season 5">fifth</a>, and <a href="/wiki/Season_6" title="Season 6">sixth</a> seasons. He was played by guest star <a href="/wiki/Julian_Glover" title="Julian Glover">Julian Glover</a> and debuts in "<a href="/wiki/Lord_Snow" title="Lord Snow">Lord Snow</a>." Pycelle was the <a href="/wiki/Grand_Maester" title="Grand Maester">Grand Maester</a> for multiple kings and a member of the <a href="/wiki/Small_council" title="Small council" class="mw-redirect">small council</a>, but also served as a spy for <a href="/wiki/Cersei_Lannister" title="Cersei Lannister">Cersei Lannister</a>. He died moments before the <a href="/wiki/Destruction_of_the_Great_Sept_of_Baelor" title="Destruction of the Great Sept of Baelor">destruction of the Great Sept of Baelor</a> as a result of a plot orchestrated by <a href="/wiki/Qyburn" title="Qyburn">Qyburn</a>, stabbed to death by Qyburn's <a href="/wiki/Little_birds" title="Little birds">little birds</a>.
+</p>
+<nav id="toc" class="toc"><div id="toctitle"><h2>Contents</h2><span class="toctoggle">[<a href="#" class="internal" id="togglelink" data-show="show" data-hide="hide">show</a>]</span></div><ol></ol></nav>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="editsection"><a href="/wiki/Pycelle?action=edit&amp;section=1" title="Edit Biography section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<h3><span class="mw-headline" id="Background">Background</span><span class="editsection"><a href="/wiki/Pycelle?action=edit&amp;section=2" title="Edit Background section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h3>
+<figure class="article-thumb tleft show-info-icon" style="width: 264px"> 	<a href="http://vignette2.wikia.nocookie.net/gameofthrones/images/9/9b/Aerys_and_Pycelle.jpg/revision/latest?cb=20140220140919" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Aerys and Pycelle"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Aerys_and_Pycelle.jpg" 	data-image-name="Aerys and Pycelle.jpg" 	 data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/9/9b/Aerys_and_Pycelle.jpg/revision/latest/scale-to-width-down/264?cb=20140220140919"  	 width="264"  	 height="224"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/9/9b/Aerys_and_Pycelle.jpg/revision/latest/scale-to-width-down/264?cb=20140220140919" 	 alt="Aerys and Pycelle"  	class="thumbimage " 	 	data-image-key="Aerys_and_Pycelle.jpg" 	data-image-name="Aerys and Pycelle.jpg" 	 	 width="264"  	 height="224"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Aerys_and_Pycelle.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Pycelle advises the Mad King to open the gate to Tywin Lannister.</p> 		 	</figcaption> </figure>
+<p>Pycelle has been <a href="/wiki/Grand_Maester" title="Grand Maester">Grand Maester</a> of the <a href="/wiki/Seven_Kingdoms" title="Seven Kingdoms">Seven Kingdoms</a> for decades and has served under four kings when the series begins. The Grand Maester is the King's personal <a href="/wiki/Maester" title="Maester" class="mw-redirect">maester</a>, a learned man wise in history, science and medicine who also provides counsel. The Grand Maester sits on the King's <a href="/wiki/Small_council" title="Small council" class="mw-redirect">small council</a>, which runs the realm in the name of the King. He served King <a href="/wiki/Aerys_II_Targaryen" title="Aerys II Targaryen">Aerys II Targaryen</a> prior to <a href="/wiki/Robert%27s_Rebellion" title="Robert's Rebellion">Robert's Rebellion</a>. He remembers Aerys as a great man before his descent into madness. When Tywin Lannister marched to the gates of King's Landing following the rebel victory at the <a href="/wiki/Battle_of_the_Trident" title="Battle of the Trident">Battle of the Trident</a> and all of the King's advisors told Aerys not to trust the <a href="/wiki/Lord_of_Casterly_Rock" title="Lord of Casterly Rock">Lord of Casterly Rock</a>, Pycelle gave the opposite counsel and the city gates were opened, allowing the <a href="/wiki/Lannister" title="Lannister" class="mw-redirect">Lannister</a> forces to <a href="/wiki/Sack_of_King%27s_Landing" title="Sack of King's Landing">sack</a> the capital.
+</p><p>Following the rebellion he remained Grand Maester to King <a href="/wiki/Robert_Baratheon" title="Robert Baratheon">Robert Baratheon</a>. He is joined on the small council by the <a href="/wiki/Master_of_Coin" title="Master of Coin">Master of Coin</a> <a href="/wiki/Petyr_Baelish" title="Petyr Baelish">Petyr Baelish</a>, also called Littlefinger, the <a href="/wiki/Master_of_Whisperers" title="Master of Whisperers">Master of Whisperers</a> <a href="/wiki/Varys" title="Varys">Varys</a>, the <a href="/wiki/Master_of_Ships" title="Master of Ships">Master of Ships</a> <a href="/wiki/Stannis_Baratheon" title="Stannis Baratheon">Stannis Baratheon</a> and the <a href="/wiki/Master_of_Laws" title="Master of Laws">Master of Laws</a> <a href="/wiki/Renly_Baratheon" title="Renly Baratheon">Renly Baratheon</a>. He plays up his age to appear harmless but is actually mentally sharp and dangerous.<sup id="cite_ref-0" class="reference"><a href="#cite_note-0">[1]</a></sup> He is loyal to Queen <a href="/wiki/Cersei_Lannister" title="Cersei Lannister">Cersei Lannister</a> and was involved in the birth of all of her children, assisted by midwives.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[2]</a></sup> Pycelle also privately flouts the vow of celibacy taken by maesters, as he enjoys the company of prostitutes such as <a href="/wiki/Ros" title="Ros">Ros</a>. Despite his tendency for deception, he does retain some sense of medical ethics, as he found <a href="/wiki/Qyburn" title="Qyburn">Qyburn</a>'s methods abhorrent.
+</p>
+<h3><span class="mw-headline" id="Season_1"><a href="/wiki/Season_1" title="Season 1">Season 1</a></span><span class="editsection"><a href="/wiki/Pycelle?action=edit&amp;section=3" title="Edit Season 1 section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h3>
+<figure class="article-thumb tright show-info-icon" style="width: 180px"> 	<a href="http://vignette1.wikia.nocookie.net/gameofthrones/images/c/ce/Small_Council.png/revision/latest?cb=20110626052057" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Small Council"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Small_Council.png" 	data-image-name="Small Council.png" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/c/ce/Small_Council.png/revision/latest/scale-to-width-down/180?cb=20110626052057"  	 width="180"  	 height="93"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/c/ce/Small_Council.png/revision/latest/scale-to-width-down/180?cb=20110626052057" 	 alt="Small Council"  	class="thumbimage " 	 	data-image-key="Small_Council.png" 	data-image-name="Small Council.png" 	 	 width="180"  	 height="93"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Small_Council.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Pycelle attends a <a href="/wiki/Small_council" title="Small council" class="mw-redirect">small council</a> meeting in "<a href="/wiki/Cripples,_Bastards_and_Broken_Things" title="Cripples, Bastards and Broken Things">Cripples, Bastards and Broken Things</a>".</p> 		 	</figcaption> </figure>
+<p>Pycelle calls a <a href="/wiki/Small_council" title="Small council" class="mw-redirect">small council</a> meeting to greet Lord <a href="/wiki/Eddard_Stark" title="Eddard Stark">Eddard Stark</a> upon his arrival from <a href="/wiki/Winterfell" title="Winterfell">Winterfell</a> to take up the role of <a href="/wiki/King%27s_Hand" title="King's Hand" class="mw-redirect">King's Hand</a>. Eddard greets him cordially, but cannot help mentioning that Pycelle served under the <a href="/wiki/Mad_King" title="Mad King" class="mw-redirect">Mad King</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[3]</a></sup> Eddard meets with Pycelle to discuss the death of his predecessor Lord <a href="/wiki/Jon_Arryn" title="Jon Arryn">Jon Arryn</a> and suggests that he might have been killed by <a href="/wiki/Poison" title="Poison">poison</a>. Pycelle says he thinks it unlikely having treated Jon for a feverish illness. He still cautions Eddard to remember that poison is the weapon of a woman or a <a href="/wiki/Eunuch" title="Eunuch" class="mw-redirect">eunuch</a>; making sure that Eddard understands that he is implicating <a href="/wiki/Varys" title="Varys">Varys</a>. Pycelle also lends Eddard a book about the lineages of the <a href="/wiki/Great_Houses" title="Great Houses" class="mw-redirect">Great Houses</a> that Jon borrowed just before his death.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[4]</a></sup>
+</p><p>Pycelle supports the motion to assassinate <a href="/wiki/Daenerys_Targaryen" title="Daenerys Targaryen">Daenerys Targaryen</a> before she can provide <a href="/wiki/Khal" title="Khal">Khal</a> <a href="/wiki/Drogo" title="Drogo">Drogo</a> with an heir. Pycelle elucidates that he bears her no ill will personally, but fears that a <a href="/wiki/Dothraki" title="Dothraki">Dothraki</a> invasion of <a href="/wiki/Westeros" title="Westeros">Westeros</a> would be devastating. He argues that though unpleasant, it is preferable to have her killed now rather than have thousands die later. His argument does not convince Eddard.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[5]</a></sup>
+</p><p>Pycelle is in court when Eddard dispatches Lord <a href="/wiki/Beric_Dondarrion" title="Beric Dondarrion">Beric Dondarrion</a> to bring Ser <a href="/wiki/Gregor_Clegane" title="Gregor Clegane">Gregor Clegane</a> to justice for his looting in the <a href="/wiki/Riverlands" title="Riverlands" class="mw-redirect">Riverlands</a>. Stark also sends word to <a href="/wiki/Casterly_Rock" title="Casterly Rock">Casterly Rock</a>, demanding that Lord <a href="/wiki/Tywin_Lannister" title="Tywin Lannister">Tywin Lannister</a> explain his bannerman's actions. <a href="/wiki/Littlefinger" title="Littlefinger" class="mw-redirect">Littlefinger</a> and Pycelle object, but Eddard insists on seeking justice.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[6]</a></sup>
+</p><p>Pycelle tends to King <a href="/wiki/Robert_Baratheon" title="Robert Baratheon">Robert Baratheon</a> after he is gored by a boar while hunting. He predicts the King's imminent death and manages his pain using <a href="/wiki/Milk_of_the_poppy" title="Milk of the poppy">milk of the poppy</a>. Following Robert's death Eddard claims that <a href="/wiki/Joffrey_Baratheon" title="Joffrey Baratheon">Joffrey</a> is not his son and is arrested for treason.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[7]</a></sup> Cersei and Pycelle convince <a href="/wiki/Sansa_Stark" title="Sansa Stark">Sansa Stark</a> to write to her brother <a href="/wiki/Robb_Stark" title="Robb Stark">Robb</a>, imploring him to swear fealty to Joffrey.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[8]</a></sup>
+</p>
+<figure class="article-thumb tleft show-info-icon" style="width: 176px"> 	<a href="http://vignette2.wikia.nocookie.net/gameofthrones/images/2/26/Pycelle_1x10.png/revision/latest?cb=20110624061717" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Pycelle 1x10"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Pycelle_1x10.png" 	data-image-name="Pycelle 1x10.png" 	 data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/2/26/Pycelle_1x10.png/revision/latest?cb=20110624061717"  	 width="176"  	 height="339"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/2/26/Pycelle_1x10.png/revision/latest?cb=20110624061717" 	 alt="Pycelle 1x10"  	class="thumbimage " 	 	data-image-key="Pycelle_1x10.png" 	data-image-name="Pycelle 1x10.png" 	 	 width="176"  	 height="339"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Pycelle_1x10.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Pycelle is not as feeble as he appears in public.</p> 		 	</figcaption> </figure>
+<p>Pycelle is present for the trial of Eddard on the steps of the <a href="/wiki/Great_Sept_of_Baelor" title="Great Sept of Baelor">Great Sept of Baelor</a>. He counsels mercy after Eddard's confession but Joffrey has Eddard executed.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[9]</a></sup> After sleeping with <a href="/wiki/Ros" title="Ros">Ros</a>, Pycelle absentmindedly mutters about how King Aerys had begun his reign as a great man before slipping into insanity. He muses about Joffrey's potential for greatness, but his remarks peter out into mumbled nothings. Ros leaves and Pycelle does a series of exercises and stretches, then dresses and walks confidently to his door, before adopting the meek, fragile appearance he usually wears to court. He is much stronger in body and mind than he appears, but hides this from everyone.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[10]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Season_2"><a href="/wiki/Season_2" title="Season 2">Season 2</a></span><span class="editsection"><a href="/wiki/Pycelle?action=edit&amp;section=4" title="Edit Season 2 section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h3>
+<figure class="article-thumb tright show-info-icon" style="width: 180px"> 	<a href="http://vignette2.wikia.nocookie.net/gameofthrones/images/5/5f/WhiteRaven.jpg/revision/latest?cb=20120423061500" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="WhiteRaven"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="WhiteRaven.jpg" 	data-image-name="WhiteRaven.jpg" 	 data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/5/5f/WhiteRaven.jpg/revision/latest/scale-to-width-down/180?cb=20120423061500"  	 width="180"  	 height="88"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/5/5f/WhiteRaven.jpg/revision/latest/scale-to-width-down/180?cb=20120423061500" 	 alt="WhiteRaven"  	class="thumbimage " 	 	data-image-key="WhiteRaven.jpg" 	data-image-name="WhiteRaven.jpg" 	 	 width="180"  	 height="88"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:WhiteRaven.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Grand Maester Pycelle presents a white raven to the small council.</p> 		 	</figcaption> </figure>
+<p><a href="/wiki/Grand_Maester" title="Grand Maester">Grand Maester</a> Pycelle reports to the <a href="/wiki/Small_council" title="Small council" class="mw-redirect">small council</a> that <a href="/wiki/The_Conclave" title="The Conclave" class="mw-redirect">the Conclave</a> in <a href="/wiki/Oldtown" title="Oldtown">Oldtown</a> has announced the end of the longest summer in living memory and shows the white raven sent for this purpose. <a href="/wiki/Varys" title="Varys">Varys</a> adds that the <a href="/wiki/Smallfolk" title="Smallfolk">smallfolk</a> say that a long summer will be followed by an even longer winter, which Pycelle dismisses as a peasant superstition.<sup id="cite_ref-E11_10-0" class="reference"><a href="#cite_note-E11-10">[11]</a></sup>
+</p><p>Tyrion appears at a <a href="/wiki/Small_council" title="Small council" class="mw-redirect">small council</a> meeting to inform them that he has been made acting Hand of the King by his father. Queen Cersei angrily orders councilors to leave, Pycelle, along with Lord Baelish, Varys, and Lord <a href="/wiki/Janos_Slynt" title="Janos Slynt">Slynt</a>, abandon the room.<sup id="cite_ref-E11_10-1" class="reference"><a href="#cite_note-E11-10">[11]</a></sup>
+</p><p>Cersei reads <a href="/wiki/Robb_Stark" title="Robb Stark">Robb Stark</a>'s peace terms aloud to the small council before tearing them up. Tyrion tells her that she has perfected the art of tearing up papers and suggests that they at least return Eddard's remains as a gesture of good faith. Cersei asks <a href="/wiki/Alton_Lannister" title="Alton Lannister">Alton Lannister</a> to deliver their reply and he accepts. Cersei also asks him to tell Jaime that he has not been forgotten, to the consternation of the other council members. Tyrion wishes Alton a safe journey.<sup id="cite_ref-S2EP02_11-0" class="reference"><a href="#cite_note-S2EP02-11">[12]</a></sup>
+</p><p>Pycelle reports a raven from <a href="/wiki/Castle_Black" title="Castle Black">Castle Black</a> and gives its message to Tyrion. Varys interjects that the wildlings are becoming increasingly troublesome. Petyr is sarcastically dismissive. Varys goes on to say that the wildlings are organizing behind the <a href="/wiki/King-Beyond-the-Wall" title="King-Beyond-the-Wall">King-Beyond-the-Wall</a> <a href="/wiki/Mance_Rayder" title="Mance Rayder">Mance Rayder</a>. Cersei jokes that she has lost track of the number of kings. Tyrion says that the message is from <a href="/wiki/Lord_Commander" title="Lord Commander">Lord Commander</a> <a href="/wiki/Jeor_Mormont" title="Jeor Mormont">Jeor Mormont</a> and that he is asking for more men. Cersei says that they cannot spare any because they are fighting their own war. Tyrion reads a troublesome passage: "the cold winds are rising, and the dead rise with them." Pycelle dismisses it as northern superstition and Cersei makes to leave. Tyrion relays Jeor's encounter with a <a href="/wiki/Wight" title="Wight" class="mw-redirect">wight</a> and asserts his reliability. Varys wonders how you kill a <a href="/wiki/Othor" title="Othor">dead man</a> and Tyrion reports that Jeor burned the wights. Cersei mocks Tyrion as having become gullible, believing in "<a href="/wiki/Grumpkins_and_Snarks" title="Grumpkins and Snarks" class="mw-redirect">grumpkins and snarks</a>" after one trip to the Wall. He says that he is not sure what he believes but reminds Cersei that the Night's Watch is the only thing that separates them from what lies beyond the Wall. Cersei sarcastically claims that she has every confidence in the brave men of the Night's Watch.<sup id="cite_ref-S2EP02_11-1" class="reference"><a href="#cite_note-S2EP02-11">[12]</a></sup>
+</p><p>Tyrion meets with Pycelle in his dining room. He has complained of constipation and Pycelle gives him a vial of laxatives. Tyrion compliments that Maester's knowledge and then asks him to keep a confidence. He tells him that he is hoping to make a marriage alliance with <a href="/wiki/House_Martell" title="House Martell">House Martell</a> in <a href="/wiki/Dorne" title="Dorne">Dorne</a> by offering <a href="/wiki/Myrcella_Baratheon" title="Myrcella Baratheon">Myrcella Baratheon</a>'s hand to their heir Prince <a href="/wiki/Trystane_Martell" title="Trystane Martell">Trystane</a>. Tyrion specifies that Pycelle should not speak to the Queen. Pycelle does so anyway and she later confronts Tyrion about the plans.<sup id="cite_ref-E13_12-0" class="reference"><a href="#cite_note-E13-12">[13]</a></sup>
+</p><p>Tyrion, Bronn and <a href="/wiki/Timett" title="Timett">Timett</a> burst into Pycelle's chamber while he is in bed with the prostitute <a href="/wiki/Daisy" title="Daisy">Daisy</a>. Pycelle denies telling Cersei but Tyrion explains that he has implicated himself because he was the only one aware of the plan to approach the Dornish. Tyrion asks how long Pycelle has been spying for Cersei and Pycelle claims that he has been loyal to House Lannister since the days of the <a href="/wiki/Mad_King" title="Mad King" class="mw-redirect">Mad King</a>. Tyrion then tells Bronn to cut of Pycelle's beard because he doesn't like it. Tyrion brings up his betrayals of past Hands of the King and suggests that he poisoned <a href="/wiki/Jon_Arryn" title="Jon Arryn">Jon Arryn</a>. Pycelle denies poisoning Arryn, but admits that he was aware that Arryn knew of Cersei's incest. Tyrion accuses him of letting Arryn die as a threat to Lannister and Pycelle does not deny this. Tyrion gives Daisy a coin for her services, then orders Pycelle confined to the black cells. He then gives Daisy an additional coin after seeing how much of a struggle the supposedly frail Pycelle puts up.<sup id="cite_ref-E13_12-1" class="reference"><a href="#cite_note-E13-12">[13]</a></sup>
+</p><p>Cersei demands that Pycelle is released and reinstated via the newly knighted <a href="/wiki/Lancel_Lannister" title="Lancel Lannister" class="mw-redirect">Lancel Lannister</a>. Tyrion agrees to release Pycelle but refuses to let him take his seat at the small council<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[14]</a></sup>. Prior to the <a href="/wiki/Battle_of_the_Blackwater" title="Battle of the Blackwater">Battle of the Blackwater</a> Cersei requests a supply of the anxiolytic and poison <a href="/wiki/Essence_of_Nightshade" title="Essence of Nightshade">Essence of Nightshade</a> but will not say why she wants it. She almost uses it to poison her son <a href="/wiki/Tommen_Baratheon" title="Tommen Baratheon">Tommen</a> when she believes the battle is lost. She is stopped just in time by the arrival of her father Lord <a href="/wiki/Tywin_Lannister" title="Tywin Lannister">Tywin Lannister</a>, who announces that they have won.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[15]</a></sup>
+</p>
+<figure class="article-thumb tright show-info-icon" style="width: 180px"> 	<a href="http://vignette2.wikia.nocookie.net/gameofthrones/images/8/8e/Tywin_court_2x10.png/revision/latest?cb=20120605111316" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Tywin court 2x10"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Tywin_court_2x10.png" 	data-image-name="Tywin court 2x10.png" 	 data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/8/8e/Tywin_court_2x10.png/revision/latest/scale-to-width-down/180?cb=20120605111316"  	 width="180"  	 height="101"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/8/8e/Tywin_court_2x10.png/revision/latest/scale-to-width-down/180?cb=20120605111316" 	 alt="Tywin court 2x10"  	class="thumbimage " 	 	data-image-key="Tywin_court_2x10.png" 	data-image-name="Tywin court 2x10.png" 	 	 width="180"  	 height="101"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Tywin_court_2x10.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Pycelle at the court victory ceremony after the Battle of the Blackwater</p> 		 	</figcaption> </figure>
+<p>Pycelle visits the recovering Tyrion and gloats that he is no longer Acting <a href="/wiki/Hand_of_the_King" title="Hand of the King">Hand of the King</a> since his father, Tywin, has returned to the city. Later, during a court session to honor Lord Tywin and <a href="/wiki/Petyr_Baelish" title="Petyr Baelish">Petyr Baelish</a>, Pycelle and Cersei make a show of convincing King Joffrey - who announces his desire to marry <a href="/wiki/Margaery_Tyrell" title="Margaery Tyrell">Margaery Tyrell</a> - to set aside his betrothal to <a href="/wiki/Sansa_Stark" title="Sansa Stark">Sansa Stark</a>. Pycelle informs him that he spoke to the new <a href="/wiki/High_Septon_(After_the_riot_of_King%27s_Landing)" title="High Septon (After the riot of King's Landing)">High Septon</a> and that the latter approves of breaking Joffrey's betrothal to Sansa.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[16]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Season_3"><a href="/wiki/Season_3" title="Season 3">Season 3</a></span><span class="editsection"><a href="/wiki/Pycelle?action=edit&amp;section=5" title="Edit Season 3 section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h3>
+<figure class="article-thumb tleft show-info-icon" style="width: 250px"> 	<a href="http://vignette1.wikia.nocookie.net/gameofthrones/images/b/b8/SmallCouncil_WoP.jpg/revision/latest?cb=20131005190657" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="SmallCouncil WoP"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="SmallCouncil_WoP.jpg" 	data-image-name="SmallCouncil WoP.jpg" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/b/b8/SmallCouncil_WoP.jpg/revision/latest/scale-to-width-down/250?cb=20131005190657"  	 width="250"  	 height="166"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/b/b8/SmallCouncil_WoP.jpg/revision/latest/scale-to-width-down/250?cb=20131005190657" 	 alt="SmallCouncil WoP"  	class="thumbimage " 	 	data-image-key="SmallCouncil_WoP.jpg" 	data-image-name="SmallCouncil WoP.jpg" 	 	 width="250"  	 height="166"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:SmallCouncil_WoP.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Grand Maester Pycelle, reinstated to the small council, in "Walk of Punishment"</p> 		 	</figcaption> </figure>
+<p>The reinstated Pycelle attends a meeting of the small council, now held at the <a href="/wiki/Tower_of_the_Hand" title="Tower of the Hand">Tower of the Hand</a>. Lord Tywin tasks Petyr Baelish - recently made Lord of Harrenhal - with offering a marriage proposal to the widow Lysa Arryn. Pycelle adds that such a marriage would make Petyr <a href="/wiki/Lord_Protector" title="Lord Protector">Acting Lord</a> of the Vale. After Tyrion notes that Petyr's departure would leave the crown without its Master of Coin just when a royal wedding is at hand, Tywin informs his son he will become the new Master of Coin - a "demotion" considering Tyrion's previous post as Acting Hand of the King. Pycelle heartily and mockingly supports the Hand of the King's decision. <sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[17]</a></sup>
+</p><p>Pycelle is present at the wedding between Tyrion and <a href="/wiki/Sansa_Stark" title="Sansa Stark">Sansa Stark</a> held at the <a href="/wiki/Great_Sept_of_Baelor" title="Great Sept of Baelor">Great Sept of Baelor</a>, standing along with the "Lannister side" of the attendants. He later attends the wedding feast.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[18]</a></sup>
+</p><p>The Grand Maester receives a message from Lord <a href="/wiki/Walder_Frey" title="Walder Frey">Walder Frey</a> informing of the <a href="/wiki/Red_Wedding" title="Red Wedding">death</a> of <a href="/wiki/Robb_Stark" title="Robb Stark">Robb Stark</a> and his family and the imprisonment of <a href="/wiki/Edmure_Tully" title="Edmure Tully">Edmure Tully</a>. At a small council meeting, a gleeful King Joffrey orders Pycelle to send a letter thanking Lord Walder for his service and demanding the head of Robb so he can give it to Sansa at his wedding. After Tyrion, whom Joffrey calls a "little monster", notes that monsters are dangerous and Kings are "dropping like flies", Pycelle angrily states that Tyrion should apologize immediately as his comment - which Queen Cersei had dismissed as a "joke" to calm her son - is disrespectful, unacceptable and in bad taste. Tywin dismisses the still angry Joffrey and commands Pycelle to give him some Essence of Nightshade to "help" the King sleep. Pycelle is quick to carry out the Hand's orders.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[19]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Season_4"><a href="/wiki/Season_4" title="Season 4">Season 4</a></span><span class="editsection"><a href="/wiki/Pycelle?action=edit&amp;section=6" title="Edit Season 4 section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h3>
+<figure class="article-thumb tright show-info-icon" style="width: 180px"> 	<a href="http://vignette2.wikia.nocookie.net/gameofthrones/images/8/83/Pycelle_at_joffrey_margaery_wedding.png/revision/latest?cb=20140629121101" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Pycelle at joffrey margaery wedding"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Pycelle_at_joffrey_margaery_wedding.png" 	data-image-name="Pycelle at joffrey margaery wedding.png" 	 data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/8/83/Pycelle_at_joffrey_margaery_wedding.png/revision/latest/scale-to-width-down/180?cb=20140629121101"  	 width="180"  	 height="101"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/8/83/Pycelle_at_joffrey_margaery_wedding.png/revision/latest/scale-to-width-down/180?cb=20140629121101" 	 alt="Pycelle at joffrey margaery wedding"  	class="thumbimage " 	 	data-image-key="Pycelle_at_joffrey_margaery_wedding.png" 	data-image-name="Pycelle at joffrey margaery wedding.png" 	 	 width="180"  	 height="101"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Pycelle_at_joffrey_margaery_wedding.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Pycelle at Joffrey and Margaery's wedding.</p> 		 	</figcaption> </figure>
+<p>Pycelle is present during the breakfast before Joffrey and Margaery's wedding, and stands with the Lannisters in the Great Sept of Baelor during the ceremony. At the feast, following Margaery's announcement that all leftovers will be given to the poor of the city, he harasses a young woman but is cut short by Cersei, who commands him to go to the kitchens and make sure all the remaining food is instead given to the dogs in the royal kennels. When Pycelle protests that this is against Queen Margaery's command, Cersei angrily tells Pycelle she will have him fed to the dogs if he does not.
+</p><p>He is back in his seat next to Varys when the dwarf mummers do a reenactment of the <a href="/wiki/War_of_the_Five_Kings" title="War of the Five Kings">War of the Five Kings</a>, much to his amusement. Minutes later, he witnesses Joffrey's death by <a href="/wiki/Purple_Wedding" title="Purple Wedding">poisoning</a>.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[20]</a></sup>
+</p><p>Pycelle is present at the coronation ceremony of his new king, Tommen Baratheon. He is one of the first to bow before his new king.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[21]</a></sup>
+</p>
+<figure class="article-thumb tleft show-info-icon" style="width: 180px"> 	<a href="http://vignette4.wikia.nocookie.net/gameofthrones/images/4/44/Pycelle_testifying_against_tyrion.png/revision/latest?cb=20140629121155" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Pycelle testifying against tyrion"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Pycelle_testifying_against_tyrion.png" 	data-image-name="Pycelle testifying against tyrion.png" 	 data-src="http://vignette4.wikia.nocookie.net/gameofthrones/images/4/44/Pycelle_testifying_against_tyrion.png/revision/latest/scale-to-width-down/180?cb=20140629121155"  	 width="180"  	 height="101"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette4.wikia.nocookie.net/gameofthrones/images/4/44/Pycelle_testifying_against_tyrion.png/revision/latest/scale-to-width-down/180?cb=20140629121155" 	 alt="Pycelle testifying against tyrion"  	class="thumbimage " 	 	data-image-key="Pycelle_testifying_against_tyrion.png" 	data-image-name="Pycelle testifying against tyrion.png" 	 	 width="180"  	 height="101"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Pycelle_testifying_against_tyrion.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Pycelle testifying against Tyrion.</p> 		 	</figcaption> </figure>
+<p>During the Tyrion Lannister's <a href="/wiki/Second_Trial_of_Tyrion_Lannister" title="Second Trial of Tyrion Lannister" class="mw-redirect">trial for regicide</a>, Pycelle is called as a witness for the Iron Throne. Pycelle reads a lengthy list of poisons that is kept in the Red Keep and states that they were stolen from him by Tyrion, after he had him imprisoned in the Black Cells. He also concludes that the poison used to assassinate King Joffrey was a rare poison called 'the strangler'. Pycelle reveals his evidence; the necklace that Sansa Stark wore to the wedding, which shows residue of the poison. He concludes that Tyrion conspired with his wife to "strike down the most noble child the Gods ever put on this good earth".<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[22]</a></sup>
+</p>
+<figure class="article-thumb tright show-info-icon" style="width: 200px"> 	<a href="http://vignette2.wikia.nocookie.net/gameofthrones/images/2/2f/Pycelle_delivering_his_speech.png/revision/latest?cb=20140629121500" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Pycelle delivering his speech"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Pycelle_delivering_his_speech.png" 	data-image-name="Pycelle delivering his speech.png" 	 data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/2/2f/Pycelle_delivering_his_speech.png/revision/latest/scale-to-width-down/200?cb=20140629121500"  	 width="200"  	 height="112"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/2/2f/Pycelle_delivering_his_speech.png/revision/latest/scale-to-width-down/200?cb=20140629121500" 	 alt="Pycelle delivering his speech"  	class="thumbimage " 	 	data-image-key="Pycelle_delivering_his_speech.png" 	data-image-name="Pycelle delivering his speech.png" 	 	 width="200"  	 height="112"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Pycelle_delivering_his_speech.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Pycelle delivering a speech before Tyrion's trial by combat.</p> 		 	</figcaption> </figure>
+<p>Pycelle is present during Tyrion's <a href="/wiki/Second_Trial_by_combat_of_Tyrion_Lannister" title="Second Trial by combat of Tyrion Lannister" class="mw-redirect">trial by combat</a>, and begins delivering an opening speech until Tywin demonstrates his annoyance at Pycelle's verbosity by cuing the horn player to sound out a blast signaling the beginning of the showdown and prematurely cutting Pycelle off, humiliating him and forcing him to shuffle off in silence.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[23]</a></sup>
+</p>
+<figure class="article-thumb tleft show-info-icon" style="width: 180px"> 	<a href="http://vignette4.wikia.nocookie.net/gameofthrones/images/5/55/Pycelle_in_gregor_examining.png/revision/latest?cb=20140629121600" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Pycelle in gregor examining"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Pycelle_in_gregor_examining.png" 	data-image-name="Pycelle in gregor examining.png" 	 data-src="http://vignette4.wikia.nocookie.net/gameofthrones/images/5/55/Pycelle_in_gregor_examining.png/revision/latest/scale-to-width-down/180?cb=20140629121600"  	 width="180"  	 height="101"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette4.wikia.nocookie.net/gameofthrones/images/5/55/Pycelle_in_gregor_examining.png/revision/latest/scale-to-width-down/180?cb=20140629121600" 	 alt="Pycelle in gregor examining"  	class="thumbimage " 	 	data-image-key="Pycelle_in_gregor_examining.png" 	data-image-name="Pycelle in gregor examining.png" 	 	 width="180"  	 height="101"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Pycelle_in_gregor_examining.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Pycelle in his office where Gregor Clegane is kept.</p> 		 	</figcaption> </figure>
+<p>Later, Pycelle and expelled maester <a href="/wiki/Qyburn" title="Qyburn">Qyburn</a> are in his laboratory tending to Ser <a href="/wiki/Gregor_Clegane" title="Gregor Clegane">Gregor Clegane</a>'s body when Cersei comes to visit them. Pycelle informs Cersei that Prince <a href="/wiki/Oberyn_Martell" title="Oberyn Martell">Oberyn</a> had coated his spear with <a href="/wiki/Manticore" title="Manticore" class="mw-redirect">manticore</a> venom, which has poisoned Gregor. The effects are horrific and Ser Gregor's wounds are putrefying and creating a terrible stench. Pycelle says that he is beyond any hope of recovery, but Qyburn insists to Cersei that he can save him using less orthodox methods. Pycelle chaffes at his suggestion, stating that arrogance like that is what led to Qyburn's expulsion from the <a href="/wiki/Citadel" title="Citadel" class="mw-redirect">Citadel</a>, for experiments that were both dangerous and "unnatural". Cersei, who wants to save the Mountain from death, orders Qyburn to do whatever is necessary and tells Pycelle that it's no longer his laboratory. Pycelle leaves angered.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[24]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Season_5"><a href="/wiki/Season_5" title="Season 5">Season 5</a></span><span class="editsection"><a href="/wiki/Pycelle?action=edit&amp;section=7" title="Edit Season 5 section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h3>
+<p>At <a href="/wiki/Tywin_Lannister" title="Tywin Lannister">Tywin Lannister</a>'s wake, Pycelle offers his condolences to Cersei, who completely ignores him.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[25]</a></sup>
+</p><p>At a meeting of the Small Council, Pycelle offers to fill the vacant position of the <a href="/wiki/Hand_of_the_King" title="Hand of the King">Hand of the King</a>, but Cersei rejects his offer. He is also outraged when Cersei announces that <a href="/wiki/Qyburn" title="Qyburn">Qyburn</a> has been named the new <a href="/wiki/Master_of_Whisperers" title="Master of Whisperers">Master of Whisperers</a>.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[26]</a></sup>
+</p><p>Pycelle is present during the wedding ceremony of <a href="/wiki/Tommen_Baratheon" title="Tommen Baratheon">Tommen Baratheon</a> and <a href="/wiki/Margaery_Tyrell" title="Margaery Tyrell">Margaery Tyrell</a>. Later, Pycelle and the rest of the Small Council listen to the <a href="/wiki/High_Septon_(After_the_riot_of_King%27s_Landing)" title="High Septon (After the riot of King's Landing)">High Septon</a> demand the arrest of all members of the <a href="/wiki/Sparrows" title="Sparrows">Sparrows</a> and execution of the <a href="/wiki/High_Sparrow" title="High Sparrow">High Sparrow</a>. When it is brought forward that the Septon's demands come from being assaulted in a brothel, Pycelle (due to his own philandering ways) defends the Septon and insists "a man's private affairs ought to remain private."<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[27]</a></sup>
+</p><p>Pycelle is at the meeting of the Small Council when <a href="/wiki/Mace_Tyrell" title="Mace Tyrell">Mace Tyrell</a> departs to negotiate the crown's debt with the <a href="/wiki/Iron_Bank_of_Braavos" title="Iron Bank of Braavos">Iron Bank of Braavos</a>. He bitterly remarks that the Small Council is growing smaller everyday.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[28]</a></sup>
+</p><p>Following Cersei's arrest by the <a href="/wiki/High_Sparrow" title="High Sparrow">High Sparrow</a>, Grand Maester Pycelle sends a raven to Casterly Rock to summon <a href="/wiki/Kevan_Lannister" title="Kevan Lannister">Kevan Lannister</a> back to King's Landing to serve as Hand of the King.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[29]</a></sup>
+</p><p>After Cersei's walk of penance from the Sept of Baelor to the <a href="/wiki/Red_Keep" title="Red Keep">Red Keep</a>, Pycelle - like her uncle, Kevan - glares sternly at her, in contrast to Qyburn's fawning. His expression of disgust deepens as Qyburn shows unnecessary familiarity in comforting the Queen.
+</p>
+<h3><span class="mw-headline" id="Season_6"><a href="/wiki/Season_6" title="Season 6">Season 6</a></span><span class="editsection"><a href="/wiki/Pycelle?action=edit&amp;section=8" title="Edit Season 6 section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h3>
+<p>The new Hand of the King <a href="/wiki/Kevan_Lannister" title="Kevan Lannister">Kevan Lannister</a> was conducting a meeting of the <a href="/wiki/Small_Council" title="Small Council">Small Council</a> along with <a href="/wiki/Olenna_Tyrell" title="Olenna Tyrell">Lady Olenna</a>, when Pycelle starts rambling about <a href="/wiki/Qyburn" title="Qyburn">Qyburn's</a> work on restoring the <a href="/wiki/Gregor_Clegane" title="Gregor Clegane">Mountain</a> as an abomination (referring to him as "the beast") when <a href="/wiki/Cersei_Lannister" title="Cersei Lannister">Cersei</a> and <a href="/wiki/Jaime_Lannister" title="Jaime Lannister">Jaime</a> walk into the room opting to join the proceedings, followed by Ser Gregor himself. After Kevan states his objection to the two of them being there, Jaime counters by saying he has a seat on the council as the <a href="/wiki/Lord_Commander_of_the_Kingsguard" title="Lord Commander of the Kingsguard">Lord Commander of the Kingsguard</a>. Cersei then orders the Grand Maester to vouch for her brother's presence which he reluctantly does so; stating a precedent existed due to Ser <a href="/wiki/Gerold_Hightower" title="Gerold Hightower">Gerold Hightower</a> being on the council in the same position under <a href="/wiki/Aerys_II" title="Aerys II" class="mw-redirect">the Mad King</a>. When Pycelle began to object to Jaime's presence afterwards, the Lord Commander interrupted him by bringing a chair to his side of the table and slammed it down. Kevan, Mace and Olenna quickly leave the hall, whereas Pycelle cowers past Ser Gregor who ominously looks back at the Grand Maester.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[30]</a></sup>
+</p><p>Pycelle later counsels Tommen concering the Sparrows and Margaery's imprisonment, but is stopped by Cersei. Despite the Grand Maester's protests, Cersei coldly orders him to leave.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[31]</a></sup>
+</p><p>When Tommen outlaws trial by combat, Pycelle is seen advising the King before the announcement, remaining close by during Tommen's speech and exiting quickly afterwards.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[32]</a></sup>
+</p><p>Before Cersei's trial, one of the little birds is sent to Pycelle, asking him to come to advise the king. When Pycelle comes, there is only <a href="/wiki/Qyburn" title="Qyburn">Qyburn</a> waiting for him as the king is being kept in his room. Grand Maester realizes that something is wrong and wants to leave, but Qyburn calls in his little birds. They knock him on the ground while stabbing him multiple times and kill him.
+</p>
+
+
+
+
+
+<script>
+    if (typeof(Wikia.geo) !== 'undefined' && ['US'].indexOf(Wikia.geo.getCountryCode()) >= 0) {
+        document.write('<aside id="monetization-amazon_video-in_content" class="monetization-module amazon-video hide-for-edit in-content amazon-video-full" data-mon-type="amazon_video" data-mon-slot="in_content"><div class="affiliate" data-mon-pid="B00AN0KBJC" data-mon-ptag="gameofthrones-pycelle-130814-2187-B00AN0KBJC-piv-fl-npr-ic-f" data-mon-pname="Game of Thrones Season 2"><div class="affiliate-header"><a class="product-thumb" target="_blank" href="http://www.amazon.com/gp/product/B00AN0KBJC/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=gameofthrones-pycelle-130814-2187-B00AN0KBJC-piv-fl-npr-ic-f"><img  src="http://ecx.images-amazon.com/images/I/519sHX0sV9L._SX320_SY240_.jpg"></a></div><a class="product-name" target="_blank" href="http://www.amazon.com/gp/product/B00AN0KBJC/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=gameofthrones-pycelle-130814-2187-B00AN0KBJC-piv-fl-npr-ic-f"><span class="product-title">Game of Thrones Season 2</span><span class="product-detail">Season 2</span><span class="rating-bar"><span class="rating" style="width: 90.0%"></span></span></a><div class="product-button non-prime"><a class="amazon-logo" target="_blank" href="http://www.amazon.com/gp/product/B00AN0KBJC/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=gameofthrones-pycelle-130814-2187-B00AN0KBJC-piv-fl-npr-ic-f"></a><a class="product-btn" target="_blank" href="http://www.amazon.com/gp/product/B00AN0KBJC/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=gameofthrones-pycelle-130814-2187-B00AN0KBJC-piv-fl-npr-ic-f"></a></div></div></aside>');
+    } else 
+
+
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['AU','CA','DE','GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write('<div id="monetization-adunit-in_content" class="monetization-module adunit hide-for-edit in-content" data-mon-type="adunit" data-mon-slot="in_content"><div class="ad-header">Advertisement</div><div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><ins class="adsbygoogle ad-responsive-ic" style="display:inline-block;" data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_ic_fss_fft mon_hub_tv mon_sl_ic" data-ad-type="text" data-font-size="small"data-font-face="times" data-color-bg="#d7cbab" data-color-border="#d7cbab" data-color-link="#47518e" data-color-url="#47518e" data-color-text="#3a3a3a" ></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt></div></div>');
+}
+</script><h2><span class="mw-headline" id="Personality">Personality</span><span class="editsection"><a href="/wiki/Pycelle?action=edit&amp;section=9" title="Edit Personality section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<p>Pycelle is regarded as a cowardly, subservient and extremely sycophantic man by most people, and it is proven that he is so. He is potentially joint in responsibility for the Sacking of King's Landing, as he persuaded the Mad King to open the gates to the capital and allow the Lannister forces to enter and rampage through the city. Pycelle remembers several other rulers, and even remarks to have known Aerys Targaryen before the latter became a psychopathic pyromaniac. Pycelle is viewed by Jaime Lannister as '<i>a grey, sunken cunt</i>' meaning that he is unpopular amongst most people. This is ironic, because he secretly serves the Lannister House throughout most of the series - specifically, Tywin and Cersei Lannister.
+</p><p>He does not appear to have a strong relationship with the other Lannisters, as he is joined in hating and discriminating Tyrion for his disfigurement and short stature. Despite preaching and claiming to be a man of virtue, Pycelle intentionally usurps and flouts the vow of celibacy by employing prostitutes. Pycelle, despite his extremely frail and absent-minded outlook, is (in his own way) dangerous and surprisingly intelligent, possessing a certain low cunning that other people overlook. He is also firmly opinionated, (rightly) believing that Qyburn's methods are highly unethical, and refers to the latter in diabolical terms. Pycelle is capable of arrogance and cowardice, shown by him desperately blaming Varys when Tyrion accuses him of betraying him to Cersei.
+</p><p>In public, he appears to be clumsy, senile and possessing a constant stammer. When in private, or in the presence of the likes of Tywin Lannister, Pycelle shows that he is actually feigning the stammer in an attempt of being unpredictable. He admits to Tywin that he is ambitious and simply wants to outlast his opponents. However, he is not above being a hypocritical coward, claiming that he serves the Lannisters when he did not hesitate in prosecuting Tyrion. He took the latter incident on an unnecessarily personal level, voicing his belief that his previous arrest by the Imp was unjustified - when, in actuality, it wasn't.
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="editsection"><a href="/wiki/Pycelle?action=edit&amp;section=10" title="Edit Appearances section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<table class="appearances" border="1" style="width: 90%; margin: 1em 1em 1em 0; border: 1px #000000 solid; border-collapse: collapse; text-align: center; font-size:11px">
+
+<tr bgcolor="#C19A6B">
+<td colspan="5"><b><a href="/wiki/Season_1" title="Season 1">Season One</a> appearances</b>
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;">Winter is Coming
+</td><td style="width: 20%;"> The Kingsroad
+</td><td style="width: 20%;"> <b><a href="/wiki/Lord_Snow" title="Lord Snow">Lord Snow</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/Cripples,_Bastards_and_Broken_Things" title="Cripples, Bastards and Broken Things">Cripples, Bastards and Broken Things</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/The_Wolf_and_the_Lion" title="The Wolf and the Lion">The Wolf and the Lion</a></b>
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> <b><a href="/wiki/A_Golden_Crown" title="A Golden Crown">A Golden Crown</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/You_Win_or_You_Die" title="You Win or You Die">You Win or You Die</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/The_Pointy_End" title="The Pointy End">The Pointy End</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/Baelor" title="Baelor">Baelor</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/Fire_and_Blood" title="Fire and Blood">Fire and Blood</a></b>
+</td></tr></table>
+<table class="appearances" border="1" style="width: 90%; margin: 1em 1em 1em 0; border: 1px #000000 solid; border-collapse: collapse; text-align: center; font-size:11px">
+
+<tr bgcolor="#C19A6B">
+<td colspan="5"><b><a href="/wiki/Season_2" title="Season 2">Season Two</a> appearances</b>
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> <b><a href="/wiki/The_North_Remembers" title="The North Remembers">The North Remembers</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/The_Night_Lands" title="The Night Lands">The Night Lands</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/What_is_Dead_May_Never_Die" title="What is Dead May Never Die">What is Dead May Never Die</a></b>
+</td><td style="width: 20%;"> Garden of Bones
+</td><td style="width: 20%;"> The Ghost of Harrenhal
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> The Old Gods and the New
+</td><td style="width: 20%;"> A Man Without Honor
+</td><td style="width: 20%;"> The Prince of Winterfell
+</td><td style="width: 20%;"> <b><a href="/wiki/Blackwater_(episode)" title="Blackwater (episode)" class="mw-redirect">Blackwater</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/Valar_Morghulis" title="Valar Morghulis">Valar Morghulis</a></b>
+</td></tr></table>
+<table class="appearances" border="1" style="width: 90%; margin: 1em 1em 1em 0; border: 1px #000000 solid; border-collapse: collapse; text-align: center; font-size:11px">
+
+<tr bgcolor="#C19A6B">
+<td colspan="5"><b><a href="/wiki/Season_3" title="Season 3">Season Three</a> appearances</b>
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> Valar Dohaeris
+</td><td style="width: 20%;"> Dark Wings, Dark Words
+</td><td style="width: 20%;"> <b><a href="/wiki/Walk_of_Punishment" title="Walk of Punishment">Walk of Punishment</a></b>
+</td><td style="width: 20%;"> And Now His Watch is Ended
+</td><td style="width: 20%;"> Kissed by Fire
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> The Climb
+</td><td style="width: 20%;"> The Bear and the Maiden Fair
+</td><td style="width: 20%;"> <b><a href="/wiki/Second_Sons_(episode)" title="Second Sons (episode)">Second Sons</a></b>
+</td><td style="width: 20%;"> The Rains of Castamere
+</td><td style="width: 20%;"> <b><a href="/wiki/Mhysa" title="Mhysa">Mhysa</a></b>
+</td></tr></table>
+<table class="appearances" border="1" style="width: 90%; margin: 1em 1em 1em 0; border: 1px #000000 solid; border-collapse: collapse; text-align: center; font-size:11px">
+
+<tr bgcolor="#C19A6B">
+<td colspan="5"><b><a href="/wiki/Season_4" title="Season 4">Season Four</a> appearances</b>
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> Two Swords
+</td><td style="width: 20%;"> <b><a href="/wiki/The_Lion_and_the_Rose" title="The Lion and the Rose">The Lion and the Rose</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/Breaker_of_Chains" title="Breaker of Chains">Breaker of Chains</a></b>
+</td><td style="width: 20%;"> Oathkeeper
+</td><td style="width: 20%;"> <b><a href="/wiki/First_of_His_Name" title="First of His Name">First of His Name</a></b>
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> <b><a href="/wiki/The_Laws_of_Gods_and_Men" title="The Laws of Gods and Men">The Laws of Gods and Men</a></b>
+</td><td style="width: 20%;"> Mockingbird
+</td><td style="width: 20%;"> <b><a href="/wiki/The_Mountain_and_the_Viper" title="The Mountain and the Viper">The Mountain and the Viper</a></b>
+</td><td style="width: 20%;"> The Watchers on the Wall
+</td><td style="width: 20%;"> <b><a href="/wiki/The_Children" title="The Children">The Children</a></b>
+</td></tr></table>
+<table class="appearances" border="1" style="width: 90%; margin: 1em 1em 1em 0; border: 1px #000000 solid; border-collapse: collapse; text-align: center; font-size:11px">
+
+<tr bgcolor="#C19A6B">
+<td colspan="5"><b><a href="/wiki/Season_5" title="Season 5">Season Five</a> appearances</b>
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> <b><a href="/wiki/The_Wars_to_Come" title="The Wars to Come">The Wars to Come</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/The_House_of_Black_and_White" title="The House of Black and White">The House of Black and White</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/High_Sparrow_(episode)" title="High Sparrow (episode)">High Sparrow</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/Sons_of_the_Harpy_(episode)" title="Sons of the Harpy (episode)">Sons of the Harpy</a></b>
+</td><td style="width: 20%;"> Kill the Boy
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> Unbowed, Unbent, Unbroken
+</td><td style="width: 20%;"> The Gift
+</td><td style="width: 20%;"> Hardhome
+</td><td style="width: 20%;"> The Dance of Dragons
+</td><td style="width: 20%;"> <b><a href="/wiki/Mother%E2%80%99s_Mercy" title="Mother’s Mercy" class="mw-redirect">Mother’s Mercy</a></b>
+</td></tr></table>
+<table class="appearances" border="1" style="width: 90%; margin: 1em 1em 1em 0; border: 1px #000000 solid; border-collapse: collapse; text-align: center; font-size:11px">
+
+<tr bgcolor="#C19A6B">
+<td colspan="5"><b><a href="/wiki/Season_6" title="Season 6">Season Six</a> appearances</b>
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> The Red Woman
+</td><td style="width: 20%;"> Home
+</td><td style="width: 20%;"> <b><a href="/wiki/Oathbreaker" title="Oathbreaker">Oathbreaker</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/Book_of_the_Stranger" title="Book of the Stranger">Book of the Stranger</a></b>
+</td><td style="width: 20%;"> The Door
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> Blood of My Blood
+</td><td style="width: 20%;"> The Broken Man
+</td><td style="width: 20%;"> <b><a href="/wiki/No_One" title="No One">No One</a></b>
+</td><td style="width: 20%;"> Battle of the Bastards
+</td><td style="width: 20%;"> <b><a href="/wiki/The_Winds_of_Winter" title="The Winds of Winter">The Winds of Winter</a></b>
+</td></tr></table>
+<h2><span class="mw-headline" id="Image_gallery">Image gallery</span><span class="editsection"><a href="/wiki/Pycelle?action=edit&amp;section=11" title="Edit Image gallery section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<div id="gallery-0" hash="01c7d0e637e9ec7ca3c504fbe09dc817" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium"><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:125px;"><div class="gallery-image-wrapper accent" id="Pycelle_1x04-jpg" style="position: relative; height:103px; width:185px; top:10px;"><a class="image lightbox" href="/wiki/File:Pycelle_1x04.jpg" title="Pycelle 1x04.jpg (130 KB)" style="height:103px; width:185px;"><noscript><img style="" src="http://vignette3.wikia.nocookie.net/gameofthrones/images/0/01/Pycelle_1x04.jpg/revision/latest/scale-to-width-down/185?cb=20110531032104" title="Pycelle 1x04.jpg (130 KB)" class="thumbimage" alt="Pycelle 1x04" data-image-name="Pycelle 1x04.jpg" data-image-key="Pycelle_1x04.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Pycelle 1x04.jpg (130 KB)" class="thumbimage lzy lzyPlcHld" alt="Pycelle 1x04" data-image-name="Pycelle 1x04.jpg" data-image-key="Pycelle_1x04.jpg" data-src="http://vignette3.wikia.nocookie.net/gameofthrones/images/0/01/Pycelle_1x04.jpg/revision/latest/scale-to-width-down/185?cb=20110531032104" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Grand Maester Pycelle in "<a href="/wiki/Cripples,_Bastards_and_Broken_Things" title="Cripples, Bastards and Broken Things">Cripples, Bastards and Broken Things</a>"</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:125px;"><div class="gallery-image-wrapper accent" id="PycelleS2Promo-jpg" style="position: relative; height:123px; width:185px;"><a class="image lightbox" href="/wiki/File:PycelleS2Promo.jpg" title="PycelleS2Promo.jpg (123 KB)" style="height:123px; width:185px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/gameofthrones/images/3/33/PycelleS2Promo.jpg/revision/latest/scale-to-width-down/185?cb=20120323184023" title="PycelleS2Promo.jpg (123 KB)" class="thumbimage" alt="PycelleS2Promo" data-image-name="PycelleS2Promo.jpg" data-image-key="PycelleS2Promo.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="PycelleS2Promo.jpg (123 KB)" class="thumbimage lzy lzyPlcHld" alt="PycelleS2Promo" data-image-name="PycelleS2Promo.jpg" data-image-key="PycelleS2Promo.jpg" data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/3/33/PycelleS2Promo.jpg/revision/latest/scale-to-width-down/185?cb=20120323184023" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Pycelle in "<a href="/wiki/What_is_Dead_May_Never_Die" title="What is Dead May Never Die">What is Dead May Never Die</a>".</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:125px;"><div class="gallery-image-wrapper accent" id="Pycelle-png" style="position: relative; height:103px; width:185px; top:10px;"><a class="image lightbox" href="/wiki/File:Pycelle.png" title="Pycelle.png (439 KB)" style="height:103px; width:185px;"><noscript><img style="" src="http://vignette3.wikia.nocookie.net/gameofthrones/images/5/5c/Pycelle.png/revision/latest/scale-to-width-down/185?cb=20120604224456" title="Pycelle.png (439 KB)" class="thumbimage" alt="Pycelle" data-image-name="Pycelle.png" data-image-key="Pycelle.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Pycelle.png (439 KB)" class="thumbimage lzy lzyPlcHld" alt="Pycelle" data-image-name="Pycelle.png" data-image-key="Pycelle.png" data-src="http://vignette3.wikia.nocookie.net/gameofthrones/images/5/5c/Pycelle.png/revision/latest/scale-to-width-down/185?cb=20120604224456" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Pycelle in "<a href="/wiki/Valar_Morghulis" title="Valar Morghulis">Valar Morghulis</a>".</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:125px;"><div class="gallery-image-wrapper accent" id="Tyrion_and_Sansa_wedding_3x08-jpg" style="position: relative; height:103px; width:185px; top:10px;"><a class="image lightbox" href="/wiki/File:Tyrion_and_Sansa_wedding_3x08.jpg" title="Tyrion and Sansa wedding 3x08.jpg (247 KB)" style="height:103px; width:185px;"><noscript><img style="" src="http://vignette1.wikia.nocookie.net/gameofthrones/images/b/bc/Tyrion_and_Sansa_wedding_3x08.jpg/revision/latest/scale-to-width-down/185?cb=20130522213833" title="Tyrion and Sansa wedding 3x08.jpg (247 KB)" class="thumbimage" alt="Tyrion and Sansa wedding 3x08" data-image-name="Tyrion and Sansa wedding 3x08.jpg" data-image-key="Tyrion_and_Sansa_wedding_3x08.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Tyrion and Sansa wedding 3x08.jpg (247 KB)" class="thumbimage lzy lzyPlcHld" alt="Tyrion and Sansa wedding 3x08" data-image-name="Tyrion and Sansa wedding 3x08.jpg" data-image-key="Tyrion_and_Sansa_wedding_3x08.jpg" data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/b/bc/Tyrion_and_Sansa_wedding_3x08.jpg/revision/latest/scale-to-width-down/185?cb=20130522213833" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;"><a href="/wiki/Tyrion_Lannister" title="Tyrion Lannister">Tyrion</a> and <a href="/wiki/Sansa_Stark" title="Sansa Stark">Sansa</a> with <a href="/wiki/Tywin_Lannister" title="Tywin Lannister">Tywin</a>, <a href="/wiki/Cersei_Lannister" title="Cersei Lannister">Cersei</a>, <a href="/wiki/Joffrey_Baratheon" title="Joffrey Baratheon">Joffrey</a>, Lord <a href="/wiki/Varys" title="Varys">Varys</a>, Grand Maester <strong class="selflink">Pycelle</strong>, <a href="/wiki/Margaery_Tyrell" title="Margaery Tyrell">Margaery</a>, Lady <a href="/wiki/Olenna_Tyrell" title="Olenna Tyrell">Olenna</a> and <a href="/wiki/Loras_Tyrell" title="Loras Tyrell" class="mw-redirect">Loras</a> in "<a href="/wiki/Second_Sons_(episode)" title="Second Sons (episode)">Second Sons</a>".</div></div><br /><a class="wikia-photogallery-add wikia-button noprint" style="display: none"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite photo" width="26" height="16" />Add a photo to this gallery</a></div><script>JSSnippetsStack.push({dependencies:[{"url":"http://slot1.images1.wikia.nocookie.net/__am/1467115692/group/-/wikia_photo_gallery_js","type":"js"},{"url":"http://slot1.images4.wikia.nocookie.net/__am/1467115692/sass/background-dynamic%3Dtrue%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb20150716154804%252Fgameofthrones%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1920%26color-body%3D%2523000%26color-body-middle%3D%2523000000%26color-buttons%3D%25231e5467%26color-header%3D%25235f4416%26color-links%3D%252347518e%26color-page%3D%2523d7cbab%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/extensions/wikia/WikiaPhotoGallery/css/gallery.scss","type":"css"}],callback:function(json){WikiaPhotoGalleryView.init(json)},id:"WikiaPhotoGalleryView.init"})</script>
+<h2><span class="mw-headline" id="Quotes">Quotes</span><span class="editsection"><a href="/wiki/Pycelle?action=edit&amp;section=12" title="Edit Quotes section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<div class="quote">
+<dl><dd><span title="Source: Fire and Blood">"<i>Now I serve his son, King Joffrey, may the gods bless his reign. He's a capable young man.</i>"</span>
+</dd><dd>&#8213;Grand Maester Pycelle<span class="noprint"><sup><a href="/wiki/Fire_and_Blood" title="Fire and Blood">[src]</a></sup></span></div>
+</dd></dl>
+<div class="quote">
+<dl><dd><span title="Source: Mhysa">"<i>Apologies, my lord...</i>old fingers<i>.</i>"</span>
+</dd><dd>&#8213;Grand Maester Pycelle to <a href="/wiki/Tyrion_Lannister" title="Tyrion Lannister">Tyrion</a><span class="noprint"><sup><a href="/wiki/Mhysa" title="Mhysa">[src]</a></sup></span></div>
+</dd></dl>
+<div class="quote">
+<dl><dd><span title="Source: Mhysa">"<i>Lord Tyrion should apologize, immediately. Unacceptable, disrespectful, and in very bad taste.</i>"</span>
+</dd><dd>&#8213;Grand Maester Pycelle<span class="noprint"><sup><a href="/wiki/Mhysa" title="Mhysa">[src]</a></sup></span></div>
+</dd></dl>
+<div class="quote">
+<dl><dd><span><b>Tywin Lannister</b>: "<i>Stop it. Am I the only one to see through this performance? Is it possible that so many could be so stupid for so long? Huh?</i>"
+</dd><dd><b>Pycelle</b>: "<i>There are times when I have trouble believing it myself.</i>"
+</dd><dd><b>Tywin Lannister</b>: "<i>Then why do you bother?</i>"
+</dd><dd><b>Pycelle</b>: "<i>Oh, so many flowers, my lord, each wanting to grow the tallest, bloom the brightest, and one by one, sooner or later, they all get plucked. I don't want to be the tallest or the brightest, I only want to remain in the garden until my time comes to return to the dirt.</i>"</span>
+</dd><dd>&#8212; Pycelle to Tywin Lannister on his frail façade.<sup class="noprint"><a href="/wiki/Season_3_deleted_scene?action=edit&amp;redlink=1" class="new" title="Season 3 deleted scene (page does not exist)">[src]</a></sup>
+</dd></dl>
+</div>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="editsection"><a href="/wiki/Pycelle?action=edit&amp;section=13" title="Edit Behind the scenes section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<p>It was originally announced that Pycelle would be played by <a href="/wiki/Roy_Dotrice" title="Roy Dotrice">Roy Dotrice</a>. Dotrice had to withdraw due to health reasons just before production commenced and the role was recast with <a href="/wiki/Julian_Glover" title="Julian Glover">Julian Glover</a> taking over.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[33]</a></sup> Dotrice recovered and was cast as the pyromancer <a href="/wiki/Hallyne" title="Hallyne">Hallyne</a> in the <a href="/wiki/Season_2" title="Season 2">second season</a>.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[34]</a></sup> Glover has played a villain in numerous genre movies, including General Maximilian Veers in <i>The Empire Strikes Back</i>, Walter Donovan in <i>Indiana Jones and the Last Crusade</i>, Aris Kristatos in the <i>James Bond</i> movie <i>For Your Eyes Only</i> (which was also the debut film of Charles Dance, who portrayed Tywin Lannister and was one of Glover's henchmen in the film), and Scaroth of the Jagaroth in the famed <i>Doctor Who</i> episode <i>City of Death</i> (fans may not immediately recognize him due to Pycelle's large beard, which is actually a fake beard applied by the makeup department).
+</p><p>Pycelle was originally supposed to be a frail old man, but after several episodes Julian Glover - who is very active for his age - suggested to the writers that they use his agility in the role. This led the writers to include the scenes showing Pycelle as "putting on" his infirmity for effect.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[35]</a></sup>
+</p><p>According to Glover, the ceremonial chains of office for the Grand Maester which he wears are made of real metal links, and thus the prop is very heavy. Therefore, straps are concealed under his costume which connect behind his back (which he compares to a bra), so the weight is distributed across his shoulders, instead of having to support a heavy metal chain with nothing but the back of his neck for long periods of time. Glover also said that his heavy roughspun maester's robes can be very uncomfortable at times, particularly considering that many of the exterior scenes in King's Landing are filmed in warm Mediterranean climates such as Malta or Croatia.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[36]</a></sup>
+</p><p>A deleted scene on the season 3 Blu-Ray/DVD has Pycelle meeting with Tywin and Tywin revealing he sees through Pycelle's act. Pycelle then straightens up to talk clearly, admitting he is surprised himself to have fooled so many people for so long and that he prefers to be seen as weak so to survive the duplicity of the high lords.
+</p><p>On the <a href="/wiki/Season_4" title="Season 4">Season 4</a> Blu-ray, Pycelle narrates the <a href="/wiki/Histories_%26_Lore" title="Histories &amp; Lore">Histories &amp; Lore</a> videos on <b>"<a href="/wiki/Dragons_(Histories_%26_Lore)" title="Dragons (Histories &amp; Lore)">Dragons</a>"</b>.
+</p>
+<h2><span class="mw-headline" id="In_the_books">In the books</span><span class="editsection"><a href="/wiki/Pycelle?action=edit&amp;section=14" title="Edit In the books section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<p>In the <i><a href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels Pycelle is in his eighties and has been Grand Maester for forty years, beginning his service in the closing months of King Aegon V Targaryen's reign and maintaining the post for the entirety of the reigns of King Jaehaerys II, King <a href="/wiki/Aerys_II" title="Aerys II" class="mw-redirect">Aerys II</a> and then King <a href="/wiki/Robert_Baratheon" title="Robert Baratheon">Robert</a>.
+</p><p>The position of Grand Maester is usually held by the preeminent member of the entire order of maesters, often a senior member with many decades' worth of accomplishments to his name. As a result, they are often older men and thus don't tend to spend a very long time in office before they reach the end of their lives. It is therefore unusual that Pycelle was selected as Grand Maester at only 42 years old, and has thus had the uncommonly long tenure in office of over forty years (though in the centuries-long history of the maesters, such things are not entirely unheard of). The reason Pycelle was selected at such a young age is because the last three Grand Maesters before him were old men who died in rapid succession: the first two each died under a year after taking the office, and the third died of a chill before he even reached King's Landing. In frustration, it was decided to select a young and healthy man as the new Grand Maester.
+</p><p>Though Pycelle has no hair left on top of his freckled scalp with just a wispy ring of hair around the sides, he has a long white beard which he has been growing for decades and is very proud of. He strokes it when giving the impression that he is thinking or considering a weighty issue. When Tyrion had him arrested and had the beard shaved off Pycelle tried to regrow it. Unfortunately, only wispy strands grew back, which do nothing to hide his turkey neck.
+</p><p>He was a colleague and supporter of <a href="/wiki/Tywin_Lannister" title="Tywin Lannister">Tywin Lannister</a> during his tenure as <a href="/wiki/Hand_of_the_King" title="Hand of the King">Hand of the King</a>. When Lord Tywin marched in full force to King's Landing following the <a href="/wiki/Battle_of_the_Trident" title="Battle of the Trident">Battle of the Trident</a>, it was Pycelle who advised King Aerys to open the city gates, hoping that Tywin would seize the throne for himself.
+</p><p>The speech he gives in the TV series at the Sept of Baelor about showing mercy was given in the book by the High Septon.
+</p><p>When Tyrion asks him if loyalty to the Lannisters ran to the point of helping in the deaths of King Robert and Jon Arryn, Pycelle insists that Robert was mortally wounded and nothing could have saved him, but admitted that he would have finished Robert off himself if the wounds from the boar had not been so fatal.
+</p><p><a href="/wiki/Jon_Arryn" title="Jon Arryn">Jon Arryn</a> was being treated by another maester who was going to give him purges to get the poison out, but because Pycelle knew that Arryn knew the secret of Cersei's incest, he sent the man away and just gave Lord Arryn painkillers to ease his passing. In the TV series the emphasis is slightly different: Pycelle presents it as that he simply didn't intervene when he realized Lord Arryn was poisoned, though Tyrion points out that even his inaction when he could have saved Lord Arryn makes him an aid to the murder. In the TV series, Tyrion just vaguely asserts that Pycelle must have "made sure he succumbed", but in the book version he goes slightly beyond inaction, actively dismissing a maester who would have cured him. Even in the books, Pycelle didn't know who actually poisoned Jon Arryn, but it was convenient for Pycelle that someone else poisoned him before he had to deal with it.
+</p><p>Pycelle does not give Cersei Essence of Nightshade, nor does she try to give it to Tommen. Tommen is not even in King's Landing during the Battle of the Blackwater, but was instead sent to Rosby for protection.
+</p><p>After Pycelle was released from prison, he resembles a shambling skeleton, leaning heavily on a twisted cane and shaking as he walks, a few white hairs sprouting from his long neck in place of his once-luxuriant white beard.
+</p><p>During the Purple Wedding, Pycelle demands help to reach his chambers so he can retrieve potions to aid Joffrey. His failure to save Joffrey (as well as his continual objections to Cersei's policies as Regent) sour her opinion of him to the point where she considers having him replaced.
+</p><p>In the fourth novel, following Tywin's death, the relationship between Pycelle and Cersei turn sour. Pycelle sees what an incompetent ruler Cersei is, and stops being her henchman. Unlike the other council members (Orton Merryweather, Aurane Waters, Gyles Rosby and Qyburn) who act as "yes men", Pycelle keeps objecting Cersei's ill-advised decisions, plaguing her with cautions and objections, to her annoyance. For instance, he claims that the Crown must pay its debt to the Iron Bank, and questions the understanding she has reached with the High Septon about restoring the Faith Militant. As things turn to be, Pycelle was right about both matters.
+</p><p>Cersei grows impatient with Pycelle's conduct, and regrets that she had him released from prison. She thinks he has outlived any usefulness he ever had, and considers replacing him.
+</p><p>Pycelle is one of the people who are forced to take part in Cersei's scheme against Margaery. Under threats of imprisonment and torture, he claims - and later testifies - that he provided Moon Tea (a contraceptive potion) to Margaery.
+</p><p>After Cersei is arrested by the Faith, Harys Swyft and Pycelle seize the opportunity to take over the council. They invite Kevan to return to court and assume the regency, and he takes steps to fix the damages that Cersei has done. All Cersei's henchmen either flee, are imprisoned or deposed, and she is stripped of all powers and authorities.
+</p><p>In the fifth novel, Pycelle continues his duty as the Grand Maester. He fears that Mace Tyrell, who was appointed to the King's Hand, will harm him because of the testimony he has given against Margaery. He requests guards from Kevan, but Kevan refuses, since Mace may consider that as a slight.
+</p><p>Pycelle is killed in his chambers by Varys, who removes both him and Kevan to ensure they cannot repair the damage Cersei had done to the kingdom and the Lannister-Tyrell alliance, as he explains Kevan sorrowfully. While Kevan is dying, he sees that Pycelle is seated at his table, a deep red gash in his spotted skull, blood pooled beneath his head, staining the pages of his book. All around his candle are bits of bone and brain.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="editsection"><a href="/wiki/Pycelle?action=edit&amp;section=15" title="Edit See also section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<ul><li> <a href="http://vignette1.wikia.nocookie.net/gameofthrones/images/6/63/A_Wiki_of_Ice_and_Fire_favicon.PNG/revision/latest?cb=20140327143233" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="A Wiki of Ice and Fire favicon"  	class="lzy lzyPlcHld " 	 	data-image-key="A_Wiki_of_Ice_and_Fire_favicon.PNG" 	data-image-name="A Wiki of Ice and Fire favicon.PNG" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/6/63/A_Wiki_of_Ice_and_Fire_favicon.PNG/revision/latest?cb=20140327143233"  	 width="32"  	 height="32"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/6/63/A_Wiki_of_Ice_and_Fire_favicon.PNG/revision/latest?cb=20140327143233" 	 alt="A Wiki of Ice and Fire favicon"  	class="" 	 	data-image-key="A_Wiki_of_Ice_and_Fire_favicon.PNG" 	data-image-name="A Wiki of Ice and Fire favicon.PNG" 	 	 width="32"  	 height="32"  	 	 	 	></noscript></a> <a href="http://awoiaf.westeros.org/index.php/Pycelle" class="extiw exitstitial" title="awoiaf:Pycelle">Pycelle</a> on <a rel="nofollow" class="external text exitstitial" href="http://awoiaf.westeros.org/">A Wiki of Ice and Fire</a> (MAJOR spoilers from the books)
+</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="editsection"><a href="/wiki/Pycelle?action=edit&amp;section=16" title="Edit References section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<div class="references-small" style="-moz-column-count:2; -webkit-column-count:2; column-count:2;">
+<ol class="references"><li id="cite_note-0"><a href="#cite_ref-0">↑</a> <span class="reference-text"><a rel="nofollow" class="external text exitstitial" href="http://viewers-guide.hbo.com/game-of-thrones/season2/#!/guide/houses/jbaratheon/grand-maester-pycelle/">HBO viewers guide, season 2 guide to houses, House Baratheon of King's Landing - Grand Maester Pycelle entry</a></span>
+</li>
+<li id="cite_note-1"><a href="#cite_ref-1">↑</a> <span class="reference-text">"<a href="/wiki/A_Man_Without_Honor" title="A Man Without Honor">A Man Without Honor</a>"</span>
+</li>
+<li id="cite_note-2"><a href="#cite_ref-2">↑</a> <span class="reference-text">"<a href="/wiki/Lord_Snow" title="Lord Snow">Lord Snow</a>"</span>
+</li>
+<li id="cite_note-3"><a href="#cite_ref-3">↑</a> <span class="reference-text">"<a href="/wiki/Cripples,_Bastards_and_Broken_Things" title="Cripples, Bastards and Broken Things">Cripples, Bastards and Broken Things</a>"</span>
+</li>
+<li id="cite_note-4"><a href="#cite_ref-4">↑</a> <span class="reference-text">"<a href="/wiki/The_Wolf_and_the_Lion" title="The Wolf and the Lion">The Wolf and the Lion</a>"</span>
+</li>
+<li id="cite_note-5"><a href="#cite_ref-5">↑</a> <span class="reference-text">"<a href="/wiki/A_Golden_Crown" title="A Golden Crown">A Golden Crown</a>"</span>
+</li>
+<li id="cite_note-6"><a href="#cite_ref-6">↑</a> <span class="reference-text">"<a href="/wiki/You_Win_or_You_Die" title="You Win or You Die">You Win or You Die</a>"</span>
+</li>
+<li id="cite_note-7"><a href="#cite_ref-7">↑</a> <span class="reference-text">"<a href="/wiki/The_Pointy_End" title="The Pointy End">The Pointy End</a>"</span>
+</li>
+<li id="cite_note-8"><a href="#cite_ref-8">↑</a> <span class="reference-text">"<a href="/wiki/Baelor" title="Baelor">Baelor</a>"</span>
+</li>
+<li id="cite_note-9"><a href="#cite_ref-9">↑</a> <span class="reference-text">"<a href="/wiki/Fire_and_Blood" title="Fire and Blood">Fire and Blood</a>"</span>
+</li>
+<li id="cite_note-E11-10">↑ <sup><a href="#cite_ref-E11_10-0">11.0</a></sup> <sup><a href="#cite_ref-E11_10-1">11.1</a></sup> <span class="reference-text">"<a href="/wiki/The_North_Remembers" title="The North Remembers">The North Remembers</a>"</span>
+</li>
+<li id="cite_note-S2EP02-11">↑ <sup><a href="#cite_ref-S2EP02_11-0">12.0</a></sup> <sup><a href="#cite_ref-S2EP02_11-1">12.1</a></sup> <span class="reference-text">"<a href="/wiki/The_Night_Lands" title="The Night Lands">The Night Lands</a>"</span>
+</li>
+<li id="cite_note-E13-12">↑ <sup><a href="#cite_ref-E13_12-0">13.0</a></sup> <sup><a href="#cite_ref-E13_12-1">13.1</a></sup> <span class="reference-text">"<a href="/wiki/What_is_Dead_May_Never_Die" title="What is Dead May Never Die">What is Dead May Never Die</a>"</span>
+</li>
+<li id="cite_note-13"><a href="#cite_ref-13">↑</a> <span class="reference-text">"<a href="/wiki/Garden_of_Bones" title="Garden of Bones">Garden of Bones</a>"</span>
+</li>
+<li id="cite_note-14"><a href="#cite_ref-14">↑</a> <span class="reference-text">"<a href="/wiki/Blackwater" title="Blackwater">Blackwater</a>"</span>
+</li>
+<li id="cite_note-15"><a href="#cite_ref-15">↑</a> <span class="reference-text">"<a href="/wiki/Valar_Morghulis" title="Valar Morghulis">Valar Morghulis</a>"</span>
+</li>
+<li id="cite_note-16"><a href="#cite_ref-16">↑</a> <span class="reference-text">"<a href="/wiki/Walk_of_Punishment" title="Walk of Punishment">Walk of Punishment</a>"</span>
+</li>
+<li id="cite_note-17"><a href="#cite_ref-17">↑</a> <span class="reference-text">"<a href="/wiki/Second_Sons_(episode)" title="Second Sons (episode)">Second Sons (episode)</a>"</span>
+</li>
+<li id="cite_note-18"><a href="#cite_ref-18">↑</a> <span class="reference-text">"<a href="/wiki/Mhysa" title="Mhysa">Mhysa</a>"</span>
+</li>
+<li id="cite_note-19"><a href="#cite_ref-19">↑</a> <span class="reference-text">"<a href="/wiki/The_Lion_and_the_Rose" title="The Lion and the Rose">The Lion and the Rose</a>"</span>
+</li>
+<li id="cite_note-20"><a href="#cite_ref-20">↑</a> <span class="reference-text">"<a href="/wiki/First_of_His_Name" title="First of His Name">First of His Name</a>"</span>
+</li>
+<li id="cite_note-21"><a href="#cite_ref-21">↑</a> <span class="reference-text">"<a href="/wiki/The_Laws_of_Gods_and_Men" title="The Laws of Gods and Men">The Laws of Gods and Men</a>"</span>
+</li>
+<li id="cite_note-22"><a href="#cite_ref-22">↑</a> <span class="reference-text">"<a href="/wiki/The_Mountain_and_the_Viper" title="The Mountain and the Viper">The Mountain and the Viper</a>"</span>
+</li>
+<li id="cite_note-23"><a href="#cite_ref-23">↑</a> <span class="reference-text">"<a href="/wiki/The_Children" title="The Children">The Children</a>"</span>
+</li>
+<li id="cite_note-24"><a href="#cite_ref-24">↑</a> <span class="reference-text">"<a href="/wiki/The_Wars_to_Come" title="The Wars to Come">The Wars to Come</a>"</span>
+</li>
+<li id="cite_note-25"><a href="#cite_ref-25">↑</a> <span class="reference-text">"<a href="/wiki/The_House_of_Black_and_White" title="The House of Black and White">The House of Black and White</a>"</span>
+</li>
+<li id="cite_note-26"><a href="#cite_ref-26">↑</a> <span class="reference-text">"<a href="/wiki/High_Sparrow_(episode)" title="High Sparrow (episode)">High Sparrow (episode)</a>"</span>
+</li>
+<li id="cite_note-27"><a href="#cite_ref-27">↑</a> <span class="reference-text">"<a href="/wiki/Sons_of_the_Harpy_(episode)" title="Sons of the Harpy (episode)">Sons of the Harpy (episode)</a>"</span>
+</li>
+<li id="cite_note-28"><a href="#cite_ref-28">↑</a> <span class="reference-text">"Hardhome (episode)"</span>
+</li>
+<li id="cite_note-29"><a href="#cite_ref-29">↑</a> <span class="reference-text">"<a href="/wiki/Oathbreaker" title="Oathbreaker">Oathbreaker</a>"</span>
+</li>
+<li id="cite_note-30"><a href="#cite_ref-30">↑</a> <span class="reference-text">"<a href="/wiki/Book_of_the_Stranger" title="Book of the Stranger">Book of the Stranger</a>"</span>
+</li>
+<li id="cite_note-31"><a href="#cite_ref-31">↑</a> <span class="reference-text">"<a href="/wiki/No_One" title="No One">No One</a>"</span>
+</li>
+<li id="cite_note-32"><a href="#cite_ref-32">↑</a> <span class="reference-text"><a rel="nofollow" class="external text exitstitial" href="http://grrm.livejournal.com/168109.html">George R.R. Martin's blog</a> explaining Pycelle's recasting</span>
+</li>
+<li id="cite_note-33"><a href="#cite_ref-33">↑</a> <span class="reference-text"><a rel="nofollow" class="external text exitstitial" href="http://grrm.livejournal.com/231396.html?thread=14435300#t14435300">George R.R. Martin's blog</a> announcing Dotrice's new role</span>
+</li>
+<li id="cite_note-34"><a href="#cite_ref-34">↑</a> <span class="reference-text"><a rel="nofollow" class="external text exitstitial" href="http://www.youtube.com/watch?feature=player_embedded&amp;v=Ak_kQo7QmP4#!">YouTube interview with Julian Glover</a></span>
+</li>
+<li id="cite_note-35"><a href="#cite_ref-35">↑</a> <span class="reference-text"><a rel="nofollow" class="external text exitstitial" href="http://winteriscoming.net/2013/01/new-interviews-with-emilia-clarke-and-julian-glover/">Julian Glover interview</a>, January 2013</span>
+</li></ol></div>
+<table class="nowraplinks navbox collapsible autocollapse" cellspacing="0" style="width: 100%;">
+<tr>
+<th colspan="2" class="navbox-title"> <div style="padding-right:0em"><div style="float:left; text-align:left; width:6em;"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small;&#160;;"><a href="/wiki/Template:SmallCouncil_navbox" title="Template:SmallCouncil navbox"><span title="View this template" style=";">v</span></a>&#160;<span style="font-size: 80%;">•</span>&#160;<span class="plainlinks"><a  class="text" href="http://gameofthrones.wikia.com/wiki/Template_talk:SmallCouncil_navbox"><span style=";" title="Discussion about this template">d</span></a></span>&#160;<span style="font-size: 80%;">•</span>&#160;<a  class="text" href="http://gameofthrones.wikia.com/wiki/Template:SmallCouncil_navbox?action=edit"><span style=";" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><div style="text-align:centre"><span style=""><a href="/wiki/Small_Council" title="Small Council">The Small Council</a></span></div></div>
+</th></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/Hand_of_the_King" title="Hand of the King">Hand of the King</a></b>
+</td><td class="navbox-list" style="">
+<table class="nowraplinks navbox collapsible autocollapse" cellspacing="0" style="width: 100%;">
+
+
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Current:</b>
+</td><td class="navbox-list" style="">
+<p><i>Vacant</i>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Former:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Jon_Arryn" title="Jon Arryn">Lord Jon Arryn</a> <b>·</b> <a href="/wiki/Eddard_Stark" title="Eddard Stark">Lord Eddard Stark</a> <b>·</b> <a href="/wiki/Tyrion_Lannister" title="Tyrion Lannister">Tyrion Lannister</a> <b>·</b>  <a href="/wiki/Tywin_Lannister" title="Tywin Lannister">Lord Tywin Lannister</a> 
+</p>
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/Lord_Commander_of_the_Kingsguard" title="Lord Commander of the Kingsguard">Lord Commander of the Kingsguard</a></b>
+</td><td class="navbox-list" style="">
+<table class="nowraplinks navbox collapsible autocollapse" cellspacing="0" style="width: 100%;">
+
+
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Current:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Jaime_Lannister" title="Jaime Lannister">Ser Jaime Lannister</a>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Former:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Barristan_Selmy" title="Barristan Selmy">Ser Barristan Selmy </a> 
+</p>
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/Grand_Maester" title="Grand Maester">Grand Maester</a></b>
+</td><td class="navbox-list" style="">
+<p><strong class="selflink">Pycelle</strong>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/Master_of_Coin" title="Master of Coin">Master of Coin</a></b>
+</td><td class="navbox-list" style="">
+<table class="nowraplinks navbox collapsible autocollapse" cellspacing="0" style="width: 100%;">
+
+
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Current:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Mace_Tyrell" title="Mace Tyrell">Lord Mace Tyrell</a>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Former:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Petyr_Baelish" title="Petyr Baelish">Lord Petyr Baelish</a> <b>·</b> <a href="/wiki/Tyrion_Lannister" title="Tyrion Lannister">Tyrion Lannister</a> 
+</p>
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/Master_of_Whisperers" title="Master of Whisperers">Master of Whisperers</a></b>
+</td><td class="navbox-list" style="">
+<table class="nowraplinks navbox collapsible autocollapse" cellspacing="0" style="width: 100%;">
+
+
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Current:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Qyburn" title="Qyburn">Qyburn</a>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Former:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Varys" title="Varys">Varys</a> 
+</p>
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/Master_of_Laws" title="Master of Laws">Master of Laws</a></b>
+</td><td class="navbox-list" style="">
+<table class="nowraplinks navbox collapsible autocollapse" cellspacing="0" style="width: 100%;">
+
+
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Current:</b>
+</td><td class="navbox-list" style="">
+<p><i>Vacant</i>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Former:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Renly_Baratheon" title="Renly Baratheon">Lord Renly Baratheon</a> 
+</p>
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/Master_of_Ships" title="Master of Ships">Master of Ships</a></b>
+</td><td class="navbox-list" style="">
+<table class="nowraplinks navbox collapsible autocollapse" cellspacing="0" style="width: 100%;">
+
+
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Current:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Mace_Tyrell" title="Mace Tyrell">Lord Mace Tyrell</a>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Former:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Stannis_Baratheon" title="Stannis Baratheon">Lord Stannis Baratheon</a> 
+</p>
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Other members</b>
+</td><td class="navbox-list" style="">
+<table class="nowraplinks navbox collapsible autocollapse" cellspacing="0" style="width: 100%;">
+
+
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Current:</b>
+</td><td class="navbox-list" style="">
+<p><i>Vacant</i>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Former:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Janos_Slynt" title="Janos Slynt">Lord Janos Slynt</a> <b>·</b> <a href="/wiki/Oberyn_Martell" title="Oberyn Martell">Prince Oberyn Martell</a> <b>·</b> "<a href="/wiki/Master_of_War" title="Master of War">Master of War</a>" 
+</p>
+</td></tr></table>
+</td></tr></table>
+<p><br />
+</p>
+<table class="collapsible collapsed;" style="clear: right; width: 98%; border: solid #aaa 1px; margin: 0 auto; font-size: 95%; padding: 10px; text-align: left;">
+
+<tr>
+<th style="text-align: center; font-size:125%; color:black;" bgcolor="#C19A6B" colspan="6"> <div style="float:left; text-align:left; width:6em;"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small;&#160;;"><a href="/wiki/Template:King%27s_Landing_Baratheon_navbox" title="Template:King's Landing Baratheon navbox"><span title="View this template" style=";">v</span></a>&#160;<span style="font-size: 80%;">•</span>&#160;<span class="plainlinks"><a  class="text" href="http://gameofthrones.wikia.com/wiki/Template_talk:King%27s_Landing_Baratheon_navbox"><span style=";" title="Discussion about this template">d</span></a></span>&#160;<span style="font-size: 80%;">•</span>&#160;<a  class="text" href="http://gameofthrones.wikia.com/wiki/Template:King%27s_Landing_Baratheon_navbox?action=edit"><span style=";" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><div style="text-align:centre"><span style=""><a href="/wiki/House_Baratheon_of_King%27s_Landing" title="House Baratheon of King's Landing">House Baratheon of King's Landing</a></span></div>
+</th></tr>
+<tr style="vertical-align: top;">
+<td><b>Lord:</b>
+</td><td>None; extinct
+</td><td><b>Heir:</b>
+</td><td>None
+</td><td style="horizontal-align: right;" rowspan="3" colspan="2"><div class="floatright"><a href="http://vignette1.wikia.nocookie.net/gameofthrones/images/4/43/House-Baratheon-of-King%27s_Landing-Main-Shield.PNG/revision/latest?cb=20160312103537" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="House-Baratheon-of-King&amp;#039;s Landing-Main-Shield"  	class="lzy lzyPlcHld " 	 	data-image-key="House-Baratheon-of-King%27s_Landing-Main-Shield.PNG" 	data-image-name="House-Baratheon-of-King&#39;s Landing-Main-Shield.PNG" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/4/43/House-Baratheon-of-King%27s_Landing-Main-Shield.PNG/revision/latest/scale-to-width-down/100?cb=20160312103537"  	 width="100"  	 height="123"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/4/43/House-Baratheon-of-King%27s_Landing-Main-Shield.PNG/revision/latest/scale-to-width-down/100?cb=20160312103537" 	 alt="House-Baratheon-of-King&amp;#039;s Landing-Main-Shield"  	class="" 	 	data-image-key="House-Baratheon-of-King%27s_Landing-Main-Shield.PNG" 	data-image-name="House-Baratheon-of-King&#39;s Landing-Main-Shield.PNG" 	 	 width="100"  	 height="123"  	 	 	 	></noscript></a></div>
+</td></tr>
+<tr>
+<td><b>Seat:</b>
+</td><td><a href="/wiki/Red_Keep" title="Red Keep">Red Keep</a>, <a href="/wiki/King%27s_Landing" title="King's Landing">King's Landing</a>
+</td><td><b>Lands:</b>
+</td><td><a href="/wiki/The_Crownlands" title="The Crownlands">The Crownlands</a>
+</td></tr>
+<tr>
+<td><b>Title(s):</b>
+</td><td colspan="3"><a href="/wiki/King_of_the_Andals_and_the_First_Men" title="King of the Andals and the First Men" class="mw-redirect">King of the Andals and the First Men</a> <b>·</b> <a href="/wiki/Lord_of_the_Seven_Kingdoms" title="Lord of the Seven Kingdoms">Lord of the Seven Kingdoms</a> <b>·</b> <a href="/wiki/Protector_of_the_Realm" title="Protector of the Realm">Protector of the Realm</a>
+</td></tr>
+
+<tr>
+<td><b>Current members:</b></td><td colspan="5"><a href="/wiki/Cersei_Lannister" title="Cersei Lannister">Cersei Lannister</a>
+</td></tr>
+<tr>
+<td><b>Deceased members:</b></td><td colspan="5"><a href="/wiki/Robert_Baratheon" title="Robert Baratheon">King Robert I</a> <b>·</b> <a href="/wiki/Joffrey_Baratheon" title="Joffrey Baratheon">King Joffrey I</a> <b>·</b> <a href="/wiki/Myrcella_Baratheon" title="Myrcella Baratheon">Princess Myrcella Baratheon</a> <b>·</b> <a href="/wiki/Tommen_Baratheon" title="Tommen Baratheon">King Tommen I Baratheon</a> <b>·</b> <a href="/wiki/Margaery_Tyrell" title="Margaery Tyrell">Queen Margaery Tyrell</a>
+</td></tr>
+<tr>
+<td><b>Household:</b></td><td colspan="5"><a href="/wiki/Jaime_Lannister" title="Jaime Lannister">Ser Jaime Lannister</a> <b>·</b> <a href="/wiki/Gregor_Clegane" title="Gregor Clegane">Ser Gregor Clegane</a> <b>·</b> <a href="/wiki/Preston_Greenfield" title="Preston Greenfield">Ser Preston Greenfield</a> <b>·</b> <a href="/wiki/Arys_Oakheart" title="Arys Oakheart">Ser Arys Oakheart</a> <b>·</b> <a href="/wiki/Boros_Blount" title="Boros Blount">Ser Boros Blount</a> <b>·</b> <a href="/wiki/Balon_Swann" title="Balon Swann">Ser Balon Swann</a> <b>·</b> <a href="/wiki/Osmund_Kettleblack" title="Osmund Kettleblack">Ser Osmund Kettleblack</a> <b>·</b> <a href="/wiki/Ilyn_Payne" title="Ilyn Payne">Ser Ilyn Payne</a> <b>·</b> <a href="/wiki/Gyles_Rosby" title="Gyles Rosby">Lord Gyles Rosby</a> <b>·</b> <a href="/wiki/Aron_Santagar" title="Aron Santagar">Ser Aron Santagar</a> <b>·</b> <a href="/wiki/Qyburn" title="Qyburn">Qyburn</a> <b>·</b>  <a href="/wiki/Eglantine" title="Eglantine">Septa Eglantine</a>
+</td></tr>
+
+</table>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 2695/300000
+Post‐expand include size: 53249/2097152 bytes
+Template argument size: 14164/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key gameofthrones:pcache:idhash:2187-0!*!0!!en!2!* -->
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://gameofthrones.wikia.com/wiki/Pycelle?oldid=274289">http://gameofthrones.wikia.com/wiki/Pycelle?oldid=274289</a>"</div>
+
+				</div>
+
+															<nav class="article-categories CategorySelect articlePage userCanEdit" id="articleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="Characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Characters" title="Category:Characters">Characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Recurring Characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Recurring_Characters" title="Category:Recurring Characters">Recurring Characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Season 1 Characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Season_1_Characters" title="Category:Season 1 Characters">Season 1 Characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Season 2 Characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Season_2_Characters" title="Category:Season 2 Characters">Season 2 Characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Maesters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Maesters" title="Category:Maesters">Maesters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Small council" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Small_council" title="Category:Small council">Small council</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Season 3 Characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Season_3_Characters" title="Category:Season 3 Characters">Season 3 Characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Characters from Westeros" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Characters_from_Westeros" title="Category:Characters from Westeros">Characters from Westeros</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Season 4 Characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Season_4_Characters" title="Category:Season 4 Characters">Season 4 Characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Spies" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Spies" title="Category:Spies">Spies</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Season 5 Characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Season_5_Characters" title="Category:Season 5 Characters">Season 5 Characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Grand Maesters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Grand_Maesters" title="Category:Grand Maesters">Grand Maesters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Season 6 Characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Season_6_Characters" title="Category:Season 6 Characters">Season 6 Characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Status: Dead" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Status:_Dead" title="Category:Status: Dead">Status: Dead</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+							<li class="last">
+					<button class="wikia-button secondary add" id="CategorySelectAdd" type="button">Add category</button>
+					<input autocomplete="off" class="input" id="CategorySelectInput" name="CategorySelectInput" placeholder="Add category..." type="text">				</li>
+					</ul>
+	</div>
+			<div class="toolbar">
+			<button class="wikia-button secondary cancel" id="CategorySelectCancel" type="button">Cancel</button>
+			<button class="wikia-button save" id="CategorySelectSave" type="button" disabled="disabled">Save</button>
+		</div>
+	</nav>									
+				<nav class="WikiaArticleInterlang">
+	<h3>Languages: </h3>
+	<ul>
+			<li><a href="http://de.gameofthrones.wikia.com/wiki/Pycelle">Deutsch</a></li>
+			<li><a href="http://ru.gameofthrones.wikia.com/wiki/%D0%9F%D0%B8%D1%86%D0%B5%D0%BB%D1%8C">Русский</a></li>
+			<li><a href="http://graotron.wikia.com/wiki/Pycelle">Polski</a></li>
+		</ul>
+</nav>
+
+				
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+							<!-- BEGIN CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<div id="NATIVE_TABOOLA_ARTICLE">
+		<script>
+			window.adslots2.push(["NATIVE_TABOOLA_ARTICLE"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+<div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+								<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+										<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+						<div id="WikiaRail" class="WikiaRail">
+
+		<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+					<div class="loading"></div>
+		
+	</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	<div id="BOTTOM_LEADERBOARD"></div>
+	
+			<section>
+	<div class="header-container">
+		<h2>Around Wikia's network</h2>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/130814" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer">
+	<nav>
+		<div class="branding vertical-tv black">
+			<a class="wikia-logo" href="http://tvhub.wikia.com/wiki/TV_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>TV</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com/wiki/Help:Contents">Help</a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Sitemap">Global Sitemap</a>
+									</li>
+							<li>
+											<a href="/wiki/Special:AllPages">Local Sitemap</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Vacation like an Avenger. Explore real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;},{&quot;text&quot;:&quot;Vacation like an Avenger. Explore real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;},{&quot;text&quot;:&quot;Vacation like an Avenger. Explore real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;},{&quot;text&quot;:&quot;Vacation like an Avenger. Explore real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;},{&quot;text&quot;:&quot;Vacation like an Avenger. Explore real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["GPT_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: EVOLVE_FLUSH -->
+<div id="EVOLVE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["EVOLVE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: EVOLVE_FLUSH -->
+<!-- BEGIN SLOTNAME: HITMEDIA_FLUSH -->
+<div id="HITMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["HITMEDIA_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: HITMEDIA_FLUSH -->
+<!-- BEGIN SLOTNAME: TURTLE_FLUSH -->
+<div id="TURTLE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TURTLE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TURTLE_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"gameofthrones","kv_article_id":2187,"kv_wpage":"Pycelle","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"media=tv;genre=fantasy;tv=hbo;sex=m;age=18-24;age=18-34;age=25-34;esrb=mature;media=books;gnre=action;gnre=adventure;theme=sword;theme=magic;gnre=drama;gnre=fighting;theme=dragon;theme=mature;theme=zombiesex=m;age=18-24;age=25-34;age=18-34;age=teen;media=tv;media=comics;media=books;gnre=action;theme=zombie;gnre=horror;theme=postapocalypse;gnre=3rdpersonshooter;pform=xbox360;pform=ps3;esrb=mature;tv=amc;sex=m;age=13-17;age=18-24;age=under18;age=kids;age=teen;gnre=anime;media=tv;media=comics;gnre=fighting;gnre=fantasyage=under18;age=18-24;age=teen;age=kids;media=tv;media=comics;media=cards;gnre=anime;gnre=fantasy;gnre=fighting;gnre=action;gnre=adventure;pform=xbox360;pform=ps3;pform=wii;pform=ds;esrb=teen;tv=cn;theme=heroes;tv=onhulu;tv=hulu","kv_domain":"gameofthrones.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://gameofthrones.wikia.com/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26newve%3D1%26only%3Dscripts%26skin%3Doasis/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgPageName":"Pycelle","wgTitle":"Pycelle","wgCurRevisionId":274289,"wgArticleId":2187,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Characters","Recurring Characters","Season 1 Characters","Season 2 Characters","Maesters","Small council","Season 3 Characters","Characters from Westeros","Season 4 Characters","Spies","Season 5 Characters","Grand Maesters","Season 6 Characters","Status: Dead"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Pycelle","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"true","background-image":"http://img4.wikia.nocookie.net/__cb20150716154804/gameofthrones/images/5/50/Wiki-background","background-image-height":"720","background-image-width":"1920","color-body":"#000","color-body-middle":"#000000","color-buttons":"#1e5467","color-header":"#5f4416","color-links":"#47518e","color-page":"#d7cbab","oasisTypography":1,"page-opacity":"100","widthType":0},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"Game of Thrones Wiki","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1467115692/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1467115692/common","wgSitename":"Game of Thrones Wiki","wgMWrevId":false,"wgRevisionId":274289,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableNewAuthModal":true,"wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgWikiaMaxNameChars":50,"wgMinimalPasswordLength":1,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=Pycelle","fbReturnToTitle":"Pycelle","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":[],"wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"1200":true,"500":true,"501":true,"502":true,"503":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":true,"interactiveMapsApiURL":"http://maps.wikia-services.com:80/api/v1","VignettePathPrefix":null,"reCaptchaPublicKey":"6LdDSA4TAAAAANZDWjPdTiQcYsTuge5fMPQTd7D_","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgEnablePortableInfoboxBuilderInVE":true,"wgEnableVisualEditorTourExperiment":true,"wgOasisResponsive":false,"wgOasisBreakpoints":true,"verticalName":"Entertainment","wgArticleInterlangList":["de:Pycelle","pl:Pycelle","ru:Пицель"],"WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgContentReviewExtEnabled":true,"wgContentReviewTestModeEnabled":false,"wgReviewedScriptsTimestamp":"1441727506","wgScriptsTimestamp":"1332971928","wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"Pycelle"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"editor":2,"enotifwallthread":2,"wallshowsource":false,"walldelete":false,"founderemails-joins-130814":0,"founderemails-edits-130814":0,"founderemails-views-digest-130814":0,"founderemails-complete-digest-130814":0,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true,"searchNs15":false,"searchNs110":false,"searchNs111":false,"searchNs500":false,
+"searchNs501":false,"searchNs502":false,"searchNs503":false,"searchNs828":false,"searchNs829":false,"searchNs1000":false,"searchNs1010":false,"searchNs1020":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"searchNs2000":false,"searchNs2001":false,"searchNs2002":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: gameofthrones:resourceloader:filter:minify-js:7:5ffb247b4f4ef073d23e4edf309a4c85 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikia.viewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.bannerNotifications","ext.cookiePolicyMessages","ext.userLogin"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1467115692/groups/-/oasis_shared_core_js,oasis_shared_js,oasis_anon_js,adengine2_oasis_exitstitial_js,adengine2_desktop_js,liftium_ads_js,liftium_ads_extra_js,adengine2_gcs_js,adengine2_taboola_js,adengine2_revcontent_js,adengine2_interactive_maps_js,recirculation_trackers_js,recirculation_js,toc_js,qualaroo_js,wikia_maps_contribution_button_create_map_js,spotlights_js,relatedpages_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1467115692/group/-/videos_module_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1467115692/group/-/auth_modal_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1467115692/group/-/cookie_policy_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1467115692/group/-/wikia_in_your_lang_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1467115692/group/-/portable_infobox_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1467115692/group/-/visit_source_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1467115692/group/-/visual_editor_tour_experiment_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=AdEngine%2CConfirmModal%2CImagePlaceholder%2COasis-generic%2CRecirculation%2CVideosModule&amp;uselang=en&amp;cb=1467115692.274219.0"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1467115692/group/-/monetization_module_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1467115692/group/-/global_navigation_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1467115692/group/-/page_share_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1467115692/group/-/global_footer_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://gameofthrones.wikia.com/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://gameofthrones.wikia.com/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26reviewed%3D1441727506%26skin%3Doasis/site"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1467115692/group/-/facebook_client_fbtags_js"></script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/Forum\/css\/ForumTag.scss","extensions\/wikia\/Recirculation\/styles\/recirculation.scss","extensions\/wikia\/PortableInfobox\/styles\/PortableInfobox.scss","extensions\/wikia\/VisualEditorTourExperiment\/styles\/VisualEditorTourExperimentInit.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModule.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationUserLoginDropdown.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationNotifications.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","extensions\/wikia\/GlobalNavigation\/styles\/GoogleSearchAPI.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/PageShare\/styles\/PageShare.scss","extensions\/wikia\/GlobalFooter\/styles\/GlobalFooter.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+</body>
+
+
+
+</html>

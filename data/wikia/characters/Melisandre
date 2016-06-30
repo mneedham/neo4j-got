@@ -1,0 +1,1509 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.24" />
+<meta name="keywords" content="Game of Thrones Wiki,gameofthrones,Melisandre,Season 2,Season 3,Season 4,Season 5,Season 6,Season 7,The North Remembers,Asshai,R'hllor,Jon Snow" />
+<meta name="description" content="Melisandre, often referred to as the Red Woman, is a major character in the second, third..." />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Wikia" />
+<meta name="twitter:url" content="http://gameofthrones.wikia.com/wiki/Melisandre" />
+<meta name="twitter:title" content="Melisandre - Game of Thrones Wiki - Wikia" />
+<meta name="twitter:description" content="Melisandre, often referred to as the Red Woman, is a major character in the second, third, fourth, fifth, sixth and seventh seasons. She is played by starring cast member Carice van Houten and..." />
+<link rel="canonical" href="http://gameofthrones.wikia.com/wiki/Melisandre" />
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/wiki/Melisandre?action=edit" />
+<link rel="edit" title="Edit" href="/wiki/Melisandre?action=edit" />
+<link rel="apple-touch-icon" href="http://img1.wikia.nocookie.net/__cb87/gameofthrones/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/gameofthrones/images/6/64/Favicon.ico/revision/latest?cb=20120302041013" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Game of Thrones Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://gameofthrones.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="Game of Thrones Wiki Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>Melisandre - Game of Thrones Wiki - Wikia</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images3.wikia.nocookie.net/__am/1467115692/sasses/background-dynamic%3Dtrue%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb20150716154804%252Fgameofthrones%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1920%26color-body%3D%2523000%26color-body-middle%3D%2523000000%26color-buttons%3D%25231e5467%26color-header%3D%25235f4416%26color-links%3D%252347518e%26color-page%3D%2523d7cbab%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/skins/oasis/css/oasis.scss,extensions/wikia/Forum/css/ForumTag.scss,extensions/wikia/Recirculation/styles/recirculation.scss,extensions/wikia/PortableInfobox/styles/PortableInfobox.scss,extensions/wikia/CommunityPage/styles/benefitsModal/benefitsModal.scss,extensions/wikia/VisualEditorTourExperiment/styles/VisualEditorTourExperimentInit.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationUserLoginDropdown.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationNotifications.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,extensions/wikia/GlobalNavigation/styles/GoogleSearchAPI.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/PageShare/styles/PageShare.scss,extensions/wikia/GlobalFooter/styles/GlobalFooter.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://slot1.images2.wikia.nocookie.net/__am/1467115692/sasses/background-dynamic%3Dtrue%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb20150716154804%252Fgameofthrones%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1920%26color-body%3D%2523000%26color-body-middle%3D%2523000000%26color-buttons%3D%25231e5467%26color-header%3D%25235f4416%26color-links%3D%252347518e%26color-page%3D%2523d7cbab%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/extensions/wikia/ARecoveryEngine/css/recoveryUnlock.scss" /><link rel="stylesheet" href="http://gameofthrones.wikia.com/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: gameofthrones:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="tv",
+wgWikiCategories=[],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Join the Chat","chat-start-a-chat":"Start a Chat","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live! Chat","chat-edit-count":"$1 edits","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":1,"delayBtf":true,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true,"sourcePointDetectionUrl":"http://gameofthrones.wikia.com/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/57760d8e437e238c3641afedb4a476d1","yavliUrl":"http://gameofthrones.wikia.com/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/38b0394988142491ae86c66ddc260800"},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"esrbRating":"teen","mappedVerticalName":"ent","pageArticleId":4370,"pageIsArticle":true,"pageName":"Melisandre","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"media=tv;genre=fantasy;tv=hbo;sex=m;age=18-24;age=18-34;age=25-34;esrb=mature;media=books;gnre=action;gnre=adventure;theme=sword;theme=magic;gnre=drama;gnre=fighting;theme=dragon;theme=mature;theme=zombiesex=m;age=18-24;age=25-34;age=18-34;age=teen;media=tv;media=comics;media=books;gnre=action;theme=zombie;gnre=horror;theme=postapocalypse;gnre=3rdpersonshooter;pform=xbox360;pform=ps3;esrb=mature;tv=amc;sex=m;age=13-17;age=18-24;age=under18;age=kids;age=teen;gnre=anime;media=tv;media=comics;gnre=fighting;gnre=fantasyage=under18;age=18-24;age=teen;age=kids;media=tv;media=comics;media=cards;gnre=anime;gnre=fantasy;gnre=fighting;gnre=action;gnre=adventure;pform=xbox360;pform=ps3;pform=wii;pform=ds;esrb=teen;tv=cn;theme=heroes;tv=onhulu;tv=hulu","wikiDbName":"gameofthrones","wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"tv","newWikiCategories":["ent"]},"providers":{"evolve2":true,"rubiconFastlane":true,"taboola":true},"slots":{"exitstitial":true,"invisibleHighImpact":true},"forcedProvider":null},"runtime":{"sp":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[100056,100057,100058,100059,100397],
+wgWikiFactoryTagNames=["wow","t9","skyscraper","skyscrapperwow","en"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1467115692",
+wgDBname="gameofthrones",
+wgCityId="130814",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=4370,
+wgCategories=["Characters","Major Characters","Status: Alive","Season 2 Characters","Lord of Light","House Baratheon of Dragonstone","Season 3 Characters","Characters from Asshai","Slaves and freedmen","Season 4 Characters","Red Priests","Season 5 Characters","Clergy","Season 6 Characters"],
+wgPageName="Melisandre",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="character",
+wgNamespaceNumber=0,
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=true,
+wgStyleVersion="1467115692",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/complex","env":"prod","hostname":"ap-s131","php_version":"5.6.11","wiki":"gameofthrones","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"complex"},
+wgEnableOpenXSPC=true,
+wgEnableReviveSpotlights=true,
+wgSeoTestingBucket=1;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<!-- Nielsen is disabled --><script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1467115692&amp;c=130814&amp;lc=en&amp;lid=75&amp;x=gameofthrones&amp;y=c2&amp;u=0&amp;a=4370&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+		document.write('<img src="http://logs-01.loggly.com/inputs/88a88e56-77c6-49cc-af41-6f44f83fe7fe.gif?message=wikia_beacon_id%20is%20empty" style="position:absolute;top:-1000px" />');
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1467115692&amp;c=130814&amp;lc=en&amp;lid=75&amp;x=gameofthrones&amp;y=c2&amp;u=0&amp;a=4370&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1467115692/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine2_tracking_js,adengine2_amazon_match_js,adengine2_ox_bidder_js,adengine2_rubicon_fastlane_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="Game of Thrones Wiki" />
+	<meta property="og:title" content="Melisandre" />
+	<meta property="og:description" content="Melisandre, often referred to as the Red Woman, is a major character in the second, third, fourth, fifth, sixth and seventh seasons. She is played by starring cast member Carice van Houten and debuts in &quot;The North Remembers.&quot; She is a Red Priestess in the religion of R'hllor, the Lord of Light and a close counselor to Stannis Baratheon in his campaign to take the Iron Throne. Melisandre has long dark auburn hair and pale skin." />
+	<meta property="og:url" content="http://gameofthrones.wikia.com/wiki/Melisandre" />
+	<meta property="og:image" content="http://vignette4.wikia.nocookie.net/gameofthrones/images/6/60/S06E00_-_Melisandre_Cropped.png/revision/latest?cb=20160603022517" />
+<meta name="apple-itunes-app" content="app-id=920825172, app-arguments=http://gameofthrones.wikia.com/wiki/Melisandre">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Melisandre  TOC_hide oasis-breakpoints wikinav2 skin-oasis  user-anon background-fixed background-not-tiled background-dynamic wiki-gameofthrones" >
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fgameofthrones.wikia.com%2Fwiki%2FMelisandre%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for RubiconFastlane, page_view -->
+<script id="analytics-provider-rubicon-fastlane">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.rubiconFastlane")
+	], function (geo, instantGlobals, rubiconFastlane) {
+		if (geo.isProperGeo(instantGlobals["wgAdDriverRubiconFastlaneCountries"])) {
+			rubiconFastlane.call();
+		};
+	});
+</script>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.amazonMatch"),
+	], function (geo, globals, amazon) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (geo.isProperGeo(ac)) {
+			amazon.call();
+		}
+	});
+</script>
+
+<!-- Start for OpenXBidder, page_view -->
+<script id="analytics-provider-openx-bidder">
+	require([
+		"wikia.geo",
+		"wikia.querystring",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.openXBidder")
+	], function (geo, Querystring, globals, oxBidder) {
+		var ac = globals["wgAdDriverOpenXBidderCountries"],
+			qs = new Querystring();
+
+		if (geo.isProperGeo(ac) || qs.getVal('oxbidder', '0') === '1') {
+			oxBidder.call();
+		};
+	});
+</script>
+<!-- Begin Krux Tag -->
+<script type="text/javascript">
+	require(['wikia.krux'], function (krux) {
+		krux.load('JU3_GW1b');
+	});
+</script>
+<!-- End Krux Tag -->
+<!-- Begin IVW3 Tag -->
+<script type="text/javascript">
+	var iam_data = {
+		st: 'wikia',
+		cp: 'tv/pc',
+		sv: 'i2'
+	};
+
+	if (window.Wikia &&
+		window.Wikia.InstantGlobals &&
+		!window.Wikia.InstantGlobals.wgSitewideDisableIVW3 &&
+		window.Wikia.geo.isProperGeo(["AT","CH","DE"])
+	) {
+		window.ivw3Initialized = true;
+		document.write('<script type="text/javascript" src="https://script.ioam.de/iam.js"><\/script>');
+		document.write('<script type="text/javascript">window.iom.c(iam_data, 2);<\/script>');
+	}
+</script>
+<!-- End IVW3 Tag -->
+<!-- Unsupported language for AnalyticsProviderIVW2 --><div class="WikiaSiteWrapper">
+	
+	<h2>Wikia</h2>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_LEADERBOARD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_BUTTON_WIDE"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["INVISIBLE_SKIN"]);
+	</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+<div id="InvisibleHighImpactWrapper" class="hidden">
+	<div class="background"></div>
+	<a class="close">
+		<div class="close-button"></div>
+	</a>
+	<div class="label">Advertisement</div>
+	<div id="INVISIBLE_HIGH_IMPACT_2" class="wikia-ad noprint"></div>
+</div>
+<nav class="global-navigation" id="globalNavigation">
+	<div class="global-navigation-container">
+		<div class="wikia-logo-container table-cell">
+			<a href="http://www.wikia.com/fandom"
+				class="wikia-logo final-url"
+				rel="nofollow"
+				data-id="wikia-logo">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+					height="24"
+					width="91"
+					alt="Wikia"
+					title="Wikia">
+									<span class="wikia-logo__subtitle">The Home of Fandom</span>
+							</a >
+		</div >
+					<div class="table-cell hubs-links" data-visibility="desktop">
+									<a class="cell-link top-level" href="http://fandom.wikia.com/games"
+					   data-tracking-label="hub-games">
+						Games					</a>
+									<a class="cell-link top-level" href="http://fandom.wikia.com/movies"
+					   data-tracking-label="hub-movies">
+						Movies					</a>
+									<a class="cell-link top-level" href="http://fandom.wikia.com/tv"
+					   data-tracking-label="hub-tv">
+						TV					</a>
+							</div>
+				<div class="table-cell">
+			<div class="explore-wikia-entry-point" id="exploreWikiaEntryPoint">
+				<a class="cell-link top-level final-url"
+					href="http://www.wikia.com/explore"
+					data-tracking-label="explore-wikia">
+					Explore Wikia					<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+				</a>
+				<ul class="explore-wikia-dropdown" id="exploreWikiaDropdown">
+																		<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://fandom.wikia.com/games"
+								   data-tracking-label="hub-games">
+									Games								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://fandom.wikia.com/movies"
+								   data-tracking-label="hub-movies">
+									Movies								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://fandom.wikia.com/tv"
+								   data-tracking-label="hub-tv">
+									TV								</a>
+							</li>
+																						<li>
+							<a class="cell-link"
+							   href="http://www.wikia.com/WAM"
+							   data-tracking-label="top-communities">
+								Trending Wikias							</a>
+						</li>
+											<li>
+							<a class="cell-link"
+							   href="http://community.wikia.com"
+							   data-tracking-label="community-central">
+								Community Central							</a>
+						</li>
+									</ul>
+			</div>
+		</div>
+		<div class="search-container table-cell">
+			<div class="search-form-wrapper">
+	<form action="http://gameofthrones.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search Game of Thrones Wiki..." data-search-url="http://gameofthrones.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search Game of Thrones Wiki..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+		</div>
+		<div class="account-navigation-container table-cell">
+			<ul id="AccountNavigation" class="AccountNavigation table-cell newAuth ">
+	<li class="account-navigation-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/signin?redirect=http%3A%2F%2Fgameofthrones.wikia.com%2Fwiki%2FMelisandre" rel="nofollow" title="Sign In" class="auth-link sign-in" accesskey="o">			<div class="avatar-container anon-avatar-placeholder">
+							</div>
+		</a>
+						<span class="auth-label">
+					<a class="auth-link sign-in" href="/signin?redirect=http%3A%2F%2Fgameofthrones.wikia.com%2Fwiki%2FMelisandre">Sign In</a> or <a class="auth-link register" href="/register?redirect=http%3A%2F%2Fgameofthrones.wikia.com%2Fwiki%2FMelisandre">Register</a>				</span>
+				</div>
+		</li>
+</ul>
+		</div>
+				<div class="start-wikia-container table-cell">
+			<a href="http://www.wikia.com/Special:CreateNewWiki"
+			   class="start-wikia"
+			   title="Start a wikia"
+			   data-id="start-wikia">
+				<span>Start a wikia</span>
+			</a>
+		</div>
+			</div>
+</nav>
+
+	<!-- BEGIN CONTAINER: TOP_LEADERBOARD_AB -->
+	<div id="TOP_LEADERBOARD_AB">
+		<script>
+			window.adslots2.push(["TOP_LEADERBOARD_AB"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: TOP_LEADERBOARD_AB -->
+
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h2 class="wordmark medium graphic ">
+	<a accesskey="z" href="/wiki/Game_of_Thrones_Wiki">
+					<img src="http://img1.wikia.nocookie.net/__cb87/gameofthrones/images/8/89/Wiki-wordmark.png" alt="Game of Thrones Wiki"  width="250" height="65" >
+			</a>
+</h2>
+	<nav class="WikiNav">
+					<h2>Game of Thrones Wiki Navigation</h2>
+				<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Images" data-canonical="images">Images</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Blogs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum" data-canonical="forum">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="#">Popular pages</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="#">Most visited articles<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Rhaegar_Targaryen">Rhaegar Targaryen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Game_of_Thrones_Wiki">Game of Thrones Wiki</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Lyanna_Stark">Lyanna Stark</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jon_Snow">Jon Snow</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Daenerys_Targaryen">Daenerys Targaryen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Winds_of_Winter">The Winds of Winter</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Lyanna_Mormont">Lyanna Mormont</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Characters">Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Daenerys_Targaryen">Daenerys Targaryen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Eddard_Stark">Eddard Stark</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tyrion_Lannister">Tyrion Lannister</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Joffrey_Baratheon">Joffrey Baratheon</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Arya_Stark">Arya Stark</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jon_Snow">Jon Snow</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Cersei_Lannister">Cersei Lannister</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Actor">Actor<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Emilia_Clarke">Emilia Clarke</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Sophie_Turner">Sophie Turner</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tamzin_Merchant">Tamzin Merchant</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jack_Gleeson">Jack Gleeson</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Maisie_Williams">Maisie Williams</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jason_Momoa">Jason Momoa</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Oona_Chaplin">Oona Chaplin</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Game_of_Thrones_Wiki:Community_Portal">Community</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Recent blog posts</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Forum:Index">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>	</nav>
+			<div class="buttons">
+			<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Melisandre?action=edit"  data-id="edit"  >Edit this Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Maps"  data-id="maps"   class="wikia-maps-create-map">Create a Map</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+		</div>
+		<div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent changes</a>	</div>
+</header>
+		
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+					<header id="WikiaPageHeader" class="WikiaPageHeader wikia-page-header">
+		<div class="header-container">
+			<div class="header-column header-title">
+				<h1>Melisandre</h1>
+							</div>
+			<div class="header-column header-tally">
+				<div id="PageShareContainer" class="page-share-container">
+									</div>
+									<div class="tally"><em>3,312</em><span>pages on<br /> this wiki</span></div>
+							</div>
+		</div>
+		<nav class="wikia-menu-button" >
+	<a accesskey="e"  href="/wiki/Melisandre?veaction=edit" data-id="ve-edit" id="ca-ve-edit">
+		<img alt="" class="sprite edit-pencil" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Edit	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Melisandre?action=edit"  accesskey="s" data-id="edit"   id="ca-edit">Classic editor</a>
+		</li>
+		<li>
+			<a href="/wiki/Melisandre?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="/wiki/Talk:Melisandre" class="wikia-button comments secondary talk" rel="nofollow" data-id="comment"> Talk<span class="commentsbubble">9</span></a>
+	</header>
+	
+
+												<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+										
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text">
+<aside class="portable-infobox pi-background pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title">Melisandre</h2>
+
+<figure class="pi-item pi-image">
+	<a href="http://vignette4.wikia.nocookie.net/gameofthrones/images/6/60/S06E00_-_Melisandre_Cropped.png/revision/latest?cb=20160603022517" class="image image-thumbnail"
+	   title="Melisandre">
+		<img src="http://vignette4.wikia.nocookie.net/gameofthrones/images/6/60/S06E00_-_Melisandre_Cropped.png/revision/latest/scale-to-width-down/270?cb=20160603022517" class="pi-image-thumbnail" alt="Melisandre" width="270" height="346"
+		     data-image-key="S06E00_-_Melisandre_Cropped.png" data-image-name="S06E00 - Melisandre Cropped.png"/>
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Season(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Season_2" title="Season 2">2</a>, <a href="/wiki/Season_3" title="Season 3">3</a>, <a href="/wiki/Season_4" title="Season 4">4</a>, <a href="/wiki/Season_5" title="Season 5">5</a>, <a href="/wiki/Season_6" title="Season 6">6</a>, <a href="/wiki/Season_7" title="Season 7">7</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">First seen</h3>
+	
+	<div class="pi-data-value pi-font">"<a href="/wiki/The_North_Remembers" title="The North Remembers">The North Remembers</a>"</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appeared in</h3>
+	
+	<div class="pi-data-value pi-font">26 episodes <small><a href="#Appearances">(see below)</a></small></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Also known as</h3>
+	
+	<div class="pi-data-value pi-font">Melisandre of Asshai<br />Lady Melisandre<br />The Red Woman   <p>The Red Witch</p></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Category:Status:_Alive" title="Category:Status: Alive">Alive</a> (unknown)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font">approx. 401</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Date of birth</h3>
+	
+	<div class="pi-data-value pi-font">c. 100 BAL</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Origin</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Asshai" title="Asshai">Asshai</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Allegiance</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/R%27hllor" title="R'hllor">R'hllor, the Lord of Light</a><br /><a href="/wiki/Jon_Snow" title="Jon Snow">Jon Snow</a><br /><a href="/wiki/House_Baratheon_of_Dragonstone" title="House Baratheon of Dragonstone">House Baratheon of Dragonstone</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Culture</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Asshai" title="Asshai">Asshai'i</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Religion</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/R%27hllor" title="R'hllor">R'hllor, the Lord of Light</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Carice_van_Houten" title="Carice van Houten">Carice van Houten</a></div>
+</div>
+</aside>
+
+<div class="quote">
+<dl><dd><span title="Source: The North Remembers">"<i>The night is dark and full of terrors, old man, but the fire burns them all away.</i>"</span>
+</dd><dd>&#8213;Melisandre to <a href="/wiki/Cressen" title="Cressen">Cressen</a><span class="noprint"><sup><a href="/wiki/The_North_Remembers" title="The North Remembers">[src]</a></sup></span></div>
+</dd></dl>
+<p><b>Melisandre</b>, often referred to as <b>the Red Woman,</b> is a major character in the <a href="/wiki/Season_2" title="Season 2">second</a>, <a href="/wiki/Season_3" title="Season 3">third</a>, <a href="/wiki/Season_4" title="Season 4">fourth</a>, <a href="/wiki/Season_5" title="Season 5">fifth</a>, <a href="/wiki/Season_6" title="Season 6">sixth</a> and <a href="/wiki/Season_7" title="Season 7">seventh</a> seasons. She is played by starring cast member <a href="/wiki/Carice_van_Houten" title="Carice van Houten">Carice van Houten</a> and debuts in "<a href="/wiki/The_North_Remembers" title="The North Remembers">The North Remembers</a>." She is a <a href="/wiki/Red_Priest" title="Red Priest">Red Priestess</a> in the religion of <a href="/wiki/R%27hllor" title="R'hllor">R'hllor, the Lord of Light</a> and a close counselor to <a href="/wiki/Stannis_Baratheon" title="Stannis Baratheon">Stannis Baratheon</a> in his campaign to take the <a href="/wiki/Iron_Throne" title="Iron Throne">Iron Throne</a>.
+</p>
+<nav id="toc" class="toc"><div id="toctitle"><h2>Contents</h2><span class="toctoggle">[<a href="#" class="internal" id="togglelink" data-show="show" data-hide="hide">show</a>]</span></div><ol></ol></nav>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="editsection"><a href="/wiki/Melisandre?action=edit&amp;section=1" title="Edit Biography section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<h3><span class="mw-headline" id="Background">Background</span><span class="editsection"><a href="/wiki/Melisandre?action=edit&amp;section=2" title="Edit Background section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h3>
+<p>Originally born a slave in Essos centuries ago, Melisandre is a <a href="/wiki/Red_Priest" title="Red Priest">Red Priestess</a> of the <a href="/wiki/Lord_of_Light" title="Lord of Light" class="mw-redirect">Lord of Light</a>, a deity that is not widely worshiped in <a href="/wiki/Westeros" title="Westeros">Westeros</a>. Hailing from <a href="/wiki/Asshai" title="Asshai">Asshai</a>, a country located in the far east of the continent of <a href="/wiki/Essos" title="Essos">Essos</a>, she claims to wield powerful magical abilities, particularly the power of prophecy. Melisandre wears a large ruby necklace that seems to glow whenever she performs her magic. Some years ago she crossed the <a href="/wiki/Narrow_Sea" title="Narrow Sea">Narrow Sea</a> and came to the court of Lord <a href="/wiki/Stannis_Baratheon" title="Stannis Baratheon">Stannis Baratheon</a> on the island stronghold of <a href="/wiki/Dragonstone" title="Dragonstone" class="mw-redirect">Dragonstone</a>, to preach her faith. Stannis and the majority of his household have now converted to her religion, and she has become a close adviser to Stannis himself.<sup id="cite_ref-0" class="reference"><a href="#cite_note-0">[1]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Season_2"><a href="/wiki/Season_2" title="Season 2">Season 2</a></span><span class="editsection"><a href="/wiki/Melisandre?action=edit&amp;section=3" title="Edit Season 2 section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h3>
+<figure class="article-thumb tleft show-info-icon" style="width: 200px"> 	<a href="http://vignette3.wikia.nocookie.net/gameofthrones/images/0/0d/The_night_is_dark_and_full_of_terrors.jpg/revision/latest?cb=20120821204906" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="The night is dark and full of terrors"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="The_night_is_dark_and_full_of_terrors.jpg" 	data-image-name="The night is dark and full of terrors.jpg" 	 data-src="http://vignette3.wikia.nocookie.net/gameofthrones/images/0/0d/The_night_is_dark_and_full_of_terrors.jpg/revision/latest/scale-to-width-down/200?cb=20120821204906"  	 width="200"  	 height="113"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette3.wikia.nocookie.net/gameofthrones/images/0/0d/The_night_is_dark_and_full_of_terrors.jpg/revision/latest/scale-to-width-down/200?cb=20120821204906" 	 alt="The night is dark and full of terrors"  	class="thumbimage " 	 	data-image-key="The_night_is_dark_and_full_of_terrors.jpg" 	data-image-name="The night is dark and full of terrors.jpg" 	 	 width="200"  	 height="113"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:The_night_is_dark_and_full_of_terrors.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Melisandre burns the statues of the Seven.</p> 		 	</figcaption> </figure>
+<p>On a beach in the island of <a href="/wiki/Dragonstone" title="Dragonstone" class="mw-redirect">Dragonstone</a>, Melisandre conducts a ceremony for her god, the <a href="/wiki/Lord_of_Light" title="Lord of Light" class="mw-redirect">Lord of Light</a>. Behind her, statues of <a href="/wiki/Faith_of_the_Seven" title="Faith of the Seven">the Seven</a>, widely worshiped in <a href="/wiki/Westeros" title="Westeros">Westeros</a>, are burning as offerings. She intones “The Night is Dark and Full of Terrors” and the crowd of onlookers repeat her words. Melisandre predicts that a heavy darkness will fall on the world in the wake of the long summer, that <a href="/wiki/Red_Comet" title="Red Comet">stars will bleed</a> while the cold breath of winter will freeze the seas and says that the <a href="/wiki/Wights" title="Wights">dead</a> will rise in <a href="/wiki/Beyond_the_Wall" title="Beyond the Wall">the north</a>. <a href="/wiki/Maester" title="Maester" class="mw-redirect">Maester</a> <a href="/wiki/Cressen" title="Cressen">Cressen</a> steps in front of her and interrupts the ceremony, reminding the crowd that they were "named in the light of the Seven". Melisandre dismisses Cressen as old and fearful and challenges him to stop her. Cressen hangs his head and walks away. She continues her preaching with the story of the burning sword <a href="/wiki/Lightbringer" title="Lightbringer">Lightbringer</a>. She calls Stannis forward and he withdraws a flaming sword from the statue of the Mother with a gloved hand. His men cheer him as he holds the sword aloft and then kneel as he thrusts the sword into the sand. They chant “Lord cast your light upon us.” Davos is the last to kneel as Melisandre responds “The Night is Dark and Full of Terrors.” Stannis answers “The Night is Dark and Full of Terror.” He holds out his hand to his wife <a href="/wiki/Selyse_Baratheon" title="Selyse Baratheon">Selyse Baratheon</a> who joins him and they lead the congregation from the beach.<sup id="cite_ref-E11_1-0" class="reference"><a href="#cite_note-E11-1">[2]</a></sup>
+</p>
+<figure class="article-thumb tright show-info-icon" style="width: 180px"> 	<a href="http://vignette4.wikia.nocookie.net/gameofthrones/images/d/d4/Melisandre_PaintedTable.jpg/revision/latest?cb=20120323183429" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Melisandre PaintedTable"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Melisandre_PaintedTable.jpg" 	data-image-name="Melisandre PaintedTable.jpg" 	 data-src="http://vignette4.wikia.nocookie.net/gameofthrones/images/d/d4/Melisandre_PaintedTable.jpg/revision/latest/scale-to-width-down/180?cb=20120323183429"  	 width="180"  	 height="271"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette4.wikia.nocookie.net/gameofthrones/images/d/d4/Melisandre_PaintedTable.jpg/revision/latest/scale-to-width-down/180?cb=20120323183429" 	 alt="Melisandre PaintedTable"  	class="thumbimage " 	 	data-image-key="Melisandre_PaintedTable.jpg" 	data-image-name="Melisandre PaintedTable.jpg" 	 	 width="180"  	 height="271"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Melisandre_PaintedTable.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Melisandre at Stannis' council meeting at the Painted Table of Dragonstone.</p> 		 	</figcaption> </figure>
+<p>Inside the castle of Dragonstone, Stannis holds a meeting in the <a href="/wiki/Chamber_of_the_Painted_Table" title="Chamber of the Painted Table">Chamber of the Painted Table</a>. <a href="/wiki/Matthos_Seaworth" title="Matthos Seaworth">Matthos Seaworth</a> reads aloud from a letter that he has prepared stating Stannis' claim to the <a href="/wiki/Iron_Throne" title="Iron Throne">Iron Throne</a>. Stannis objects to the use of “beloved brother” to refer to <a href="/wiki/Robert_Baratheon" title="Robert Baratheon">Robert Baratheon</a>, Davos calls it a harmless courtesy but Stannis insists that it is a lie and that it be removed from the letter. Matthos continues to detail the illegitimacy of <a href="/wiki/Joffrey_Baratheon" title="Joffrey Baratheon">Joffrey Baratheon</a> and Cersei's other children as products of incest between <a href="/wiki/Cersei_Lannister" title="Cersei Lannister">Cersei Lannister</a> and <a href="/wiki/Jaime_Lannister" title="Jaime Lannister">Jaime Lannister</a>. Stannis insists that Jaime be called the Kingslayer but also that Jaime's title as a <a href="/wiki/Knight" title="Knight" class="mw-redirect">knight</a> be acknowledged. He orders copies of the letter to be sent to every corner of the realm from <a href="/wiki/The_Arbor" title="The Arbor">the Arbor</a> to <a href="/wiki/The_Wall" title="The Wall">the Wall</a>.<sup id="cite_ref-E11_1-1" class="reference"><a href="#cite_note-E11-1">[2]</a></sup>
+</p>
+<figure class="article-thumb tleft show-info-icon" style="width: 200px"> 	<a href="http://vignette2.wikia.nocookie.net/gameofthrones/images/5/5f/Melisandre_2x01.jpg/revision/latest?cb=20120511220207" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Melisandre 2x01"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Melisandre_2x01.jpg" 	data-image-name="Melisandre 2x01.jpg" 	 data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/5/5f/Melisandre_2x01.jpg/revision/latest/scale-to-width-down/200?cb=20120511220207"  	 width="200"  	 height="110"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/5/5f/Melisandre_2x01.jpg/revision/latest/scale-to-width-down/200?cb=20120511220207" 	 alt="Melisandre 2x01"  	class="thumbimage " 	 	data-image-key="Melisandre_2x01.jpg" 	data-image-name="Melisandre 2x01.jpg" 	 	 width="200"  	 height="110"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Melisandre_2x01.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Melisandre takes the poisoned cup from Maester Cressen.</p> 		 	</figcaption> </figure>
+<p>Davos counsels that <a href="/wiki/House_Lannister" title="House Lannister">House Lannister</a> is the true enemy and urges Stannis to make peace with his younger brother <a href="/wiki/Renly_Baratheon" title="Renly Baratheon">Renly Baratheon</a>. Stannis says that he will not make peace with Renly while he is claiming the throne. Davos notes that many lords have already declared for Renly including <a href="/wiki/Mace_Tyrell" title="Mace Tyrell">Mace Tyrell</a> and <a href="/wiki/Randyll_Tarly" title="Randyll Tarly">Randyll Tarly</a>. Melisandre interjects that Stannis does not need to beg lords for support because the Lord of Light stands behind him. Davos asks how many ships the Lord of Light can command and Melisandre says that He has no need for ships. Davos accepts that He does not but says that they do if they are going to war. Davos asks Stannis to consider <a href="/wiki/Robb_Stark" title="Robb Stark">Robb Stark</a> instead of Renly. Stannis counters that Robb is trying to steal the northern half of his kingdom and reminds Davos that he had always been firm with thieves. He says that Joffrey, Renly and Robb are all thieves and that they must bend the knee to him or be destroyed. Cressen stands and offers an apology for his actions on the beach before inviting Melisandre to share his wine. He draws from the cup before handing it to Melisandre. Cressen steadies himself on the table and his nose begins to bleed; he had poisoned the drink. Melisandre drinks from the cup anyway and then watches the Maester collapse, his blood spreading on the stone floor beneath him. She says that the fire burns the terrors of the night away and the jewel in her choker pulsates with light.<sup id="cite_ref-E11_1-2" class="reference"><a href="#cite_note-E11-1">[2]</a></sup>
+</p><p>Stannis and Melisandre arrive to the Chamber of the Painted Table, finding Davos and Matthos already there. Davos reports his success recruiting <a href="/wiki/Salladhor_Saan" title="Salladhor Saan">Salladhor Saan</a> and his pirate fleet. Stannis is doubtful of their capability but ultimately relents to Davos' arguments and promises that Salladhor will have his share if he gets the job done and dismisses the men. As they leave, Melisandre stops Matthos and whispers in his ear.<sup id="cite_ref-E12_2-0" class="reference"><a href="#cite_note-E12-2">[3]</a></sup>
+</p>
+<figure class="article-thumb tleft show-info-icon" style="width: 200px"> 	<a href="http://vignette3.wikia.nocookie.net/gameofthrones/images/e/e7/Melisandre_Night_Lands_dress_2.jpg/revision/latest?cb=20140201214545" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Melisandre Night Lands dress 2"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Melisandre_Night_Lands_dress_2.jpg" 	data-image-name="Melisandre Night Lands dress 2.jpg" 	 data-src="http://vignette3.wikia.nocookie.net/gameofthrones/images/e/e7/Melisandre_Night_Lands_dress_2.jpg/revision/latest/scale-to-width-down/200?cb=20140201214545"  	 width="200"  	 height="113"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette3.wikia.nocookie.net/gameofthrones/images/e/e7/Melisandre_Night_Lands_dress_2.jpg/revision/latest/scale-to-width-down/200?cb=20140201214545" 	 alt="Melisandre Night Lands dress 2"  	class="thumbimage " 	 	data-image-key="Melisandre_Night_Lands_dress_2.jpg" 	data-image-name="Melisandre Night Lands dress 2.jpg" 	 	 width="200"  	 height="113"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Melisandre_Night_Lands_dress_2.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Melisandre in Stannis's council chamber.</p> 		 	</figcaption> </figure>
+<p>Stannis asks Melisandre what she said to Matthos. She reveals that she told him that “death by fire is the purest death.” Stannis questions her intent and she says only that it is true. She asks if Stannis is troubled and he says that he is. She claims that armies are toys to the Lord of Light. Stannis suggests that she tell her god to burn them. She says that she can tell Him nothing but prays for, and obeys, His commands. Stannis reports that Renly has 100,000 men whose allegiance should be his. Melisandre urges him to have faith. He tells her that in a real war the side with the greater number wins and that he cannot take King's Landing without Renly's men and cannot defeat Renly in the field. She claims to have seen the path to victory in the flames. He reminds her that he has said her words and burnt the idols of <a href="/wiki/Faith_of_the_Seven" title="Faith of the Seven">the Seven</a> already. She circles behind him and undoes her robe. She tells him that he must give all of himself. He reminds her of his marriage vow. She says that <a href="/wiki/Selyse_Baratheon" title="Selyse Baratheon">Selyse</a> is sickly, weak and shut away in a tower and that she disgusts Stannis. She says that Selyse has given Stannis no sons, only stillborns and death. She promises him a son. He repeats the promise as she kisses his ear. He returns her kisses and lifts her onto the table, scattering the models onto the floor as he begins to have sex with her.<sup id="cite_ref-E12_2-1" class="reference"><a href="#cite_note-E12-2">[3]</a></sup>
+</p>
+<figure class="article-thumb tright show-info-icon" style="width: 200px"> 	<a href="http://vignette3.wikia.nocookie.net/gameofthrones/images/6/63/Renly_Stannis_Parley.jpg/revision/latest?cb=20120708104616" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Renly Stannis Parley"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Renly_Stannis_Parley.jpg" 	data-image-name="Renly Stannis Parley.jpg" 	 data-src="http://vignette3.wikia.nocookie.net/gameofthrones/images/6/63/Renly_Stannis_Parley.jpg/revision/latest/scale-to-width-down/200?cb=20120708104616"  	 width="200"  	 height="113"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette3.wikia.nocookie.net/gameofthrones/images/6/63/Renly_Stannis_Parley.jpg/revision/latest/scale-to-width-down/200?cb=20120708104616" 	 alt="Renly Stannis Parley"  	class="thumbimage " 	 	data-image-key="Renly_Stannis_Parley.jpg" 	data-image-name="Renly Stannis Parley.jpg" 	 	 width="200"  	 height="113"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Renly_Stannis_Parley.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Melisandre at the parley of Renly and Stannis.</p> 		 	</figcaption> </figure>
+<p>Stannis, accompanied by Melisandre, Davos and several guards, meets Renly on the coast of the Stormlands to <a href="/wiki/Parley" title="Parley">parley</a>. Renly brings <a href="/wiki/Catelyn_Stark" title="Catelyn Stark">Catelyn Stark</a>, <a href="/wiki/Brienne" title="Brienne" class="mw-redirect">Brienne</a> and <a href="/wiki/Loras_Tyrell" title="Loras Tyrell" class="mw-redirect">Loras Tyrell</a> along with his own guards. Renly feigns confusion over his banner and wonders why Stannis’ version of the stag is aflame. Melisandre explains that Stannis has taken the fiery heart of the <a href="/wiki/Lord_of_Light" title="Lord of Light" class="mw-redirect">Lord of Light</a> for his sigil. Renly says that she must be the fire priestess he has heard so much about and jokes that he now knows why Stannis found religion late in life. Stannis warns his brother to watch his tongue. Renly says that he is relieved that Stannis is not really a fanatic and calls him charmless, rigid, and a bore but not godly. Melisandre admonishes Renly to kneel before the Lord’s chosen and says that Stannis was born amidst salt and smoke. Renly jokes that she makes Stannis sound like a ham. Stannis again warns his brother. Catelyn admonishes the brothers as the discussion continues, with Renly reminding Stannis no-one supports his claim. Stannis, for the sake of <a href="/wiki/Cassana_Baratheon" title="Cassana Baratheon">their mother</a>, gives Renly the night to reconsider and offers to restore him to <a href="/wiki/Master_of_Laws" title="Master of Laws">his seat</a> on the council and name him his heir until he has a son if he strikes his banners before dawn. He says that otherwise he will destroy Renly. Renly reminds Stannis of his numerous supporters and says that they will make him king. Stannis wheels his horse and rides away as Melisandre warns Renly to look to his sins because "The Night is Dark and Full of Terrors."<sup id="cite_ref-E14_3-0" class="reference"><a href="#cite_note-E14-3">[4]</a></sup>
+</p><p>Stannis summons Davos to his flagship, the <i><a href="/wiki/Fury" title="Fury">Fury</a></i>. After a brief conversation Stannis orders Davos to smuggle Melisandre ashore and says that it must be done in secret and that they will not speak of it afterwards. Davos asks Stannis to consider cleaner alternatives but Stannis insists that cleaner ways do not win wars.<sup id="cite_ref-E14_3-1" class="reference"><a href="#cite_note-E14-3">[4]</a></sup>
+</p><p>Davos rows Melisandre into a cove below the cliffs of the coast. She asks him if he is afraid, calling him Onion Knight, and he retorts that he has been told that the night is dark and full of terrors. She says that he has carried more unpleasant cargo in his time. She asks if he is a good man and he says that he is a mixture of good and bad. She counters that if half an onion is black with rot then it is a rotten onion and asserts that good and evil are absolutes. Davos asks which she is and she says that she is good. She says that she is a champion of light and life.<sup id="cite_ref-E14_3-2" class="reference"><a href="#cite_note-E14-3">[4]</a></sup>
+</p><p>They beach their rowboat and Melisandre asks Davos if he loves <a href="/wiki/Marya_Seaworth" title="Marya Seaworth">his wife</a> and he says that he does. She asks him about other women and he asks her not to talk about his wife. She says that she is speaking of other women like herself and asserts that he wants her. She tells him that he wants to see what is beneath her robe and that he will.<sup id="cite_ref-E14_3-3" class="reference"><a href="#cite_note-E14-3">[4]</a></sup>
+</p>
+<figure class="article-thumb tright show-info-icon" style="width: 200px"> 	<a href="http://vignette3.wikia.nocookie.net/gameofthrones/images/d/df/Shadow.jpg/revision/latest?cb=20120423233950" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Shadow"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Shadow.jpg" 	data-image-name="Shadow.jpg" 	 data-src="http://vignette3.wikia.nocookie.net/gameofthrones/images/d/df/Shadow.jpg/revision/latest/scale-to-width-down/200?cb=20120423233950"  	 width="200"  	 height="113"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette3.wikia.nocookie.net/gameofthrones/images/d/df/Shadow.jpg/revision/latest/scale-to-width-down/200?cb=20120423233950" 	 alt="Shadow"  	class="thumbimage " 	 	data-image-key="Shadow.jpg" 	data-image-name="Shadow.jpg" 	 	 width="200"  	 height="113"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Shadow.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Melisandre gives birth to the Shadow.</p> 		 	</figcaption> </figure>
+<p>They enter a cave in the cliff. Davos says that it is strange that her Lord of Light asks her to work in the shadows. She counters that shadows cannot live in the dark and are servants of the light. He finds their way barred and says that the bars are new. Melisandre says that their passage cannot be barred and opens her robe. She appears heavily pregnant and Davos calls on the seven gods for protection. Melisandre tells him that there is only one god and that He only protects those who serve Him. Davos’s lanterns glow with increasing intensity, startling him. He backs along the wall of the cave as Melisandre lies down on her robe. She begins to moan and something shifts under the skin of her belly. Her choker glows red as she throws her head back. Her moans and gasps intensify as Davos looks on. Shadowy hands grip her legs and a dark figure pulls itself free of her womb. The <a href="/wiki/Shadow" title="Shadow">shadow</a> stands before her for an instant before passing between the bars.<sup id="cite_ref-E14_3-4" class="reference"><a href="#cite_note-E14-3">[4]</a></sup>
+</p><p>The shadow assassinates Renly and Stannis takes control of the majority of his army. Catelyn Stark and <a href="/wiki/Brienne_of_Tarth" title="Brienne of Tarth">Brienne of Tarth</a> are in the tent with Renly when he is killed. Catelyn is not sure what she saw, but Brienne is sure it was Stannis. Stannis sails on <a href="/wiki/King%27s_Landing" title="King's Landing">King's Landing</a> with his new forces, but Davos convinces him to leave Melisandre behind lest she be credited for his victory.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[5]</a></sup>
+</p><p>Stannis suffers a crushing defeat at the <a href="/wiki/Battle_of_the_Blackwater" title="Battle of the Blackwater">Battle of the Blackwater</a> but manages to retreat.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[6]</a></sup> He returns to Dragonstone and confronts Melisandre about the validity of her predictions. He begins to strangle her in fury but relents when she reminds him of the spell they used to kill Renly. He expresses regret at murdering his brother. Melisandre warns him that he will commit worse betrayals before their long war is over but insists that he must fight on. She shows him a vision in flames that awes him and restores his faith in her.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[7]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Season_3"><a href="/wiki/Season_3" title="Season 3">Season 3</a></span><span class="editsection"><a href="/wiki/Melisandre?action=edit&amp;section=4" title="Edit Season 3 section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h3>
+<figure class="article-thumb tleft show-info-icon" style="width: 200px"> 	<a href="http://vignette1.wikia.nocookie.net/gameofthrones/images/4/49/Melisandre_talking_to_davos.png/revision/latest?cb=20140626083724" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Melisandre talking to davos"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Melisandre_talking_to_davos.png" 	data-image-name="Melisandre talking to davos.png" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/4/49/Melisandre_talking_to_davos.png/revision/latest/scale-to-width-down/200?cb=20140626083724"  	 width="200"  	 height="112"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/4/49/Melisandre_talking_to_davos.png/revision/latest/scale-to-width-down/200?cb=20140626083724" 	 alt="Melisandre talking to davos"  	class="thumbimage " 	 	data-image-key="Melisandre_talking_to_davos.png" 	data-image-name="Melisandre talking to davos.png" 	 	 width="200"  	 height="112"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Melisandre_talking_to_davos.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Melisandre talks to Davos regarding his son's death being pure by fire.</p> 		 	</figcaption> </figure>
+<p>Following Stannis' defeat at the Battle of the Blackwater, the King becomes isolated and withdrawn, and allows no one but Melisandre to see him. Melisandre begins to conduct human sacrifices, ordering any of Stannis' remaining followers who spoke out against her or their dwindling cause to be burned alive as offerings to the Lord of Light. Davos returns with the intention of murdering her in order to stop her from leading Stannis to his doom. He denounces Melisandre as his enemy and draws a knife when she mentions his son's death, but he is restrained and taken to the dungeons.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[8]</a></sup>
+</p><p>She leaves Dragonstone for the <a href="/wiki/Riverlands" title="Riverlands" class="mw-redirect">Riverlands</a>, despite Stannis wanting her to stay and be with him. She insists there is something they must find. When she arrives, she meets <a href="/wiki/Thoros_of_Myr" title="Thoros of Myr" class="mw-redirect">Thoros of Myr</a> of the <a href="/wiki/Brotherhood_Without_Banners" title="Brotherhood Without Banners">Brotherhood Without Banners</a>. She at first demands to know what happened to Thoros's mission to convert Robert Baratheon. After bluntly telling her he failed, Thoros asks that she be more open about her needs and that she refrain from speaking <a href="/wiki/High_Valyrian" title="High Valyrian">High Valyrian</a>. Thoros shows her <a href="/wiki/Beric_Dondarrion" title="Beric Dondarrion">Beric Dondarrion</a> and explains his many resurrections. Melisandre is astonished, noting that even if it were possible, Thoros shouldn't have that kind of power.
+</p>
+<figure class="article-thumb tright show-info-icon" style="width: 200px"> 	<a href="http://vignette3.wikia.nocookie.net/gameofthrones/images/9/91/Melisandre_with_thoros_and_beric.png/revision/latest?cb=20140626083952" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Melisandre with thoros and beric"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Melisandre_with_thoros_and_beric.png" 	data-image-name="Melisandre with thoros and beric.png" 	 data-src="http://vignette3.wikia.nocookie.net/gameofthrones/images/9/91/Melisandre_with_thoros_and_beric.png/revision/latest/scale-to-width-down/200?cb=20140626083952"  	 width="200"  	 height="112"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette3.wikia.nocookie.net/gameofthrones/images/9/91/Melisandre_with_thoros_and_beric.png/revision/latest/scale-to-width-down/200?cb=20140626083952" 	 alt="Melisandre with thoros and beric"  	class="thumbimage " 	 	data-image-key="Melisandre_with_thoros_and_beric.png" 	data-image-name="Melisandre with thoros and beric.png" 	 	 width="200"  	 height="112"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Melisandre_with_thoros_and_beric.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Melisandre with Thoros and Beric.</p> 		 	</figcaption> </figure>
+<p>Thoros chastises her and reminds her that he is but an instrument of the Lord of Light. He and Beric then agree to give <a href="/wiki/Gendry" title="Gendry">Gendry</a> over to her, in exchange for two heavy bags of gold. As she is about to leave with her prize, Melisandre is accosted by <a href="/wiki/Arya_Stark" title="Arya Stark">Arya Stark</a>, who refers to her as "evil". She brushes off Arya's insults and looks into the girl's eyes, seeing many other pairs of eyes that Arya will one day shut forever. The Red Priestess asserts that they will meet again one day. <sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[9]</a></sup>
+</p>
+<figure class="article-thumb tleft show-info-icon" style="width: 200px"> 	<a href="http://vignette2.wikia.nocookie.net/gameofthrones/images/3/30/Melisandre_seducing_gendry.png/revision/latest?cb=20140626084047" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Melisandre seducing gendry"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Melisandre_seducing_gendry.png" 	data-image-name="Melisandre seducing gendry.png" 	 data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/3/30/Melisandre_seducing_gendry.png/revision/latest/scale-to-width-down/200?cb=20140626084047"  	 width="200"  	 height="112"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/3/30/Melisandre_seducing_gendry.png/revision/latest/scale-to-width-down/200?cb=20140626084047" 	 alt="Melisandre seducing gendry"  	class="thumbimage " 	 	data-image-key="Melisandre_seducing_gendry.png" 	data-image-name="Melisandre seducing gendry.png" 	 	 width="200"  	 height="112"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Melisandre_seducing_gendry.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Melisandre seducing Gendry.</p> 		 	</figcaption> </figure>
+<p>As Melisandre's ship quietly traverses <a href="/wiki/Blackwater_Bay" title="Blackwater Bay">Blackwater Bay</a>, she finally reveals the truth of Gendry's heritage to him by pointing out toward the <a href="/wiki/Red_Keep" title="Red Keep">Red Keep</a> and identifying it as his father's house. Upon arriving at Dragonstone, Melisandre discussed him with Stannis. He is confused at Melisandre's kind treatment towards someone she intends to sacrifice, but the Red Priestess compares the situation to sacrificing a lamb: the creatures are unwieldly to deal with when nervous, but are easy to sacrifice when calm. She puts Gendry up in a lavish chamber and seduces him. She quickly turns the tables, tying him to the bed and proceeding to leech his blood for a ritual.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[10]</a></sup>
+</p>
+<figure class="article-thumb tright show-info-icon" style="width: 200px"> 	<a href="http://vignette1.wikia.nocookie.net/gameofthrones/images/a/a9/Melisandre_burns_the_letter.png/revision/latest?cb=20140626084144" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Melisandre burns the letter"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Melisandre_burns_the_letter.png" 	data-image-name="Melisandre burns the letter.png" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/a/a9/Melisandre_burns_the_letter.png/revision/latest/scale-to-width-down/200?cb=20140626084144"  	 width="200"  	 height="112"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/a/a9/Melisandre_burns_the_letter.png/revision/latest/scale-to-width-down/200?cb=20140626084144" 	 alt="Melisandre burns the letter"  	class="thumbimage " 	 	data-image-key="Melisandre_burns_the_letter.png" 	data-image-name="Melisandre burns the letter.png" 	 	 width="200"  	 height="112"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Melisandre_burns_the_letter.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Melisandre sees into the flames.</p> 		 	</figcaption> </figure>
+<p>After <a href="/wiki/Davos_Seaworth" title="Davos Seaworth">Davos Seaworth</a> frees Gendry and faces Stannis's wrath, he tries to save his skin by producing a letter to the <a href="/wiki/Night%27s_Watch" title="Night's Watch">Night's Watch</a>. Melisandre burns the letter and confirms the truth of the message: the War of the Five Kings is but a distraction from the true conflict, as darkness marches on the Wall. Melisandre also confirms that Davos must not be killed, as R'hllor has decreed the Onion Knight's importance to the forces of light in the coming conflict.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[11]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Season_4"><a href="/wiki/Season_4" title="Season 4">Season 4</a></span><span class="editsection"><a href="/wiki/Melisandre?action=edit&amp;section=5" title="Edit Season 4 section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h3>
+<figure class="article-thumb tleft show-info-icon" style="width: 200px"> 	<a href="http://vignette3.wikia.nocookie.net/gameofthrones/images/7/76/Melisandre_talking_to_shireen.png/revision/latest?cb=20140626085218" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Melisandre talking to shireen"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Melisandre_talking_to_shireen.png" 	data-image-name="Melisandre talking to shireen.png" 	 data-src="http://vignette3.wikia.nocookie.net/gameofthrones/images/7/76/Melisandre_talking_to_shireen.png/revision/latest/scale-to-width-down/200?cb=20140626085218"  	 width="200"  	 height="112"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette3.wikia.nocookie.net/gameofthrones/images/7/76/Melisandre_talking_to_shireen.png/revision/latest/scale-to-width-down/200?cb=20140626085218" 	 alt="Melisandre talking to shireen"  	class="thumbimage " 	 	data-image-key="Melisandre_talking_to_shireen.png" 	data-image-name="Melisandre talking to shireen.png" 	 	 width="200"  	 height="112"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Melisandre_talking_to_shireen.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Melisandre talking to Shireen.</p> 		 	</figcaption> </figure>Melisandre presides over the burning of several of Stannis's bannermen who have refused to cease their open worship of The Seven, Queen Selyse's own brother among them. Melisandre later dines with Stannis and Selyse. She makes smalltalk when discussing the Lord of Light, but keeps her silence when they begin arguing about Princess Shireen, who has angered Selyse by not converting. Stannis forbids Selyse from laying a hand on Shireen. Selyse suggests sending Melisandre to talk to Shireen instead, a task the red priestess looks decidedly unenthusiastic about. Nonetheless, Melisandre visits Shireen later that night. She dismisses <i>The Seven-Pointed Star</i> as "lies and fables" and tells Shireen that there are only two gods, R'hllor and the Great Other, and only one hell, the one they live in now.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[12]</a></sup>
+<figure class="article-thumb tright show-info-icon" style="width: 200px"> 	<a href="http://vignette2.wikia.nocookie.net/gameofthrones/images/4/4a/Selyse-baratheon-lady-melisandre-640x424.png/revision/latest?cb=20140528193359" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Selyse-baratheon-lady-melisandre-640x424"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Selyse-baratheon-lady-melisandre-640x424.png" 	data-image-name="Selyse-baratheon-lady-melisandre-640x424.png" 	 data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/4/4a/Selyse-baratheon-lady-melisandre-640x424.png/revision/latest/scale-to-width-down/200?cb=20140528193359"  	 width="200"  	 height="133"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/4/4a/Selyse-baratheon-lady-melisandre-640x424.png/revision/latest/scale-to-width-down/200?cb=20140528193359" 	 alt="Selyse-baratheon-lady-melisandre-640x424"  	class="thumbimage " 	 	data-image-key="Selyse-baratheon-lady-melisandre-640x424.png" 	data-image-name="Selyse-baratheon-lady-melisandre-640x424.png" 	 	 width="200"  	 height="133"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Selyse-baratheon-lady-melisandre-640x424.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Melisandre talking to Selyse.</p> 		 	</figcaption> </figure>
+<p>Months later, Queen Selyse speaks to Melisandre, who is enjoying a bath. Melisandre quips that the Lord of Light told her to enjoy it as it was the last time she would have a good bath, but the joke goes over Selyse's head. Cementing her position as Melisandre's most devoted follower, the Red Priestess tells Selyse about her use of potions and illusions in serving the Lord of Light, the idea being that a bit of pageantry and deception in helping converts see the truth will be forgiven later on. Selyse asks her if she used the potions when she slept with Stannis, to which she replies that she did not. Selyse then remarks on her desire to leave their daughter Shireen behind when they go to the North but Melisandre is as dismissive about Shireen's "heresy" as she always is, and assures Selyse that Shireen will be needed where they are going.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[13]</a></sup>
+</p><p>Melisandre accompanies Stannis to the North in his defense of the Night's Watch against the wildlings, although she does not participate in the battle itself. At the Watch's funeral for their fallen brothers, she keeps her gaze fixed upon <a href="/wiki/Jon_Snow" title="Jon Snow">Jon Snow</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[14]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Season_5"><a href="/wiki/Season_5" title="Season 5">Season 5</a> </span><span class="editsection"><a href="/wiki/Melisandre?action=edit&amp;section=6" title="Edit Season 5 section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h3>
+<figure class="article-thumb tleft show-info-icon" style="width: 180px"> 	<a href="http://vignette2.wikia.nocookie.net/gameofthrones/images/2/2b/Melisandre_HBO_Got_S5.jpg/revision/latest?cb=20150131020118" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Melisandre HBO Got S5"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Melisandre_HBO_Got_S5.jpg" 	data-image-name="Melisandre HBO Got S5.jpg" 	 data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/2/2b/Melisandre_HBO_Got_S5.jpg/revision/latest/scale-to-width-down/180?cb=20150131020118"  	 width="180"  	 height="120"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/2/2b/Melisandre_HBO_Got_S5.jpg/revision/latest/scale-to-width-down/180?cb=20150131020118" 	 alt="Melisandre HBO Got S5"  	class="thumbimage " 	 	data-image-key="Melisandre_HBO_Got_S5.jpg" 	data-image-name="Melisandre HBO Got S5.jpg" 	 	 width="180"  	 height="120"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Melisandre_HBO_Got_S5.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Melisandre prepares to burn Mance Rayder.</p> 		 	</figcaption> </figure>
+<p>Stannis Baratheon sends for Jon Snow through Melisandre, and on the way from <a href="/wiki/Castle_Black" title="Castle Black">Castle Black</a> to the top of the Wall, she shows him how she is never cold by allowing him to touch her cheek. She also asks if Jon is a virgin. Jon replies that he is not and Melisandre replies that is a good thing. Later, she oversees the burning of <a href="/wiki/Mance_Rayder" title="Mance Rayder">Mance Rayder</a>, personally lighting the pyre and denouncing him as a King of Lies, while proclaiming Stannis the only true king.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[15]</a></sup>
+</p><p>Melisandre intervenes in an argument between Selyse and Stannis over Shireen; this time, Melisandre quite firmly comes down on Stannis's side, and says that the Lord of Light doesn't care about Shireen's disfigurement, for Stannis's blood runs through her veins. After Selyse leaves, Melisandre inquires as to whether she will be left behind when Stannis marches on Winterfell; Stannis confirms that this time, she will come with him.
+</p>
+<figure class="article-thumb tright show-info-icon" style="width: 180px"> 	<a href="http://vignette2.wikia.nocookie.net/gameofthrones/images/2/2c/Melisandre_and_jon_sons_of_the_harpy.jpg/revision/latest?cb=20150504230856" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Melisandre and jon sons of the harpy"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Melisandre_and_jon_sons_of_the_harpy.jpg" 	data-image-name="Melisandre and jon sons of the harpy.jpg" 	 data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/2/2c/Melisandre_and_jon_sons_of_the_harpy.jpg/revision/latest/scale-to-width-down/180?cb=20150504230856"  	 width="180"  	 height="100"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/2/2c/Melisandre_and_jon_sons_of_the_harpy.jpg/revision/latest/scale-to-width-down/180?cb=20150504230856" 	 alt="Melisandre and jon sons of the harpy"  	class="thumbimage " 	 	data-image-key="Melisandre_and_jon_sons_of_the_harpy.jpg" 	data-image-name="Melisandre and jon sons of the harpy.jpg" 	 	 width="180"  	 height="100"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Melisandre_and_jon_sons_of_the_harpy.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Melisandre tries to seduce Jon.</p> 		 	</figcaption> </figure>
+<p>Satisfied, Melisandre visits Jon Snow, offering a surprisingly mundane reason for him to join the battle: his familiarity with Winterfell's layout will provide a tactical advantage. Melisandre then proceeds to try and seduce Jon, undoing her dress and straddling him at his desk. She urges him to take her, as the Lord of Light made humans male and female for a reason, and to prove that he is on the side of life and not <a href="/wiki/White_Walkers" title="White Walkers">death</a>. Jon resists, citing his vows, and the fact that Stannis wouldn't approve. Melisandre retorts that they shouldn't tell Stannis, and that he already broke his vows to lie with a woman - a woman who is now dead and needn't hold Jon's heart. Jon admits that his feelings for <a href="/wiki/Ygritte" title="Ygritte">Ygritte</a> are still real even though she's gone. Melisandre does up her dress and departs, declaring "you know nothing, Jon Snow."<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[16]</a></sup>
+</p>
+<figure class="article-thumb tleft show-info-icon" style="width: 200px"> 	<a href="http://vignette2.wikia.nocookie.net/gameofthrones/images/1/16/Stannis_inside_his_command_tent.jpg/revision/latest?cb=20150526005402" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Stannis inside his command tent"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Stannis_inside_his_command_tent.jpg" 	data-image-name="Stannis inside his command tent.jpg" 	 data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/1/16/Stannis_inside_his_command_tent.jpg/revision/latest/scale-to-width-down/200?cb=20150526005402"  	 width="200"  	 height="112"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/1/16/Stannis_inside_his_command_tent.jpg/revision/latest/scale-to-width-down/200?cb=20150526005402" 	 alt="Stannis inside his command tent"  	class="thumbimage " 	 	data-image-key="Stannis_inside_his_command_tent.jpg" 	data-image-name="Stannis inside his command tent.jpg" 	 	 width="200"  	 height="112"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Stannis_inside_his_command_tent.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Stannis inside his command tent with Davos and Melisandre, en route to Winterfell.</p> 		 	</figcaption> </figure>
+<p>Melisandre departs Castle Black along with the rest of Stannis's army, riding next to him.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[17]</a></sup> During the march, the weather turns for the worse and a snow storm delays his army. Melisandre speaks alone with Stannis and reminds him that they may need to sacrifice more King's blood in order to better their chances of winning the upcoming battle in the snow which they both saw in the flames, citing the deaths of Robb Stark and Joffrey as examples. When Stannis says that they have no chance of locating Gendry, Melisandre suggests that they sacrifice Shireen. Stannis is visibly shocked and disgusted by the suggestion, asking her if she has lost her mind. She tries to convince him by saying that Stannis must be the undisputed king when the <a href="/wiki/The_Long_Night" title="The Long Night">Long Night</a> comes, but he rebuffs her and orders her to leave his presence.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[18]</a></sup>
+</p>
+<figure class="article-thumb tright show-info-icon" style="width: 180px"> 	<a href="http://vignette2.wikia.nocookie.net/gameofthrones/images/2/21/Melisandre-sacrificing-shireen.png/revision/latest?cb=20150608134058" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Melisandre-sacrificing-shireen"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Melisandre-sacrificing-shireen.png" 	data-image-name="Melisandre-sacrificing-shireen.png" 	 data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/2/21/Melisandre-sacrificing-shireen.png/revision/latest/scale-to-width-down/180?cb=20150608134058"  	 width="180"  	 height="139"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/2/21/Melisandre-sacrificing-shireen.png/revision/latest/scale-to-width-down/180?cb=20150608134058" 	 alt="Melisandre-sacrificing-shireen"  	class="thumbimage " 	 	data-image-key="Melisandre-sacrificing-shireen.png" 	data-image-name="Melisandre-sacrificing-shireen.png" 	 	 width="180"  	 height="139"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Melisandre-sacrificing-shireen.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Melisandre sacrifices Shireen.</p> 		 	</figcaption> </figure>
+<p>However, after an attack by <a href="/wiki/Ramsay_Bolton" title="Ramsay Bolton">Ramsay Bolton</a>, leaving Stannis' men and food supply diminished, Stannis reluctantly allows Melisandre to sacrifice Shireen, along with several other victims. Melisandre is the one who offers the prayer to the Lord of Light, and despite Shireen's screams for help from her parents, Melisandre lights the pyre without remorse, killing Shireen.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[19]</a></sup>
+</p>
+<figure class="article-thumb tleft show-info-icon" style="width: 180px"> 	<a href="http://vignette4.wikia.nocookie.net/gameofthrones/images/a/ab/Mother%E2%80%99s_Mercy_02.jpg/revision/latest?cb=20150611144058" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Mother’s Mercy 02"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Mother%E2%80%99s_Mercy_02.jpg" 	data-image-name="Mother’s Mercy 02.jpg" 	 data-src="http://vignette4.wikia.nocookie.net/gameofthrones/images/a/ab/Mother%E2%80%99s_Mercy_02.jpg/revision/latest/scale-to-width-down/180?cb=20150611144058"  	 width="180"  	 height="120"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette4.wikia.nocookie.net/gameofthrones/images/a/ab/Mother%E2%80%99s_Mercy_02.jpg/revision/latest/scale-to-width-down/180?cb=20150611144058" 	 alt="Mother’s Mercy 02"  	class="thumbimage " 	 	data-image-key="Mother%E2%80%99s_Mercy_02.jpg" 	data-image-name="Mother’s Mercy 02.jpg" 	 	 width="180"  	 height="120"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Mother%E2%80%99s_Mercy_02.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Melisandre talks to Stannis for the final time.</p> 		 	</figcaption> </figure>
+<p>The next day, the temperature climbs and the snow melts rapidly, enough that the army can march at last. Melisandre tells Stannis that the Lord was true to His word and soon, Stannis will take Winterfell. Stannis gruffly pulls away from Melisandre's attempt to embrace him. When a soldier reports to Stannis that half of his army has deserted in the night, Melisandre's composure begins to waver. Immediately thereafter, another soldier reports the discovery of <a href="/wiki/Selyse_Baratheon" title="Selyse Baratheon">Selyse Baratheon</a>'s body. Her faith all but shattered (and probably fearing Stannis's wrath), Melisandre abandons Stannis, steals a horse and flees back to Castle Black. As she arrives, Jon and Davos intercept her, Jon asking after Stannis and Davos after Shireen. Melisandre does not answer, her blank, regretful expression being enough to confirm Jon and Davos's fears.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[20]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Season_6"><a href="/wiki/Season_6" title="Season 6">Season 6</a> </span><span class="editsection"><a href="/wiki/Melisandre?action=edit&amp;section=7" title="Edit Season 6 section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h3>
+<figure class="article-thumb tright show-info-icon" style="width: 180px"> 	<a href="http://vignette4.wikia.nocookie.net/gameofthrones/images/6/66/OldMelisandre.jpg/revision/latest?cb=20160425153137" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="OldMelisandre"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="OldMelisandre.jpg" 	data-image-name="OldMelisandre.jpg" 	 data-src="http://vignette4.wikia.nocookie.net/gameofthrones/images/6/66/OldMelisandre.jpg/revision/latest/scale-to-width-down/180?cb=20160425153137"  	 width="180"  	 height="110"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette4.wikia.nocookie.net/gameofthrones/images/6/66/OldMelisandre.jpg/revision/latest/scale-to-width-down/180?cb=20160425153137" 	 alt="OldMelisandre"  	class="thumbimage " 	 	data-image-key="OldMelisandre.jpg" 	data-image-name="OldMelisandre.jpg" 	 	 width="180"  	 height="110"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:OldMelisandre.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Melisandre's true form.</p> 		 	</figcaption> </figure>
+<p>After Ser Davos brings the corpse of <a href="/wiki/Jon_Snow" title="Jon Snow">Jon Snow</a> into a room, Melisandre is called. She tells the few men loyal to Jon that she saw Jon fighting in Winterfell in the flames, but chalks it up to another vision that will not come true. Later that evening in her chambers at <a href="/wiki/Castle_Black" title="Castle Black">Castle Black</a> Melisandre undresses for the evening. Looking forlorn at herself in the mirror, she takes off her necklace and her illusion of beauty disappears, revealing her true form: a frail old woman, many centuries old. She climbs slowly into bed.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[21]</a></sup>
+</p><p>Later, Ser Davos implores Melisandre to attempt to revive Jon Snow, saying that he cares nothing for red gods, drowned gods or the Seven, but he does believe in her power. Melisandre reluctantly agrees to try. As Davos and Tormund watch, with Ghost present too, Melisandre attempts the resurrection, ritualizing the experience more than Thoros did. Initially after performing the ritual, nothing happens. Dejected, all but Ghost leave. As Ghost gets up from resting, Jon Snow gasps and opens his eyes.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[22]</a></sup>
+</p>
+<figure class="article-thumb tright show-info-icon" style="width: 180px"> 	<a href="http://vignette3.wikia.nocookie.net/gameofthrones/images/8/88/Melisandre_raises_jon_from_dead.jpg/revision/latest?cb=20160524031416" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Melisandre raises jon from dead"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Melisandre_raises_jon_from_dead.jpg" 	data-image-name="Melisandre raises jon from dead.jpg" 	 data-src="http://vignette3.wikia.nocookie.net/gameofthrones/images/8/88/Melisandre_raises_jon_from_dead.jpg/revision/latest/scale-to-width-down/180?cb=20160524031416"  	 width="180"  	 height="102"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette3.wikia.nocookie.net/gameofthrones/images/8/88/Melisandre_raises_jon_from_dead.jpg/revision/latest/scale-to-width-down/180?cb=20160524031416" 	 alt="Melisandre raises jon from dead"  	class="thumbimage " 	 	data-image-key="Melisandre_raises_jon_from_dead.jpg" 	data-image-name="Melisandre raises jon from dead.jpg" 	 	 width="180"  	 height="102"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Melisandre_raises_jon_from_dead.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Melisandre brings Jon Snow back to life.</p> 		 	</figcaption> </figure>
+<p>A few moments later, an astonished Melisandre returns to the room to find Ser Davos assisting the newly-revived Jon. Desperate for answers, Melisandre asks him about his experience, and is disappointed to learn that like Beric Dondarrion, he saw nothing while dead. Still pressing, Melisandre says that Stannis was not <a href="/wiki/The_Prince_That_Was_Promised" title="The Prince That Was Promised">The Prince That Was Promised</a>, but "someone must be". Since Jon is still trying to wrap his head around what happened, Davos asks Melisandre to give him some space - which she does to his surprise. Melisandre is later visible on the ramparts of Castle Black when Jon appears before the Night's Watch, and when he executes the ringleaders of the <a href="/wiki/Mutiny_at_Castle_Black" title="Mutiny at Castle Black">mutiny at Castle Black</a>.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[23]</a></sup>
+</p>
+<figure class="article-thumb tright show-info-icon" style="width: 180px"> 	<a href="http://vignette2.wikia.nocookie.net/gameofthrones/images/4/46/Battle_of_the_Bastards_18.jpg/revision/latest?cb=20160616003147" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Battle of the Bastards 18"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Battle_of_the_Bastards_18.jpg" 	data-image-name="Battle of the Bastards 18.jpg" 	 data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/4/46/Battle_of_the_Bastards_18.jpg/revision/latest/scale-to-width-down/180?cb=20160616003147"  	 width="180"  	 height="101"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/4/46/Battle_of_the_Bastards_18.jpg/revision/latest/scale-to-width-down/180?cb=20160616003147" 	 alt="Battle of the Bastards 18"  	class="thumbimage " 	 	data-image-key="Battle_of_the_Bastards_18.jpg" 	data-image-name="Battle of the Bastards 18.jpg" 	 	 width="180"  	 height="101"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Battle_of_the_Bastards_18.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Jon meets with Melisandre the night before battle.</p> 		 	</figcaption> </figure>
+<p>Davos asks if Melisandre intends to stay at Castle Black. She replies that she will do whatever Jon Snow commands her to do, as she does indeed consider him to be the prince that was promised. Davos points out that she was once sure it was Stannis, and takes the opportunity to grill her about what really happened on the road to Winterfell. They are interrupted by <a href="/wiki/Brienne_of_Tarth" title="Brienne of Tarth">Brienne of Tarth</a>, who boldly tells them that Stannis lost, and that she executed him after he admitted to using blood magic to kill Renly. Davos processes Brienne while Melisandre slips away.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[24]</a></sup>
+</p><p>Melisandre is present at a war council meeting. She listens to <a href="/wiki/Sansa_Stark" title="Sansa Stark">Sansa Stark</a>, Jon Snow and Davos discuss which of the Northern houses they can ask for support. Melisandre later rides with Jon and Sansa when they depart from Castle Black.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[25]</a></sup>
+</p>
+<figure class="article-thumb tright show-info-icon" style="width: 180px"> 	<a href="http://vignette4.wikia.nocookie.net/gameofthrones/images/7/70/The_Winds_of_Winter_20.jpg/revision/latest?cb=20160627155837" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="The Winds of Winter 20"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="The_Winds_of_Winter_20.jpg" 	data-image-name="The Winds of Winter 20.jpg" 	 data-src="http://vignette4.wikia.nocookie.net/gameofthrones/images/7/70/The_Winds_of_Winter_20.jpg/revision/latest/scale-to-width-down/180?cb=20160627155837"  	 width="180"  	 height="120"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette4.wikia.nocookie.net/gameofthrones/images/7/70/The_Winds_of_Winter_20.jpg/revision/latest/scale-to-width-down/180?cb=20160627155837" 	 alt="The Winds of Winter 20"  	class="thumbimage " 	 	data-image-key="The_Winds_of_Winter_20.jpg" 	data-image-name="The Winds of Winter 20.jpg" 	 	 width="180"  	 height="120"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:The_Winds_of_Winter_20.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Melisandre is made to leave and travel south.</p> 		 	</figcaption> </figure>
+<p>Jon Snow comes into Melisandre's tent and mentions that she wasn't at the war council. She replies that she is not a soldier. He asks her not to bring him back a second time if he falls at the <a href="/wiki/Second_Battle_of_Winterfell" title="Second Battle of Winterfell" class="mw-redirect">next day's battle</a>. She implies that it is not her decision. They talk of the Red God and his plan. After the battle, Melisandre stands on a walkway in Winterfell, watching the goings-on in the courtyard, unaware that Ser Davos is watching her from below; having discovered that she had young <a href="/wiki/Shireen" title="Shireen" class="mw-redirect">Shireen</a> burned at the stake.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[26]</a></sup>
+</p><p>When Davos interrupts Melisandre's conversation with Jon Snow in the hall of Winterfell and challenges her about Shireen's death, she shows remorse at the sight of her burned wooden carving and confesses her culpability. Though she argues that she burnt Shireen at the command of her parents when Jon asks her for any last defence, Davos denounces the order as evil and threatens to execute her personally. Jon exiles her from the North for her crime of infanticide, after which she is seen riding south from Winterfell.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[27]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="editsection"><a href="/wiki/Melisandre?action=edit&amp;section=8" title="Edit Appearances section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<table class="appearances" border="1" style="width: 90%; margin: 1em 1em 1em 0; border: 1px #000000 solid; border-collapse: collapse; text-align: center; font-size:11px">
+
+<tr bgcolor="#C19A6B">
+<td colspan="5"><b><a href="/wiki/Season_2" title="Season 2">Season Two</a> appearances</b>
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> <b><a href="/wiki/The_North_Remembers" title="The North Remembers">The North Remembers</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/The_Night_Lands" title="The Night Lands">The Night Lands</a></b>
+</td><td style="width: 20%;"> What is Dead May Never Die
+</td><td style="width: 20%;"> <b><a href="/wiki/Garden_of_Bones" title="Garden of Bones">Garden of Bones</a></b>
+</td><td style="width: 20%;"> The Ghost of Harrenhal
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> The Old Gods and the New
+</td><td style="width: 20%;"> A Man Without Honor
+</td><td style="width: 20%;"> The Prince of Winterfell
+</td><td style="width: 20%;"> Blackwater
+</td><td style="width: 20%;"> <b><a href="/wiki/Valar_Morghulis" title="Valar Morghulis">Valar Morghulis</a></b>
+</td></tr></table>
+<table class="appearances" border="1" style="width: 90%; margin: 1em 1em 1em 0; border: 1px #000000 solid; border-collapse: collapse; text-align: center; font-size:11px">
+
+<tr bgcolor="#C19A6B">
+<td colspan="5"><b><a href="/wiki/Season_3" title="Season 3">Season Three</a> appearances</b>
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> <b><a href="/wiki/Valar_Dohaeris" title="Valar Dohaeris">Valar Dohaeris</a></b>
+</td><td style="width: 20%;"> Dark Wings, Dark Words
+</td><td style="width: 20%;"> <b><a href="/wiki/Walk_of_Punishment" title="Walk of Punishment">Walk of Punishment</a></b>
+</td><td style="width: 20%;"> And Now His Watch is Ended
+</td><td style="width: 20%;"> Kissed by Fire
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> <b><a href="/wiki/The_Climb" title="The Climb">The Climb</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/The_Bear_and_the_Maiden_Fair_(episode)" title="The Bear and the Maiden Fair (episode)">The Bear and the Maiden Fair</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/Second_Sons_(episode)" title="Second Sons (episode)">Second Sons</a></b>
+</td><td style="width: 20%;"> The Rains of Castamere
+</td><td style="width: 20%;"> <b><a href="/wiki/Mhysa" title="Mhysa">Mhysa</a></b>
+</td></tr></table>
+<table class="appearances" border="1" style="width: 90%; margin: 1em 1em 1em 0; border: 1px #000000 solid; border-collapse: collapse; text-align: center; font-size:11px">
+
+<tr bgcolor="#C19A6B">
+<td colspan="5"><b><a href="/wiki/Season_4" title="Season 4">Season Four</a> appearances</b>
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> Two Swords
+</td><td style="width: 20%;"> <b><a href="/wiki/The_Lion_and_the_Rose" title="The Lion and the Rose">The Lion and the Rose</a></b>
+</td><td style="width: 20%;"> Breaker of Chains
+</td><td style="width: 20%;"> Oathkeeper
+</td><td style="width: 20%;"> First of His Name
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> The Laws of Gods and Men
+</td><td style="width: 20%;"> <b><a href="/wiki/Mockingbird" title="Mockingbird">Mockingbird</a></b>
+</td><td style="width: 20%;"> The Mountain and the Viper
+</td><td style="width: 20%;"> The Watchers on the Wall
+</td><td style="width: 20%;"> <b><a href="/wiki/The_Children" title="The Children">The Children</a></b>
+</td></tr></table>
+<table class="appearances" border="1" style="width: 90%; margin: 1em 1em 1em 0; border: 1px #000000 solid; border-collapse: collapse; text-align: center; font-size:11px">
+
+<tr bgcolor="#C19A6B">
+<td colspan="5"><b><a href="/wiki/Season_5" title="Season 5">Season Five</a> appearances</b>
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> <b><a href="/wiki/The_Wars_to_Come" title="The Wars to Come">The Wars to Come</a></b>
+</td><td style="width: 20%;"> The House of Black and White
+</td><td style="width: 20%;"> High Sparrow
+</td><td style="width: 20%;"> <b><a href="/wiki/Sons_of_the_Harpy_(episode)" title="Sons of the Harpy (episode)">Sons of the Harpy</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/Kill_the_Boy" title="Kill the Boy">Kill the Boy</a></b>
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> Unbowed, Unbent, Unbroken
+</td><td style="width: 20%;"> <b><a href="/wiki/The_Gift_(episode)" title="The Gift (episode)">The Gift</a></b>
+</td><td style="width: 20%;"> Hardhome
+</td><td style="width: 20%;"> <b><a href="/wiki/The_Dance_of_Dragons" title="The Dance of Dragons">The Dance of Dragons</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/Mother%E2%80%99s_Mercy" title="Mother’s Mercy" class="mw-redirect">Mother’s Mercy</a></b>
+</td></tr></table>
+<table class="appearances" border="1" style="width: 90%; margin: 1em 1em 1em 0; border: 1px #000000 solid; border-collapse: collapse; text-align: center; font-size:11px">
+
+<tr bgcolor="#C19A6B">
+<td colspan="5"><b><a href="/wiki/Season_6" title="Season 6">Season Six</a> appearances</b>
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> <b><a href="/wiki/The_Red_Woman" title="The Red Woman">The Red Woman</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/Home" title="Home">Home</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/Oathbreaker" title="Oathbreaker">Oathbreaker</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/Book_of_the_Stranger" title="Book of the Stranger">Book of the Stranger</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/The_Door" title="The Door">The Door</a></b>
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> Blood of My Blood
+</td><td style="width: 20%;"> The Broken Man
+</td><td style="width: 20%;"> No One
+</td><td style="width: 20%;"> <b><a href="/wiki/Battle_of_the_Bastards_(episode)" title="Battle of the Bastards (episode)">Battle of the Bastards </a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/The_Winds_of_Winter" title="The Winds of Winter">The Winds of Winter</a></b>
+</td></tr></table>
+<h2><span class="mw-headline" id="Quotes">Quotes</span><span class="editsection"><a href="/wiki/Melisandre?action=edit&amp;section=9" title="Edit Quotes section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<div class="quote">
+<dl><dd><span title="Source: The North Remembers">"<i>The night is dark and full of terrors, old man, but the fire burns them all away.</i>"</span>
+</dd><dd>&#8213;Melisandre, to Cressen<span class="noprint"><sup><a href="/wiki/The_North_Remembers" title="The North Remembers">[src]</a></sup></span></div>
+</dd></dl>
+<div class="quote">
+<dl><dd><span title="Source: The Night Lands">"<i>Death by fire is the purest death.</i>"</span>
+</dd><dd>&#8213;Melisandre<span class="noprint"><sup><a href="/wiki/The_Night_Lands" title="The Night Lands">[src]</a></sup></span></div>
+</dd></dl>
+<div class="quote">
+<dl><dd><span title="Source:  Garden of Bones">"<i>Look to your sins Lord Renly, the night is dark and full of terrors.</i>"</span>
+</dd><dd>&#8213;Melisandre to <a href="/wiki/Renly_Baratheon" title="Renly Baratheon">Renly Baratheon</a><span class="noprint"><sup><a href="/wiki/Garden_of_Bones" title="Garden of Bones">[src]</a></sup></span></div>
+</dd></dl>
+<div class="quote">
+<dl><dd><span title="Source:  Valar Dohaeris">"<i>You've chosen the darkness Ser Davos, I'll pray for you...</i>"</span>
+</dd><dd>&#8213;Melisandre ​to Davos Seaworth<span class="noprint"><sup><a href="/wiki/Valar_Dohaeris" title="Valar Dohaeris">[src]</a></sup></span></div>
+</dd></dl>
+<div class="quote">
+<dl><dd><span title="Source: Season 3">"<i>Death is coming for everyone and everything ... a darkness that will swallow the dawn.</i>"</span>
+</dd><dd>&#8213;Melisandre<span class="noprint"><sup><a href="/wiki/Season_3" title="Season 3">[src]</a></sup></span></div>
+</dd></dl>
+<div class="quote">
+<dl><dd><span title="Source: Sons of the Harpy (episode)">"<i>You know nothing, Jon Snow.</i>"</span>
+</dd><dd>&#8213;Melisandre to Jon Snow<span class="noprint"><sup><a href="/wiki/Sons_of_the_Harpy_(episode)" title="Sons of the Harpy (episode)">[src]</a></sup></span></div>
+</dd></dl>
+<div class="quote">
+<dl><dd><span title="Source: Home">"<i>If you want to help him, leave him be.</i>"</span>
+</dd><dd>&#8213;Melisandre to Davos Seaworth about Jon Snow.<span class="noprint"><sup><a href="/wiki/Home" title="Home">[src]</a></sup></span></div>
+</dd></dl>
+<div class="quote">
+<dl><dd><span title="Source: Home">"<i>The great victory I saw in the flames, all of it was a lie.</i>"</span>
+</dd><dd>&#8213;Melisandre to Davos Seaworth.<span class="noprint"><sup><a href="/wiki/Home" title="Home">[src]</a></sup></span></div>
+</dd></dl>
+<h2><span class="mw-headline" id="Image_gallery">Image gallery</span><span class="editsection"><a href="/wiki/Melisandre?action=edit&amp;section=10" title="Edit Image gallery section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<div id="gallery-0" hash="7eee2045c7755f196dc597731b314f43" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-small wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium"><div class="wikia-gallery-row"><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Melisandre_approves-jpg" style="position: relative; height:104px; width:185px; top:40.5px;"><a class="image lightbox" href="/wiki/File:Melisandre_approves.jpg" title="Melisandre approves.jpg (29 KB)" style="height:104px; width:185px;"><noscript><img style="" src="http://vignette3.wikia.nocookie.net/gameofthrones/images/3/37/Melisandre_approves.jpg/revision/latest/scale-to-width-down/185?cb=20120821205300" title="Melisandre approves.jpg (29 KB)" class="thumbimage" alt="Melisandre approves" data-image-name="Melisandre approves.jpg" data-image-key="Melisandre_approves.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Melisandre approves.jpg (29 KB)" class="thumbimage lzy lzyPlcHld" alt="Melisandre approves" data-image-name="Melisandre approves.jpg" data-image-key="Melisandre_approves.jpg" data-src="http://vignette3.wikia.nocookie.net/gameofthrones/images/3/37/Melisandre_approves.jpg/revision/latest/scale-to-width-down/185?cb=20120821205300" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Melisandre, a Red Priestess of the Lord of Light, in "<a href="/wiki/The_North_Remembers" title="The North Remembers">The North Remembers</a>".</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Painted_Table_Dragon_motif_2x01-jpg" style="position: relative; height:104px; width:185px; top:40.5px;"><a class="image lightbox" href="/wiki/File:Painted_Table_Dragon_motif_2x01.jpg" title="Painted Table Dragon motif 2x01.jpg (55 KB)" style="height:104px; width:185px;"><noscript><img style="" src="http://vignette1.wikia.nocookie.net/gameofthrones/images/9/99/Painted_Table_Dragon_motif_2x01.jpg/revision/latest/scale-to-width-down/185?cb=20120821191515" title="Painted Table Dragon motif 2x01.jpg (55 KB)" class="thumbimage" alt="Painted Table Dragon motif 2x01" data-image-name="Painted Table Dragon motif 2x01.jpg" data-image-key="Painted_Table_Dragon_motif_2x01.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Painted Table Dragon motif 2x01.jpg (55 KB)" class="thumbimage lzy lzyPlcHld" alt="Painted Table Dragon motif 2x01" data-image-name="Painted Table Dragon motif 2x01.jpg" data-image-key="Painted_Table_Dragon_motif_2x01.jpg" data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/9/99/Painted_Table_Dragon_motif_2x01.jpg/revision/latest/scale-to-width-down/185?cb=20120821191515" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Stannis's council at the Painted Table in "The North Remembers".</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Melisandre_Night_Lands_dress_1-jpg" style="position: relative; height:104px; width:185px; top:40.5px;"><a class="image lightbox" href="/wiki/File:Melisandre_Night_Lands_dress_1.jpg" title="Melisandre Night Lands dress 1.jpg (47 KB)" style="height:104px; width:185px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/gameofthrones/images/b/b5/Melisandre_Night_Lands_dress_1.jpg/revision/latest/scale-to-width-down/185?cb=20140201214425" title="Melisandre Night Lands dress 1.jpg (47 KB)" class="thumbimage" alt="Melisandre Night Lands dress 1" data-image-name="Melisandre Night Lands dress 1.jpg" data-image-key="Melisandre_Night_Lands_dress_1.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Melisandre Night Lands dress 1.jpg (47 KB)" class="thumbimage lzy lzyPlcHld" alt="Melisandre Night Lands dress 1" data-image-name="Melisandre Night Lands dress 1.jpg" data-image-key="Melisandre_Night_Lands_dress_1.jpg" data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/b/b5/Melisandre_Night_Lands_dress_1.jpg/revision/latest/scale-to-width-down/185?cb=20140201214425" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Melisandre's alternate hexagon-patterned dress.</div></div></div><div class="wikia-gallery-row"><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Stannis_and_Melisandre_choke_2x10-png" style="position: relative; height:104px; width:185px; top:40.5px;"><a class="image lightbox" href="/wiki/File:Stannis_and_Melisandre_choke_2x10.png" title="Stannis and Melisandre choke 2x10.png (498 KB)" style="height:104px; width:185px;"><noscript><img style="" src="http://vignette4.wikia.nocookie.net/gameofthrones/images/e/e4/Stannis_and_Melisandre_choke_2x10.png/revision/latest/scale-to-width-down/185?cb=20120604132819" title="Stannis and Melisandre choke 2x10.png (498 KB)" class="thumbimage" alt="Stannis and Melisandre choke 2x10" data-image-name="Stannis and Melisandre choke 2x10.png" data-image-key="Stannis_and_Melisandre_choke_2x10.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Stannis and Melisandre choke 2x10.png (498 KB)" class="thumbimage lzy lzyPlcHld" alt="Stannis and Melisandre choke 2x10" data-image-name="Stannis and Melisandre choke 2x10.png" data-image-key="Stannis_and_Melisandre_choke_2x10.png" data-src="http://vignette4.wikia.nocookie.net/gameofthrones/images/e/e4/Stannis_and_Melisandre_choke_2x10.png/revision/latest/scale-to-width-down/185?cb=20120604132819" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Stannis choking Melisandre in "<a href="/wiki/Valar_Morghulis" title="Valar Morghulis">Valar Morghulis</a>".</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Stannis_Melisandre_2x10-jpg" style="position: relative; height:104px; width:185px; top:40.5px;"><a class="image lightbox" href="/wiki/File:Stannis_Melisandre_2x10.jpg" title="Stannis Melisandre 2x10.jpg (124 KB)" style="height:104px; width:185px;"><noscript><img style="" src="http://vignette1.wikia.nocookie.net/gameofthrones/images/9/90/Stannis_Melisandre_2x10.jpg/revision/latest/scale-to-width-down/185?cb=20120607143050" title="Stannis Melisandre 2x10.jpg (124 KB)" class="thumbimage" alt="Stannis Melisandre 2x10" data-image-name="Stannis Melisandre 2x10.jpg" data-image-key="Stannis_Melisandre_2x10.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Stannis Melisandre 2x10.jpg (124 KB)" class="thumbimage lzy lzyPlcHld" alt="Stannis Melisandre 2x10" data-image-name="Stannis Melisandre 2x10.jpg" data-image-key="Stannis_Melisandre_2x10.jpg" data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/9/90/Stannis_Melisandre_2x10.jpg/revision/latest/scale-to-width-down/185?cb=20120607143050" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Stannis and Melisandre seeing his future in "Valar Morghulis".</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="GOT3-Melisandre-Poster-jpg" style="position: relative; height:184px; width:124px; top:0.5px;"><a class="image lightbox" href="/wiki/File:GOT3-Melisandre-Poster.jpg" title="GOT3-Melisandre-Poster.jpg (115 KB)" style="height:184px; width:124px;"><noscript><img style="" src="http://vignette3.wikia.nocookie.net/gameofthrones/images/4/46/GOT3-Melisandre-Poster.jpg/revision/latest/scale-to-width-down/125?cb=20130305190733" title="GOT3-Melisandre-Poster.jpg (115 KB)" class="thumbimage" alt="GOT3-Melisandre-Poster" data-image-name="GOT3-Melisandre-Poster.jpg" data-image-key="GOT3-Melisandre-Poster.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="GOT3-Melisandre-Poster.jpg (115 KB)" class="thumbimage lzy lzyPlcHld" alt="GOT3-Melisandre-Poster" data-image-name="GOT3-Melisandre-Poster.jpg" data-image-key="GOT3-Melisandre-Poster.jpg" data-src="http://vignette3.wikia.nocookie.net/gameofthrones/images/4/46/GOT3-Melisandre-Poster.jpg/revision/latest/scale-to-width-down/125?cb=20130305190733" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Promotional image for Melisandre in <a href="/wiki/Season_3" title="Season 3">Season 3</a>.</div></div></div><div class="wikia-gallery-row"><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Melisandre01-jpg" style="position: relative; height:123px; width:185px; top:31px;"><a class="image lightbox" href="/wiki/File:Melisandre01.jpg" title="Melisandre01.jpg (673 KB)" style="height:123px; width:185px;"><noscript><img style="" src="http://vignette4.wikia.nocookie.net/gameofthrones/images/8/84/Melisandre01.jpg/revision/latest/scale-to-width-down/185?cb=20130125204542" title="Melisandre01.jpg (673 KB)" class="thumbimage" alt="Melisandre01" data-image-name="Melisandre01.jpg" data-image-key="Melisandre01.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Melisandre01.jpg (673 KB)" class="thumbimage lzy lzyPlcHld" alt="Melisandre01" data-image-name="Melisandre01.jpg" data-image-key="Melisandre01.jpg" data-src="http://vignette4.wikia.nocookie.net/gameofthrones/images/8/84/Melisandre01.jpg/revision/latest/scale-to-width-down/185?cb=20130125204542" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Melisandre in Season 3.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Cablevision-game-of-thrones-season-3-episode-6_h-jpg" style="position: relative; height:94px; width:185px; top:45.5px;"><a class="image lightbox" href="/wiki/File:Cablevision-game-of-thrones-season-3-episode-6_h.jpg" title="Cablevision-game-of-thrones-season-3-episode-6 h.jpg (37 KB)" style="height:94px; width:185px;"><noscript><img style="" src="http://vignette4.wikia.nocookie.net/gameofthrones/images/9/9e/Melisandre_The_Climb.jpg/revision/latest/scale-to-width-down/185?cb=20130507151935" title="Cablevision-game-of-thrones-season-3-episode-6 h.jpg (37 KB)" class="thumbimage" alt="Cablevision-game-of-thrones-season-3-episode-6 h" data-image-name="Melisandre The Climb.jpg" data-image-key="Melisandre_The_Climb.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Cablevision-game-of-thrones-season-3-episode-6 h.jpg (37 KB)" class="thumbimage lzy lzyPlcHld" alt="Cablevision-game-of-thrones-season-3-episode-6 h" data-image-name="Melisandre The Climb.jpg" data-image-key="Melisandre_The_Climb.jpg" data-src="http://vignette4.wikia.nocookie.net/gameofthrones/images/9/9e/Melisandre_The_Climb.jpg/revision/latest/scale-to-width-down/185?cb=20130507151935" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Lady Melisandre pays a visit to the Riverlands in "<a href="/wiki/The_Climb" title="The Climb">The Climb</a>".</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Stannis_and_Melisandre_Mhysa-png" style="position: relative; height:111px; width:185px; top:37px;"><a class="image lightbox" href="/wiki/File:Stannis_and_Melisandre_Mhysa.png" title="Stannis and Melisandre Mhysa.png (1.24 MB)" style="height:111px; width:185px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/gameofthrones/images/6/6d/Stannis_and_Melisandre_Mhysa.png/revision/latest/scale-to-width-down/185?cb=20130610044932" title="Stannis and Melisandre Mhysa.png (1.24 MB)" class="thumbimage" alt="Stannis and Melisandre Mhysa" data-image-name="Stannis and Melisandre Mhysa.png" data-image-key="Stannis_and_Melisandre_Mhysa.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Stannis and Melisandre Mhysa.png (1.24 MB)" class="thumbimage lzy lzyPlcHld" alt="Stannis and Melisandre Mhysa" data-image-name="Stannis and Melisandre Mhysa.png" data-image-key="Stannis_and_Melisandre_Mhysa.png" data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/6/6d/Stannis_and_Melisandre_Mhysa.png/revision/latest/scale-to-width-down/185?cb=20130610044932" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Stannis and Melisandre in "<a href="/wiki/Mhysa" title="Mhysa">Mhysa</a>".</div></div></div><div class="wikia-gallery-row"><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Screen_Shot_2013-06-11_at_1-58-53_AM-png" style="position: relative; height:110px; width:185px; top:37.5px;"><a class="image lightbox" href="/wiki/File:Screen_Shot_2013-06-11_at_1.58.53_AM.png" title="Screen Shot 2013-06-11 at 1.58.53 AM.png (241 KB)" style="height:110px; width:185px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/gameofthrones/images/1/18/Screen_Shot_2013-06-11_at_1.58.53_AM.png/revision/latest/scale-to-width-down/185?cb=20130616112202" title="Screen Shot 2013-06-11 at 1.58.53 AM.png (241 KB)" class="thumbimage" alt="Screen Shot 2013-06-11 at 1.58.53 AM" data-image-name="Screen Shot 2013-06-11 at 1.58.53 AM.png" data-image-key="Screen_Shot_2013-06-11_at_1.58.53_AM.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Screen Shot 2013-06-11 at 1.58.53 AM.png (241 KB)" class="thumbimage lzy lzyPlcHld" alt="Screen Shot 2013-06-11 at 1.58.53 AM" data-image-name="Screen Shot 2013-06-11 at 1.58.53 AM.png" data-image-key="Screen_Shot_2013-06-11_at_1.58.53_AM.png" data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/1/18/Screen_Shot_2013-06-11_at_1.58.53_AM.png/revision/latest/scale-to-width-down/185?cb=20130616112202" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Melisandre confronts Davos in "Mhysa".</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Mel-jpg" style="position: relative; height:184px; width:124px; top:0.5px;"><a class="image lightbox" href="/wiki/File:Mel.jpg" title="Mel.jpg (156 KB)" style="height:184px; width:124px;"><noscript><img style="" src="http://vignette4.wikia.nocookie.net/gameofthrones/images/f/ff/Mel.jpg/revision/latest/scale-to-width-down/125?cb=20140228135839" title="Mel.jpg (156 KB)" class="thumbimage" alt="Mel" data-image-name="Mel.jpg" data-image-key="Mel.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Mel.jpg (156 KB)" class="thumbimage lzy lzyPlcHld" alt="Mel" data-image-name="Mel.jpg" data-image-key="Mel.jpg" data-src="http://vignette4.wikia.nocookie.net/gameofthrones/images/f/ff/Mel.jpg/revision/latest/scale-to-width-down/125?cb=20140228135839" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Promotional image for Melisandre in <a href="/wiki/Season_4" title="Season 4">Season 4</a>.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Gameofthrones4x026-jpg" style="position: relative; height:185px; width:185px;"><a class="image lightbox" href="/wiki/File:Gameofthrones4x026.jpg" title="Gameofthrones4x026.jpg (87 KB)" style="height:185px; width:185px;"><noscript><img style="" src="http://vignette1.wikia.nocookie.net/gameofthrones/images/9/99/Gameofthrones4x026.jpg/revision/latest/scale-to-width-down/185?cb=20140507073211" title="Gameofthrones4x026.jpg (87 KB)" class="thumbimage" alt="Gameofthrones4x026" data-image-name="Gameofthrones4x026.jpg" data-image-key="Gameofthrones4x026.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Gameofthrones4x026.jpg (87 KB)" class="thumbimage lzy lzyPlcHld" alt="Gameofthrones4x026" data-image-name="Gameofthrones4x026.jpg" data-image-key="Gameofthrones4x026.jpg" data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/9/99/Gameofthrones4x026.jpg/revision/latest/scale-to-width-down/185?cb=20140507073211" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Melisandre dines with Stannis and Selyse in "<a href="/wiki/The_Lion_and_the_Rose" title="The Lion and the Rose">The Lion and the Rose</a>".</div></div></div><div class="wikia-gallery-row"><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Game-of-Thrones-Season-4-Episode-7-Melisandre-jpg" style="position: relative; height:104px; width:185px; top:40.5px;"><a class="image lightbox" href="/wiki/File:Game-of-Thrones-Season-4-Episode-7-Melisandre.jpg" title="Game-of-Thrones-Season-4-Episode-7-Melisandre.jpg (64 KB)" style="height:104px; width:185px;"><noscript><img style="" src="http://vignette3.wikia.nocookie.net/gameofthrones/images/3/3a/Game-of-Thrones-Season-4-Episode-7-Melisandre.jpg/revision/latest/scale-to-width-down/185?cb=20140618084425" title="Game-of-Thrones-Season-4-Episode-7-Melisandre.jpg (64 KB)" class="thumbimage" alt="Game-of-Thrones-Season-4-Episode-7-Melisandre" data-image-name="Game-of-Thrones-Season-4-Episode-7-Melisandre.jpg" data-image-key="Game-of-Thrones-Season-4-Episode-7-Melisandre.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Game-of-Thrones-Season-4-Episode-7-Melisandre.jpg (64 KB)" class="thumbimage lzy lzyPlcHld" alt="Game-of-Thrones-Season-4-Episode-7-Melisandre" data-image-name="Game-of-Thrones-Season-4-Episode-7-Melisandre.jpg" data-image-key="Game-of-Thrones-Season-4-Episode-7-Melisandre.jpg" data-src="http://vignette3.wikia.nocookie.net/gameofthrones/images/3/3a/Game-of-Thrones-Season-4-Episode-7-Melisandre.jpg/revision/latest/scale-to-width-down/185?cb=20140618084425" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Melisandre taking a bath and discussing poisons with Selyse in "<a href="/wiki/Mockingbird" title="Mockingbird">Mockingbird</a>".</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Melisandre_HBO_Got_S5-jpg" style="position: relative; height:123px; width:185px; top:31px;"><a class="image lightbox" href="/wiki/File:Melisandre_HBO_Got_S5.jpg" title="Melisandre HBO Got S5.jpg (2.1 MB)" style="height:123px; width:185px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/gameofthrones/images/2/2b/Melisandre_HBO_Got_S5.jpg/revision/latest/scale-to-width-down/185?cb=20150131020118" title="Melisandre HBO Got S5.jpg (2.1 MB)" class="thumbimage" alt="Melisandre HBO Got S5" data-image-name="Melisandre HBO Got S5.jpg" data-image-key="Melisandre_HBO_Got_S5.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Melisandre HBO Got S5.jpg (2.1 MB)" class="thumbimage lzy lzyPlcHld" alt="Melisandre HBO Got S5" data-image-name="Melisandre HBO Got S5.jpg" data-image-key="Melisandre_HBO_Got_S5.jpg" data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/2/2b/Melisandre_HBO_Got_S5.jpg/revision/latest/scale-to-width-down/185?cb=20150131020118" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Released HBO promotional image of Melisandre in Season 5 of Game of Thrones.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Melisandre_S5-jpg" style="position: relative; height:184px; width:132px; top:0.5px;"><a class="image lightbox" href="/wiki/File:Melisandre_S5.jpg" title="Melisandre S5.jpg (45 KB)" style="height:184px; width:132px;"><noscript><img style="" src="http://vignette3.wikia.nocookie.net/gameofthrones/images/3/3e/Melisandre_S5.jpg/revision/latest/scale-to-width-down/132?cb=20150415185831" title="Melisandre S5.jpg (45 KB)" class="thumbimage" alt="Melisandre S5" data-image-name="Melisandre S5.jpg" data-image-key="Melisandre_S5.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Melisandre S5.jpg (45 KB)" class="thumbimage lzy lzyPlcHld" alt="Melisandre S5" data-image-name="Melisandre S5.jpg" data-image-key="Melisandre_S5.jpg" data-src="http://vignette3.wikia.nocookie.net/gameofthrones/images/3/3e/Melisandre_S5.jpg/revision/latest/scale-to-width-down/132?cb=20150415185831" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Melisandre at Castle Black in <a href="/wiki/Season_5" title="Season 5">Season 5</a>.</div></div></div><div class="wikia-gallery-row"><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="GOT507_120914_HS_DSC_77151-jpg" style="position: relative; height:123px; width:185px; top:31px;"><a class="image lightbox" href="/wiki/File:GOT507_120914_HS_DSC_77151.jpg" title="GOT507 120914 HS DSC 77151.jpg (1.08 MB)" style="height:123px; width:185px;"><noscript><img style="" src="http://vignette4.wikia.nocookie.net/gameofthrones/images/c/c4/GOT507_120914_HS_DSC_77151.jpg/revision/latest/scale-to-width-down/185?cb=20150525143307" title="GOT507 120914 HS DSC 77151.jpg (1.08 MB)" class="thumbimage" alt="GOT507 120914 HS DSC 77151" data-image-name="GOT507 120914 HS DSC 77151.jpg" data-image-key="GOT507_120914_HS_DSC_77151.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="GOT507 120914 HS DSC 77151.jpg (1.08 MB)" class="thumbimage lzy lzyPlcHld" alt="GOT507 120914 HS DSC 77151" data-image-name="GOT507 120914 HS DSC 77151.jpg" data-image-key="GOT507_120914_HS_DSC_77151.jpg" data-src="http://vignette4.wikia.nocookie.net/gameofthrones/images/c/c4/GOT507_120914_HS_DSC_77151.jpg/revision/latest/scale-to-width-down/185?cb=20150525143307" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Melisandre asks Stannis for a blood offer of his own daughter.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Melisandre_The_Dance_of_Dragons-jpg" style="position: relative; height:185px; width:123px;"><a class="image lightbox" href="/wiki/File:Melisandre_The_Dance_of_Dragons.jpg" title="Melisandre The Dance of Dragons.jpg (631 KB)" style="height:185px; width:123px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/gameofthrones/images/7/7c/Melisandre_The_Dance_of_Dragons.jpg/revision/latest/scale-to-width-down/123?cb=20150604204859" title="Melisandre The Dance of Dragons.jpg (631 KB)" class="thumbimage" alt="Melisandre The Dance of Dragons" data-image-name="Melisandre The Dance of Dragons.jpg" data-image-key="Melisandre_The_Dance_of_Dragons.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Melisandre The Dance of Dragons.jpg (631 KB)" class="thumbimage lzy lzyPlcHld" alt="Melisandre The Dance of Dragons" data-image-name="Melisandre The Dance of Dragons.jpg" data-image-key="Melisandre_The_Dance_of_Dragons.jpg" data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/7/7c/Melisandre_The_Dance_of_Dragons.jpg/revision/latest/scale-to-width-down/123?cb=20150604204859" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="GOT_S6_37-png" style="position: relative; height:104px; width:185px; top:40.5px;"><a class="image lightbox" href="/wiki/File:GOT_S6_37.png" title="GOT S6 37.png (1.18 MB)" style="height:104px; width:185px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/gameofthrones/images/4/4b/GOT_S6_37.png/revision/latest/scale-to-width-down/185?cb=20160308211737" title="GOT S6 37.png (1.18 MB)" class="thumbimage" alt="GOT S6 37" data-image-name="GOT S6 37.png" data-image-key="GOT_S6_37.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="GOT S6 37.png (1.18 MB)" class="thumbimage lzy lzyPlcHld" alt="GOT S6 37" data-image-name="GOT S6 37.png" data-image-key="GOT_S6_37.png" data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/4/4b/GOT_S6_37.png/revision/latest/scale-to-width-down/185?cb=20160308211737" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div></div><div class="wikia-gallery-row"><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="GOT_S6_08-png" style="position: relative; height:104px; width:185px; top:40.5px;"><a class="image lightbox" href="/wiki/File:GOT_S6_08.png" title="GOT S6 08.png (975 KB)" style="height:104px; width:185px;"><noscript><img style="" src="http://vignette3.wikia.nocookie.net/gameofthrones/images/2/22/GOT_S6_08.png/revision/latest/scale-to-width-down/185?cb=20160308212734" title="GOT S6 08.png (975 KB)" class="thumbimage" alt="GOT S6 08" data-image-name="GOT S6 08.png" data-image-key="GOT_S6_08.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="GOT S6 08.png (975 KB)" class="thumbimage lzy lzyPlcHld" alt="GOT S6 08" data-image-name="GOT S6 08.png" data-image-key="GOT_S6_08.png" data-src="http://vignette3.wikia.nocookie.net/gameofthrones/images/2/22/GOT_S6_08.png/revision/latest/scale-to-width-down/185?cb=20160308212734" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div></div><a class="wikia-photogallery-add wikia-button noprint" style="display: none"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite photo" width="26" height="16" />Add a photo to this gallery</a></div><script>JSSnippetsStack.push({dependencies:[{"url":"http://slot1.images1.wikia.nocookie.net/__am/1467115692/group/-/wikia_photo_gallery_js","type":"js"},{"url":"http://slot1.images4.wikia.nocookie.net/__am/1467115692/sass/background-dynamic%3Dtrue%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb20150716154804%252Fgameofthrones%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1920%26color-body%3D%2523000%26color-body-middle%3D%2523000000%26color-buttons%3D%25231e5467%26color-header%3D%25235f4416%26color-links%3D%252347518e%26color-page%3D%2523d7cbab%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/extensions/wikia/WikiaPhotoGallery/css/gallery.scss","type":"css"}],callback:function(json){WikiaPhotoGalleryView.init(json)},id:"WikiaPhotoGalleryView.init"})</script>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="editsection"><a href="/wiki/Melisandre?action=edit&amp;section=11" title="Edit Behind the scenes section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<ul><li><a href="/wiki/Carice_van_Houten" title="Carice van Houten">Carice van Houten</a> was previously asked to audition for the role of Cersei Lannister when <a href="/wiki/Season_1" title="Season 1">Season 1</a> was shot, but schedule conflicts prevented her from auditioning. She was asked to come back to audition during the shooting of <a href="/wiki/Season_2" title="Season 2">Season 2</a>, and was cast as Melisandre. <sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[28]</a></sup>
+</li></ul>
+<h2><span class="mw-headline" id="In_the_books">In the books</span><span class="editsection"><a href="/wiki/Melisandre?action=edit&amp;section=12" title="Edit In the books section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<p>In the <i><a href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, Melisandre is a priestess of the red god, R'hllor, the <a href="/wiki/Lord_of_Light" title="Lord of Light" class="mw-redirect">Lord of Light</a>, whose worship involves the idolization of fire and light. R'hllor is a popular deity in several of the <a href="/wiki/Free_Cities" title="Free Cities">Free Cities</a> (particularly <a href="/wiki/Lys" title="Lys">Lys</a>, <a href="/wiki/Myr" title="Myr">Myr</a>, and <a href="/wiki/Volantis" title="Volantis">Volantis</a>) but is almost unheard of in Westeros. Although the series has altered some of Melisandre's actions, van Houten's portrayal is overall consistent with Melisandre as described in the books.
+</p><p>Very little has been revealed about Melisandre's earlier life, other than that she is originally from the city of Asshai in the distant east. Melisandre recalls that as a small child, she was a slave named "Melony". At the slave auction block, she was known as "Lot Seven". She was sold at a young age to the temple of the Lord of Light in Asshai, eventually rising to become a priestess, and thus has spent most of her life in the service of the religion.
+</p><p>In <i>A Clash of Kings</i>, Melisandre "gives birth" to two shadows, the first against Renly and the second - being the one that Davos bears witness to - against Ser Cortnay Penrose, the castellan of Storm's End. He ferries Melisandre into the caves beneath Storm's End because the castle is an ancient stronghold, and guarded against magic. To accomplish this he employs the same route, and "smuggler's tricks" he used when smuggling onions and dried fish into the castle during the <a href="/wiki/Siege_of_Storm%27s_End" title="Siege of Storm's End">Siege of Storm's End</a> in <a href="/wiki/Robert%27s_Rebellion" title="Robert's Rebellion">Robert's Rebellion</a>. The TV series condensed this into just one incident.
+</p><p>After Melisandre arrives at Castle Black, she oddly continues to wear light clothing not well suited to the sub-arctic cold at the Wall - her magical powers apparently give her all the heat she needs. Her powers also allow her to only sleep for one hour a night: she dislikes sleeping more than the bare minimum she has to, because she has nightmares about her time as a slave. She takes an interest in Jon Snow, and whenever she looks into the flames for visions of Azor Ahai, who she believes to be Stannis, all she sees are visions of Jon.
+</p><p>Melisandre does not travel with Stannis's host to Winterfell but stays in Castle Black. She repeatedly warns Jon of "<a href="/wiki/Mutiny_at_Castle_Black" title="Mutiny at Castle Black">daggers in the dark</a>", but he refuses to listen, especially after she tells him of a vision she has had of <a href="/wiki/Arya_Stark" title="Arya Stark">Arya Stark</a> fleeing through the North and finding Jon at the Wall, and the girl turns out to be Alys Karstark.
+</p><p>Her appearance is slightly different in the books. She is described as having red eyes and being taller than most men. Carice van Houten, who plays Melisandre, has blue eyes and is not particulary tall, her height being 5 foot 6.5 inches (169 cm). Melisandre's hair is noted to be much redder than that of a natural redhead, but this was easily addressed with a wig.
+</p><p>Melisandre's name did not appear in the Season 1 <a href="/wiki/Pronunciation_guide" title="Pronunciation guide">Pronunciation guide</a>, but the phonetic pronunciation of her name was later seen written out in a behind-the-scenes short video: "meh-liss-AHN-dreh".<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[29]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="editsection"><a href="/wiki/Melisandre?action=edit&amp;section=13" title="Edit See also section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<ul><li> <a href="http://vignette1.wikia.nocookie.net/gameofthrones/images/6/63/A_Wiki_of_Ice_and_Fire_favicon.PNG/revision/latest?cb=20140327143233" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="A Wiki of Ice and Fire favicon"  	class="lzy lzyPlcHld " 	 	data-image-key="A_Wiki_of_Ice_and_Fire_favicon.PNG" 	data-image-name="A Wiki of Ice and Fire favicon.PNG" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/6/63/A_Wiki_of_Ice_and_Fire_favicon.PNG/revision/latest?cb=20140327143233"  	 width="32"  	 height="32"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/6/63/A_Wiki_of_Ice_and_Fire_favicon.PNG/revision/latest?cb=20140327143233" 	 alt="A Wiki of Ice and Fire favicon"  	class="" 	 	data-image-key="A_Wiki_of_Ice_and_Fire_favicon.PNG" 	data-image-name="A Wiki of Ice and Fire favicon.PNG" 	 	 width="32"  	 height="32"  	 	 	 	></noscript></a> <a href="http://awoiaf.westeros.org/index.php/Melisandre" class="extiw exitstitial" title="awoiaf:Melisandre">Melisandre</a> on <a rel="nofollow" class="external text exitstitial" href="http://awoiaf.westeros.org/">A Wiki of Ice and Fire</a> (MAJOR spoilers from the books)
+</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="editsection"><a href="/wiki/Melisandre?action=edit&amp;section=14" title="Edit References section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<div class="references-small" style="-moz-column-count:2; -webkit-column-count:2; column-count:2;">
+<ol class="references"><li id="cite_note-0"><a href="#cite_ref-0">↑</a> <span class="reference-text"><a rel="nofollow" class="external text exitstitial" href="http://viewers-guide.hbo.com/game-of-thrones/season2/#!/guide/houses/sbaratheon/melisandre/">HBO viewers guide, season 2 guide to houses, House Baratheon of Dragonstone - Melisandre entry</a></span>
+</li>
+<li id="cite_note-E11-1">↑ <sup><a href="#cite_ref-E11_1-0">2.0</a></sup> <sup><a href="#cite_ref-E11_1-1">2.1</a></sup> <sup><a href="#cite_ref-E11_1-2">2.2</a></sup> <span class="reference-text">"<a href="/wiki/The_North_Remembers" title="The North Remembers">The North Remembers</a>"</span>
+</li>
+<li id="cite_note-E12-2">↑ <sup><a href="#cite_ref-E12_2-0">3.0</a></sup> <sup><a href="#cite_ref-E12_2-1">3.1</a></sup> <span class="reference-text">"<a href="/wiki/The_Night_Lands" title="The Night Lands">The Night Lands</a>"</span>
+</li>
+<li id="cite_note-E14-3">↑ <sup><a href="#cite_ref-E14_3-0">4.0</a></sup> <sup><a href="#cite_ref-E14_3-1">4.1</a></sup> <sup><a href="#cite_ref-E14_3-2">4.2</a></sup> <sup><a href="#cite_ref-E14_3-3">4.3</a></sup> <sup><a href="#cite_ref-E14_3-4">4.4</a></sup> <span class="reference-text">"<a href="/wiki/Garden_of_Bones" title="Garden of Bones">Garden of Bones</a>"</span>
+</li>
+<li id="cite_note-4"><a href="#cite_ref-4">↑</a> <span class="reference-text">"<a href="/wiki/The_Ghost_of_Harrenhal" title="The Ghost of Harrenhal">The Ghost of Harrenhal</a>"</span>
+</li>
+<li id="cite_note-5"><a href="#cite_ref-5">↑</a> <span class="reference-text">"<a href="/wiki/Blackwater" title="Blackwater">Blackwater</a>"</span>
+</li>
+<li id="cite_note-6"><a href="#cite_ref-6">↑</a> <span class="reference-text">"<a href="/wiki/Valar_Morghulis" title="Valar Morghulis">Valar Morghulis</a>"</span>
+</li>
+<li id="cite_note-7"><a href="#cite_ref-7">↑</a> <span class="reference-text">"<a href="/wiki/Valar_Dohaeris" title="Valar Dohaeris">Valar Dohaeris</a>"</span>
+</li>
+<li id="cite_note-8"><a href="#cite_ref-8">↑</a> <span class="reference-text">"<a href="/wiki/The_Climb" title="The Climb">The Climb</a>"</span>
+</li>
+<li id="cite_note-9"><a href="#cite_ref-9">↑</a> <span class="reference-text">"<a href="/wiki/Second_Sons_(episode)" title="Second Sons (episode)">Second Sons (episode)</a>"</span>
+</li>
+<li id="cite_note-10"><a href="#cite_ref-10">↑</a> <span class="reference-text">"<a href="/wiki/Mhysa" title="Mhysa">Mhysa</a>"</span>
+</li>
+<li id="cite_note-11"><a href="#cite_ref-11">↑</a> <span class="reference-text">"<a href="/wiki/The_Lion_and_the_Rose" title="The Lion and the Rose">The Lion and the Rose</a>"</span>
+</li>
+<li id="cite_note-12"><a href="#cite_ref-12">↑</a> <span class="reference-text">"<a href="/wiki/Mockingbird" title="Mockingbird">Mockingbird</a>"</span>
+</li>
+<li id="cite_note-13"><a href="#cite_ref-13">↑</a> <span class="reference-text">"<a href="/wiki/The_Children" title="The Children">The Children</a>"</span>
+</li>
+<li id="cite_note-14"><a href="#cite_ref-14">↑</a> <span class="reference-text">"<a href="/wiki/The_Wars_to_Come" title="The Wars to Come">The Wars to Come</a>"</span>
+</li>
+<li id="cite_note-15"><a href="#cite_ref-15">↑</a> <span class="reference-text">"<a href="/wiki/Sons_of_the_Harpy_(episode)" title="Sons of the Harpy (episode)">Sons of the Harpy (episode)</a>"</span>
+</li>
+<li id="cite_note-16"><a href="#cite_ref-16">↑</a> <span class="reference-text">"<a href="/wiki/Kill_the_Boy" title="Kill the Boy">Kill the Boy</a>"</span>
+</li>
+<li id="cite_note-17"><a href="#cite_ref-17">↑</a> <span class="reference-text">"<a href="/wiki/The_Gift_(episode)" title="The Gift (episode)">The Gift (episode)</a></span>
+</li>
+<li id="cite_note-18"><a href="#cite_ref-18">↑</a> <span class="reference-text">"<a href="/wiki/The_Dance_of_Dragons" title="The Dance of Dragons">The Dance of Dragons</a>"</span>
+</li>
+<li id="cite_note-19"><a href="#cite_ref-19">↑</a> <span class="reference-text"><a href="/wiki/Mother%27s_Mercy" title="Mother's Mercy">Mother's Mercy</a></span>
+</li>
+<li id="cite_note-20"><a href="#cite_ref-20">↑</a> <span class="reference-text"><a href="/wiki/The_Red_Woman" title="The Red Woman">The Red Woman</a></span>
+</li>
+<li id="cite_note-21"><a href="#cite_ref-21">↑</a> <span class="reference-text"><a href="/wiki/Home" title="Home">Home</a></span>
+</li>
+<li id="cite_note-22"><a href="#cite_ref-22">↑</a> <span class="reference-text">"<a href="/wiki/Oathbreaker" title="Oathbreaker">Oathbreaker</a>"</span>
+</li>
+<li id="cite_note-23"><a href="#cite_ref-23">↑</a> <span class="reference-text">"<a href="/wiki/Book_of_the_Stranger" title="Book of the Stranger">Book of the Stranger</a>"</span>
+</li>
+<li id="cite_note-24"><a href="#cite_ref-24">↑</a> <span class="reference-text">"<a href="/wiki/The_Door" title="The Door">The Door</a>"</span>
+</li>
+<li id="cite_note-25"><a href="#cite_ref-25">↑</a> <span class="reference-text">"<a href="/wiki/Battle_of_the_Bastards" title="Battle of the Bastards">Battle of the Bastards</a>"</span>
+</li>
+<li id="cite_note-26"><a href="#cite_ref-26">↑</a> <span class="reference-text"><a href="/wiki/The_Winds_of_Winter" title="The Winds of Winter">The Winds of Winter</a></span>
+</li>
+<li id="cite_note-27"><a href="#cite_ref-27">↑</a> <span class="reference-text">"<a rel="nofollow" class="external autonumber exitstitial" href="http://www.imdb.com/title/tt0944947/trivia">[1]</a>"</span>
+</li>
+<li id="cite_note-28"><a href="#cite_ref-28">↑</a> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=L2p9dRl0yYo">"Long Story Short: The creation of Game of Thrones"</a></span>
+</li></ol></div>
+<table class="collapsible collapsed;" style="clear: right; width: 98%; border: solid #aaa 1px; margin: 0 auto; font-size: 95%; padding: 10px; text-align: left;">
+
+<tr>
+<th style="text-align: center; font-size:125%; color:black;" bgcolor="#C19A6B" colspan="6"> <div style="float:left; text-align:left; width:6em;"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small;&#160;;"><a href="/wiki/Template:Dragonstone_Baratheon_navbox" title="Template:Dragonstone Baratheon navbox"><span title="View this template" style=";">v</span></a>&#160;<span style="font-size: 80%;">•</span>&#160;<span class="plainlinks"><a  class="text" href="http://gameofthrones.wikia.com/wiki/Template_talk:Dragonstone_Baratheon_navbox"><span style=";" title="Discussion about this template">d</span></a></span>&#160;<span style="font-size: 80%;">•</span>&#160;<a  class="text" href="http://gameofthrones.wikia.com/wiki/Template:Dragonstone_Baratheon_navbox?action=edit"><span style=";" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><div style="text-align:centre"><span style=""><a href="/wiki/House_Baratheon_of_Dragonstone" title="House Baratheon of Dragonstone">House Baratheon of Dragonstone</a></span></div>
+</th></tr>
+<tr style="vertical-align: top;">
+<td><b>Lord:</b>
+</td><td>None
+</td><td><b>Heir:</b>
+</td><td>None
+</td><td style="horizontal-align: right;" rowspan="3" colspan="2"><a href="http://vignette4.wikia.nocookie.net/gameofthrones/images/3/3a/House-Baratheon-of-Dragonstone-heraldry.jpg/revision/latest?cb=20140402114950" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="House-Baratheon-of-Dragonstone-heraldry"  	class="lzy lzyPlcHld " 	 	data-image-key="House-Baratheon-of-Dragonstone-heraldry.jpg" 	data-image-name="House-Baratheon-of-Dragonstone-heraldry.jpg" 	 data-src="http://vignette4.wikia.nocookie.net/gameofthrones/images/3/3a/House-Baratheon-of-Dragonstone-heraldry.jpg/revision/latest/scale-to-width-down/100?cb=20140402114950"  	 width="100"  	 height="100"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette4.wikia.nocookie.net/gameofthrones/images/3/3a/House-Baratheon-of-Dragonstone-heraldry.jpg/revision/latest/scale-to-width-down/100?cb=20140402114950" 	 alt="House-Baratheon-of-Dragonstone-heraldry"  	class="" 	 	data-image-key="House-Baratheon-of-Dragonstone-heraldry.jpg" 	data-image-name="House-Baratheon-of-Dragonstone-heraldry.jpg" 	 	 width="100"  	 height="100"  	 	 	 	></noscript></a>
+</td></tr>
+<tr>
+<td><b>Seat:</b>
+</td><td><a href="/wiki/Dragonstone_(castle)" title="Dragonstone (castle)">Dragonstone</a>
+</td><td><b>Lands:</b>
+</td><td><a href="/wiki/Blackwater_Bay" title="Blackwater Bay">Blackwater Bay</a> and <a href="/wiki/The_Stormlands" title="The Stormlands">the Stormlands</a>
+</td></tr>
+<tr>
+<td><b>Title(s):</b>
+</td><td colspan="3"><a href="/wiki/Lord_of_Dragonstone" title="Lord of Dragonstone">Lord of Dragonstone</a>
+</td></tr>
+
+<tr>
+<td><b>Current members:</b></td><td colspan="5"><i>Extinct</i>
+</td></tr>
+<tr>
+<td><b>Deceased members:</b></td><td colspan="5"><a href="/wiki/Stannis_Baratheon" title="Stannis Baratheon">King Stannis Baratheon</a> <b>·</b> <a href="/wiki/Selyse_Baratheon" title="Selyse Baratheon">Queen Selyse Florent</a> <b>·</b> <a href="/wiki/Shireen_Baratheon" title="Shireen Baratheon">Princess Shireen Baratheon</a> <b>·</b> <a href="/wiki/Petyr_Baratheon" title="Petyr Baratheon">Petyr Baratheon</a> <b>·</b> <a href="/wiki/Tommard_Baratheon" title="Tommard Baratheon">Tommard Baratheon</a> <b>·</b> <a href="/wiki/Edric_Baratheon" title="Edric Baratheon">Edric Baratheon</a>
+</td></tr>
+<tr>
+<td><b>Household:</b></td><td colspan="5">{<a href="/wiki/Cressen" title="Cressen">Maester Cressen</a>} <b>·</b> <strong class="selflink">Lady Melisandre</strong> <b>·</b> {<a href="/wiki/Axell_Florent" title="Axell Florent">Lord Axell Florent</a>} <b>·</b> <a href="/wiki/Davos_Seaworth" title="Davos Seaworth">Ser Davos Seaworth</a> <b>·</b> <a href="/wiki/Imry_Florent" title="Imry Florent">Ser Imry Florent</a> <b>·</b> {<a href="/wiki/Matthos_Seaworth" title="Matthos Seaworth">Matthos Seaworth</a>} <b>·</b> <a href="/wiki/Bert" title="Bert">Bert</a> <b>·</b> {<a href="/wiki/Baratheon_General" title="Baratheon General">General</a>}
+</td></tr>
+
+</table>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 1636/300000
+Post‐expand include size: 16198/2097152 bytes
+Template argument size: 2986/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key gameofthrones:pcache:idhash:4370-0!*!0!!en!2!* -->
+<section id="RelatedForumDiscussion" class="RelatedForumDiscussion">
+	<h2>
+		<a class="button forum-new-post" href="http://gameofthrones.wikia.com/wiki/Topic:Melisandre?openEditor=1" title="Start a new discussion about Melisandre">Start a Discussion</a>
+		Discussions about Melisandre	</h2>
+	<div class="forum-content">
+		<ul class="forum-discussions">
+							<li class="forum-thread">
+					<img class="sprite talk-two" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+					<h4>
+						<a href="http://gameofthrones.wikia.com/wiki/Thread:43184" class="forum-thread-title">
+							Jon's resurrection. Life for a life? Breathing with gaping chest wounds?						</a>
+					</h4>
+											<div class="forum-total-replies">3 messages</div>
+										<ul class="forum-replies">
+						
+													<li class="forum-reply">
+	<img class="forum-user-avatar" src="http://img4.wikia.nocookie.net/__cb0/messaging/images/thumb/1/19/Avatar.jpg/50px-Avatar.jpg">
+	<div class="forum-user-name">
+		<a href="/wiki/Special:Contributions/114.71.100.55">A Wikia contributor</a>
+	</div>
+	<div class="forum-message-body">
+		Martin's rule is not always life for life. For general magic, the greater the magic, the greater the price and blood must be paid for blood. E...		<time class="forum-timestamp timeago" datetime="2016-05-25T11:58:44Z">2016-05-25T11:58:44Z</time>
+	</div>
+</li>
+													<li class="forum-reply">
+	<img class="forum-user-avatar" src="http://static.wikia.nocookie.net/7eeeb00c-aacc-4829-8985-76901770c67b/scale-to-width-down/50">
+	<div class="forum-user-name">
+		<a href="http://gameofthrones.wikia.com/wiki/User_talk:The_Dragon_Demands">The Dragon Demands</a>
+	</div>
+	<div class="forum-message-body">
+		as with Beric Dondarrion, the wounds fill with a lot of scar tissue.		<time class="forum-timestamp timeago" datetime="2016-05-27T17:10:58Z">2016-05-27T17:10:58Z</time>
+	</div>
+</li>
+											</ul>
+				</li>
+					</ul>
+		<div class="forum-see-more">
+			<a href="http://gameofthrones.wikia.com/wiki/Topic:Melisandre">See more discussions &gt;</a>
+		</div>
+	</div>
+</section>
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://gameofthrones.wikia.com/wiki/Melisandre?oldid=274973">http://gameofthrones.wikia.com/wiki/Melisandre?oldid=274973</a>"</div>
+
+				</div>
+
+															<nav class="article-categories CategorySelect articlePage userCanEdit" id="articleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="Characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Characters" title="Category:Characters">Characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Major Characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Major_Characters" title="Category:Major Characters">Major Characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Status: Alive" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Status:_Alive" title="Category:Status: Alive">Status: Alive</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Season 2 Characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Season_2_Characters" title="Category:Season 2 Characters">Season 2 Characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Lord of Light" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Lord_of_Light" title="Category:Lord of Light">Lord of Light</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="House Baratheon of Dragonstone" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:House_Baratheon_of_Dragonstone" title="Category:House Baratheon of Dragonstone">House Baratheon of Dragonstone</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Season 3 Characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Season_3_Characters" title="Category:Season 3 Characters">Season 3 Characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Characters from Asshai" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Characters_from_Asshai" title="Category:Characters from Asshai">Characters from Asshai</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Slaves and freedmen" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Slaves_and_freedmen" title="Category:Slaves and freedmen">Slaves and freedmen</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Season 4 Characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Season_4_Characters" title="Category:Season 4 Characters">Season 4 Characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Red Priests" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Red_Priests" title="Category:Red Priests">Red Priests</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Season 5 Characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Season_5_Characters" title="Category:Season 5 Characters">Season 5 Characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Clergy" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Clergy" title="Category:Clergy">Clergy</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Season 6 Characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Season_6_Characters" title="Category:Season 6 Characters">Season 6 Characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+							<li class="last">
+					<button class="wikia-button secondary add" id="CategorySelectAdd" type="button">Add category</button>
+					<input autocomplete="off" class="input" id="CategorySelectInput" name="CategorySelectInput" placeholder="Add category..." type="text">				</li>
+					</ul>
+	</div>
+			<div class="toolbar">
+			<button class="wikia-button secondary cancel" id="CategorySelectCancel" type="button">Cancel</button>
+			<button class="wikia-button save" id="CategorySelectSave" type="button" disabled="disabled">Save</button>
+		</div>
+	</nav>									
+				<nav class="WikiaArticleInterlang">
+	<h3>Languages: </h3>
+	<ul>
+			<li><a href="http://de.gameofthrones.wikia.com/wiki/Melisandre">Deutsch</a></li>
+			<li><a href="http://hieloyfuego.wikia.com/wiki/Melisandre">Español</a></li>
+			<li><a href="http://ru.gameofthrones.wikia.com/wiki/%D0%9C%D0%B5%D0%BB%D0%B8%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0">Русский</a></li>
+			<li><a href="http://graotron.wikia.com/wiki/Melisandre">Polski</a></li>
+			<li><a href="http://it.iltronodispade.wikia.com/wiki/Melisandre">Italiano</a></li>
+			<li><a href="http://lt.gameofthrones.wikia.com/wiki/Melisandre">Lietuvių</a></li>
+			<li><a href="http://pt-br.gameofthrones.wikia.com/wiki/Melisandre">Português do Brasil</a></li>
+			<li><a href="http://zh.asoiaf.wikia.com/wiki/%E6%A2%85%E4%B8%BD%E7%8F%8A%E5%8D%93">中文</a></li>
+			<li><a href="http://ja.gameofthrones.wikia.com/wiki/%E3%83%A1%E3%83%AA%E3%82%B5%E3%83%B3%E3%83%89%E3%83%AB">日本語</a></li>
+		</ul>
+</nav>
+
+				
+
+
+
+
+<script>
+    if (typeof(Wikia.geo) !== 'undefined' && ['US'].indexOf(Wikia.geo.getCountryCode()) >= 0) {
+        document.write('<aside id="monetization-amazon_video-below_category" class="monetization-module amazon-video hide-for-edit below-category amazon-video-full" data-mon-type="amazon_video" data-mon-slot="below_category"><div class="affiliate" data-mon-pid="B00HV2BQCQ" data-mon-ptag="gameofthrones-melisandre-130814-4370-B00HV2BQCQ-piv-fl-npr-bc-f" data-mon-pname="Game of Thrones: Season 3"><div class="affiliate-header"><a class="product-thumb" target="_blank" href="http://www.amazon.com/gp/product/B00HV2BQCQ/ref=atv_feed_catalog?tag=wikia-monsvc-bc-pvn-20&ascsubtag=gameofthrones-melisandre-130814-4370-B00HV2BQCQ-piv-fl-npr-bc-f"><img  src="http://ecx.images-amazon.com/images/I/41iUz4aNrmL._SX320_SY240_.jpg"></a></div><a class="product-name" target="_blank" href="http://www.amazon.com/gp/product/B00HV2BQCQ/ref=atv_feed_catalog?tag=wikia-monsvc-bc-pvn-20&ascsubtag=gameofthrones-melisandre-130814-4370-B00HV2BQCQ-piv-fl-npr-bc-f"><span class="product-title">Game of Thrones: Season 3</span><span class="product-detail">Season 3</span><span class="rating-bar"><span class="rating" style="width: 100.0%"></span></span></a><div class="product-button non-prime"><a class="amazon-logo" target="_blank" href="http://www.amazon.com/gp/product/B00HV2BQCQ/ref=atv_feed_catalog?tag=wikia-monsvc-bc-pvn-20&ascsubtag=gameofthrones-melisandre-130814-4370-B00HV2BQCQ-piv-fl-npr-bc-f"></a><a class="product-btn" target="_blank" href="http://www.amazon.com/gp/product/B00HV2BQCQ/ref=atv_feed_catalog?tag=wikia-monsvc-bc-pvn-20&ascsubtag=gameofthrones-melisandre-130814-4370-B00HV2BQCQ-piv-fl-npr-bc-f"></a></div></div></aside>');
+    } else 
+
+
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['AU','CA','DE','GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write('<div id="monetization-adunit-below_category" class="monetization-module adunit hide-for-edit below-category" data-mon-type="adunit" data-mon-slot="below_category"><div class="ad-header">Advertisement</div><div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><ins class="adsbygoogle ad-responsive" style="display:inline-block;" data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_bc_fss_fft mon_hub_tv mon_sl_bc" data-ad-type="text" data-font-size="small"data-font-face="times" data-color-bg="#d7cbab" data-color-border="#d7cbab" data-color-link="#47518e" data-color-url="#47518e" data-color-text="#3a3a3a" ></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt></div></div>');
+}
+</script>
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+							<!-- BEGIN CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<div id="NATIVE_TABOOLA_ARTICLE">
+		<script>
+			window.adslots2.push(["NATIVE_TABOOLA_ARTICLE"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+<div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+								<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+										<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+						<div id="WikiaRail" class="WikiaRail">
+
+		<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+					<div class="loading"></div>
+		
+	</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	<div id="BOTTOM_LEADERBOARD"></div>
+	
+			<section>
+	<div class="header-container">
+		<h2>Around Wikia's network</h2>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/130814" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer">
+	<nav>
+		<div class="branding vertical-tv black">
+			<a class="wikia-logo" href="http://tvhub.wikia.com/wiki/TV_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>TV</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com/wiki/Help:Contents">Help</a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Sitemap">Global Sitemap</a>
+									</li>
+							<li>
+											<a href="/wiki/Special:AllPages">Local Sitemap</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Vacation like an Avenger. Explore real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;},{&quot;text&quot;:&quot;Vacation like an Avenger. Explore real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;},{&quot;text&quot;:&quot;Vacation like an Avenger. Explore real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;},{&quot;text&quot;:&quot;Vacation like an Avenger. Explore real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;},{&quot;text&quot;:&quot;Vacation like an Avenger. Explore real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["GPT_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: EVOLVE_FLUSH -->
+<div id="EVOLVE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["EVOLVE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: EVOLVE_FLUSH -->
+<!-- BEGIN SLOTNAME: HITMEDIA_FLUSH -->
+<div id="HITMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["HITMEDIA_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: HITMEDIA_FLUSH -->
+<!-- BEGIN SLOTNAME: TURTLE_FLUSH -->
+<div id="TURTLE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TURTLE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TURTLE_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"gameofthrones","kv_article_id":4370,"kv_wpage":"Melisandre","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"media=tv;genre=fantasy;tv=hbo;sex=m;age=18-24;age=18-34;age=25-34;esrb=mature;media=books;gnre=action;gnre=adventure;theme=sword;theme=magic;gnre=drama;gnre=fighting;theme=dragon;theme=mature;theme=zombiesex=m;age=18-24;age=25-34;age=18-34;age=teen;media=tv;media=comics;media=books;gnre=action;theme=zombie;gnre=horror;theme=postapocalypse;gnre=3rdpersonshooter;pform=xbox360;pform=ps3;esrb=mature;tv=amc;sex=m;age=13-17;age=18-24;age=under18;age=kids;age=teen;gnre=anime;media=tv;media=comics;gnre=fighting;gnre=fantasyage=under18;age=18-24;age=teen;age=kids;media=tv;media=comics;media=cards;gnre=anime;gnre=fantasy;gnre=fighting;gnre=action;gnre=adventure;pform=xbox360;pform=ps3;pform=wii;pform=ds;esrb=teen;tv=cn;theme=heroes;tv=onhulu;tv=hulu","kv_domain":"gameofthrones.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://gameofthrones.wikia.com/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26newve%3D1%26only%3Dscripts%26skin%3Doasis/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgPageName":"Melisandre","wgTitle":"Melisandre","wgCurRevisionId":274973,"wgArticleId":4370,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Characters","Major Characters","Status: Alive","Season 2 Characters","Lord of Light","House Baratheon of Dragonstone","Season 3 Characters","Characters from Asshai","Slaves and freedmen","Season 4 Characters","Red Priests","Season 5 Characters","Clergy","Season 6 Characters"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Melisandre","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"true","background-image":"http://img4.wikia.nocookie.net/__cb20150716154804/gameofthrones/images/5/50/Wiki-background","background-image-height":"720","background-image-width":"1920","color-body":"#000","color-body-middle":"#000000","color-buttons":"#1e5467","color-header":"#5f4416","color-links":"#47518e","color-page":"#d7cbab","oasisTypography":1,"page-opacity":"100","widthType":0},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"Game of Thrones Wiki","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1467115692/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1467115692/common","wgSitename":"Game of Thrones Wiki","wgMWrevId":false,"wgRevisionId":274973,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableNewAuthModal":true,"wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgWikiaMaxNameChars":50,"wgMinimalPasswordLength":1,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=Melisandre","fbReturnToTitle":"Melisandre","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":[],"wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"1200":true,"500":true,"501":true,"502":true,"503":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":true,"interactiveMapsApiURL":"http://maps.wikia-services.com:80/api/v1","VignettePathPrefix":null,"reCaptchaPublicKey":"6LdDSA4TAAAAANZDWjPdTiQcYsTuge5fMPQTd7D_","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgEnablePortableInfoboxBuilderInVE":true,"wgEnableVisualEditorTourExperiment":true,"wgOasisResponsive":false,"wgOasisBreakpoints":true,"verticalName":"Entertainment","wgArticleInterlangList":["de:Melisandre","es:Melisandre","it:Melisandre","lt:Melisandre","pl:Melisandre","pt-br:Melisandre","ru:Мелисандра","zh:梅丽珊卓","ja:メリサンドル"],"WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgContentReviewExtEnabled":true,"wgContentReviewTestModeEnabled":false,"wgReviewedScriptsTimestamp":"1441727506","wgScriptsTimestamp":"1332971928","wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"Melisandre"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"editor":2,"enotifwallthread":2,"wallshowsource":false,"walldelete":false,"founderemails-joins-130814":0,"founderemails-edits-130814":0,"founderemails-views-digest-130814":0,"founderemails-complete-digest-130814":0,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true,"searchNs15":false,"searchNs110":false,"searchNs111":false,"searchNs500":false,
+"searchNs501":false,"searchNs502":false,"searchNs503":false,"searchNs828":false,"searchNs829":false,"searchNs1000":false,"searchNs1010":false,"searchNs1020":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"searchNs2000":false,"searchNs2001":false,"searchNs2002":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: gameofthrones:resourceloader:filter:minify-js:7:5ffb247b4f4ef073d23e4edf309a4c85 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikia.viewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.bannerNotifications","ext.cookiePolicyMessages","ext.userLogin"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1467115692/groups/-/oasis_shared_core_js,oasis_shared_js,oasis_anon_js,adengine2_oasis_exitstitial_js,adengine2_desktop_js,liftium_ads_js,liftium_ads_extra_js,adengine2_gcs_js,adengine2_taboola_js,adengine2_revcontent_js,adengine2_interactive_maps_js,recirculation_trackers_js,recirculation_js,toc_js,qualaroo_js,wikia_maps_contribution_button_create_map_js,spotlights_js,relatedpages_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1467115692/group/-/videos_module_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1467115692/group/-/auth_modal_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1467115692/group/-/cookie_policy_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1467115692/group/-/wikia_in_your_lang_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1467115692/group/-/portable_infobox_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1467115692/group/-/visit_source_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1467115692/group/-/community_page_benefits_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1467115692/group/-/visual_editor_tour_experiment_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=AdEngine%2CConfirmModal%2CImagePlaceholder%2COasis-generic%2CRecirculation%2CVideosModule&amp;uselang=en&amp;cb=1467115692.274219.0"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1467115692/group/-/monetization_module_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1467115692/group/-/global_navigation_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1467115692/group/-/page_share_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1467115692/group/-/global_footer_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://gameofthrones.wikia.com/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://gameofthrones.wikia.com/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26reviewed%3D1441727506%26skin%3Doasis/site"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1467115692/group/-/facebook_client_fbtags_js"></script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/Forum\/css\/ForumTag.scss","extensions\/wikia\/Recirculation\/styles\/recirculation.scss","extensions\/wikia\/PortableInfobox\/styles\/PortableInfobox.scss","extensions\/wikia\/CommunityPage\/styles\/benefitsModal\/benefitsModal.scss","extensions\/wikia\/VisualEditorTourExperiment\/styles\/VisualEditorTourExperimentInit.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModule.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationUserLoginDropdown.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationNotifications.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","extensions\/wikia\/GlobalNavigation\/styles\/GoogleSearchAPI.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/PageShare\/styles\/PageShare.scss","extensions\/wikia\/GlobalFooter\/styles\/GlobalFooter.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+</body>
+
+
+
+</html>

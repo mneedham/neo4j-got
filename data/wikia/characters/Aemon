@@ -1,0 +1,1582 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.24" />
+<meta name="keywords" content="Game of Thrones Wiki,gameofthrones,Aemon,Season 1,Season 3,Season 4,Season 5,Lord Snow,The Gift (episode),Maesters,Prince,Red Keep,King's Landing" />
+<meta name="description" content="Maester Aemon is a recurring character in the first, third, fourth and fifth seasons. He is..." />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Wikia" />
+<meta name="twitter:url" content="http://gameofthrones.wikia.com/wiki/Aemon" />
+<meta name="twitter:title" content="Aemon - Game of Thrones Wiki - Wikia" />
+<meta name="twitter:description" content="Maester Aemon is a recurring character in the first, third, fourth and fifth seasons. He is played by guest star Peter Vaughan and debuts in &quot;Lord Snow.&quot; Aemon is the maester at Castle Black and..." />
+<link rel="canonical" href="http://gameofthrones.wikia.com/wiki/Aemon" />
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/wiki/Aemon?action=edit" />
+<link rel="edit" title="Edit" href="/wiki/Aemon?action=edit" />
+<link rel="apple-touch-icon" href="http://img1.wikia.nocookie.net/__cb87/gameofthrones/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/gameofthrones/images/6/64/Favicon.ico/revision/latest?cb=20120302041013" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Game of Thrones Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://gameofthrones.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="Game of Thrones Wiki Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>Aemon - Game of Thrones Wiki - Wikia</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images3.wikia.nocookie.net/__am/1467115692/sasses/background-dynamic%3Dtrue%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb20150716154804%252Fgameofthrones%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1920%26color-body%3D%2523000%26color-body-middle%3D%2523000000%26color-buttons%3D%25231e5467%26color-header%3D%25235f4416%26color-links%3D%252347518e%26color-page%3D%2523d7cbab%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/skins/oasis/css/oasis.scss,extensions/wikia/Forum/css/ForumTag.scss,extensions/wikia/Recirculation/styles/recirculation.scss,extensions/wikia/PortableInfobox/styles/PortableInfobox.scss,extensions/wikia/CommunityPage/styles/benefitsModal/benefitsModal.scss,extensions/wikia/VisualEditorTourExperiment/styles/VisualEditorTourExperimentInit.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationUserLoginDropdown.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationNotifications.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,extensions/wikia/GlobalNavigation/styles/GoogleSearchAPI.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/PageShare/styles/PageShare.scss,extensions/wikia/GlobalFooter/styles/GlobalFooter.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://slot1.images2.wikia.nocookie.net/__am/1467115692/sasses/background-dynamic%3Dtrue%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb20150716154804%252Fgameofthrones%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1920%26color-body%3D%2523000%26color-body-middle%3D%2523000000%26color-buttons%3D%25231e5467%26color-header%3D%25235f4416%26color-links%3D%252347518e%26color-page%3D%2523d7cbab%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/extensions/wikia/ARecoveryEngine/css/recoveryUnlock.scss" /><link rel="stylesheet" href="http://gameofthrones.wikia.com/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: gameofthrones:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="tv",
+wgWikiCategories=[],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Join the Chat","chat-start-a-chat":"Start a Chat","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live! Chat","chat-edit-count":"$1 edits","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":1,"delayBtf":true,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true,"sourcePointDetectionUrl":"http://gameofthrones.wikia.com/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/57760d8e437e238c3641afedb4a476d1","yavliUrl":"http://gameofthrones.wikia.com/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/38b0394988142491ae86c66ddc260800"},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"esrbRating":"teen","mappedVerticalName":"ent","pageArticleId":2206,"pageIsArticle":true,"pageName":"Aemon","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"media=tv;genre=fantasy;tv=hbo;sex=m;age=18-24;age=18-34;age=25-34;esrb=mature;media=books;gnre=action;gnre=adventure;theme=sword;theme=magic;gnre=drama;gnre=fighting;theme=dragon;theme=mature;theme=zombiesex=m;age=18-24;age=25-34;age=18-34;age=teen;media=tv;media=comics;media=books;gnre=action;theme=zombie;gnre=horror;theme=postapocalypse;gnre=3rdpersonshooter;pform=xbox360;pform=ps3;esrb=mature;tv=amc;sex=m;age=13-17;age=18-24;age=under18;age=kids;age=teen;gnre=anime;media=tv;media=comics;gnre=fighting;gnre=fantasyage=under18;age=18-24;age=teen;age=kids;media=tv;media=comics;media=cards;gnre=anime;gnre=fantasy;gnre=fighting;gnre=action;gnre=adventure;pform=xbox360;pform=ps3;pform=wii;pform=ds;esrb=teen;tv=cn;theme=heroes;tv=onhulu;tv=hulu","wikiDbName":"gameofthrones","wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"tv","newWikiCategories":["ent"]},"providers":{"evolve2":true,"rubiconFastlane":true,"taboola":true},"slots":{"exitstitial":true,"invisibleHighImpact":true},"forcedProvider":null},"runtime":{"sp":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[100056,100057,100058,100059,100397],
+wgWikiFactoryTagNames=["wow","t9","skyscraper","skyscrapperwow","en"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1467115692",
+wgDBname="gameofthrones",
+wgCityId="130814",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=2206,
+wgCategories=["Characters","Recurring Characters","Season 1 Characters","Maesters","House Targaryen","Characters from the Crownlands","Season 3 Characters","Princes","Members of the Night\'s Watch","Season 4 Characters","Nobility","Status: Dead","Season 5 Characters"],
+wgPageName="Aemon",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="character",
+wgNamespaceNumber=0,
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=true,
+wgStyleVersion="1467115692",
+wgTransactionContext={"type":"page/main/view/oasis/parser/complex","env":"prod","hostname":"ap-s248","php_version":"5.6.11","wiki":"gameofthrones","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":false,"size_category":"complex"},
+wgEnableOpenXSPC=true,
+wgEnableReviveSpotlights=true,
+wgSeoTestingBucket=1;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<!-- Nielsen is disabled --><script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1467115692&amp;c=130814&amp;lc=en&amp;lid=75&amp;x=gameofthrones&amp;y=c2&amp;u=0&amp;a=2206&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+		document.write('<img src="http://logs-01.loggly.com/inputs/88a88e56-77c6-49cc-af41-6f44f83fe7fe.gif?message=wikia_beacon_id%20is%20empty" style="position:absolute;top:-1000px" />');
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1467115692&amp;c=130814&amp;lc=en&amp;lid=75&amp;x=gameofthrones&amp;y=c2&amp;u=0&amp;a=2206&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1467115692/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine2_tracking_js,adengine2_amazon_match_js,adengine2_ox_bidder_js,adengine2_rubicon_fastlane_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="Game of Thrones Wiki" />
+	<meta property="og:title" content="Aemon" />
+	<meta property="og:description" content="Maester Aemon is a recurring character in the first, third, fourth and fifth seasons. He is played by guest star Peter Vaughan and debuts in &quot;Lord Snow.&quot; Aemon is the maester at Castle Black and is one of Lord Commander Jeor Mormont's closest advisers in the Night's Watch." />
+	<meta property="og:url" content="http://gameofthrones.wikia.com/wiki/Aemon" />
+	<meta property="og:image" content="http://vignette2.wikia.nocookie.net/gameofthrones/images/3/32/Aemonepisode5.png/revision/latest?cb=20150511170352" />
+<meta name="apple-itunes-app" content="app-id=920825172, app-arguments=http://gameofthrones.wikia.com/wiki/Aemon">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Aemon  TOC_hide oasis-breakpoints wikinav2 skin-oasis  user-anon background-fixed background-not-tiled background-dynamic wiki-gameofthrones" >
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fgameofthrones.wikia.com%2Fwiki%2FAemon%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for RubiconFastlane, page_view -->
+<script id="analytics-provider-rubicon-fastlane">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.rubiconFastlane")
+	], function (geo, instantGlobals, rubiconFastlane) {
+		if (geo.isProperGeo(instantGlobals["wgAdDriverRubiconFastlaneCountries"])) {
+			rubiconFastlane.call();
+		};
+	});
+</script>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.amazonMatch"),
+	], function (geo, globals, amazon) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (geo.isProperGeo(ac)) {
+			amazon.call();
+		}
+	});
+</script>
+
+<!-- Start for OpenXBidder, page_view -->
+<script id="analytics-provider-openx-bidder">
+	require([
+		"wikia.geo",
+		"wikia.querystring",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.openXBidder")
+	], function (geo, Querystring, globals, oxBidder) {
+		var ac = globals["wgAdDriverOpenXBidderCountries"],
+			qs = new Querystring();
+
+		if (geo.isProperGeo(ac) || qs.getVal('oxbidder', '0') === '1') {
+			oxBidder.call();
+		};
+	});
+</script>
+<!-- Begin Krux Tag -->
+<script type="text/javascript">
+	require(['wikia.krux'], function (krux) {
+		krux.load('JU3_GW1b');
+	});
+</script>
+<!-- End Krux Tag -->
+<!-- Begin IVW3 Tag -->
+<script type="text/javascript">
+	var iam_data = {
+		st: 'wikia',
+		cp: 'tv/pc',
+		sv: 'i2'
+	};
+
+	if (window.Wikia &&
+		window.Wikia.InstantGlobals &&
+		!window.Wikia.InstantGlobals.wgSitewideDisableIVW3 &&
+		window.Wikia.geo.isProperGeo(["AT","CH","DE"])
+	) {
+		window.ivw3Initialized = true;
+		document.write('<script type="text/javascript" src="https://script.ioam.de/iam.js"><\/script>');
+		document.write('<script type="text/javascript">window.iom.c(iam_data, 2);<\/script>');
+	}
+</script>
+<!-- End IVW3 Tag -->
+<!-- Unsupported language for AnalyticsProviderIVW2 --><div class="WikiaSiteWrapper">
+	
+	<h2>Wikia</h2>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_LEADERBOARD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_BUTTON_WIDE"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["INVISIBLE_SKIN"]);
+	</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+<div id="InvisibleHighImpactWrapper" class="hidden">
+	<div class="background"></div>
+	<a class="close">
+		<div class="close-button"></div>
+	</a>
+	<div class="label">Advertisement</div>
+	<div id="INVISIBLE_HIGH_IMPACT_2" class="wikia-ad noprint"></div>
+</div>
+<nav class="global-navigation" id="globalNavigation">
+	<div class="global-navigation-container">
+		<div class="wikia-logo-container table-cell">
+			<a href="http://www.wikia.com/fandom"
+				class="wikia-logo final-url"
+				rel="nofollow"
+				data-id="wikia-logo">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+					height="24"
+					width="91"
+					alt="Wikia"
+					title="Wikia">
+									<span class="wikia-logo__subtitle">The Home of Fandom</span>
+							</a >
+		</div >
+					<div class="table-cell hubs-links" data-visibility="desktop">
+									<a class="cell-link top-level" href="http://fandom.wikia.com/games"
+					   data-tracking-label="hub-games">
+						Games					</a>
+									<a class="cell-link top-level" href="http://fandom.wikia.com/movies"
+					   data-tracking-label="hub-movies">
+						Movies					</a>
+									<a class="cell-link top-level" href="http://fandom.wikia.com/tv"
+					   data-tracking-label="hub-tv">
+						TV					</a>
+							</div>
+				<div class="table-cell">
+			<div class="explore-wikia-entry-point" id="exploreWikiaEntryPoint">
+				<a class="cell-link top-level final-url"
+					href="http://www.wikia.com/explore"
+					data-tracking-label="explore-wikia">
+					Explore Wikia					<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+				</a>
+				<ul class="explore-wikia-dropdown" id="exploreWikiaDropdown">
+																		<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://fandom.wikia.com/games"
+								   data-tracking-label="hub-games">
+									Games								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://fandom.wikia.com/movies"
+								   data-tracking-label="hub-movies">
+									Movies								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://fandom.wikia.com/tv"
+								   data-tracking-label="hub-tv">
+									TV								</a>
+							</li>
+																						<li>
+							<a class="cell-link"
+							   href="http://www.wikia.com/WAM"
+							   data-tracking-label="top-communities">
+								Trending Wikias							</a>
+						</li>
+											<li>
+							<a class="cell-link"
+							   href="http://community.wikia.com"
+							   data-tracking-label="community-central">
+								Community Central							</a>
+						</li>
+									</ul>
+			</div>
+		</div>
+		<div class="search-container table-cell">
+			<div class="search-form-wrapper">
+	<form action="http://gameofthrones.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search Game of Thrones Wiki..." data-search-url="http://gameofthrones.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search Game of Thrones Wiki..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+		</div>
+		<div class="account-navigation-container table-cell">
+			<ul id="AccountNavigation" class="AccountNavigation table-cell newAuth ">
+	<li class="account-navigation-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/signin?redirect=http%3A%2F%2Fgameofthrones.wikia.com%2Fwiki%2FAemon" rel="nofollow" title="Sign In" class="auth-link sign-in" accesskey="o">			<div class="avatar-container anon-avatar-placeholder">
+							</div>
+		</a>
+						<span class="auth-label">
+					<a class="auth-link sign-in" href="/signin?redirect=http%3A%2F%2Fgameofthrones.wikia.com%2Fwiki%2FAemon">Sign In</a> or <a class="auth-link register" href="/register?redirect=http%3A%2F%2Fgameofthrones.wikia.com%2Fwiki%2FAemon">Register</a>				</span>
+				</div>
+		</li>
+</ul>
+		</div>
+				<div class="start-wikia-container table-cell">
+			<a href="http://www.wikia.com/Special:CreateNewWiki"
+			   class="start-wikia"
+			   title="Start a wikia"
+			   data-id="start-wikia">
+				<span>Start a wikia</span>
+			</a>
+		</div>
+			</div>
+</nav>
+
+	<!-- BEGIN CONTAINER: TOP_LEADERBOARD_AB -->
+	<div id="TOP_LEADERBOARD_AB">
+		<script>
+			window.adslots2.push(["TOP_LEADERBOARD_AB"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: TOP_LEADERBOARD_AB -->
+
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h2 class="wordmark medium graphic ">
+	<a accesskey="z" href="/wiki/Game_of_Thrones_Wiki">
+					<img src="http://img1.wikia.nocookie.net/__cb87/gameofthrones/images/8/89/Wiki-wordmark.png" alt="Game of Thrones Wiki"  width="250" height="65" >
+			</a>
+</h2>
+	<nav class="WikiNav">
+					<h2>Game of Thrones Wiki Navigation</h2>
+				<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Images" data-canonical="images">Images</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Blogs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum" data-canonical="forum">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="#">Popular pages</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="#">Most visited articles<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Rhaegar_Targaryen">Rhaegar Targaryen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Game_of_Thrones_Wiki">Game of Thrones Wiki</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Lyanna_Stark">Lyanna Stark</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jon_Snow">Jon Snow</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Daenerys_Targaryen">Daenerys Targaryen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Winds_of_Winter">The Winds of Winter</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Lyanna_Mormont">Lyanna Mormont</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Characters">Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Daenerys_Targaryen">Daenerys Targaryen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Eddard_Stark">Eddard Stark</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tyrion_Lannister">Tyrion Lannister</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Joffrey_Baratheon">Joffrey Baratheon</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Arya_Stark">Arya Stark</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jon_Snow">Jon Snow</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Cersei_Lannister">Cersei Lannister</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Actor">Actor<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Emilia_Clarke">Emilia Clarke</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Sophie_Turner">Sophie Turner</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tamzin_Merchant">Tamzin Merchant</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jack_Gleeson">Jack Gleeson</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Maisie_Williams">Maisie Williams</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jason_Momoa">Jason Momoa</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Oona_Chaplin">Oona Chaplin</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Game_of_Thrones_Wiki:Community_Portal">Community</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Recent blog posts</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Forum:Index">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>	</nav>
+			<div class="buttons">
+			<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Aemon?action=edit"  data-id="edit"  >Edit this Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Maps"  data-id="maps"   class="wikia-maps-create-map">Create a Map</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+		</div>
+		<div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent changes</a>	</div>
+</header>
+		
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+					<header id="WikiaPageHeader" class="WikiaPageHeader wikia-page-header">
+		<div class="header-container">
+			<div class="header-column header-title">
+				<h1>Aemon</h1>
+							</div>
+			<div class="header-column header-tally">
+				<div id="PageShareContainer" class="page-share-container">
+									</div>
+									<div class="tally"><em>3,312</em><span>pages on<br /> this wiki</span></div>
+							</div>
+		</div>
+		<nav class="wikia-menu-button" >
+	<a accesskey="e"  href="/wiki/Aemon?veaction=edit" data-id="ve-edit" id="ca-ve-edit">
+		<img alt="" class="sprite edit-pencil" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Edit	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Aemon?action=edit"  accesskey="s" data-id="edit"   id="ca-edit">Classic editor</a>
+		</li>
+		<li>
+			<a href="/wiki/Aemon?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="/wiki/Talk:Aemon" class="wikia-button comments secondary talk" rel="nofollow" data-id="comment"> Talk<span class="commentsbubble">1</span></a>
+	</header>
+	
+
+												<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+										
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text"><dl><dd><dl><dd><i>"Aemon Targaryen" redirects here. For Maester Aemon's namesake, the uncle of his grandfather, see: "<a href="/wiki/Aemon_Targaryen_(Dragonknight)" title="Aemon Targaryen (Dragonknight)">Aemon the Dragonknight</a>".</i>
+</dd></dl>
+</dd></dl>
+<table style="width:280px; float:right;">
+<tr>
+<td>
+</td><td><div class="floatleft"><a href="/wiki/House_Targaryen" 	class="image image-thumbnail link-internal" 	 title="House Targaryen"  	 	><img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/4/43/House-Targaryen-Main-Shield.PNG/revision/latest/scale-to-width-down/50?cb=20151209185148" 	 alt="House-Targaryen-Main-Shield"  	class="" 	 	data-image-key="House-Targaryen-Main-Shield.PNG" 	data-image-name="House-Targaryen-Main-Shield.PNG" 	 	 width="50"  	 height="61"  	 	 	 	></a></div>
+</td><td><a href="/wiki/Maesters" 	class="image image-thumbnail link-internal" 	 title="Maesters"  	 	><img src="http://vignette3.wikia.nocookie.net/gameofthrones/images/0/0d/Maester%27s_mini_chain.png/revision/latest/scale-to-width-down/50?cb=20150222095807" 	 alt="Maester&amp;#039;s mini chain"  	class="" 	 	data-image-key="Maester%27s_mini_chain.png" 	data-image-name="Maester&#39;s mini chain.png" 	 	 width="50"  	 height="50"  	 	 	 	></a>
+</td><td>
+</td><td>
+</td><td><div class="floatright"><a href="/wiki/Night%27s_Watch" 	class="image image-thumbnail link-internal" 	 title="Night&#39;s Watch"  	 	><img src="http://vignette4.wikia.nocookie.net/gameofthrones/images/e/ed/Night%27s-Watch-Main-Shield.PNG/revision/latest/scale-to-width-down/50?cb=20160604181942" 	 alt="Night&amp;#039;s-Watch-Main-Shield"  	class="" 	 	data-image-key="Night%27s-Watch-Main-Shield.PNG" 	data-image-name="Night&#39;s-Watch-Main-Shield.PNG" 	 	 width="50"  	 height="61"  	 	 	 	></a></div>
+</td></tr></table>
+
+<aside class="portable-infobox pi-background pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title">Maester Aemon</h2>
+
+<figure class="pi-item pi-image">
+	<a href="http://vignette2.wikia.nocookie.net/gameofthrones/images/3/32/Aemonepisode5.png/revision/latest?cb=20150511170352" class="image image-thumbnail"
+	   title="Maester Aemon">
+		<img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/3/32/Aemonepisode5.png/revision/latest/scale-to-width-down/270?cb=20150511170352" class="pi-image-thumbnail" alt="Maester Aemon" width="270" height="411"
+		     data-image-key="Aemonepisode5.png" data-image-name="Aemonepisode5.png"/>
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Season(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Season_1" title="Season 1">1</a>, <a href="/wiki/Season_3" title="Season 3">3</a>, <a href="/wiki/Season_4" title="Season 4">4</a>, <a href="/wiki/Season_5" title="Season 5">5</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">First seen</h3>
+	
+	<div class="pi-data-value pi-font">"<a href="/wiki/Lord_Snow" title="Lord Snow">Lord Snow</a>"</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Last seen</h3>
+	
+	<div class="pi-data-value pi-font">"<a href="/wiki/The_Gift_(episode)" title="The Gift (episode)">The Gift</a>"</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appeared in</h3>
+	
+	<div class="pi-data-value pi-font">11 episodes <small>(<a href="#Appearances">see below</a>)</small></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Titles</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Maesters" title="Maesters">Maester</a><br /><a href="/wiki/Prince" title="Prince">Prince</a> (formerly, decades ago)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Also known as</h3>
+	
+	<div class="pi-data-value pi-font">Aemon Targaryen (formerly)<br />Maester Aemon</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Category:Status:_Dead" title="Category:Status: Dead">Deceased</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font">104<sup id="cite_ref-0" class="reference"><a href="#cite_note-0">[1]</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Death</h3>
+	
+	<div class="pi-data-value pi-font">Died peacefully in his bed<br /> from old age</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Death shown in episode</h3>
+	
+	<div class="pi-data-value pi-font">"<a href="/wiki/The_Gift_(episode)" title="The Gift (episode)">The Gift</a>"</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Origin</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Red_Keep" title="Red Keep">Red Keep</a>, <a href="/wiki/King%27s_Landing" title="King's Landing">King's Landing</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Allegiance</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Night%27s_Watch" title="Night's Watch">Night's Watch</a> (by oath)<br />Order of <a href="/wiki/Maesters" title="Maesters">Maesters</a> (by oath)<br /><p><a href="/wiki/House_Targaryen" title="House Targaryen">House Targaryen</a> (by birth)</p></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Culture</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Valyrian" title="Valyrian" class="mw-redirect">Valyrian</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family</h3>
+	
+	<div class="pi-data-value pi-font">{<a href="/wiki/Maekar_I_Targaryen" title="Maekar I Targaryen" class="mw-redirect">Maekar I Targaryen</a>} - father<br />{<a href="/wiki/Dyanna_Dayne" title="Dyanna Dayne">Dyanna Dayne</a>} - mother<br /> {<a href="/wiki/Aerion_Targaryen" title="Aerion Targaryen">Aerion Targaryen</a>} - older brother<br />{<a href="/wiki/Aegon_V_Targaryen" title="Aegon V Targaryen">Aegon V Targaryen</a>} - younger brother<br />{<a href="/wiki/Duncan_Targaryen" title="Duncan Targaryen">Duncan Targaryen</a>} - nephew<br /> {<a href="/wiki/Aerys_II_Targaryen" title="Aerys II Targaryen">Aerys II Targaryen</a>} - nephew<br />{<a href="/wiki/Rhaella_Targaryen" title="Rhaella Targaryen">Rhaella Targaryen</a>} - niece<br />{<a href="/wiki/Rhaegar_Targaryen" title="Rhaegar Targaryen">Rhaegar Targaryen</a>} - grandnephew<br />{<a href="/wiki/Viserys_Targaryen" title="Viserys Targaryen">Viserys Targaryen</a>} - grandnephew<br /><a href="/wiki/Daenerys_Targaryen" title="Daenerys Targaryen">Daenerys Targaryen</a> - grandniece<br /><p>{<a href="/wiki/Rhaenys_Targaryen_(daughter_of_Rhaegar)" title="Rhaenys Targaryen (daughter of Rhaegar)">Rhaenys Targaryen</a>} - great-grandniece<br />{<a href="/wiki/Aegon_Targaryen_(Son_of_Rhaegar)" title="Aegon Targaryen (Son of Rhaegar)">Aegon Targaryen</a>} - great-grandnephew<br /><a href="/wiki/Jon_Snow" title="Jon Snow">Jon Snow</a> - great-grandnephew<br /> {<a href="/wiki/Rhaego" title="Rhaego">Rhaego</a>} - great-grandnephew</p></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Peter_Vaughan" title="Peter Vaughan">Peter Vaughan</a></div>
+</div>
+</aside>
+
+<p><br />
+</p>
+<div class="quote">
+<dl><dd><span><b>Jon Snow</b>: "<i>You're Aemon <u>Targaryen</u>?!</i>"
+</dd><dd><b>Maester Aemon</b>: "<i>I am a maester of the Citadel, bound in service to Castle Black and the Nights' Watch. I will not tell you to stay or go. You must make that choice yourself, and live with it for the rest of your days — as I have.</i>"</span>
+</dd><dd>&#8212; Maester Aemon reveals his true identity to <a href="/wiki/Jon_Snow" title="Jon Snow">Jon Snow</a>.<sup class="noprint"><a href="/wiki/Baelor" title="Baelor">[src]</a></sup>
+</dd></dl>
+</div>
+<p>Maester <b>Aemon</b> is a recurring character in the <a href="/wiki/Season_1" title="Season 1">first</a>, <a href="/wiki/Season_3" title="Season 3">third</a>, <a href="/wiki/Season_4" title="Season 4">fourth</a> and <a href="/wiki/Season_5" title="Season 5">fifth</a> seasons. He is played by guest star <a href="/wiki/Peter_Vaughan" title="Peter Vaughan">Peter Vaughan</a> and debuts in "<a href="/wiki/Lord_Snow" title="Lord Snow">Lord Snow</a>."
+</p><p>Aemon is the <a href="/wiki/Maesters" title="Maesters">maester</a> at <a href="/wiki/Castle_Black" title="Castle Black">Castle Black</a> and is one of Lord Commander <a href="/wiki/Jeor_Mormont" title="Jeor Mormont">Jeor Mormont</a>'s closest advisers in the <a href="/wiki/Night%27s_Watch" title="Night's Watch">Night's Watch</a>.
+</p><p>He was born <b>Aemon Targaryen</b> and is the last known Targaryen in <a href="/wiki/Westeros" title="Westeros">Westeros</a>. He is the great uncle of <a href="/wiki/Daenerys_Targaryen" title="Daenerys Targaryen">Daenerys Targaryen</a>, who is currently in <a href="/wiki/Essos" title="Essos">Essos</a> and unaware of his existence. Aemon's origins have long been forgotten by most, as he has remained dedicated to his vows as a Maester and a brother of the Night's Watch for decades uncounted. 
+</p>
+<nav id="toc" class="toc"><div id="toctitle"><h2>Contents</h2><span class="toctoggle">[<a href="#" class="internal" id="togglelink" data-show="show" data-hide="hide">show</a>]</span></div><ol></ol></nav>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="editsection"><a href="/wiki/Aemon?action=edit&amp;section=1" title="Edit Biography section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<h3><span class="mw-headline" id="Background">Background</span><span class="editsection"><a href="/wiki/Aemon?action=edit&amp;section=2" title="Edit Background section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h3>
+<figure class="article-thumb tright show-info-icon" style="width: 180px"> 	<a href="http://vignette2.wikia.nocookie.net/gameofthrones/images/9/93/Aemon-Castle-Black.jpg/revision/latest?cb=20120425230507" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Aemon-Castle-Black"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Aemon-Castle-Black.jpg" 	data-image-name="Aemon-Castle-Black.jpg" 	 data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/9/93/Aemon-Castle-Black.jpg/revision/latest/scale-to-width-down/180?cb=20120425230507"  	 width="180"  	 height="279"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/9/93/Aemon-Castle-Black.jpg/revision/latest/scale-to-width-down/180?cb=20120425230507" 	 alt="Aemon-Castle-Black"  	class="thumbimage " 	 	data-image-key="Aemon-Castle-Black.jpg" 	data-image-name="Aemon-Castle-Black.jpg" 	 	 width="180"  	 height="279"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Aemon-Castle-Black.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Aemon has served as the maester of Castle Black for decades.</p> 		 	</figcaption> </figure>
+<p>Aemon was born into the royal <a href="/wiki/House_Targaryen" title="House Targaryen">House Targaryen</a>, the son of King <a href="/wiki/Maekar_I_Targaryen" title="Maekar I Targaryen" class="mw-redirect">Maekar I</a>. Unlike the majority of his forbears, Aemon and his brothers were not born out of marriage between brother and sister. Their father and grandfather respectively married <a href="/wiki/Dyanna_Dayne" title="Dyanna Dayne">Dyanna</a> of <a href="/wiki/House_Dayne" title="House Dayne">House Dayne</a> and <a href="/wiki/Myriah_Martell" title="Myriah Martell">Myriah</a> of <a href="/wiki/House_Martell" title="House Martell">House Martell</a>. Originally known as Prince Aemon Targaryen, he was not his father's eldest son, so he eventually joined the order of Maesters. Aemon gave up all rights to inheritance when he took his vows, which also included relinquishing his surname "Targaryen".
+</p><p>Aemon's older brother, <a href="/wiki/Aerion_Targaryen" title="Aerion Targaryen">Aerion</a>, later died, however, and despite being a sworn maester there were those who felt that the crown should pass to him. Aemon refused the throne, however, and it passed to his younger brother, who became King <a href="/wiki/Aegon_V_Targaryen" title="Aegon V Targaryen">Aegon V</a>. Aemon then joined the <a href="/wiki/Night%27s_Watch" title="Night's Watch">Night's Watch</a> to remove himself from the political intrigues of the royal court, and those who wished to set him up as a rival against his brother.
+</p><p>Many years later the crown passed to Aegon V's son, Aemon's nephew <a href="/wiki/Aerys_II_Targaryen" title="Aerys II Targaryen">Aerys II</a>, called "The Mad King". Aerys's growing insanity ultimately led to the outbreak of <a href="/wiki/Robert%27s_Rebellion" title="Robert's Rebellion">Robert's Rebellion</a>, which saw House Targaryen deposed and practically exterminated. Upon hearing about the brutal death of his family in <a href="/wiki/King%27s_Landing" title="King's Landing">King's Landing</a> during the rebellion, Aemon bore great sadness which has never left him.<sup id="cite_ref-Baelor_1-0" class="reference"><a href="#cite_note-Baelor-1">[2]</a></sup>
+</p><p>Around one hundred years old, Aemon is thought to be one of the oldest living men in Westeros, though he has retained all of his wits and his mind is still very sharp. He has served as the maester at Castle Black for many decades.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[3]</a></sup>
+</p><p>Aemon has long since gone blind due to old age. It is not clear when he went blind (he was not born blind), though he has stated that he was already old and blind during Robert's Rebellion.<sup id="cite_ref-Baelor_1-1" class="reference"><a href="#cite_note-Baelor-1">[2]</a></sup> As a man of learning, he laments not being able to read anymore, even though Castle Black ironically has an ancient and well-stocked library consisting of thousands of books.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[4]</a></sup> Because one of a maester's basic duties is to handle messages sent to and from a castle by messenger-<a href="/wiki/Ravens" title="Ravens">ravens</a>, Aemon has to rely on the assistance of others to physically read the letters for him.<sup id="cite_ref-The_Pointy_End_4-0" class="reference"><a href="#cite_note-The_Pointy_End-4">[5]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Season_1"><a href="/wiki/Season_1" title="Season 1">Season 1</a></span><span class="editsection"><a href="/wiki/Aemon?action=edit&amp;section=3" title="Edit Season 1 section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h3>
+<p>After <a href="/wiki/Tyrion_Lannister" title="Tyrion Lannister">Tyrion Lannister</a> has arrived at <a href="/wiki/Castle_Black" title="Castle Black">Castle Black</a>, Maester Aemon asks him to urge the Queen to send more men to the <a href="/wiki/Night%27s_Watch" title="Night's Watch">Night's Watch</a>: there is a severe lack of men to defend <a href="/wiki/The_Wall" title="The Wall">the Wall</a>. They discuss the coming winter, and Aemon assures Tyrion that the next winter will be long and terrible. <a href="/wiki/Lord_Commander" title="Lord Commander">Lord Commander</a> Mormont is worried about rumors of White Walkers abroad <a href="/wiki/North_of_the_Wall" title="North of the Wall" class="mw-redirect">north of the Wall</a>. He sends <a href="/wiki/Benjen_Stark" title="Benjen Stark">Benjen Stark</a> ranging to investigate.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[6]</a></sup>
+</p><p>When <a href="/wiki/Jon_Snow" title="Jon Snow">Jon Snow</a> and the other new recruits are done with their first training, Maester Aemon gives the new stewards their assignments. Jon is to become <a href="/wiki/Jeor_Mormont" title="Jeor Mormont">Jeor Mormont</a>'s steward, which is a great disappointment to Jon: he had hoped to become a ranger. <a href="/wiki/Samwell_Tarly" title="Samwell Tarly">Samwell Tarly</a> is assigned as Aemon's steward, to help physically read letters delivered by messenger-ravens to the blind old man. Aemon chides Jon that he swore a vow to serve the Watch in any capacity, then departs. Sam then reminds Jon that being a steward for the Lord Commander might mean that Jon is being groomed for a high command position in the Watch.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[7]</a></sup> The bodies of two of the rangers who accompanied Benjen are found near the <a href="/wiki/Godswood" title="Godswood">Godswood</a>. The Lord Commander plans to have Aemon examine them, but they return as <a href="/wiki/Wights" title="Wights">wights</a> and have to be burned before he does so.<sup id="cite_ref-The_Pointy_End_4-1" class="reference"><a href="#cite_note-The_Pointy_End-4">[5]</a></sup>
+</p>
+<figure class="article-thumb tright show-info-icon" style="width: 210px"> 	<a href="http://vignette1.wikia.nocookie.net/gameofthrones/images/a/a9/Aemon_1x09.jpg/revision/latest?cb=20110613221610" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Aemon 1x09"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Aemon_1x09.jpg" 	data-image-name="Aemon 1x09.jpg" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/a/a9/Aemon_1x09.jpg/revision/latest/scale-to-width-down/210?cb=20110613221610"  	 width="210"  	 height="118"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/a/a9/Aemon_1x09.jpg/revision/latest/scale-to-width-down/210?cb=20110613221610" 	 alt="Aemon 1x09"  	class="thumbimage " 	 	data-image-key="Aemon_1x09.jpg" 	data-image-name="Aemon 1x09.jpg" 	 	 width="210"  	 height="118"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Aemon_1x09.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Aemon advises Jon Snow.</p> 		 	</figcaption> </figure>
+<p>When Jon hears about <a href="/wiki/Eddard_Stark" title="Eddard Stark">Eddard Stark</a>'s imprisonment, he is torn between his loyalty to the Night's Watch and his love for his family. Maester Aemon intercepts Jon as he is preparing to desert the Watch. Aemon says he is aware of Jon's struggle and reveals to him that his real name is Aemon Targaryen, and that he is a long forgotten uncle of the <a href="/wiki/Aerys_II_Targaryen" title="Aerys II Targaryen">Mad King</a>. He sat and waited on <a href="/wiki/The_Wall" title="The Wall">the Wall</a> while he heard about his family being butchered during <a href="/wiki/Robert%27s_Rebellion" title="Robert's Rebellion">Robert's Rebellion</a> and the <a href="/wiki/Viserys_Targaryen" title="Viserys Targaryen">few</a> <a href="/wiki/Daenerys_Targaryen" title="Daenerys Targaryen">survivors</a> fleeing into exile, and did nothing: after having joined the Watch, his duty was with his brothers there and no longer with his House. Aemon explains that this was a difficult decision, yet he had to make it and that one must live with the consequences of one's choices for the rest of one's life.<sup id="cite_ref-Baelor_1-2" class="reference"><a href="#cite_note-Baelor-1">[2]</a></sup> Maester Aemon remains at Castle Black during the Lord Commander's great ranging.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[8]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Season_3"><a href="/wiki/Season_3" title="Season 3">Season 3</a></span><span class="editsection"><a href="/wiki/Aemon?action=edit&amp;section=4" title="Edit Season 3 section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h3>
+<figure class="article-thumb tleft show-info-icon" style="width: 180px"> 	<a href="http://vignette1.wikia.nocookie.net/gameofthrones/images/7/71/AemonDictatesALetterToSam.png/revision/latest?cb=20130613231637" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="AemonDictatesALetterToSam"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="AemonDictatesALetterToSam.png" 	data-image-name="AemonDictatesALetterToSam.png" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/7/71/AemonDictatesALetterToSam.png/revision/latest/scale-to-width-down/180?cb=20130613231637"  	 width="180"  	 height="101"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/7/71/AemonDictatesALetterToSam.png/revision/latest/scale-to-width-down/180?cb=20130613231637" 	 alt="AemonDictatesALetterToSam"  	class="thumbimage " 	 	data-image-key="AemonDictatesALetterToSam.png" 	data-image-name="AemonDictatesALetterToSam.png" 	 	 width="180"  	 height="101"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:AemonDictatesALetterToSam.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Aemon with <a href="/wiki/Samwell_Tarly" title="Samwell Tarly">Samwell Tarly</a> and <a href="/wiki/Gilly" title="Gilly">Gilly</a> at <a href="/wiki/Castle_Black" title="Castle Black">Castle Black</a>.</p> 		 	</figcaption> </figure>
+<p>Maester Aemon is still at <a href="/wiki/Castle_Black" title="Castle Black">Castle Black</a> when <a href="/wiki/Samwell_Tarly" title="Samwell Tarly">Samwell Tarly</a> returns with <a href="/wiki/Gilly" title="Gilly">Gilly</a> after escaping from <a href="/wiki/Craster%27s_Keep" title="Craster's Keep">Craster's Keep</a>. Aemon at first advises Sam that he swore an oath when joining the Night's Watch, believing that Sam fathered <a href="/wiki/Sam" title="Sam">Gilly's son</a>. Samwell corrects him that he is not the father, but that the girl is one of Craster's daughter-wives, which engenders sympathy in Aemon. Because it is too dangerous beyond the Wall, Aemon relents and offers shelter to Gilly in Castle Black for the time being. Gilly thanks him and calls him "my lord", but Aemon insists that he gave up being a lord many years ago (when he joined the Order of Maesters and left House Targaryen). With the matter settled, Aemon commands Samwell to make sure all of the messenger-<a href="/wiki/Ravens" title="Ravens">ravens</a> are well-fed, and tells him to take a quill and parchment: he dictates to Samwell a request for help which will be sent to all the major lords throughout the <a href="/wiki/Seven_Kingdoms" title="Seven Kingdoms">Seven Kingdoms</a>, imploring them for aid against the threat of the <a href="/wiki/White_Walkers" title="White Walkers">White Walkers</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[9]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Season_4"><a href="/wiki/Season_4" title="Season 4">Season 4</a></span><span class="editsection"><a href="/wiki/Aemon?action=edit&amp;section=5" title="Edit Season 4 section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h3>
+<figure class="article-thumb tright show-info-icon" style="width: 180px"> 	<a href="http://vignette2.wikia.nocookie.net/gameofthrones/images/8/8e/Aemon_part_of_jon_s_judging.png/revision/latest?cb=20140626190224" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Aemon part of jon s judging"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Aemon_part_of_jon_s_judging.png" 	data-image-name="Aemon part of jon s judging.png" 	 data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/8/8e/Aemon_part_of_jon_s_judging.png/revision/latest/scale-to-width-down/180?cb=20140626190224"  	 width="180"  	 height="101"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/8/8e/Aemon_part_of_jon_s_judging.png/revision/latest/scale-to-width-down/180?cb=20140626190224" 	 alt="Aemon part of jon s judging"  	class="thumbimage " 	 	data-image-key="Aemon_part_of_jon_s_judging.png" 	data-image-name="Aemon part of jon s judging.png" 	 	 width="180"  	 height="101"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Aemon_part_of_jon_s_judging.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Aemon with Alliser and Janos during Jon's judging.</p> 		 	</figcaption> </figure>
+<p>Maester Aemon is one of the five black brothers to "judge" <a href="/wiki/Jon_Snow" title="Jon Snow">Jon Snow</a> for his actions during his time with the <a href="/wiki/Free_Folk" title="Free Folk">wildlings</a>. Jon hides nothing of his actions, neither his murder of <a href="/wiki/Qhorin" title="Qhorin">Qhorin</a> or his affair with <a href="/wiki/Ygritte" title="Ygritte">Ygritte</a>. Ser <a href="/wiki/Alliser_Thorne" title="Alliser Thorne">Alliser Thorne</a>, the acting Commander of the Night's Watch, and the recently-arrived <a href="/wiki/Janos_Slynt" title="Janos Slynt">Janos Slynt</a> believe that Jon should be executed for his actions and for the breaking of his vows, but Aemon defends him, saying that Jon was merely following Qhorin's orders and that he isn't the first to have broken his vow of chastity. Ser Alliser points out that Jon has quite literally slept with the enemy. Jon counters with all the information that he had learned while among the wildlings, such as <a href="/wiki/Mance_Rayder" title="Mance Rayder">Mance Rayder</a>'s strategy of attacking the Wall from the North and the South, and demands that they either kill him or let him go. Aemon tells him that they have no intention of executing him and Jon leaves. Alliser reprimands Aemon for having overruled him but the maester answers that he knows when a man is lying and when he is telling the truth. When asked how he acquired such insight, Aemon wryly replies that he grew up in <a href="/wiki/King%27s_Landing" title="King's Landing">King's Landing</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[10]</a></sup>
+</p><p>Maester Aemon is present when Olly brings news of the massacre that occurred in his village. Many black brothers present want to retaliate, but Aemon reminds everyone that there are just over 100 men at Castle Black (including himself). He insists that defending Castle Black is the priority and they cannot afford to lose a single man. Jon Snow reluctantly agrees, reminding everyone that he knows from his time infiltrating the wildlings that they are <i>trying</i> to lure as many men out of Castle Black as possible, to weaken it for the main assault from the north.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[11]</a></sup>
+</p>
+<figure class="article-thumb tleft show-info-icon" style="width: 180px"> 	<a href="http://vignette2.wikia.nocookie.net/gameofthrones/images/e/e1/Aemon_in_library.png/revision/latest?cb=20140626190319" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Aemon in library"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Aemon_in_library.png" 	data-image-name="Aemon in library.png" 	 data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/e/e1/Aemon_in_library.png/revision/latest/scale-to-width-down/180?cb=20140626190319"  	 width="180"  	 height="101"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/e/e1/Aemon_in_library.png/revision/latest/scale-to-width-down/180?cb=20140626190319" 	 alt="Aemon in library"  	class="thumbimage " 	 	data-image-key="Aemon_in_library.png" 	data-image-name="Aemon in library.png" 	 	 width="180"  	 height="101"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Aemon_in_library.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Aemon in the library with Sam.</p> 		 	</figcaption> </figure>On the eve of Mance Rayder's assault on Castle Black, Maester Aemon confronts Sam in Castle Black's library. Aemon remarks on the ironies of old age: the library is well-stocked with thousands of books, but his blind eyes can no longer read them. They discuss some of the propaganda surrounding wildlings before discussing Sam's feelings for Gilly. Aemon shares with Sam the same warning he gave to Jon, that love is the death of duty. Aemon implies that he might have become <a href="/wiki/King_of_the_Andals_and_the_First_Men" title="King of the Andals and the First Men" class="mw-redirect">King of the Andals and the First Men</a> if he'd been willing to break his vows. He also mentions that as a royal prince, he was sought after by a great many women in his youth – but there was only one whose advances he accepted. Aemon reprimands Sam for not realizing his elders were young once too. Although Aemon says that his memories of that woman are in some ways more real to him than Sam is (given that he'll never really know what Sam looks like), he lets the subject drop and says that he and Sam should both focus on their duties.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[12]</a></sup>
+<figure class="article-thumb tright show-info-icon" style="width: 180px"> 	<a href="http://vignette2.wikia.nocookie.net/gameofthrones/images/0/01/Aemon_speech.png/revision/latest?cb=20140626190431" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Aemon speech"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Aemon_speech.png" 	data-image-name="Aemon speech.png" 	 data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/0/01/Aemon_speech.png/revision/latest/scale-to-width-down/180?cb=20140626190431"  	 width="180"  	 height="101"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/0/01/Aemon_speech.png/revision/latest/scale-to-width-down/180?cb=20140626190431" 	 alt="Aemon speech"  	class="thumbimage " 	 	data-image-key="Aemon_speech.png" 	data-image-name="Aemon speech.png" 	 	 width="180"  	 height="101"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Aemon_speech.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Aemon delivering a eulogy before burning the dead.</p> 		 	</figcaption> </figure>Following the arrival of <a href="/wiki/Stannis_Baratheon" title="Stannis Baratheon">Stannis Baratheon</a>, Maester Aemon leads the eulogy for the black brothers that gave their lives defending Castle Black. When Jon Snow speaks to <a href="/wiki/Tormund" title="Tormund">Tormund</a>, the captive wildling curiously asks why he was given medical treatment. Jon tells Tormund that it is Aemon's duty as a maester to treat anyone who is wounded, friend or foe.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[13]</a></sup>
+<h3><span class="mw-headline" id="Season_5"><a href="/wiki/Season_5" title="Season 5">Season 5</a></span><span class="editsection"><a href="/wiki/Aemon?action=edit&amp;section=6" title="Edit Season 5 section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h3>
+<p>Maester Aemon presides over the <a href="/wiki/Choosing" title="Choosing">choosing</a> of the 998th <a href="/wiki/Lord_Commander_of_the_Night%27s_Watch" title="Lord Commander of the Night's Watch">Lord Commander of the Night's Watch</a>. He allows people to speak for their candidates before the voting begins. When Sam asks to speak and is mocked by <a href="/wiki/Janos_Slynt" title="Janos Slynt">Janos Slynt</a>, Sam reveals that he had found Janos hiding in a cellar during the <a href="/wiki/Battle_of_Castle_Black" title="Battle of Castle Black">Battle of Castle Black</a>. As Sam continues to humiliate Lord Janos to the delight of many black brothers, Maester Aemon smiles at his steward's boldness. When all of the votes are counted, it is revealed that there is a tie between <a href="/wiki/Jon_Snow" title="Jon Snow">Jon Snow</a> and Ser <a href="/wiki/Alliser_Thorne" title="Alliser Thorne">Alliser Thorne</a>. Aemon is the last to vote and breaks the tie by voting for Jon.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[14]</a></sup>
+</p><p>Jon Snow notices Maester Aemon's absence at a meeting of the Night's Watch and questions Sam. According to Sam, Aemon does not feel well and apologizes for not being able to attend the meeting. Jon tells Sam to take good care of the old maester.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[15]</a></sup>
+</p><p>Sam reads him a letter from Slaver's Bay detailing the recent activities of <a href="/wiki/Daenerys_Targaryen" title="Daenerys Targaryen">Daenerys Targaryen</a>, Aemon's great-niece. In spite of his dedication to his vows, Aemon muses with sadness at the injustice of Daenerys fighting her battles alone, with her last relation "useless and dying" thousands of miles away. Jon Snow then arrives, asking for Aemon's advice on a plan he's been devising. Jon asks how he's feeling, and Aemon sardonically points out he feels like a hundred year old man slowly freezing to death at the Wall. Aemon bluntly tells him to "kill the boy, and let the man be born", that Snow must make the mature decisions that will save lives, rather than the immature decisions that will get people to like him.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[16]</a></sup>
+</p><p>Aemon's old age catches up to him and he takes to bed as he grows weaker, tended by <a href="/wiki/Gilly" title="Gilly">Gilly</a> and Sam. His mind starts to wander, and he imagines conversations with his late brother "<a href="/wiki/Aegon_V_Targaryen" title="Aegon V Targaryen">Egg</a>" before he passes away. Sam gives a eulogy as Aemon's body is cremated on a funeral pyre.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[17]</a></sup>
+</p>
+
+
+
+
+
+<script>
+    if (typeof(Wikia.geo) !== 'undefined' && ['US'].indexOf(Wikia.geo.getCountryCode()) >= 0) {
+        document.write('<aside id="monetization-amazon_video-in_content" class="monetization-module amazon-video hide-for-edit in-content amazon-video-full" data-mon-type="amazon_video" data-mon-slot="in_content"><div class="affiliate" data-mon-pid="B007BVOEPI" data-mon-ptag="gameofthrones-aemon-130814-2206-B007BVOEPI-piv-fl-npr-ic-f" data-mon-pname="Game of Thrones: Season 4"><div class="affiliate-header"><a class="product-thumb" target="_blank" href="http://www.amazon.com/gp/product/B007BVOEPI/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=gameofthrones-aemon-130814-2206-B007BVOEPI-piv-fl-npr-ic-f"><img  src="http://ecx.images-amazon.com/images/I/51zb7bHVqhL._SX320_SY240_.jpg"></a></div><a class="product-name" target="_blank" href="http://www.amazon.com/gp/product/B007BVOEPI/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=gameofthrones-aemon-130814-2206-B007BVOEPI-piv-fl-npr-ic-f"><span class="product-title">Game of Thrones: Season 4</span><span class="product-detail">Season 1</span><span class="rating-bar"><span class="rating" style="width: 90.0%"></span></span></a><div class="product-button non-prime"><a class="amazon-logo" target="_blank" href="http://www.amazon.com/gp/product/B007BVOEPI/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=gameofthrones-aemon-130814-2206-B007BVOEPI-piv-fl-npr-ic-f"></a><a class="product-btn" target="_blank" href="http://www.amazon.com/gp/product/B007BVOEPI/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=gameofthrones-aemon-130814-2206-B007BVOEPI-piv-fl-npr-ic-f"></a></div></div></aside>');
+    } else 
+
+
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['AU','CA','DE','GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write('<div id="monetization-adunit-in_content" class="monetization-module adunit hide-for-edit in-content" data-mon-type="adunit" data-mon-slot="in_content"><div class="ad-header">Advertisement</div><div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><ins class="adsbygoogle ad-responsive-ic" style="display:inline-block;" data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_ic_fss_ffa mon_hub_tv mon_sl_ic" data-ad-type="text" data-font-size="small"data-font-face="arial" data-color-bg="#d7cbab" data-color-border="#d7cbab" data-color-link="#47518e" data-color-url="#47518e" data-color-text="#3a3a3a" ></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt></div></div>');
+}
+</script><h2><span class="mw-headline" id="Appearances">Appearances</span><span class="editsection"><a href="/wiki/Aemon?action=edit&amp;section=7" title="Edit Appearances section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<table class="appearances" border="1" style="width: 90%; margin: 1em 1em 1em 0; border: 1px #000000 solid; border-collapse: collapse; text-align: center; font-size:11px">
+
+<tr bgcolor="#C19A6B">
+<td colspan="5"><b><a href="/wiki/Season_1" title="Season 1">Season One</a> appearances</b>
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;">Winter is Coming
+</td><td style="width: 20%;"> The Kingsroad
+</td><td style="width: 20%;"> <b><a href="/wiki/Lord_Snow" title="Lord Snow">Lord Snow</a></b>
+</td><td style="width: 20%;"> Cripples, Bastards and Broken Things
+</td><td style="width: 20%;"> The Wolf and the Lion
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> A Golden Crown
+</td><td style="width: 20%;"> <b><a href="/wiki/You_Win_or_You_Die" title="You Win or You Die">You Win or You Die</a></b>
+</td><td style="width: 20%;"> The Pointy End
+</td><td style="width: 20%;"> <b><a href="/wiki/Baelor" title="Baelor">Baelor</a></b>
+</td><td style="width: 20%;"> Fire and Blood
+</td></tr></table>
+<table class="appearances" border="1" style="width: 90%; margin: 1em 1em 1em 0; border: 1px #000000 solid; border-collapse: collapse; text-align: center; font-size:11px">
+
+<tr bgcolor="#C19A6B">
+<td colspan="5"><b><a href="/wiki/Season_3" title="Season 3">Season Three</a> appearances</b>
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> Valar Dohaeris
+</td><td style="width: 20%;"> Dark Wings, Dark Words
+</td><td style="width: 20%;"> Walk of Punishment
+</td><td style="width: 20%;"> And Now His Watch is Ended
+</td><td style="width: 20%;"> Kissed by Fire
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> The Climb
+</td><td style="width: 20%;"> The Bear and the Maiden Fair
+</td><td style="width: 20%;"> Second Sons
+</td><td style="width: 20%;"> The Rains of Castamere
+</td><td style="width: 20%;"> <b><a href="/wiki/Mhysa" title="Mhysa">Mhysa</a></b>
+</td></tr></table>
+<table class="appearances" border="1" style="width: 90%; margin: 1em 1em 1em 0; border: 1px #000000 solid; border-collapse: collapse; text-align: center; font-size:11px">
+
+<tr bgcolor="#C19A6B">
+<td colspan="5"><b><a href="/wiki/Season_4" title="Season 4">Season Four</a> appearances</b>
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> <b><a href="/wiki/Two_Swords" title="Two Swords">Two Swords</a></b>
+</td><td style="width: 20%;"> The Lion and the Rose
+</td><td style="width: 20%;"> <b><a href="/wiki/Breaker_of_Chains" title="Breaker of Chains">Breaker of Chains</a></b>
+</td><td style="width: 20%;"> Oathkeeper
+</td><td style="width: 20%;"> First of His Name
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> The Laws of Gods and Men
+</td><td style="width: 20%;"> Mockingbird
+</td><td style="width: 20%;"> The Mountain and the Viper
+</td><td style="width: 20%;"> <b><a href="/wiki/The_Watchers_on_the_Wall" title="The Watchers on the Wall">The Watchers on the Wall</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/The_Children" title="The Children">The Children</a></b>
+</td></tr></table>
+<table class="appearances" border="1" style="width: 90%; margin: 1em 1em 1em 0; border: 1px #000000 solid; border-collapse: collapse; text-align: center; font-size:11px">
+
+<tr bgcolor="#C19A6B">
+<td colspan="5"><b><a href="/wiki/Season_5" title="Season 5">Season Five</a> appearances</b>
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> The Wars to Come
+</td><td style="width: 20%;"> <b><a href="/wiki/The_House_of_Black_and_White" title="The House of Black and White">The House of Black and White</a></b>
+</td><td style="width: 20%;"> High Sparrow
+</td><td style="width: 20%;"> Sons of the Harpy
+</td><td style="width: 20%;"> <b><a href="/wiki/Kill_the_Boy" title="Kill the Boy">Kill the Boy</a></b>
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> Unbowed, Unbent, Unbroken
+</td><td style="width: 20%;"> <b><a href="/wiki/The_Gift_(episode)" title="The Gift (episode)">The Gift</a></b>
+</td><td style="width: 20%;"> Hardhome
+</td><td style="width: 20%;"> The Dance of Dragons
+</td><td style="width: 20%;"> Mother’s Mercy
+</td></tr></table>
+<h2><span class="mw-headline" id="Family_tree">Family tree</span><span class="editsection"><a href="/wiki/Aemon?action=edit&amp;section=8" title="Edit Family tree section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<table cellspacing="0" cellpadding="0" border="0" style="font-size:85%;line-height:100%;" summary="Boxes and lines diagram"><tr style="text-align: center;"><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td style="border-bottom: 1px solid black;"><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2" style="border-bottom: 1px solid black;"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2" style="border-bottom: 1px solid black;"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2" style="border-bottom: 1px solid black;"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2" style="border-bottom: 1px solid black;"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2" style="border-bottom: 1px solid black;"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2" style="border-bottom: 1px solid black;"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2" style="border-bottom: 1px solid black;"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td style="border-bottom: 1px solid black;"><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2"><div style="width: 1em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td></tr><tr style="text-align: center;"><td style="border-right: 1px solid black;"><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td style="border-right: 1px solid black;"><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td style="border-right: 1px solid black;"><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td></tr>
+<tr style="text-align: center;"><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em;&#160;;"><div class="center"><div class="floatnone"><a href="/wiki/Aerion_Targaryen" 	class="image image-thumbnail link-internal" 	 title="Aerion Targaryen"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Aerion family tree"  	class="lzy lzyPlcHld " 	 	data-image-key="Aerion_family_tree.jpg" 	data-image-name="Aerion family tree.jpg" 	 data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/5/50/Aerion_family_tree.jpg/revision/latest/scale-to-width-down/100?cb=20130826010201"  	 width="100"  	 height="108"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/5/50/Aerion_family_tree.jpg/revision/latest/scale-to-width-down/100?cb=20130826010201" 	 alt="Aerion family tree"  	class="" 	 	data-image-key="Aerion_family_tree.jpg" 	data-image-name="Aerion family tree.jpg" 	 	 width="100"  	 height="108"  	 	 	 	></noscript></a></div></div>
+<a href="/wiki/Aerion_Targaryen" title="Aerion Targaryen">Aerion  Targaryen</a><br />"Aerion Brightflame"<br /><a href="/wiki/Category:Status:_Dead" title="Category:Status: Dead">Deceased</a></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em;&#160;;"><div class="center"><div class="floatnone"><a href="/wiki/Aemon" 	class="image image-thumbnail link-internal" 	 title="Aemon"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Aemon Tree"  	class="lzy lzyPlcHld " 	 	data-image-key="Aemon_Tree.jpg" 	data-image-name="Aemon Tree.jpg" 	 data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/8/80/Aemon_Tree.jpg/revision/latest/scale-to-width-down/100?cb=20120415114430"  	 width="100"  	 height="90"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/8/80/Aemon_Tree.jpg/revision/latest/scale-to-width-down/100?cb=20120415114430" 	 alt="Aemon Tree"  	class="" 	 	data-image-key="Aemon_Tree.jpg" 	data-image-name="Aemon Tree.jpg" 	 	 width="100"  	 height="90"  	 	 	 	></noscript></a></div></div>
+<a href="/wiki/Aemon_Targaryen" title="Aemon Targaryen" class="mw-redirect">Aemon Targaryen</a><br />"Maester Aemon"<br /><a href="/wiki/Night%27s_Watch" title="Night's Watch">Night's Watch</a> <a href="/wiki/Night%27s_Watch" 	class="image image-thumbnail link-internal" 	 title="Night&#39;s Watch"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Crow shield icon"  	class="lzy lzyPlcHld " 	 	data-image-key="Crow_shield_icon.png" 	data-image-name="Crow shield icon.png" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/7/74/Crow_shield_icon.png/revision/latest/scale-to-width-down/15?cb=20150910175326"  	 width="15"  	 height="16"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/7/74/Crow_shield_icon.png/revision/latest/scale-to-width-down/15?cb=20150910175326" 	 alt="Crow shield icon"  	class="" 	 	data-image-key="Crow_shield_icon.png" 	data-image-name="Crow shield icon.png" 	 	 width="15"  	 height="16"  	 	 	 	></noscript></a><br /><a href="/wiki/Category:Status:_Dead" title="Category:Status: Dead">Deceased</a></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em;&#160;;"><div class="center"><div class="floatnone"><a href="/wiki/Aegon_V_Targaryen" 	class="image image-thumbnail link-internal" 	 title="Aegon V Targaryen"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Aegon V family tree"  	class="lzy lzyPlcHld " 	 	data-image-key="Aegon_V_family_tree.jpg" 	data-image-name="Aegon V family tree.jpg" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/e/e6/Aegon_V_family_tree.jpg/revision/latest?cb=20140220152125"  	 width="100"  	 height="103"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/e/e6/Aegon_V_family_tree.jpg/revision/latest?cb=20140220152125" 	 alt="Aegon V family tree"  	class="" 	 	data-image-key="Aegon_V_family_tree.jpg" 	data-image-name="Aegon V family tree.jpg" 	 	 width="100"  	 height="103"  	 	 	 	></noscript></a></div></div>
+<a href="/wiki/Aegon_V_Targaryen" title="Aegon V Targaryen">Aegon V Targaryen</a><br />"Aegon the Unlikely"<br /><a href="/wiki/Category:Status:_Dead" title="Category:Status: Dead">Deceased</a></td><td colspan="2" style="border-bottom: 1px double black;"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em;&#160;;"><div class="center"><div class="floatnone"><a href="http://vignette1.wikia.nocookie.net/gameofthrones/images/1/16/House-Targaryen-heraldry.jpg/revision/latest?cb=20151004105028" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="House-Targaryen-heraldry"  	class="lzy lzyPlcHld " 	 	data-image-key="House-Targaryen-heraldry.jpg" 	data-image-name="House-Targaryen-heraldry.jpg" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/1/16/House-Targaryen-heraldry.jpg/revision/latest/scale-to-width-down/100?cb=20151004105028"  	 width="100"  	 height="100"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/1/16/House-Targaryen-heraldry.jpg/revision/latest/scale-to-width-down/100?cb=20151004105028" 	 alt="House-Targaryen-heraldry"  	class="" 	 	data-image-key="House-Targaryen-heraldry.jpg" 	data-image-name="House-Targaryen-heraldry.jpg" 	 	 width="100"  	 height="100"  	 	 	 	></noscript></a></div></div>
+Unknown<br />Targaryen Queen<br /><a href="/wiki/Category:Status:_Dead" title="Category:Status: Dead">Deceased</a></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td></tr><tr style="text-align: center;"><td style="border-right: 1px solid black;"><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td></tr>
+<tr style="text-align: center;"><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td style="border-bottom: 1px solid black;"><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2" style="border-bottom: 1px solid black;"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2" style="border-bottom: 1px solid black;"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2" style="border-bottom: 1px solid black;"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2" style="border-bottom: 1px solid black;"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2" style="border-bottom: 1px solid black;"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td style="border-right: 1px solid black; border-bottom: 1px solid black;"><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td style="border-bottom: 1px solid black;"><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2" style="border-bottom: 1px solid black;"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2" style="border-bottom: 1px solid black;"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2" style="border-bottom: 1px solid black;"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2" style="border-bottom: 1px solid black;"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2" style="border-bottom: 1px solid black;"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td style="border-bottom: 1px solid black;"><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2"><div style="width: 1em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td></tr><tr style="text-align: center;"><td style="border-right: 1px solid black;"><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td style="border-right: 1px solid black;"><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td style="border-right: 1px solid black;"><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td></tr>
+<tr style="text-align: center;"><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em;&#160;;"><div class="center"><div class="floatnone"><a href="/wiki/Duncan_Targaryen" 	class="image image-thumbnail link-internal" 	 title="Duncan Targaryen"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="House-Targaryen-heraldry"  	class="lzy lzyPlcHld " 	 	data-image-key="House-Targaryen-heraldry.jpg" 	data-image-name="House-Targaryen-heraldry.jpg" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/1/16/House-Targaryen-heraldry.jpg/revision/latest/scale-to-width-down/100?cb=20151004105028"  	 width="100"  	 height="100"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/1/16/House-Targaryen-heraldry.jpg/revision/latest/scale-to-width-down/100?cb=20151004105028" 	 alt="House-Targaryen-heraldry"  	class="" 	 	data-image-key="House-Targaryen-heraldry.jpg" 	data-image-name="House-Targaryen-heraldry.jpg" 	 	 width="100"  	 height="100"  	 	 	 	></noscript></a></div></div>
+<a href="/wiki/Duncan_Targaryen" title="Duncan Targaryen">Duncan Targaryen</a><br />"Duncan the Small"<br /><a href="/wiki/Category:Status:_Dead" title="Category:Status: Dead">Deceased</a></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em;&#160;;"><div class="center"><div class="floatnone"><a href="/wiki/Aerys_II_Targaryen" 	class="image image-thumbnail link-internal" 	 title="Aerys II Targaryen"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Papa Targaryen"  	class="lzy lzyPlcHld " 	 	data-image-key="Papa_Targaryen.jpg" 	data-image-name="Papa Targaryen.jpg" 	 data-src="http://vignette3.wikia.nocookie.net/gameofthrones/images/d/db/Papa_Targaryen.jpg/revision/latest/scale-to-width-down/100?cb=20160530061137"  	 width="100"  	 height="125"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette3.wikia.nocookie.net/gameofthrones/images/d/db/Papa_Targaryen.jpg/revision/latest/scale-to-width-down/100?cb=20160530061137" 	 alt="Papa Targaryen"  	class="" 	 	data-image-key="Papa_Targaryen.jpg" 	data-image-name="Papa Targaryen.jpg" 	 	 width="100"  	 height="125"  	 	 	 	></noscript></a></div></div>
+<a href="/wiki/Aerys_II_Targaryen" title="Aerys II Targaryen">Aerys II Targaryen</a><br />"The Mad King"<br /><a href="/wiki/Category:Status:_Dead" title="Category:Status: Dead">Deceased</a></td><td colspan="2" style="border-bottom: 1px double black;"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em;&#160;;"><div class="center"><div class="floatnone"><a href="/wiki/Rhaella_Targaryen" 	class="image image-thumbnail link-internal" 	 title="Rhaella Targaryen"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Rhaella tree"  	class="lzy lzyPlcHld " 	 	data-image-key="Rhaella_tree.jpg" 	data-image-name="Rhaella tree.jpg" 	 data-src="http://vignette4.wikia.nocookie.net/gameofthrones/images/a/a2/Rhaella_tree.jpg/revision/latest/scale-to-width-down/100?cb=20130501182100"  	 width="100"  	 height="96"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette4.wikia.nocookie.net/gameofthrones/images/a/a2/Rhaella_tree.jpg/revision/latest/scale-to-width-down/100?cb=20130501182100" 	 alt="Rhaella tree"  	class="" 	 	data-image-key="Rhaella_tree.jpg" 	data-image-name="Rhaella tree.jpg" 	 	 width="100"  	 height="96"  	 	 	 	></noscript></a></div></div>
+<a href="/wiki/Rhaella_Targaryen" title="Rhaella Targaryen">Rhaella Targaryen</a><br /><a href="/wiki/Category:Status:_Dead" title="Category:Status: Dead">Deceased</a></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em;&#160;;"><div class="center"><div class="floatnone"><a href="/wiki/Daeron_Targaryen_(son_of_Aegon_V)" 	class="image image-thumbnail link-internal" 	 title="Daeron Targaryen (son of Aegon V)"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="House-Targaryen-heraldry"  	class="lzy lzyPlcHld " 	 	data-image-key="House-Targaryen-heraldry.jpg" 	data-image-name="House-Targaryen-heraldry.jpg" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/1/16/House-Targaryen-heraldry.jpg/revision/latest/scale-to-width-down/100?cb=20151004105028"  	 width="100"  	 height="100"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/1/16/House-Targaryen-heraldry.jpg/revision/latest/scale-to-width-down/100?cb=20151004105028" 	 alt="House-Targaryen-heraldry"  	class="" 	 	data-image-key="House-Targaryen-heraldry.jpg" 	data-image-name="House-Targaryen-heraldry.jpg" 	 	 width="100"  	 height="100"  	 	 	 	></noscript></a></div></div>
+<a href="/wiki/Daeron_Targaryen_(son_of_Aegon_V)" title="Daeron Targaryen (son of Aegon V)">Daeron Targaryen</a><br /><a href="/wiki/Category:Status:_Dead" title="Category:Status: Dead">Deceased</a></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td></tr><tr style="text-align: center;"><td style="border-right: 1px solid black;"><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td></tr>
+<tr style="text-align: center;"><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td style="border-bottom: 1px solid black;"><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2" style="border-bottom: 1px solid black;"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2" style="border-bottom: 1px solid black;"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2" style="border-bottom: 1px solid black;"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2" style="border-bottom: 1px solid black;"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2" style="border-bottom: 1px solid black;"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2" style="border-bottom: 1px solid black;"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td style="border-right: 1px solid black; border-bottom: 1px solid black;"><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td style="border-bottom: 1px solid black;"><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2" style="border-bottom: 1px solid black;"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2" style="border-bottom: 1px solid black;"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2" style="border-bottom: 1px solid black;"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2" style="border-bottom: 1px solid black;"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td style="border-bottom: 1px solid black;"><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2"><div style="width: 1em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td></tr><tr style="text-align: center;"><td style="border-right: 1px solid black;"><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td style="border-right: 1px solid black;"><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td style="border-right: 1px solid black;"><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td></tr>
+<tr style="text-align: center;"><td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em;&#160;;"><div class="center"><div class="floatnone"><a href="/wiki/Elia_Targaryen" 	class="image image-thumbnail link-internal" 	 title="Elia Targaryen"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Elia-family-tree"  	class="lzy lzyPlcHld " 	 	data-image-key="Elia-family-tree.jpg" 	data-image-name="Elia-family-tree.jpg" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/4/4b/Elia-family-tree.jpg/revision/latest/scale-to-width-down/100?cb=20150217003915"  	 width="100"  	 height="90"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/4/4b/Elia-family-tree.jpg/revision/latest/scale-to-width-down/100?cb=20150217003915" 	 alt="Elia-family-tree"  	class="" 	 	data-image-key="Elia-family-tree.jpg" 	data-image-name="Elia-family-tree.jpg" 	 	 width="100"  	 height="90"  	 	 	 	></noscript></a></div></div>
+<a href="/wiki/Elia_Martell" title="Elia Martell">Elia Martell</a> <a href="/wiki/House_Martell" 	class="image image-thumbnail link-internal" 	 title="House Martell"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Martell-small"  	class="lzy lzyPlcHld " 	 	data-image-key="Martell-small.png" 	data-image-name="Martell-small.png" 	 data-src="http://vignette3.wikia.nocookie.net/gameofthrones/images/6/63/Martell-small.png/revision/latest?cb=20120224010511"  	 width="15"  	 height="15"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette3.wikia.nocookie.net/gameofthrones/images/6/63/Martell-small.png/revision/latest?cb=20120224010511" 	 alt="Martell-small"  	class="" 	 	data-image-key="Martell-small.png" 	data-image-name="Martell-small.png" 	 	 width="15"  	 height="15"  	 	 	 	></noscript></a><br /><a href="/wiki/Category:Status:_Dead" title="Category:Status: Dead">Deceased</a></td><td colspan="2" style="border-bottom: 1px double black;"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em;&#160;;"><div class="center"><div class="floatnone"><a href="/wiki/Rhaegar_Targaryen" 	class="image image-thumbnail link-internal" 	 title="Rhaegar Targaryen"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Rhaegar-family-tree"  	class="lzy lzyPlcHld " 	 	data-image-key="Rhaegar-family-tree.jpg" 	data-image-name="Rhaegar-family-tree.jpg" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/3/30/Rhaegar-family-tree.jpg/revision/latest/scale-to-width-down/100?cb=20130501091125"  	 width="100"  	 height="96"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/3/30/Rhaegar-family-tree.jpg/revision/latest/scale-to-width-down/100?cb=20130501091125" 	 alt="Rhaegar-family-tree"  	class="" 	 	data-image-key="Rhaegar-family-tree.jpg" 	data-image-name="Rhaegar-family-tree.jpg" 	 	 width="100"  	 height="96"  	 	 	 	></noscript></a></div></div>
+<a href="/wiki/Rhaegar_Targaryen" title="Rhaegar Targaryen">Rhaegar Targaryen</a><br /><a href="/wiki/Category:Status:_Dead" title="Category:Status: Dead">Deceased</a></td><td colspan="2" style="border-bottom: 1px dashed black;"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em;&#160;;"><div class="center"><div class="floatnone"><a href="/wiki/Lyanna_Stark" 	class="image image-thumbnail link-internal" 	 title="Lyanna Stark"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Lyanna tree"  	class="lzy lzyPlcHld " 	 	data-image-key="Lyanna_tree.jpg" 	data-image-name="Lyanna tree.jpg" 	 data-src="http://vignette4.wikia.nocookie.net/gameofthrones/images/b/b8/Lyanna_tree.jpg/revision/latest/scale-to-width-down/100?cb=20160503215709"  	 width="100"  	 height="90"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette4.wikia.nocookie.net/gameofthrones/images/b/b8/Lyanna_tree.jpg/revision/latest/scale-to-width-down/100?cb=20160503215709" 	 alt="Lyanna tree"  	class="" 	 	data-image-key="Lyanna_tree.jpg" 	data-image-name="Lyanna tree.jpg" 	 	 width="100"  	 height="90"  	 	 	 	></noscript></a></div></div>
+<a href="/wiki/Lyanna_Stark" title="Lyanna Stark">Lyanna Stark</a><br /><a href="/wiki/Category:Status:_Dead" title="Category:Status: Dead">Deceased</a></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em;&#160;;"><div class="center"><div class="floatnone"><a href="/wiki/Viserys_Targaryen" 	class="image image-thumbnail link-internal" 	 title="Viserys Targaryen"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Viserys tree"  	class="lzy lzyPlcHld " 	 	data-image-key="Viserys_tree.jpg" 	data-image-name="Viserys tree.jpg" 	 data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/a/ad/Viserys_tree.jpg/revision/latest/scale-to-width-down/100?cb=20120224011850"  	 width="100"  	 height="89"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/a/ad/Viserys_tree.jpg/revision/latest/scale-to-width-down/100?cb=20120224011850" 	 alt="Viserys tree"  	class="" 	 	data-image-key="Viserys_tree.jpg" 	data-image-name="Viserys tree.jpg" 	 	 width="100"  	 height="89"  	 	 	 	></noscript></a></div></div>
+<a href="/wiki/Viserys_Targaryen" title="Viserys Targaryen">Viserys Targaryen</a><br /><a href="/wiki/Category:Status:_Dead" title="Category:Status: Dead">Deceased</a></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em;&#160;;"><div class="center"><div class="floatnone"><a href="/wiki/Daenerys_Targaryen" 	class="image image-thumbnail link-internal" 	 title="Daenerys Targaryen"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Daenerys tree"  	class="lzy lzyPlcHld " 	 	data-image-key="Daenerys_tree.jpg" 	data-image-name="Daenerys tree.jpg" 	 data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/6/6c/Daenerys_tree.jpg/revision/latest/scale-to-width-down/100?cb=20140713213624"  	 width="100"  	 height="113"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/6/6c/Daenerys_tree.jpg/revision/latest/scale-to-width-down/100?cb=20140713213624" 	 alt="Daenerys tree"  	class="" 	 	data-image-key="Daenerys_tree.jpg" 	data-image-name="Daenerys tree.jpg" 	 	 width="100"  	 height="113"  	 	 	 	></noscript></a></div></div>
+<a href="/wiki/Daenerys_Targaryen" title="Daenerys Targaryen">Daenerys Targaryen</a><br />"Daenerys Stormborn"</td><td colspan="2" style="border-bottom: 1px double black;"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em;&#160;;"><div class="center"><div class="floatnone"><a href="/wiki/Drogo" 	class="image image-thumbnail link-internal" 	 title="Drogo"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Drogo tree"  	class="lzy lzyPlcHld " 	 	data-image-key="Drogo_tree.jpg" 	data-image-name="Drogo tree.jpg" 	 data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/9/9a/Drogo_tree.jpg/revision/latest/scale-to-width-down/100?cb=20120224012245"  	 width="100"  	 height="89"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/9/9a/Drogo_tree.jpg/revision/latest/scale-to-width-down/100?cb=20120224012245" 	 alt="Drogo tree"  	class="" 	 	data-image-key="Drogo_tree.jpg" 	data-image-name="Drogo tree.jpg" 	 	 width="100"  	 height="89"  	 	 	 	></noscript></a></div></div>
+<a href="/wiki/Drogo" title="Drogo">Drogo</a><br /><a href="/wiki/Category:Status:_Dead" title="Category:Status: Dead">Deceased</a></td></tr><tr style="text-align: center;"><td style="border-right: 1px solid black;"><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td style="border-right: 1px dashed black;"><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td style="border-right: 1px solid black;"><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td></tr>
+<tr style="text-align: center;"><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td style="border-bottom: 1px solid black;"><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2" style="border-bottom: 1px solid black;"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td style="border-right: 1px solid black; border-bottom: 1px solid black;"><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td style="border-bottom: 1px solid black;"><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2" style="border-bottom: 1px solid black;"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td style="border-bottom: 1px solid black;"><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2"><div style="width: 1em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td style="border-right: 1px dashed black;"><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td style="border-bottom: 1px dashed black;"><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2" style="border-bottom: 1px dashed black;"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td style="border-bottom: 1px dashed black;"><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2"><div style="width: 1em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" style="border-right: 1px solid black;"><div style="width: 1em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2"><div style="width: 1em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td></tr><tr style="text-align: center;"><td style="border-right: 1px solid black;"><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td style="border-right: 1px solid black;"><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="2"><div style="width: 2em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td style="border-right: 1px dashed black;"><div style="width: 1em; height: 1em;"><span style="font: 1px/1px serif;">&#160;</span></div></td></tr>
+<tr style="text-align: center;"><td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em;&#160;;"><div class="center"><div class="floatnone"><a href="/wiki/Rhaenys_Targaryen_(daughter_of_Rhaegar)" 	class="image image-thumbnail link-internal" 	 title="Rhaenys Targaryen (daughter of Rhaegar)"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Rhaenys tree"  	class="lzy lzyPlcHld " 	 	data-image-key="Rhaenys_tree.jpg" 	data-image-name="Rhaenys tree.jpg" 	 data-src="http://vignette3.wikia.nocookie.net/gameofthrones/images/a/a0/Rhaenys_tree.jpg/revision/latest/scale-to-width-down/100?cb=20130501174432"  	 width="100"  	 height="90"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette3.wikia.nocookie.net/gameofthrones/images/a/a0/Rhaenys_tree.jpg/revision/latest/scale-to-width-down/100?cb=20130501174432" 	 alt="Rhaenys tree"  	class="" 	 	data-image-key="Rhaenys_tree.jpg" 	data-image-name="Rhaenys tree.jpg" 	 	 width="100"  	 height="90"  	 	 	 	></noscript></a></div></div>
+<a href="/wiki/Rhaenys_Targaryen_(daughter_of_Rhaegar)" title="Rhaenys Targaryen (daughter of Rhaegar)">Rhaenys Targaryen</a><br /><a href="/wiki/Category:Status:_Dead" title="Category:Status: Dead">Deceased</a></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em;&#160;;"><div class="center"><div class="floatnone"><a href="/wiki/Aegon_Targaryen_(Son_of_Rhaegar)" 	class="image image-thumbnail link-internal" 	 title="Aegon Targaryen (Son of Rhaegar)"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="House-Targaryen-heraldry"  	class="lzy lzyPlcHld " 	 	data-image-key="House-Targaryen-heraldry.jpg" 	data-image-name="House-Targaryen-heraldry.jpg" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/1/16/House-Targaryen-heraldry.jpg/revision/latest/scale-to-width-down/100?cb=20151004105028"  	 width="100"  	 height="100"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/1/16/House-Targaryen-heraldry.jpg/revision/latest/scale-to-width-down/100?cb=20151004105028" 	 alt="House-Targaryen-heraldry"  	class="" 	 	data-image-key="House-Targaryen-heraldry.jpg" 	data-image-name="House-Targaryen-heraldry.jpg" 	 	 width="100"  	 height="100"  	 	 	 	></noscript></a></div></div>
+<a href="/wiki/Aegon_Targaryen_(Son_of_Rhaegar)" title="Aegon Targaryen (Son of Rhaegar)">Aegon Targaryen</a><br /><a href="/wiki/Category:Status:_Dead" title="Category:Status: Dead">Deceased</a></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em;&#160;;"><div class="center"><div class="floatnone"><a href="/wiki/Jon_Snow" 	class="image image-thumbnail link-internal" 	 title="Jon Snow"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Jon Snow family tree image"  	class="lzy lzyPlcHld " 	 	data-image-key="Jon_Snow_family_tree_image.jpg" 	data-image-name="Jon Snow family tree image.jpg" 	 data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/d/d4/Jon_Snow_family_tree_image.jpg/revision/latest/scale-to-width-down/100?cb=20160616211642"  	 width="100"  	 height="106"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/d/d4/Jon_Snow_family_tree_image.jpg/revision/latest/scale-to-width-down/100?cb=20160616211642" 	 alt="Jon Snow family tree image"  	class="" 	 	data-image-key="Jon_Snow_family_tree_image.jpg" 	data-image-name="Jon Snow family tree image.jpg" 	 	 width="100"  	 height="106"  	 	 	 	></noscript></a></div></div>
+<a href="/wiki/Jon_Snow" title="Jon Snow">Jon Snow</a><br /><a href="/wiki/Night%27s_Watch" title="Night's Watch">Night's Watch</a> <a href="/wiki/Night%27s_Watch" 	class="image image-thumbnail link-internal" 	 title="Night&#39;s Watch"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Night&amp;#039;s-Watch-sigil"  	class="lzy lzyPlcHld " 	 	data-image-key="Night%27s-Watch-sigil.jpg" 	data-image-name="Night&#39;s-Watch-sigil.jpg" 	 data-src="http://vignette3.wikia.nocookie.net/gameofthrones/images/9/91/Night%27s-Watch-sigil.jpg/revision/latest/scale-to-width-down/16?cb=20140402124245"  	 width="16"  	 height="16"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette3.wikia.nocookie.net/gameofthrones/images/9/91/Night%27s-Watch-sigil.jpg/revision/latest/scale-to-width-down/16?cb=20140402124245" 	 alt="Night&amp;#039;s-Watch-sigil"  	class="" 	 	data-image-key="Night%27s-Watch-sigil.jpg" 	data-image-name="Night&#39;s-Watch-sigil.jpg" 	 	 width="16"  	 height="16"  	 	 	 	></noscript></a></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td colspan="6" rowspan="2" style="border: 2px solid black; padding: 0.2em;&#160;;"><div class="center"><div class="floatnone"><a href="/wiki/Rhaego" 	class="image image-thumbnail link-internal" 	 title="Rhaego"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="House-Targaryen-heraldry"  	class="lzy lzyPlcHld " 	 	data-image-key="House-Targaryen-heraldry.jpg" 	data-image-name="House-Targaryen-heraldry.jpg" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/1/16/House-Targaryen-heraldry.jpg/revision/latest/scale-to-width-down/100?cb=20151004105028"  	 width="100"  	 height="100"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/1/16/House-Targaryen-heraldry.jpg/revision/latest/scale-to-width-down/100?cb=20151004105028" 	 alt="House-Targaryen-heraldry"  	class="" 	 	data-image-key="House-Targaryen-heraldry.jpg" 	data-image-name="House-Targaryen-heraldry.jpg" 	 	 width="100"  	 height="100"  	 	 	 	></noscript></a></div></div>
+<a href="/wiki/Rhaego" title="Rhaego">Rhaego</a><br /><a href="/wiki/Category:Status:_Dead" title="Category:Status: Dead">Stillborn</a></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"><span style="font: 1px/1px serif;">&#160;</span></div></td></tr><tr style="text-align: center;"></tr>
+</table>
+<h2><span class="mw-headline" id="Quotes">Quotes</span><span class="editsection"><a href="/wiki/Aemon?action=edit&amp;section=9" title="Edit Quotes section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<dl><dt>Spoken by Aemon
+</dt></dl>
+<div class="quote">
+<dl><dd><span title="Source: Lord Snow">"<i>The Night's Watch is the only thing standing between the realm and what lies beyond and it has become an army of undisciplined boys and tired old men. There are less than a thousand of us now. We can't man the other castles on the Wall. We can't properly patrol the wilderness. We have barely enough resources to keep our lads armed and fed.</i>"</span>
+</dd><dd>&#8213;Maester Aemon to Tyrion Lannister<span class="noprint"><sup><a href="/wiki/Lord_Snow" title="Lord Snow">[src]</a></sup></span></div>
+</dd></dl>
+<div class="quote">
+<dl><dd><span title="Source: Baelor">"<i>Love is the death of duty.</i>"</span>
+</dd><dd>&#8213;Maester Aemon to Jon Snow<span class="noprint"><sup><a href="/wiki/Baelor" title="Baelor">[src]</a></sup></span></div>
+</dd></dl>
+<div class="quote">
+<dl><dd><span title="Source: Baelor">"<i>We're all human. Oh, we all do our duty when there's no cost to it. Honor comes easy then. Yet sooner or later in every man's life there comes a day when it's not easy. A day when he must choose.</i>"</span>
+</dd><dd>&#8213;Maester Aemon to Jon Snow<span class="noprint"><sup><a href="/wiki/Baelor" title="Baelor">[src]</a></sup></span></div>
+</dd></dl>
+<div class="quote">
+<dl><dd><span><b>Maester Aemon</b>: "<i>The gods were cruel when they saw fit to test my vow. They waited until I was old. What could I do when the ravens brought the news from the south? The ruin of my house. The death of my family. I was helpless, blind, frail, but when I heard they had killed my brother's son, and his poor <a href="/wiki/Rhaegar_Targaryen" title="Rhaegar Targaryen">son</a>, and the children. Even the <a href="/wiki/Rhaenys_Targaryen_(daughter_of_Rhaegar)" title="Rhaenys Targaryen (daughter of Rhaegar)">little</a> <a href="/wiki/Aegon_Targaryen_(son_of_Rhaegar)" title="Aegon Targaryen (son of Rhaegar)" class="mw-redirect">children</a>!</i>"
+</dd><dd><b>Jon Snow</b>: "<i>Who are you?</i>"
+</dd><dd><b>Maester Aemon</b>: "<i>My father was <a href="/wiki/Maekar_Targaryen" title="Maekar Targaryen">Maekar, the First of his Name</a>. My brother <a href="/wiki/Aegon_V_Targaryen" title="Aegon V Targaryen">Aegon</a> reigned after him, when I had refused the throne, and he was followed by his son <a href="/wiki/Aerys_II_Targaryen" title="Aerys II Targaryen">Aerys</a>, whom they called 'the Mad King'.</i>"
+</dd><dd><b>Jon Snow</b>: "<i>You're Aemon </i>Targaryen?!'<b>"</b>
+</dd><dd><b>Maester Aemon</b>: "<i>I am a <a href="/wiki/Maesters" title="Maesters">maester</a> of <a href="/wiki/The_Citadel" title="The Citadel">the Citadel</a>, bound in service to Castle Black and the Night's Watch. I will not tell you... to stay or go. You must make that choice yourself, and live with it for the rest of your days. As </i>I<i> have.</i>"</span>
+</dd><dd>&#8212; Aemon reveals that he is a long-forgotten uncle of King Aerys II Targaryen.<sup class="noprint"><a href="/wiki/Baelor" title="Baelor">[src]</a></sup>
+</dd></dl>
+</div>
+<div class="quote">
+<dl><dd><span title="Source: Two Swords">"<i>If we beheaded every <a href="/wiki/Ranger" title="Ranger">ranger</a> who lay with a girl, the Wall would be manned by headless men.</i>"</span>
+</dd><dd>&#8213;Maester Aemon defend <a href="/wiki/Jon_Snow" title="Jon Snow">Jon Snow</a> when he admits to breaking his vows.<span class="noprint"><sup><a href="/wiki/Two_Swords" title="Two Swords">[src]</a></sup></span></div>
+</dd></dl>
+<div class="quote">
+<dl><dd><span><b>Jon Snow</b>: "<i>Do you intend to execute me or am I free to go?</i>"
+</dd><dd><b>Aemon</b>: "<i>None of us are free. We are men of the Night's Watch. But we won't be taking your head today, Jon Snow. Go on.</i>"</span>
+</dd><dd>&#8212; Aemon to Jon Snow<sup class="noprint"><a href="/wiki/Two_Swords" title="Two Swords">[src]</a></sup>
+</dd></dl>
+</div>
+<div class="quote">
+<dl><dd><span><b>Alliser Thorne</b>: "<i>You always know when a man is telling a lie. How did you acquire this magical power?</i>"
+</dd><dd><b>Aemon</b>: "<i>I grew up in <a href="/wiki/King%27s_Landing" title="King's Landing">King's Landing</a>.</i>"</span>
+</dd><dd>&#8212; Maester Aemon and <a href="/wiki/Alliser_Thorne" title="Alliser Thorne">Alliser Thorne</a><sup class="noprint"><a href="/wiki/Two_Swords" title="Two Swords">[src]</a></sup>
+</dd></dl>
+</div>
+<div class="quote">
+<dl><dd><span title="Source: The Children">"<i>They came to us from <a href="/wiki/White_Harbor" title="White Harbor">White Harbor</a> and <a href="/wiki/Barrowton" title="Barrowton">Barrowton</a>, from <a href="/wiki/Fairmarket" title="Fairmarket">Fairmarket</a> and <a href="/wiki/King%27s_Landing" title="King's Landing">King's Landing</a>. From north and south, from east and west. They died protecting men, women, and children who will never know their names. It is for us to remember our brothers. We shall never see their like again...and now, their watch is ended.</i>"</span>
+</dd><dd>&#8213;Maester Aemon delivery the eulogy of those who died during the <a href="/wiki/Battle_of_Castle_Black" title="Battle of Castle Black">Battle of Castle Black</a>.<span class="noprint"><sup><a href="/wiki/The_Children" title="The Children">[src]</a></sup></span></div>
+</dd></dl>
+<div class="quote">
+<dl><dd><span title="Source: Kill the Boy">"<i>You will find little joy in your command, but with luck, you'll find the strength to do what needs to be done. Kill the boy, Jon Snow. Kill the boy, and let the man be born.</i>"</span>
+</dd><dd>&#8213;Aemon to Jon Snow<span class="noprint"><sup><a href="/wiki/Kill_the_Boy" title="Kill the Boy">[src]</a></sup></span></div>
+</dd></dl>
+<div class="quote">
+<dl><dd><span title="Source: The Gift (episode)">"<i><a href="/wiki/Aegon_V_Targaryen" title="Aegon V Targaryen">Egg</a>! I dreamed...that I was old...</i>"</span>
+</dd><dd>&#8213;Aemon's last words.<span class="noprint"><sup><a href="/wiki/The_Gift_(episode)" title="The Gift (episode)">[src]</a></sup></span></div>
+</dd></dl>
+<dl><dt>Spoken about Aemon
+</dt></dl>
+<div class="quote">
+<dl><dd><span title="Source: The Gift (episode)">"<i>His name was Aemon Targaryen. He came to us from King's Landing. A Maester of the Citadel, chained and sworn, and sworn Brother of the Night's Watch, ever faithful. No man was wiser, or gentler or kinder. At the Wall, a dozen Lord Commanders came and went during his years of service, but he was always there to counsel them. He was the blood of the Dragon... but now his fire has gone out. And now his Watch is ended.</i>"</span>
+</dd><dd>&#8213;Samwell Tarly eulogizes Aemon at his funeral.<span class="noprint"><sup><a href="/wiki/The_Gift_(episode)" title="The Gift (episode)">[src]</a></sup></span></div>
+</dd></dl>
+<h2><span class="mw-headline" id="In_the_books">In the books</span><span class="editsection"><a href="/wiki/Aemon?action=edit&amp;section=10" title="Edit In the books section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<p>In the <i><a href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, Maester Aemon is widely believed to be one of the oldest living men in all of <a href="/wiki/Westeros" title="Westeros">Westeros</a>. He is nearly a hundred years old in the first novel, and advances into his 102nd year by the third novel (corresponding to his appearance in Season 3). He has been on <a href="/wiki/The_Wall" title="The Wall">the Wall</a> for almost seventy years and is known for his great wisdom, wise counsel and trusted judgment. He is the third son of King Maekar I Targaryen, and the older brother of King <a href="/wiki/Aegon_V_Targaryen" title="Aegon V Targaryen">Aegon V Targaryen</a> ("Egg" from the <i>Dunk and Egg</i> short stories by <a href="/wiki/George_R.R._Martin" title="George R.R. Martin">George R.R. Martin</a>), the uncle of King Jaehaerys II Targaryen and thus the great-uncle of the Mad King and the great-grand-uncle of <a href="/wiki/Daenerys_Targaryen" title="Daenerys Targaryen">Daenerys Targaryen</a>. Aemon was actually offered the throne, being Maekar's eldest surviving son, but declined on account of his vows, thus allowing Aegon V "the Unlikely" to assume the throne. Aemon then joined the Night's Watch in the hope that having taken oaths as both a member of the maesters and then the Night's Watch to forsake any claim to inheritance, no one would think of him as a legitimate heir to be used as political pawn against his younger brother. Despite being isolated at the Wall for many decades and unable to travel due to his increasing age, Aemon knew Prince <a href="/wiki/Rhaegar_Targaryen" title="Rhaegar Targaryen">Rhaegar Targaryen</a> well because they regularly corresponded via messenger-raven, making Aemon's decision not to leave the Wall all the more painful.
+</p><p>For the TV series, Jaehaerys II has been removed, with Aerys II being the son of Aegon V, thus the televised Aemon more closely related to Daenerys and Viserys, being their great-uncle instead of their great-great uncle.
+</p><p>Aemon began training to be a maester when he was 9 or 10 years old, and finished his studies when he was 19, during the reign of his uncle King <a href="/wiki/Aerys_I_Targaryen" title="Aerys I Targaryen">Aerys I</a> (Pycelle was only a baby at the time). The <i>Dunk and Egg</i> short stories begin about two years after Aemon left to train at the Citadel, so while he is alive in that timeframe he does not prominently appear (though his brothers do). When he received his chain of office, Aemon's father asked him to come to King's Landing to serve on his small council, but fearing that this would cause him to clash with the Grand Maester, Aemon chose instead to serve as at <a href="/wiki/Dragonstone_(castle)" title="Dragonstone (castle)">Dragonstone</a>. Aemon joined the Night's Watch when he was 35, following the death of his father and succession of Aegon V, meaning that by the time Jon Snow joined the Night's Watch Aemon had been at the Wall for about 65 years.
+</p><p>In the books, Lord Commander Jeor Mormont makes it clear to Jon Snow that he is fully aware that Aemon is actually a Targaryen. However, he saw no reason to tell Robert Baratheon, as the rules of the Night's Watch are that any member sheds all previous family ties, and the Night's Watch are their family now. Further, Aemon was already a blind old man, and a respected member of the Night's Watch for decades. Aemon took no particular action in support of House Targaryen when it was overthrown by Robert, so Mormont was confident that Aemon held true to his vows and no longer considered himself a Targaryen.
+</p><p>Other characters later point out that it is somewhat unusual that Aemon, a respected member of the Order of Maesters for decades, was never promoted to the rank of <a href="/wiki/Archmaester" title="Archmaester">Archmaester</a>, to become part of the ruling <a href="/wiki/Conclave" title="Conclave">Conclave</a> in <a href="/wiki/Oldtown" title="Oldtown">Oldtown</a>. It is speculated that the Conclave was wary about making a member of the royal family an Archmaester, given the entanglements this might create with the Targaryens. Whatever the case, the entire reason that Aemon joined the Night's Watch was to move as far away from the centers of power as possible, so it is probable that even if he were asked he would have declined a promotion to Archmaester at the Citadel.
+</p><p>Aemon is 99 years old in the first novel. Actor Peter Vaughan was 88 years old during Season 1. While portraying the blind Aemon, Vaughan is himself partially blind.
+</p><p>Aemon should have the rare and distinctive purple-colored irises of House Targaryen, though no one ever mentions it - and they might deduce his secret past as a Targaryen from this. More probably, his blind eyes are apparently so white with cataracts that no one can tell what their original color was.
+</p><p>In the novels, Aemon does not automatically take Sam as his personal steward, but is persuaded to do so by Jon Snow. In <i>A Feast for Crows</i>, he doesn't perish in Castle Black. Instead, Lord Commander Snow sends him to the <a href="/wiki/Citadel" title="Citadel" class="mw-redirect">Citadel</a> in <a href="/wiki/Oldtown" title="Oldtown">Oldtown</a> via Braavos, along with Sam and Gilly, fearing that <a href="/wiki/Melisandre" title="Melisandre">Melisandre</a> may sacrifice him for his "king's blood". Aemon grows weaker and feverish during the journey and his mind starts to wander not just to his youth with Egg but also dreams of <a href="/wiki/Dragons" title="Dragons">dragons</a> and Daenerys Targaryen, cursing his age for making him unable to seek her out and counsel her. During one of his fits he grows convinced that it was a mistake for him to leave the Wall because "cold preserves", implying that the ice magic of the Wall was keeping him alive. He finally perishes aboard the <i>Cinnamon Wind</i>, a merchant "swan ship" of the <a href="/wiki/Summer_Islands" title="Summer Islands">Summer Islands</a> travelling from Braavos to Oldtown, after asking Sam to find Daenerys and help her return to Westeros. The eulogy Sam gives aboard is the following:
+</p><p><i>"He was a good man... No. He was a great man. A maester of the Citadel, chained and sworn, and Sworn Brother of the Night's Watch, ever faithful. When he was born they named him for a hero who had died too young, but though he lived a long long time, his own life was no less heroic. No man was wiser, or gentler, or kinder. At the Wall, a dozen lords commander came and went during his years of service, but he was always there to counsel them. He counseled kings as well. He could have been a king himself, but when they offered him the crown he told them they should give it to his younger brother. How many men would do that? He was the blood of the dragon, but now his fire has gone out. He was Aemon Targaryen. And now his watch is ended."</i>
+</p><p>Aemon's body has not been burned yet, because the captain would not allow a funeral pyre aboard the ship. It is currently being preserved in a cask of blackbelly rum until Sam has a chance to conduct a proper funeral in Oldtown.
+</p><p>In honor of Aemon's memory, Gilly decides to name Mance Rayder's baby son "Aemon Battleborn" or "Aemon Steelsong", but only after he is two years old, as per wildling tradition (she has not chosen a name for her own baby yet).
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="editsection"><a href="/wiki/Aemon?action=edit&amp;section=11" title="Edit See also section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<ul><li> <a href="http://vignette1.wikia.nocookie.net/gameofthrones/images/6/63/A_Wiki_of_Ice_and_Fire_favicon.PNG/revision/latest?cb=20140327143233" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="A Wiki of Ice and Fire favicon"  	class="lzy lzyPlcHld " 	 	data-image-key="A_Wiki_of_Ice_and_Fire_favicon.PNG" 	data-image-name="A Wiki of Ice and Fire favicon.PNG" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/6/63/A_Wiki_of_Ice_and_Fire_favicon.PNG/revision/latest?cb=20140327143233"  	 width="32"  	 height="32"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/6/63/A_Wiki_of_Ice_and_Fire_favicon.PNG/revision/latest?cb=20140327143233" 	 alt="A Wiki of Ice and Fire favicon"  	class="" 	 	data-image-key="A_Wiki_of_Ice_and_Fire_favicon.PNG" 	data-image-name="A Wiki of Ice and Fire favicon.PNG" 	 	 width="32"  	 height="32"  	 	 	 	></noscript></a> <a href="http://awoiaf.westeros.org/index.php/Aemon" class="extiw exitstitial" title="awoiaf:Aemon">Aemon</a> on <a rel="nofollow" class="external text exitstitial" href="http://awoiaf.westeros.org/">A Wiki of Ice and Fire</a> (MAJOR spoilers from the books)
+</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="editsection"><a href="/wiki/Aemon?action=edit&amp;section=12" title="Edit References section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<div class="references-small" style="-moz-column-count:2; -webkit-column-count:2; column-count:2;">
+<ol class="references"><li id="cite_note-0"><a href="#cite_ref-0">↑</a> <span class="reference-text">Aemon was 104 when he died in the novels; the TV series never gave him an exact age, only a line of dialogue in which he generically said that he was over 100 years old.</span>
+</li>
+<li id="cite_note-Baelor-1">↑ <sup><a href="#cite_ref-Baelor_1-0">2.0</a></sup> <sup><a href="#cite_ref-Baelor_1-1">2.1</a></sup> <sup><a href="#cite_ref-Baelor_1-2">2.2</a></sup> <span class="reference-text">"<a href="/wiki/Baelor" title="Baelor">Baelor</a>"</span>
+</li>
+<li id="cite_note-2"><a href="#cite_ref-2">↑</a> <span class="reference-text"><a rel="nofollow" class="external text exitstitial" href="http://viewers-guide.hbo.com/game-of-thrones/season2/#!/guide/houses/targaryen/aemon-targaryen/">HBO viewers guide, season 2 guide to houses, House Targaryen - Aemon Targaryen entry</a></span>
+</li>
+<li id="cite_note-3"><a href="#cite_ref-3">↑</a> <span class="reference-text">"<a href="/wiki/The_Watchers_on_the_Wall" title="The Watchers on the Wall">The Watchers on the Wall</a></span>
+</li>
+<li id="cite_note-The_Pointy_End-4">↑ <sup><a href="#cite_ref-The_Pointy_End_4-0">5.0</a></sup> <sup><a href="#cite_ref-The_Pointy_End_4-1">5.1</a></sup> <span class="reference-text">"<a href="/wiki/The_Pointy_End" title="The Pointy End">The Pointy End</a>"</span>
+</li>
+<li id="cite_note-5"><a href="#cite_ref-5">↑</a> <span class="reference-text">"<a href="/wiki/Lord_Snow" title="Lord Snow">Lord Snow</a>"</span>
+</li>
+<li id="cite_note-6"><a href="#cite_ref-6">↑</a> <span class="reference-text">"<a href="/wiki/You_Win_or_You_Die" title="You Win or You Die">You Win or You Die</a>"</span>
+</li>
+<li id="cite_note-7"><a href="#cite_ref-7">↑</a> <span class="reference-text">"<a href="/wiki/Fire_and_Blood" title="Fire and Blood">Fire and Blood</a>"</span>
+</li>
+<li id="cite_note-8"><a href="#cite_ref-8">↑</a> <span class="reference-text">"<a href="/wiki/Mhysa" title="Mhysa">Mhysa</a>"</span>
+</li>
+<li id="cite_note-9"><a href="#cite_ref-9">↑</a> <span class="reference-text">"<a href="/wiki/Two_Swords" title="Two Swords">Two Swords</a>"</span>
+</li>
+<li id="cite_note-10"><a href="#cite_ref-10">↑</a> <span class="reference-text">"<a href="/wiki/Breaker_of_Chains" title="Breaker of Chains">Breaker of Chains</a>"</span>
+</li>
+<li id="cite_note-11"><a href="#cite_ref-11">↑</a> <span class="reference-text">"<a href="/wiki/The_Watchers_on_the_Wall" title="The Watchers on the Wall">The Watchers on the Wall</a>"</span>
+</li>
+<li id="cite_note-12"><a href="#cite_ref-12">↑</a> <span class="reference-text">"<a href="/wiki/The_Children" title="The Children">The Children</a>"</span>
+</li>
+<li id="cite_note-13"><a href="#cite_ref-13">↑</a> <span class="reference-text">"<a href="/wiki/The_House_of_Black_and_White" title="The House of Black and White">The House of Black and White</a>"</span>
+</li>
+<li id="cite_note-14"><a href="#cite_ref-14">↑</a> <span class="reference-text">"<a href="/wiki/High_Sparrow" title="High Sparrow">High Sparrow</a>"</span>
+</li>
+<li id="cite_note-15"><a href="#cite_ref-15">↑</a> <span class="reference-text">"<a href="/wiki/Kill_the_Boy" title="Kill the Boy">Kill the Boy</a>"</span>
+</li>
+<li id="cite_note-16"><a href="#cite_ref-16">↑</a> <span class="reference-text">"<a href="/wiki/The_Gift_(episode)" title="The Gift (episode)">The Gift</a>"</span>
+</li></ol></div>
+<table class="nowraplinks navbox collapsible collapsed" cellspacing="0" style="width: 100%;">
+<tr>
+<th colspan="2" class="navbox-title"> <div style="padding-right:0em"><div style="float:left; text-align:left; width:6em;"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small;&#160;;"><a href="/wiki/Template:Watch_navbox" title="Template:Watch navbox"><span title="View this template" style=";">v</span></a>&#160;<span style="font-size: 80%;">•</span>&#160;<span class="plainlinks"><a  class="text" href="http://gameofthrones.wikia.com/wiki/Template_talk:Watch_navbox"><span style=";" title="Discussion about this template">d</span></a></span>&#160;<span style="font-size: 80%;">•</span>&#160;<a  class="text" href="http://gameofthrones.wikia.com/wiki/Template:Watch_navbox?action=edit"><span style=";" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><div style="text-align:centre"><span style=""><a href="/wiki/Night%27s_Watch" title="Night's Watch">The Night's Watch</a></span></div></div>
+</th></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/Lord_Commander_of_the_Night%27s_Watch" title="Lord Commander of the Night's Watch">Lord Commander</a>:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Jon_Snow" title="Jon Snow">Jon Snow</a>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Former Lords Commander:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Night%27s_King" title="Night's King">The Night's King</a> <b>·</b> <a href="/wiki/Brynden_Rivers" title="Brynden Rivers">Brynden Rivers</a> <b>·</b> <a href="/wiki/Jeor_Mormont" title="Jeor Mormont">Jeor Mormont</a>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Commanders:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Denys_Mallister" title="Denys Mallister">Ser Denys Mallister</a> <b>·</b> <a href="/wiki/Cotter_Pyke" title="Cotter Pyke">Cotter Pyke</a>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Maesters:</b>
+</td><td class="navbox-list" style="">
+<p><strong class="selflink">Aemon</strong>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/Ranger" title="Ranger">Rangers</a>:</b>
+</td><td class="navbox-list" style="padding:0; border-bottom:0;">
+<table class="nowraplinks navbox collapsible autocollapse" cellspacing="0" style="width: 100%;">
+
+
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/First_Ranger" title="First Ranger">First Ranger</a>:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Alliser_Thorne" title="Alliser Thorne">Ser Alliser Thorne</a>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Current:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Balian" title="Balian">Balian</a> <b>·</b> <a href="/wiki/Escan" title="Escan">Escan</a> <b>·</b> <a href="/wiki/Matthar" title="Matthar">Matthar</a> <b>·</b> <a href="/wiki/Nelugo" title="Nelugo">Nelugo</a> <b>·</b> <a href="/wiki/Niko" title="Niko">Niko</a> <b>·</b> <a href="/wiki/Jaremy_Rykker" title="Jaremy Rykker">Ser Jaremy Rykker</a> <b>·</b> <a href="/wiki/Gared_Tuttle" title="Gared Tuttle">Gared Tuttle</a> <b>·</b> <a href="/wiki/Finn" title="Finn">Finn</a> <b>·</b> <a href="/wiki/Hugh_(Telltale)" title="Hugh (Telltale)">Hugh</a>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Former:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Bannen" title="Bannen">Bannen</a> <b>·</b> <a href="/wiki/Borba" title="Borba">Borba</a> <b>·</b> <a href="/wiki/Gared" title="Gared">Gared</a> <b>·</b> <a href="/wiki/Grenn" title="Grenn">Grenn</a> <b>·</b> <a href="/wiki/Harker" title="Harker">Harker</a>  <b>·</b> <a href="/wiki/Jafer_Flowers" title="Jafer Flowers">Jafer Flowers</a> <b>·</b> <a href="/wiki/Karl_Tanner" title="Karl Tanner">Karl Tanner</a> <b>·</b> <a href="/wiki/Othor" title="Othor">Othor</a> <b>·</b> <a href="/wiki/Qhorin" title="Qhorin">Qhorin Halfhand</a> <b>·</b> <a href="/wiki/Rast" title="Rast">Rast</a> <b>·</b> <a href="/wiki/Mance_Rayder" title="Mance Rayder">Mance Rayder</a> <b>·</b> <a href="/wiki/Waymar_Royce" title="Waymar Royce">Ser Waymar Royce</a> <b>·</b> <a href="/wiki/Benjen_Stark" title="Benjen Stark">Benjen Stark</a> <i>(MIA)</i> <b>·</b> <a href="/wiki/Stiv" title="Stiv">Stiv</a> <b>·</b> <a href="/wiki/Stonesnake" title="Stonesnake">Stonesnake</a> <b>·</b> <a href="/wiki/Wallen" title="Wallen">Wallen</a> <b>·</b> <a href="/wiki/Will" title="Will">Will</a> <b>·</b> <a href="/wiki/Cooper" title="Cooper">Cooper</a> <b>·</b> <a href="/wiki/Smitty" title="Smitty">Smitty</a> 
+</p>
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/Steward_(Night%27s_Watch)" title="Steward (Night's Watch)">Stewards</a>:</b>
+</td><td class="navbox-list" style="">
+<table class="nowraplinks navbox collapsible autocollapse" cellspacing="0" style="width: 100%;">
+
+
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/First_Steward" title="First Steward">First Steward</a>:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Bowen_Marsh" title="Bowen Marsh">Bowen Marsh</a>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Current:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Borcas" title="Borcas">Borcas</a> <b>·</b> <a href="/wiki/Clydas" title="Clydas">Clydas</a> <b>·</b> <a href="/wiki/Dareon" title="Dareon">Dareon</a> <b>·</b> <a href="/wiki/Gordo" title="Gordo">Gordo</a> <b>·</b> <a href="/wiki/Hobb" title="Hobb">Hobb</a> <b>·</b> <a href="/wiki/Mink" title="Mink">Mink</a> <b>·</b> <a href="/wiki/Myk" title="Myk">Myk</a> <b>·</b> <a href="/wiki/Samwell_Tarly" title="Samwell Tarly">Samwell Tarly</a> <b>·</b> <a href="/wiki/Eddison_Tollett" title="Eddison Tollett">Eddison Tollett</a> <b>·</b> <a href="/wiki/Joby" title="Joby">Joby</a> <b>·</b> <a href="/wiki/Joe" title="Joe">One-Eyed Joe</a> <b>·</b> <a href="/wiki/Luke" title="Luke">Luke</a> <b>·</b> <a href="/wiki/Lobor" title="Lobor">Lobor</a> <b>·</b> <a href="/wiki/Erik" title="Erik">Erik</a>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Former:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Donnel_Hill" title="Donnel Hill">Donnel Hill</a> <b>·</b> <a href="/wiki/Pypar" title="Pypar">Pypar</a> 
+</p>
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/Builder" title="Builder">Builders</a>:</b>
+</td><td class="navbox-list" style="">
+<table class="nowraplinks navbox collapsible autocollapse" cellspacing="0" style="width: 100%;">
+
+
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/First_Builder" title="First Builder">First Builder</a>:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Othell_Yarwyck" title="Othell Yarwyck">Othell Yarwyck</a>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Current:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Allo" title="Allo">Allo</a> <b>·</b> <a href="/wiki/Echiel" title="Echiel">Echiel</a> <b>·</b> <a href="/wiki/Halder" title="Halder">Halder</a> <b>·</b> <a href="/wiki/Rancer" title="Rancer">Rancer</a> <b>·</b> <a href="/wiki/Toad" title="Toad" class="mw-redirect">Toad</a> <b>·</b> <a href="/wiki/Vorkoy" title="Vorkoy">Vorkoy</a> <b>·</b> <a href="/wiki/Casper" title="Casper">Casper</a> <b>·</b> <a href="/wiki/Cotter" title="Cotter">Cotter</a>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Former:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Kegs" title="Kegs">Kegs</a> <b>·</b> <a href="/wiki/Jack_Bulwer" title="Jack Bulwer">Black Jack Bulwer</a> <b>·</b> <a href="/wiki/Mully" title="Mully">Mully</a> 
+</p>
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b><a href="/wiki/Wandering_Crows" title="Wandering Crows" class="mw-redirect">Recruiters</a>:</b>
+</td><td class="navbox-list" style="">
+<table class="nowraplinks navbox collapsible autocollapse" cellspacing="0" style="width: 100%;">
+
+
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Current:</b>
+</td><td class="navbox-list" style="">
+<p><i>Unknown</i>
+</p>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Former:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/Yoren" title="Yoren">Yoren</a> 
+</p>
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="navbox-group" style="width: 15%;"> <b>Castles of the Watch:</b>
+</td><td class="navbox-list" style="">
+<p><a href="/wiki/The_Shadow_Tower" title="The Shadow Tower">The Shadow Tower</a> <b>·</b> <a href="/wiki/Castle_Black" title="Castle Black">Castle Black</a> <b>·</b> <a href="/wiki/Eastwatch-by-the-Sea" title="Eastwatch-by-the-Sea">Eastwatch-by-the-Sea</a> <b>·</b> <a href="/wiki/Deep_Lake" title="Deep Lake">Deep Lake</a> <b>·</b> <a href="/wiki/Greyguard" title="Greyguard">Greyguard</a> <b>·</b> <a href="/wiki/Nightfort" title="Nightfort" class="mw-redirect">Nightfort</a> 
+</p>
+</td></tr></table>
+<table class="collapsible collapsed;" style="clear: right; width: 98%; border: solid #aaa 1px; margin: 0 auto; font-size: 95%; padding: 10px; text-align: left;">
+
+<tr>
+<th style="text-align: center; font-size:125%; color:black;" bgcolor="#C19A6B" colspan="6"> <div style="float:left; text-align:left; width:6em;"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small;&#160;;"><a href="/wiki/Template:Targaryen_navbox" title="Template:Targaryen navbox"><span title="View this template" style=";">v</span></a>&#160;<span style="font-size: 80%;">•</span>&#160;<span class="plainlinks"><a  class="text" href="http://gameofthrones.wikia.com/wiki/Template_talk:Targaryen_navbox"><span style=";" title="Discussion about this template">d</span></a></span>&#160;<span style="font-size: 80%;">•</span>&#160;<a  class="text" href="http://gameofthrones.wikia.com/wiki/Template:Targaryen_navbox?action=edit"><span style=";" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><div style="text-align:centre"><span style=""><a href="/wiki/House_Targaryen" title="House Targaryen">House Targaryen</a></span></div>
+</th></tr>
+<tr style="vertical-align: top;">
+<td><b>Lord:</b>
+</td><td><a href="/wiki/Daenerys_Targaryen" title="Daenerys Targaryen">Queen Daenerys Targaryen</a>
+</td><td><b>Heir:</b>
+</td><td>None
+</td><td style="horizontal-align: right;" rowspan="3" colspan="2"><div class="floatright"><a href="http://vignette2.wikia.nocookie.net/gameofthrones/images/4/43/House-Targaryen-Main-Shield.PNG/revision/latest?cb=20151209185148" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="House-Targaryen-Main-Shield"  	class="lzy lzyPlcHld " 	 	data-image-key="House-Targaryen-Main-Shield.PNG" 	data-image-name="House-Targaryen-Main-Shield.PNG" 	 data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/4/43/House-Targaryen-Main-Shield.PNG/revision/latest/scale-to-width-down/100?cb=20151209185148"  	 width="100"  	 height="122"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/4/43/House-Targaryen-Main-Shield.PNG/revision/latest/scale-to-width-down/100?cb=20151209185148" 	 alt="House-Targaryen-Main-Shield"  	class="" 	 	data-image-key="House-Targaryen-Main-Shield.PNG" 	data-image-name="House-Targaryen-Main-Shield.PNG" 	 	 width="100"  	 height="122"  	 	 	 	></noscript></a></div>
+</td></tr>
+<tr>
+<td><b>Seat:</b>
+</td><td>(Exiled)
+</td><td><b>Lands:</b>
+</td><td>Exiled, currently holds <a href="/wiki/Meereen" title="Meereen">Meereen</a> in <a href="/wiki/Slaver%27s_Bay" title="Slaver's Bay" class="mw-redirect">Slaver's Bay</a>
+</td></tr>
+<tr>
+<td><b>Title(s):</b>
+</td><td colspan="3">Queen of Meereen <b>·</b> <i><a href="/wiki/Khaleesi" title="Khaleesi">Khaleesi</a></i> of the <a href="/wiki/Dothraki_Sea" title="Dothraki Sea">Great Grass Sea</a> <b>·</b> <a href="/wiki/King_of_Qarth" title="King of Qarth">Queen of Qarth</a><b>·</b> <a href="/wiki/King_of_the_Andals_and_the_First_Men" title="King of the Andals and the First Men" class="mw-redirect">Queen of the Andals, the Rhoynar, and the First Men</a> (claimant) <b>·</b> <a href="/wiki/Lord_of_the_Seven_Kingdoms" title="Lord of the Seven Kingdoms">Lady Regnant of the Seven Kingdoms</a> (claimant) <b>·</b> <a href="/wiki/Protector_of_the_Realm" title="Protector of the Realm">Protector of the Realm</a> (claimant)
+</td></tr>
+<tr>
+<td><b>Ancestors:</b></td><td colspan="5"><a href="/wiki/Aegon_I_Targaryen" title="Aegon I Targaryen">Aegon I, the Conqueror</a> <b>·</b> <a href="/wiki/Visenya_Targaryen" title="Visenya Targaryen">Visenya</a> <b>·</b> <a href="/wiki/Rhaenys_Targaryen_(sister_of_Aegon_I)" title="Rhaenys Targaryen (sister of Aegon I)">Rhaenys</a> <b>·</b> <a href="/wiki/Aenys_Targaryen" title="Aenys Targaryen">Aenys I</a> <b>·</b> <a href="/wiki/Maegor_Targaryen" title="Maegor Targaryen">Maegor I, the Cruel</a> <b>·</b> <a href="/wiki/Jaehaerys_I_Targaryen" title="Jaehaerys I Targaryen">Jaehaerys, the Concilliator</a> <b>·</b> <a href="/wiki/Viserys_I_Targaryen" title="Viserys I Targaryen">Viserys I</a> <b>·</b> <a href="/wiki/Daemon_Targaryen" title="Daemon Targaryen">Daemon</a> <b>·</b> <a href="/wiki/Rhaenyra_Targaryen" title="Rhaenyra Targaryen">Rhaenyra</a> <b>·</b> <a href="/wiki/Aegon_II_Targaryen" title="Aegon II Targaryen">Aegon II</a> <b>·</b> <a href="/wiki/Aemond_Targaryen" title="Aemond Targaryen">Aemond</a> <b>·</b> <a href="/wiki/Aegon_III_Targaryen" title="Aegon III Targaryen">Aegon III</a> <b>·</b> <a href="/wiki/Daeron_I_Targaryen" title="Daeron I Targaryen">Daeron I, the Young Dragon</a> <b>·</b> <a href="/wiki/Baelor_I_Targaryen" title="Baelor I Targaryen" class="mw-redirect">Baelor the Blessed</a> <b>·</b> <a href="/wiki/Viserys_II_Targaryen" title="Viserys II Targaryen">Viserys II</a> <b>·</b> <a href="/wiki/Aegon_IV_Targaryen" title="Aegon IV Targaryen">Aegon IV, the Unworthy</a> <b>·</b> <a href="/wiki/Naerys_Targaryen" title="Naerys Targaryen">Naerys</a> <b>·</b> <a href="/wiki/Aemon_Targaryen_(Dragonknight)" title="Aemon Targaryen (Dragonknight)">Aemon the Dragonknight</a> <b>·</b> <a href="/wiki/Daena_Targaryen" title="Daena Targaryen">Daena the Defiant</a> <b>·</b> <a href="/wiki/Rhaena_Targaryen" title="Rhaena Targaryen">Rhaena</a> <b>·</b> <a href="/wiki/Elaena_Targaryen" title="Elaena Targaryen">Elaena</a> <b>·</b> <a href="/wiki/Daeron_II_Targaryen" title="Daeron II Targaryen">Daeron II, the Good</a> <b>·</b> <a href="/wiki/Daenerys_Targaryen_(daughter_of_Aegon_IV)" title="Daenerys Targaryen (daughter of Aegon IV)">Daenerys Martell</a> <b>·</b> <a href="/wiki/Myriah_Martell" title="Myriah Martell">Myriah Martell</a> <b>·</b> <a href="/wiki/Daemon_Blackfyre" title="Daemon Blackfyre">Daemon Blackfyre</a> <b>·</b> <a href="/wiki/Brynden_Rivers" title="Brynden Rivers">Brynden Rivers</a> <b>·</b> <a href="/wiki/Aegor_Rivers" title="Aegor Rivers">Aegor Rivers</a> <b>·</b> <a href="/wiki/Shiera_Seastar" title="Shiera Seastar">Shiera Seastar</a> <b>·</b> <a href="/wiki/Baelor_Targaryen_(son_of_Daeron_II)" title="Baelor Targaryen (son of Daeron II)">Baelor Breakspear</a> <b>·</b> <a href="/wiki/Aerys_I_Targaryen" title="Aerys I Targaryen">Aerys I</a> <b>·</b> <a href="/wiki/Aelinor_Targaryen" title="Aelinor Targaryen">Aelinor</a> <b>·</b> <a href="/wiki/Rhaegel_Targaryen" title="Rhaegel Targaryen">Rhaegel</a> <b>·</b> <a href="/wiki/Maekar_Targaryen" title="Maekar Targaryen">Maekar I</a> <b>·</b> <a href="/wiki/Aerion_Targaryen" title="Aerion Targaryen">Aerion Brightflame</a> <b>·</b> <a href="/wiki/Aegon_V_Targaryen" title="Aegon V Targaryen">Aegon V, the Unlikely</a> <b>·</b> <a href="/wiki/Duncan_Targaryen" title="Duncan Targaryen">Duncan the Small</a> <b>·</b> <a href="/wiki/Daeron_Targaryen_(son_of_Aegon_V)" title="Daeron Targaryen (son of Aegon V)">Daeron</a>
+</td></tr>
+
+<tr>
+<td><b>Deceased members:</b></td><td colspan="5"><a href="/wiki/Aerys_II_Targaryen" title="Aerys II Targaryen">Aerys II, the Mad</a> <b>·</b> <a href="/wiki/Rhaella_Targaryen" title="Rhaella Targaryen">Rhaella Targaryen</a> <b>·</b> <a href="/wiki/Rhaegar_Targaryen" title="Rhaegar Targaryen">Rhaegar Targaryen</a> <b>·</b> <a href="/wiki/Elia_Targaryen" title="Elia Targaryen" class="mw-redirect">Elia Martell</a> <b>·</b> <a href="/wiki/Rhaenys_Targaryen" title="Rhaenys Targaryen" class="mw-redirect">Rhaenys Targaryen</a> <b>·</b> <a href="/wiki/Aegon_Targaryen_(Son_of_Rhaegar)" title="Aegon Targaryen (Son of Rhaegar)">Aegon Targaryen</a> <b>·</b> <a href="/wiki/Viserys_Targaryen" title="Viserys Targaryen">Viserys Targaryen</a> <b>·</b> <a href="/wiki/Drogo" title="Drogo">Drogo</a> <b>·</b> <a href="/wiki/Rhaego" title="Rhaego">Rhaego</a> <b>·</b> <a href="/wiki/Aemon_Targaryen" title="Aemon Targaryen" class="mw-redirect">Aemon Targaryen</a>
+</td></tr>
+<tr>
+<td><b>Household:</b></td><td colspan="5"><a href="/wiki/Jorah_Mormont" title="Jorah Mormont">Ser Jorah Mormont</a> <b>·</b> <a href="/wiki/Tyrion_Lannister" title="Tyrion Lannister">Tyrion Lannister</a> <b>·</b> {<a href="/wiki/Barristan_Selmy" title="Barristan Selmy">Ser Barristan Selmy</a>} <b>·</b> {<a href="/wiki/Rakharo" title="Rakharo">Rakharo</a>} <b>·</b> <a href="/wiki/Kovarro" title="Kovarro">Kovarro</a> <b>·</b> <a href="/wiki/Aggo" title="Aggo">Aggo</a> <b>·</b> {<a href="/wiki/Irri" title="Irri">Irri</a>} <b>·</b> {<a href="/wiki/Doreah" title="Doreah">Doreah</a>} <b>·</b> <a href="/wiki/Jhiqui" title="Jhiqui">Jhiqui</a> <b>·</b> <a href="/wiki/Malakho" title="Malakho">Malakho</a> <b>·</b> <a href="/wiki/Missandei" title="Missandei">Missandei</a> <b>·</b> <a href="/wiki/Grey_Worm" title="Grey Worm">Grey Worm</a> <b>·</b> <a href="/wiki/Daario_Naharis" title="Daario Naharis">Daario Naharis</a> <b>·</b> {<a href="/wiki/Mossador" title="Mossador">Mossador</a>}
+</td></tr>
+
+</table>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 12276/300000
+Post‐expand include size: 159678/2097152 bytes
+Template argument size: 60527/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key gameofthrones:pcache:idhash:2206-0!*!0!!en!2!* -->
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://gameofthrones.wikia.com/wiki/Aemon?oldid=274366">http://gameofthrones.wikia.com/wiki/Aemon?oldid=274366</a>"</div>
+
+				</div>
+
+															<nav class="article-categories CategorySelect articlePage userCanEdit" id="articleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="Characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Characters" title="Category:Characters">Characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Recurring Characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Recurring_Characters" title="Category:Recurring Characters">Recurring Characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Season 1 Characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Season_1_Characters" title="Category:Season 1 Characters">Season 1 Characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Maesters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Maesters" title="Category:Maesters">Maesters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="House Targaryen" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:House_Targaryen" title="Category:House Targaryen">House Targaryen</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Characters from the Crownlands" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Characters_from_the_Crownlands" title="Category:Characters from the Crownlands">Characters from the Crownlands</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Season 3 Characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Season_3_Characters" title="Category:Season 3 Characters">Season 3 Characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Princes" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Princes" title="Category:Princes">Princes</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Members of the Night&#039;s Watch" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Members_of_the_Night%27s_Watch" title="Category:Members of the Night's Watch">Members of the Night's Watch</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Season 4 Characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Season_4_Characters" title="Category:Season 4 Characters">Season 4 Characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Nobility" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Nobility" title="Category:Nobility">Nobility</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Status: Dead" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Status:_Dead" title="Category:Status: Dead">Status: Dead</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Season 5 Characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Season_5_Characters" title="Category:Season 5 Characters">Season 5 Characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+							<li class="last">
+					<button class="wikia-button secondary add" id="CategorySelectAdd" type="button">Add category</button>
+					<input autocomplete="off" class="input" id="CategorySelectInput" name="CategorySelectInput" placeholder="Add category..." type="text">				</li>
+					</ul>
+	</div>
+			<div class="toolbar">
+			<button class="wikia-button secondary cancel" id="CategorySelectCancel" type="button">Cancel</button>
+			<button class="wikia-button save" id="CategorySelectSave" type="button" disabled="disabled">Save</button>
+		</div>
+	</nav>									
+				<nav class="WikiaArticleInterlang">
+	<h3>Languages: </h3>
+	<ul>
+			<li><a href="http://de.gameofthrones.wikia.com/wiki/Aemon">Deutsch</a></li>
+			<li><a href="http://ru.gameofthrones.wikia.com/wiki/%D0%AD%D0%B9%D0%BC%D0%BE%D0%BD">Русский</a></li>
+			<li><a href="http://graotron.wikia.com/wiki/Aemon_Targaryen">Polski</a></li>
+			<li><a href="http://fr.game-of-thrones.wikia.com/wiki/Aemon">Français</a></li>
+			<li><a href="http://zh.asoiaf.wikia.com/wiki/%E4%BC%8A%E8%92%99%C2%B7%E5%9D%A6%E6%A0%BC%E5%88%A9%E5%AE%89(%E6%A2%85%E5%8D%A1%E4%B8%80%E4%B8%96%E4%B9%8B%E5%AD%90)">中文</a></li>
+		</ul>
+</nav>
+
+				
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+							<!-- BEGIN CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<div id="NATIVE_TABOOLA_ARTICLE">
+		<script>
+			window.adslots2.push(["NATIVE_TABOOLA_ARTICLE"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+<div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+								<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+										<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+						<div id="WikiaRail" class="WikiaRail">
+
+		<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+					<div class="loading"></div>
+		
+	</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	<div id="BOTTOM_LEADERBOARD"></div>
+	
+			<section>
+	<div class="header-container">
+		<h2>Around Wikia's network</h2>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/130814" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer">
+	<nav>
+		<div class="branding vertical-tv black">
+			<a class="wikia-logo" href="http://tvhub.wikia.com/wiki/TV_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>TV</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com/wiki/Help:Contents">Help</a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Sitemap">Global Sitemap</a>
+									</li>
+							<li>
+											<a href="/wiki/Special:AllPages">Local Sitemap</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Vacation like an Avenger. Explore real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;},{&quot;text&quot;:&quot;Vacation like an Avenger. Explore real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;},{&quot;text&quot;:&quot;Vacation like an Avenger. Explore real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;},{&quot;text&quot;:&quot;Vacation like an Avenger. Explore real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;},{&quot;text&quot;:&quot;Vacation like an Avenger. Explore real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["GPT_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: EVOLVE_FLUSH -->
+<div id="EVOLVE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["EVOLVE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: EVOLVE_FLUSH -->
+<!-- BEGIN SLOTNAME: HITMEDIA_FLUSH -->
+<div id="HITMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["HITMEDIA_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: HITMEDIA_FLUSH -->
+<!-- BEGIN SLOTNAME: TURTLE_FLUSH -->
+<div id="TURTLE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TURTLE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TURTLE_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"gameofthrones","kv_article_id":2206,"kv_wpage":"Aemon","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"media=tv;genre=fantasy;tv=hbo;sex=m;age=18-24;age=18-34;age=25-34;esrb=mature;media=books;gnre=action;gnre=adventure;theme=sword;theme=magic;gnre=drama;gnre=fighting;theme=dragon;theme=mature;theme=zombiesex=m;age=18-24;age=25-34;age=18-34;age=teen;media=tv;media=comics;media=books;gnre=action;theme=zombie;gnre=horror;theme=postapocalypse;gnre=3rdpersonshooter;pform=xbox360;pform=ps3;esrb=mature;tv=amc;sex=m;age=13-17;age=18-24;age=under18;age=kids;age=teen;gnre=anime;media=tv;media=comics;gnre=fighting;gnre=fantasyage=under18;age=18-24;age=teen;age=kids;media=tv;media=comics;media=cards;gnre=anime;gnre=fantasy;gnre=fighting;gnre=action;gnre=adventure;pform=xbox360;pform=ps3;pform=wii;pform=ds;esrb=teen;tv=cn;theme=heroes;tv=onhulu;tv=hulu","kv_domain":"gameofthrones.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://gameofthrones.wikia.com/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26newve%3D1%26only%3Dscripts%26skin%3Doasis/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgPageName":"Aemon","wgTitle":"Aemon","wgCurRevisionId":274366,"wgArticleId":2206,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Characters","Recurring Characters","Season 1 Characters","Maesters","House Targaryen","Characters from the Crownlands","Season 3 Characters","Princes","Members of the Night\'s Watch","Season 4 Characters","Nobility","Status: Dead","Season 5 Characters"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Aemon","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"true","background-image":"http://img4.wikia.nocookie.net/__cb20150716154804/gameofthrones/images/5/50/Wiki-background","background-image-height":"720","background-image-width":"1920","color-body":"#000","color-body-middle":"#000000","color-buttons":"#1e5467","color-header":"#5f4416","color-links":"#47518e","color-page":"#d7cbab","oasisTypography":1,"page-opacity":"100","widthType":0},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"Game of Thrones Wiki","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1467115692/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1467115692/common","wgSitename":"Game of Thrones Wiki","wgMWrevId":false,"wgRevisionId":274366,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableNewAuthModal":true,"wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgWikiaMaxNameChars":50,"wgMinimalPasswordLength":1,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=Aemon","fbReturnToTitle":"Aemon","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":[],"wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"1200":true,"500":true,"501":true,"502":true,"503":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":true,"interactiveMapsApiURL":"http://maps.wikia-services.com:80/api/v1","VignettePathPrefix":null,"reCaptchaPublicKey":"6LdDSA4TAAAAANZDWjPdTiQcYsTuge5fMPQTd7D_","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgEnablePortableInfoboxBuilderInVE":true,"wgEnableVisualEditorTourExperiment":true,"wgOasisResponsive":false,"wgOasisBreakpoints":true,"verticalName":"Entertainment","wgArticleInterlangList":["de:Aemon","fr:Aemon","pl:Aemon Targaryen","ru:Эймон","zh:伊蒙·坦格利安(梅卡一世之子)"],"WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgContentReviewExtEnabled":true,"wgContentReviewTestModeEnabled":false,"wgReviewedScriptsTimestamp":"1441727506","wgScriptsTimestamp":"1332971928","wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"Aemon"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"editor":2,"enotifwallthread":2,"wallshowsource":false,"walldelete":false,"founderemails-joins-130814":0,"founderemails-edits-130814":0,"founderemails-views-digest-130814":0,"founderemails-complete-digest-130814":0,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true,"searchNs15":false,"searchNs110":false,"searchNs111":false,"searchNs500":false,
+"searchNs501":false,"searchNs502":false,"searchNs503":false,"searchNs828":false,"searchNs829":false,"searchNs1000":false,"searchNs1010":false,"searchNs1020":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"searchNs2000":false,"searchNs2001":false,"searchNs2002":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: gameofthrones:resourceloader:filter:minify-js:7:5ffb247b4f4ef073d23e4edf309a4c85 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikia.viewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.bannerNotifications","ext.cookiePolicyMessages","ext.userLogin"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1467115692/groups/-/oasis_shared_core_js,oasis_shared_js,oasis_anon_js,adengine2_oasis_exitstitial_js,adengine2_desktop_js,liftium_ads_js,liftium_ads_extra_js,adengine2_gcs_js,adengine2_taboola_js,adengine2_revcontent_js,adengine2_interactive_maps_js,recirculation_trackers_js,recirculation_js,toc_js,qualaroo_js,wikia_maps_contribution_button_create_map_js,spotlights_js,relatedpages_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1467115692/group/-/videos_module_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1467115692/group/-/auth_modal_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1467115692/group/-/cookie_policy_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1467115692/group/-/wikia_in_your_lang_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1467115692/group/-/portable_infobox_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1467115692/group/-/visit_source_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1467115692/group/-/community_page_benefits_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1467115692/group/-/visual_editor_tour_experiment_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=AdEngine%2CConfirmModal%2CImagePlaceholder%2COasis-generic%2CRecirculation%2CVideosModule&amp;uselang=en&amp;cb=1467115692.274219.0"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1467115692/group/-/monetization_module_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1467115692/group/-/global_navigation_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1467115692/group/-/page_share_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1467115692/group/-/global_footer_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://gameofthrones.wikia.com/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://gameofthrones.wikia.com/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26reviewed%3D1441727506%26skin%3Doasis/site"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1467115692/group/-/facebook_client_fbtags_js"></script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/Forum\/css\/ForumTag.scss","extensions\/wikia\/Recirculation\/styles\/recirculation.scss","extensions\/wikia\/PortableInfobox\/styles\/PortableInfobox.scss","extensions\/wikia\/CommunityPage\/styles\/benefitsModal\/benefitsModal.scss","extensions\/wikia\/VisualEditorTourExperiment\/styles\/VisualEditorTourExperimentInit.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModule.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationUserLoginDropdown.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationNotifications.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","extensions\/wikia\/GlobalNavigation\/styles\/GoogleSearchAPI.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/PageShare\/styles\/PageShare.scss","extensions\/wikia\/GlobalFooter\/styles\/GlobalFooter.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+</body>
+
+
+
+</html>

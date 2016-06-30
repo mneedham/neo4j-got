@@ -1,0 +1,1369 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.24" />
+<meta name="keywords" content="Game of Thrones Wiki,gameofthrones,Tormund,Season 3,Season 4,Season 5,Season 6,Valar Dohaeris,Beyond the Wall,Free Folk,Mance Rayder,Jon Snow,Kristofer Hivju" />
+<meta name="description" content="Tormund, often called Tormund Giantsbane, is a major character in the fourth, fifth, sixth and..." />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Wikia" />
+<meta name="twitter:url" content="http://gameofthrones.wikia.com/wiki/Tormund" />
+<meta name="twitter:title" content="Tormund - Game of Thrones Wiki - Wikia" />
+<meta name="twitter:description" content="Tormund, often called Tormund Giantsbane, is a major character in the fourth, fifth, sixth and seventh seasons. He initially appears as a recurring character in the third season. He is a renowned..." />
+<link rel="canonical" href="http://gameofthrones.wikia.com/wiki/Tormund" />
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/wiki/Tormund?action=edit" />
+<link rel="edit" title="Edit" href="/wiki/Tormund?action=edit" />
+<link rel="apple-touch-icon" href="http://img1.wikia.nocookie.net/__cb87/gameofthrones/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/gameofthrones/images/6/64/Favicon.ico/revision/latest?cb=20120302041013" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Game of Thrones Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://gameofthrones.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="Game of Thrones Wiki Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>Tormund - Game of Thrones Wiki - Wikia</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images1.wikia.nocookie.net/__am/1467115692/sasses/background-dynamic%3Dtrue%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb20150716154804%252Fgameofthrones%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1920%26color-body%3D%2523000%26color-body-middle%3D%2523000000%26color-buttons%3D%25231e5467%26color-header%3D%25235f4416%26color-links%3D%252347518e%26color-page%3D%2523d7cbab%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/skins/oasis/css/oasis.scss,extensions/wikia/Forum/css/ForumTag.scss,extensions/wikia/Recirculation/styles/recirculation.scss,extensions/wikia/PortableInfobox/styles/PortableInfobox.scss,extensions/wikia/VisualEditorTourExperiment/styles/VisualEditorTourExperimentInit.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationUserLoginDropdown.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationNotifications.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,extensions/wikia/GlobalNavigation/styles/GoogleSearchAPI.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/PageShare/styles/PageShare.scss,extensions/wikia/GlobalFooter/styles/GlobalFooter.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://slot1.images2.wikia.nocookie.net/__am/1467115692/sasses/background-dynamic%3Dtrue%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb20150716154804%252Fgameofthrones%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1920%26color-body%3D%2523000%26color-body-middle%3D%2523000000%26color-buttons%3D%25231e5467%26color-header%3D%25235f4416%26color-links%3D%252347518e%26color-page%3D%2523d7cbab%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/extensions/wikia/ARecoveryEngine/css/recoveryUnlock.scss" /><link rel="stylesheet" href="http://gameofthrones.wikia.com/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: gameofthrones:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="tv",
+wgWikiCategories=[],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Join the Chat","chat-start-a-chat":"Start a Chat","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live! Chat","chat-edit-count":"$1 edits","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":1,"delayBtf":true,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true,"sourcePointDetectionUrl":"http://gameofthrones.wikia.com/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/57760d8e437e238c3641afedb4a476d1","yavliUrl":"http://gameofthrones.wikia.com/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/38b0394988142491ae86c66ddc260800"},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"esrbRating":"teen","mappedVerticalName":"ent","pageArticleId":9679,"pageIsArticle":true,"pageName":"Tormund","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"media=tv;genre=fantasy;tv=hbo;sex=m;age=18-24;age=18-34;age=25-34;esrb=mature;media=books;gnre=action;gnre=adventure;theme=sword;theme=magic;gnre=drama;gnre=fighting;theme=dragon;theme=mature;theme=zombiesex=m;age=18-24;age=25-34;age=18-34;age=teen;media=tv;media=comics;media=books;gnre=action;theme=zombie;gnre=horror;theme=postapocalypse;gnre=3rdpersonshooter;pform=xbox360;pform=ps3;esrb=mature;tv=amc;sex=m;age=13-17;age=18-24;age=under18;age=kids;age=teen;gnre=anime;media=tv;media=comics;gnre=fighting;gnre=fantasyage=under18;age=18-24;age=teen;age=kids;media=tv;media=comics;media=cards;gnre=anime;gnre=fantasy;gnre=fighting;gnre=action;gnre=adventure;pform=xbox360;pform=ps3;pform=wii;pform=ds;esrb=teen;tv=cn;theme=heroes;tv=onhulu;tv=hulu","wikiDbName":"gameofthrones","wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"tv","newWikiCategories":["ent"]},"providers":{"evolve2":true,"rubiconFastlane":true,"taboola":true},"slots":{"exitstitial":true,"invisibleHighImpact":true},"forcedProvider":null},"runtime":{"sp":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[100056,100057,100058,100059,100397],
+wgWikiFactoryTagNames=["wow","t9","skyscraper","skyscrapperwow","en"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1467115692",
+wgDBname="gameofthrones",
+wgCityId="130814",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=9679,
+wgCategories=["Season 3 Characters","Status: Alive","Free Folk","Characters","Characters from beyond the Wall","Season 4 Characters","Mance Rayder\'s army","Major Characters","Season 5 Characters","Season 6 Characters"],
+wgPageName="Tormund",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="character",
+wgNamespaceNumber=0,
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=true,
+wgStyleVersion="1467115692",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/complex","env":"prod","hostname":"ap-s238","php_version":"5.6.11","wiki":"gameofthrones","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"complex"},
+wgEnableOpenXSPC=true,
+wgEnableReviveSpotlights=true,
+wgSeoTestingBucket=4;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<!-- Nielsen is disabled --><script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1467115692&amp;c=130814&amp;lc=en&amp;lid=75&amp;x=gameofthrones&amp;y=c2&amp;u=0&amp;a=9679&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+		document.write('<img src="http://logs-01.loggly.com/inputs/88a88e56-77c6-49cc-af41-6f44f83fe7fe.gif?message=wikia_beacon_id%20is%20empty" style="position:absolute;top:-1000px" />');
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1467115692&amp;c=130814&amp;lc=en&amp;lid=75&amp;x=gameofthrones&amp;y=c2&amp;u=0&amp;a=9679&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1467115692/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine2_tracking_js,adengine2_amazon_match_js,adengine2_ox_bidder_js,adengine2_rubicon_fastlane_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="Game of Thrones Wiki" />
+	<meta property="og:title" content="Tormund" />
+	<meta property="og:description" content="Tormund, often called Tormund Giantsbane, is a major character in the fourth, fifth, sixth and seventh seasons. He initially appears as a recurring character in the third season. He is a renowned leader and raider among the Free Folk and second in command behind Mance Rayder. He is played by Kristofer Hivju. Tormund is a trusted leader in his own right of a large warband of wildlings. He has joined his forces to those of King-Beyond-the-Wall Mance Rayder, and now functions as one of Mance's..." />
+	<meta property="og:url" content="http://gameofthrones.wikia.com/wiki/Tormund" />
+	<meta property="og:image" content="http://vignette3.wikia.nocookie.net/gameofthrones/images/d/d8/Tormund_6x04_Promo.jpg/revision/latest?cb=20160513231918" />
+<meta name="apple-itunes-app" content="app-id=920825172, app-arguments=http://gameofthrones.wikia.com/wiki/Tormund">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Tormund  TOC_hide oasis-breakpoints wikinav2 skin-oasis  user-anon background-fixed background-not-tiled background-dynamic wiki-gameofthrones" >
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fgameofthrones.wikia.com%2Fwiki%2FTormund%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for RubiconFastlane, page_view -->
+<script id="analytics-provider-rubicon-fastlane">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.rubiconFastlane")
+	], function (geo, instantGlobals, rubiconFastlane) {
+		if (geo.isProperGeo(instantGlobals["wgAdDriverRubiconFastlaneCountries"])) {
+			rubiconFastlane.call();
+		};
+	});
+</script>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.amazonMatch"),
+	], function (geo, globals, amazon) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (geo.isProperGeo(ac)) {
+			amazon.call();
+		}
+	});
+</script>
+
+<!-- Start for OpenXBidder, page_view -->
+<script id="analytics-provider-openx-bidder">
+	require([
+		"wikia.geo",
+		"wikia.querystring",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.openXBidder")
+	], function (geo, Querystring, globals, oxBidder) {
+		var ac = globals["wgAdDriverOpenXBidderCountries"],
+			qs = new Querystring();
+
+		if (geo.isProperGeo(ac) || qs.getVal('oxbidder', '0') === '1') {
+			oxBidder.call();
+		};
+	});
+</script>
+<!-- Begin Krux Tag -->
+<script type="text/javascript">
+	require(['wikia.krux'], function (krux) {
+		krux.load('JU3_GW1b');
+	});
+</script>
+<!-- End Krux Tag -->
+<!-- Begin IVW3 Tag -->
+<script type="text/javascript">
+	var iam_data = {
+		st: 'wikia',
+		cp: 'tv/pc',
+		sv: 'i2'
+	};
+
+	if (window.Wikia &&
+		window.Wikia.InstantGlobals &&
+		!window.Wikia.InstantGlobals.wgSitewideDisableIVW3 &&
+		window.Wikia.geo.isProperGeo(["AT","CH","DE"])
+	) {
+		window.ivw3Initialized = true;
+		document.write('<script type="text/javascript" src="https://script.ioam.de/iam.js"><\/script>');
+		document.write('<script type="text/javascript">window.iom.c(iam_data, 2);<\/script>');
+	}
+</script>
+<!-- End IVW3 Tag -->
+<!-- Unsupported language for AnalyticsProviderIVW2 --><div class="WikiaSiteWrapper">
+	
+	<h2>Wikia</h2>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_LEADERBOARD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_BUTTON_WIDE"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["INVISIBLE_SKIN"]);
+	</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+<div id="InvisibleHighImpactWrapper" class="hidden">
+	<div class="background"></div>
+	<a class="close">
+		<div class="close-button"></div>
+	</a>
+	<div class="label">Advertisement</div>
+	<div id="INVISIBLE_HIGH_IMPACT_2" class="wikia-ad noprint"></div>
+</div>
+<nav class="global-navigation" id="globalNavigation">
+	<div class="global-navigation-container">
+		<div class="wikia-logo-container table-cell">
+			<a href="http://www.wikia.com/fandom"
+				class="wikia-logo final-url"
+				rel="nofollow"
+				data-id="wikia-logo">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+					height="24"
+					width="91"
+					alt="Wikia"
+					title="Wikia">
+									<span class="wikia-logo__subtitle">The Home of Fandom</span>
+							</a >
+		</div >
+					<div class="table-cell hubs-links" data-visibility="desktop">
+									<a class="cell-link top-level" href="http://fandom.wikia.com/games"
+					   data-tracking-label="hub-games">
+						Games					</a>
+									<a class="cell-link top-level" href="http://fandom.wikia.com/movies"
+					   data-tracking-label="hub-movies">
+						Movies					</a>
+									<a class="cell-link top-level" href="http://fandom.wikia.com/tv"
+					   data-tracking-label="hub-tv">
+						TV					</a>
+							</div>
+				<div class="table-cell">
+			<div class="explore-wikia-entry-point" id="exploreWikiaEntryPoint">
+				<a class="cell-link top-level final-url"
+					href="http://www.wikia.com/explore"
+					data-tracking-label="explore-wikia">
+					Explore Wikia					<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+				</a>
+				<ul class="explore-wikia-dropdown" id="exploreWikiaDropdown">
+																		<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://fandom.wikia.com/games"
+								   data-tracking-label="hub-games">
+									Games								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://fandom.wikia.com/movies"
+								   data-tracking-label="hub-movies">
+									Movies								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://fandom.wikia.com/tv"
+								   data-tracking-label="hub-tv">
+									TV								</a>
+							</li>
+																						<li>
+							<a class="cell-link"
+							   href="http://www.wikia.com/WAM"
+							   data-tracking-label="top-communities">
+								Trending Wikias							</a>
+						</li>
+											<li>
+							<a class="cell-link"
+							   href="http://community.wikia.com"
+							   data-tracking-label="community-central">
+								Community Central							</a>
+						</li>
+									</ul>
+			</div>
+		</div>
+		<div class="search-container table-cell">
+			<div class="search-form-wrapper">
+	<form action="http://gameofthrones.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search Game of Thrones Wiki..." data-search-url="http://gameofthrones.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search Game of Thrones Wiki..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+		</div>
+		<div class="account-navigation-container table-cell">
+			<ul id="AccountNavigation" class="AccountNavigation table-cell newAuth ">
+	<li class="account-navigation-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/signin?redirect=http%3A%2F%2Fgameofthrones.wikia.com%2Fwiki%2FTormund" rel="nofollow" title="Sign In" class="auth-link sign-in" accesskey="o">			<div class="avatar-container anon-avatar-placeholder">
+							</div>
+		</a>
+						<span class="auth-label">
+					<a class="auth-link sign-in" href="/signin?redirect=http%3A%2F%2Fgameofthrones.wikia.com%2Fwiki%2FTormund">Sign In</a> or <a class="auth-link register" href="/register?redirect=http%3A%2F%2Fgameofthrones.wikia.com%2Fwiki%2FTormund">Register</a>				</span>
+				</div>
+		</li>
+</ul>
+		</div>
+				<div class="start-wikia-container table-cell">
+			<a href="http://www.wikia.com/Special:CreateNewWiki"
+			   class="start-wikia"
+			   title="Start a wikia"
+			   data-id="start-wikia">
+				<span>Start a wikia</span>
+			</a>
+		</div>
+			</div>
+</nav>
+
+	<!-- BEGIN CONTAINER: TOP_LEADERBOARD_AB -->
+	<div id="TOP_LEADERBOARD_AB">
+		<script>
+			window.adslots2.push(["TOP_LEADERBOARD_AB"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: TOP_LEADERBOARD_AB -->
+
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h2 class="wordmark medium graphic ">
+	<a accesskey="z" href="/wiki/Game_of_Thrones_Wiki">
+					<img src="http://img1.wikia.nocookie.net/__cb87/gameofthrones/images/8/89/Wiki-wordmark.png" alt="Game of Thrones Wiki"  width="250" height="65" >
+			</a>
+</h2>
+	<nav class="WikiNav">
+					<h2>Game of Thrones Wiki Navigation</h2>
+				<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Images" data-canonical="images">Images</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Blogs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum" data-canonical="forum">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="#">Popular pages</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="#">Most visited articles<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Rhaegar_Targaryen">Rhaegar Targaryen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Game_of_Thrones_Wiki">Game of Thrones Wiki</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Lyanna_Stark">Lyanna Stark</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jon_Snow">Jon Snow</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Daenerys_Targaryen">Daenerys Targaryen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Winds_of_Winter">The Winds of Winter</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Lyanna_Mormont">Lyanna Mormont</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Characters">Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Daenerys_Targaryen">Daenerys Targaryen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Eddard_Stark">Eddard Stark</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tyrion_Lannister">Tyrion Lannister</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Joffrey_Baratheon">Joffrey Baratheon</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Arya_Stark">Arya Stark</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jon_Snow">Jon Snow</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Cersei_Lannister">Cersei Lannister</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Actor">Actor<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Emilia_Clarke">Emilia Clarke</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Sophie_Turner">Sophie Turner</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tamzin_Merchant">Tamzin Merchant</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jack_Gleeson">Jack Gleeson</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Maisie_Williams">Maisie Williams</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jason_Momoa">Jason Momoa</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Oona_Chaplin">Oona Chaplin</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Game_of_Thrones_Wiki:Community_Portal">Community</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Recent blog posts</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Forum:Index">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>	</nav>
+			<div class="buttons">
+			<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Tormund?action=edit"  data-id="edit"  >Edit this Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Maps"  data-id="maps"   class="wikia-maps-create-map">Create a Map</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+		</div>
+		<div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent changes</a>	</div>
+</header>
+		
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+					<header id="WikiaPageHeader" class="WikiaPageHeader wikia-page-header">
+		<div class="header-container">
+			<div class="header-column header-title">
+				<h1>Tormund</h1>
+							</div>
+			<div class="header-column header-tally">
+				<div id="PageShareContainer" class="page-share-container">
+									</div>
+									<div class="tally"><em>3,312</em><span>pages on<br /> this wiki</span></div>
+							</div>
+		</div>
+		<nav class="wikia-menu-button" >
+	<a accesskey="e"  href="/wiki/Tormund?veaction=edit" data-id="ve-edit" id="ca-ve-edit">
+		<img alt="" class="sprite edit-pencil" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Edit	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Tormund?action=edit"  accesskey="s" data-id="edit"   id="ca-edit">Classic editor</a>
+		</li>
+		<li>
+			<a href="/wiki/Tormund?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="/wiki/Talk:Tormund" class="wikia-button comments secondary talk" rel="nofollow" data-id="comment"> Talk<span class="commentsbubble">0</span></a>
+	</header>
+	
+
+												<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+										
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text"><table style="width:280px; float:right;">
+<tr>
+<td>
+</td><td><div class="floatleft"><a href="/wiki/Free_Folk" 	class="image image-thumbnail link-internal" 	 title="Free Folk"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Free-Folk-Main-Shield"  	class="lzy lzyPlcHld " 	 	data-image-key="Free-Folk-Main-Shield.PNG" 	data-image-name="Free-Folk-Main-Shield.PNG" 	 data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/c/c5/Free-Folk-Main-Shield.PNG/revision/latest/scale-to-width-down/50?cb=20160508110429"  	 width="50"  	 height="61"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/c/c5/Free-Folk-Main-Shield.PNG/revision/latest/scale-to-width-down/50?cb=20160508110429" 	 alt="Free-Folk-Main-Shield"  	class="" 	 	data-image-key="Free-Folk-Main-Shield.PNG" 	data-image-name="Free-Folk-Main-Shield.PNG" 	 	 width="50"  	 height="61"  	 	 	 	></noscript></a></div>
+</td><td>
+</td><td>
+</td><td>
+</td><td><div class="floatright"><a href="/wiki/Free_Folk" 	class="image image-thumbnail link-internal" 	 title="Free Folk"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Free-Folk-Main-Shield"  	class="lzy lzyPlcHld " 	 	data-image-key="Free-Folk-Main-Shield.PNG" 	data-image-name="Free-Folk-Main-Shield.PNG" 	 data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/c/c5/Free-Folk-Main-Shield.PNG/revision/latest/scale-to-width-down/50?cb=20160508110429"  	 width="50"  	 height="61"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/c/c5/Free-Folk-Main-Shield.PNG/revision/latest/scale-to-width-down/50?cb=20160508110429" 	 alt="Free-Folk-Main-Shield"  	class="" 	 	data-image-key="Free-Folk-Main-Shield.PNG" 	data-image-name="Free-Folk-Main-Shield.PNG" 	 	 width="50"  	 height="61"  	 	 	 	></noscript></a></div>
+</td></tr></table>
+
+<aside class="portable-infobox pi-background pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title">Tormund</h2>
+
+<figure class="pi-item pi-image">
+	<a href="http://vignette3.wikia.nocookie.net/gameofthrones/images/6/6f/Tormund_battle_bastards_main_infobox.jpg/revision/latest?cb=20160617001253" class="image image-thumbnail"
+	   title="Tormund">
+		<img src="http://vignette3.wikia.nocookie.net/gameofthrones/images/6/6f/Tormund_battle_bastards_main_infobox.jpg/revision/latest/scale-to-width-down/270?cb=20160617001253" class="pi-image-thumbnail" alt="Tormund" width="270" height="398"
+		     data-image-key="Tormund_battle_bastards_main_infobox.jpg" data-image-name="Tormund battle bastards main infobox.jpg"/>
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Season(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Season_3" title="Season 3">3</a>, <a href="/wiki/Season_4" title="Season 4">4</a>, <a href="/wiki/Season_5" title="Season 5">5</a>, <a href="/wiki/Season_6" title="Season 6">6</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">First seen</h3>
+	
+	<div class="pi-data-value pi-font">"<a href="/wiki/Valar_Dohaeris" title="Valar Dohaeris">Valar Dohaeris</a>"</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appeared in</h3>
+	
+	<div class="pi-data-value pi-font">24 episodes <small><a href="#Appearances">(see below)</a></small></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Also known as</h3>
+	
+	<div class="pi-data-value pi-font">Tormund Giantsbane</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Category:Status:_Alive" title="Category:Status: Alive">Alive</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Origin</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Beyond_the_Wall" title="Beyond the Wall">Beyond the Wall</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Allegiance</h3>
+	
+	<div class="pi-data-value pi-font">The <a href="/wiki/Free_Folk" title="Free Folk">Free Folk</a><br /><a href="/wiki/Mance_Rayder" title="Mance Rayder">Mance Rayder</a><br /><a href="/wiki/Jon_Snow" title="Jon Snow">Jon Snow</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Culture</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Free_Folk" title="Free Folk">Free Folk</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family</h3>
+	
+	<div class="pi-data-value pi-font">2 unnamed daughters</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Kristofer_Hivju" title="Kristofer Hivju">Kristofer Hivju</a></div>
+</div>
+</aside>
+
+<div class="quote">
+<dl><dd><span title="Source: Valar Dohaeris">"<i>Plenty of little men tried to put their swords through my heart. And there's plenty of little skeletons buried in the woods.</i>"</span>
+</dd><dd>&#8213;Tormund to Jon Snow<span class="noprint"><sup><a href="/wiki/Valar_Dohaeris" title="Valar Dohaeris">[src]</a></sup></span></div>
+</dd></dl>
+<p><b>Tormund</b>, often called <b>Tormund Giantsbane</b>, is a major character in the <a href="/wiki/Season_4" title="Season 4">fourth</a>, <a href="/wiki/Season_5" title="Season 5">fifth</a>, <a href="/wiki/Season_6" title="Season 6">sixth</a> and <a href="/wiki/Season_7" title="Season 7">seventh</a> seasons. He initially appears as a recurring character in the <a href="/wiki/Season_3" title="Season 3">third</a> season. He is a renowned leader and raider among the <a href="/wiki/Free_Folk" title="Free Folk">Free Folk</a> and second in command behind <a href="/wiki/Mance_Rayder" title="Mance Rayder">Mance Rayder</a>. He is played by <a href="/wiki/Kristofer_Hivju" title="Kristofer Hivju">Kristofer Hivju</a>.
+</p>
+<nav id="toc" class="toc"><div id="toctitle"><h2>Contents</h2><span class="toctoggle">[<a href="#" class="internal" id="togglelink" data-show="show" data-hide="hide">show</a>]</span></div><ol></ol></nav>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="editsection"><a href="/wiki/Tormund?action=edit&amp;section=1" title="Edit Biography section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<h3><span class="mw-headline" id="Background">Background</span><span class="editsection"><a href="/wiki/Tormund?action=edit&amp;section=2" title="Edit Background section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h3>
+<p>Tormund is a trusted leader in his own right of a large warband of wildlings. He has joined his forces to those of <a href="/wiki/King-Beyond-the-Wall" title="King-Beyond-the-Wall">King-Beyond-the-Wall</a> <a href="/wiki/Mance_Rayder" title="Mance Rayder">Mance Rayder</a>, and now functions as one of Mance's most trusted lieutenants. Tormund is not just a capable leader, but also a very dangerous fighter. This is proven during the Battle of Castle Black, where he killed multiple Night's Watch brothers and clearly outmatched Ser Alliser Thorne in single combat.
+</p><p>He boasts of having bedded a she-bear, which he calls Shella. Ygritte insists that everyone knows he just made this story up.
+</p><p>Tormund has two daughters, though he hasn't mentioned if he has any sons.<sup id="cite_ref-0" class="reference"><a href="#cite_note-0">[1]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Season_3"><a href="/wiki/Season_3" title="Season 3">Season 3</a></span><span class="editsection"><a href="/wiki/Tormund?action=edit&amp;section=3" title="Edit Season 3 section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h3>
+<p>When <a href="/wiki/Jon_Snow" title="Jon Snow">Jon Snow</a> is taken to Mance Rayder's tent, he initially believes Tormund is Mance and kneels before him. Tormund is amused though Mance's suspicions of Jon makes Tormund wary.<sup id="cite_ref-S3EP01_1-0" class="reference"><a href="#cite_note-S3EP01-1">[2]</a></sup>
+</p><p>As Mance's army marches away from the <a href="/wiki/Frostfangs" title="Frostfangs">Frostfangs</a>, Tormund alongside <a href="/wiki/Ygritte" title="Ygritte">Ygritte</a>, accompanies <a href="/wiki/Orell" title="Orell">Orell</a> as Orell performs scouting duties by <a href="/wiki/Warg" title="Warg">warging</a> into his eagle.<sup id="cite_ref-S3EP01_1-1" class="reference"><a href="#cite_note-S3EP01-1">[2]</a></sup>
+</p>
+<figure class="article-thumb tleft show-info-icon" style="width: 180px"> 	<a href="http://vignette4.wikia.nocookie.net/gameofthrones/images/d/dd/Got-game-of-thrones-34037196-956-537.jpg/revision/latest?cb=20130606175120" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Got-game-of-thrones-34037196-956-537"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Got-game-of-thrones-34037196-956-537.jpg" 	data-image-name="Got-game-of-thrones-34037196-956-537.jpg" 	 data-src="http://vignette4.wikia.nocookie.net/gameofthrones/images/d/dd/Got-game-of-thrones-34037196-956-537.jpg/revision/latest/scale-to-width-down/180?cb=20130606175120"  	 width="180"  	 height="101"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette4.wikia.nocookie.net/gameofthrones/images/d/dd/Got-game-of-thrones-34037196-956-537.jpg/revision/latest/scale-to-width-down/180?cb=20130606175120" 	 alt="Got-game-of-thrones-34037196-956-537"  	class="thumbimage " 	 	data-image-key="Got-game-of-thrones-34037196-956-537.jpg" 	data-image-name="Got-game-of-thrones-34037196-956-537.jpg" 	 	 width="180"  	 height="101"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Got-game-of-thrones-34037196-956-537.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Tormund and Mance arrive at the Fist of the First Men.</p> 		 	</figcaption> </figure>
+<p>Tormund accompanies Mance, along with <a href="/wiki/Orell" title="Orell">Orell</a>, <a href="/wiki/Ygritte" title="Ygritte">Ygritte</a> and <a href="/wiki/Jon_Snow" title="Jon Snow">Jon Snow</a>, to the <a href="/wiki/Fist_of_the_First_Men" title="Fist of the First Men">Fist of the First Men</a>, where they see the mutilated horse corpses left behind by the <a href="/wiki/White_Walkers" title="White Walkers">White Walkers</a> after their <a href="/wiki/Battle_of_the_Fist_of_the_First_Men" title="Battle of the Fist of the First Men">attack</a> against the <a href="/wiki/Night%27s_Watch" title="Night's Watch">Night's Watch</a>. Mance commands Tormund to climb the Wall along with twenty raiders, and Jon Snow as well, and wait for his signal to attack <a href="/wiki/Castle_Black" title="Castle Black">Castle Black</a> from behind.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[3]</a></sup>
+</p>
+<figure class="article-thumb tright show-info-icon" style="width: 180px"> 	<a href="http://vignette1.wikia.nocookie.net/gameofthrones/images/0/0a/Tormund_warns_Jon_s3e5.jpg/revision/latest?cb=20130430020904" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Tormund warns Jon s3e5"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Tormund_warns_Jon_s3e5.jpg" 	data-image-name="Tormund warns Jon s3e5.jpg" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/0/0a/Tormund_warns_Jon_s3e5.jpg/revision/latest/scale-to-width-down/180?cb=20130430020904"  	 width="180"  	 height="101"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/0/0a/Tormund_warns_Jon_s3e5.jpg/revision/latest/scale-to-width-down/180?cb=20130430020904" 	 alt="Tormund warns Jon s3e5"  	class="thumbimage " 	 	data-image-key="Tormund_warns_Jon_s3e5.jpg" 	data-image-name="Tormund warns Jon s3e5.jpg" 	 	 width="180"  	 height="101"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Tormund_warns_Jon_s3e5.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Tormund warns Jon.</p> 		 	</figcaption> </figure>
+<p>As Tormund's party comes closer to the Wall, Tormund questions Jon about the "crows" patrolling the top of the Wall spotted by Orell's eagle. Jon explains that the patrols are two <a href="/wiki/Builder" title="Builder">Builders</a> and two <a href="/wiki/Ranger" title="Ranger">Rangers</a>. Orell then questions Jon about the castles still manned by the Watch and the number of men in the garrison of Castle Black, disbelieving Jon's claim that a thousand men defend it. When Orell and Ygritte, who defends Jon, are about to start a fight, Tormund puts a stop to it throwing Orell away. Tormund tells Jon he likes him but will kill him nonetheless if he's lying. Jon remains adamant on his lie, but Tormund remains doubtful.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[4]</a></sup>
+</p><p>Tormund's party camps at a patch of the <a href="/wiki/Haunted_Forest" title="Haunted Forest">Haunted Forest</a> that has been left unchecked and grown close to the Wall. Tormund comments to Jon that, once, crows would cut down any the trees within a mile of the Wall. When Jon asks Ygritte if she's ever climbed the Wall she confesses she hasn't, but Tormund has done it many times. After a few minutes, Tormund approaches Jon again and gives him a climbing pick. He advises Jon to sink it deep into the ice of the Wall and make sure it holds before taking the next step. He then jokes that if he falls, he better not scream because he wouldn't want that be the last thing Ygritte remembers about him.<sup id="cite_ref-Climb_4-0" class="reference"><a href="#cite_note-Climb-4">[5]</a></sup>
+</p>
+<figure class="article-thumb tleft show-info-icon" style="width: 180px"> 	<a href="http://vignette2.wikia.nocookie.net/gameofthrones/images/b/bd/Tormund_The_Climb.png/revision/latest?cb=20130429050716" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Tormund The Climb"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Tormund_The_Climb.png" 	data-image-name="Tormund The Climb.png" 	 data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/b/bd/Tormund_The_Climb.png/revision/latest/scale-to-width-down/180?cb=20130429050716"  	 width="180"  	 height="115"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/b/bd/Tormund_The_Climb.png/revision/latest/scale-to-width-down/180?cb=20130429050716" 	 alt="Tormund The Climb"  	class="thumbimage " 	 	data-image-key="Tormund_The_Climb.png" 	data-image-name="Tormund The Climb.png" 	 	 width="180"  	 height="115"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Tormund_The_Climb.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Tormund and his men climb the Wall.</p> 		 	</figcaption> </figure>
+<p>Tormund's party breaks into four smaller groups to climb the Wall. Tormund leads one of them, with Orell, Yrgitte, and Jon sharing the same rope. Tormund's pick breaks a piece of ice that causes Jon to briefly lose his footing. The Wildling leader jokes that he wanted to see if he could take a hit. The raiding party climb further, but a portion of the Wall breaks down, taking one of the groups to their deaths. The ice keeps breaking and Tormund nails his pick hard to prevent from falling, but Ygritte and Jon do drop, ending up dangling in the air. Tormund holds the rope with one hand but Orell begins cutting the rope to prevent Jon and Ygritte from bringing them down. Jon reaches the ice just as Orell cuts Ygritte loose. Later, the group reaches an abandoned watchpost of the Night's Watch. Ygritte and Jon reach the top as Tormund gathers his rope.<sup id="cite_ref-Climb_4-1" class="reference"><a href="#cite_note-Climb-4">[5]</a></sup>
+</p><p>Tormund and the raiding party climb down from the Wall and begin their march to take Castle Black unaware. Some time later, the party encamps in a forest area of <a href="/wiki/The_Gift" title="The Gift">the Gift</a>. Tormund jokingly gives Jon some advice on how to properly have sex with a woman before ordering the group to begin the march again.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[6]</a></sup>
+</p><p>Some time afterward, Tormund's party reach the hut of a <a href="/wiki/Old_man" title="Old man">man</a> who breeds horses for the Night's Watch. Orell advises attacking the man and killing him for his horses and gold. Tormund muses he may have good steel. Jon argues to spare the man and just take the horses, as the Watch will send less men to track down thieves than for a murderer. Tormund hopes for more men as it will be easier to kill them in the open than in Castle Black. Tormund orders his men to spread out to attack the hut. The man escapes after his horses react to a noise made by Jon to warn him.
+</p><p>Tormund and his men capture the man at an abandoned mill. Orell manages to hear noise inside the mill - it's <a href="/wiki/Bran_Stark" title="Bran Stark">Bran</a> and <a href="/wiki/Rickon_Stark" title="Rickon Stark">Rickon Stark</a>, <a href="/wiki/Hodor" title="Hodor">along</a> <a href="/wiki/Osha" title="Osha">with</a> <a href="/wiki/Jojen_Reed" title="Jojen Reed">their</a> <a href="/wiki/Meera_Reed" title="Meera Reed">companions</a> - but Tormund dismisses it as thunder from the rain that is just beginning. Tormund then questions the man about where he was riding. The man refuses to answer because he'll die anyway, and Tormund admits he's right. Tormund bares his sword to kill the man, who asks to die standing up, but Orell intervenes and demands that Jon kill the man. Tormund orders Jon to do it, but Jon hesitates. Ygritte carries out the execution after Jon is unable to. Orell goads Tormund into killing Jon to prevent him from betraying them and Tormund relents, ordering his men to kill Jon. Tormund restrains Ygritte when she tries to interfere to protect her lover. As Ygritte rages, he tells her not to die for a crow. Several members of Tormund's party, among them Orell, are killed by Jon as well as <a href="/wiki/Summer" title="Summer">Summer</a> and <a href="/wiki/Shaggydog" title="Shaggydog">Shaggydog</a>.<sup id="cite_ref-Rains_6-0" class="reference"><a href="#cite_note-Rains-6">[7]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Season_4"><a href="/wiki/Season_4" title="Season 4">Season 4</a></span><span class="editsection"><a href="/wiki/Tormund?action=edit&amp;section=4" title="Edit Season 4 section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h3>
+<figure class="article-thumb tright show-info-icon" style="width: 180px"> 	<a href="http://vignette2.wikia.nocookie.net/gameofthrones/images/1/15/Tormund_and_Ygritte-Two_Swords.jpg/revision/latest?cb=20140521193020" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Tormund and Ygritte-Two Swords"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Tormund_and_Ygritte-Two_Swords.jpg" 	data-image-name="Tormund and Ygritte-Two Swords.jpg" 	 data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/1/15/Tormund_and_Ygritte-Two_Swords.jpg/revision/latest/scale-to-width-down/180?cb=20140521193020"  	 width="180"  	 height="119"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/1/15/Tormund_and_Ygritte-Two_Swords.jpg/revision/latest/scale-to-width-down/180?cb=20140521193020" 	 alt="Tormund and Ygritte-Two Swords"  	class="thumbimage " 	 	data-image-key="Tormund_and_Ygritte-Two_Swords.jpg" 	data-image-name="Tormund and Ygritte-Two Swords.jpg" 	 	 width="180"  	 height="119"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Tormund_and_Ygritte-Two_Swords.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Tormund approaches Ygritte in the stone ravine.</p> 		 	</figcaption> </figure>
+<p>Tormund has his raiding party encamped in a stone ravine south of the Wall. Tormund chides Ygritte for failing to finish off <a href="/wiki/Jon_Snow" title="Jon Snow">Jon Snow</a>; he has enough faith in her as an archer to believe that that if Jon escaped, it was because she allowed him to. Suddenly, their scouts signal that someone is approaching. <a href="/wiki/Styr" title="Styr">Styr</a> and a band of <a href="/wiki/Thenn" title="Thenn" class="mw-redirect">Thenn</a> approach them through the ravine. Out of earshot, Tormund comments about how much he hates Thenns. Styr says his party raided a village south of the ravine and gathered meat. He says the meat tastes so much better south of the <a href="/wiki/Wall" title="Wall" class="mw-redirect">Wall</a>, and chides Tormund for losing their <a href="/wiki/Orell" title="Orell">warg</a> as well as Jon. He reminds Tormund how the <a href="/wiki/Night%27s_Watch" title="Night's Watch">Night's Watch</a> are feasting and getting fat at <a href="/wiki/Castle_Black" title="Castle Black">Castle Black</a>. Styr suggests that Tormund taste crow meat before he dies, as a human arm roasts over a fire.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[8]</a></sup>
+</p><p>Tormund and Styr lead a raid on a village south of the Wall. When one villager attempts to attack Tormund from behind, Ygritte shoots him before he can strike and Tormund finishes him off. Styr sends <a href="/wiki/Olly" title="Olly">Olly</a> to Castle Black as a message to the brothers of the Night's Watch.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[9]</a></sup>
+</p><p>Tormund and Styr attack the settlement of <a href="/wiki/Mole%27s_Town" title="Mole's Town">Mole's Town</a>. They slaughter all of the inhabitants, which include members of the Night's Watch who were visiting the local brothel. News of this attack reaches Castle Black, which is their next target.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[10]</a></sup>
+</p><p>Tormund takes part in the <a href="/wiki/Battle_of_Castle_Black" title="Battle of Castle Black">rear assault</a> on Castle Black, being the first one to infiltrate the fortress. He kills many black brothers and then engages <a href="/wiki/Alliser_Thorne" title="Alliser Thorne">Alliser Thorne</a> in single combat. They are evenly matched, but Tormund manages to seriously wound Ser Alliser, who is then pulled to safety by his fellow black brothers. Tormund continues his rampage along the Castle, despite receiving multiple wounds from arrows and swords. After all of the rear assault forces are slain, only Tormund remains and is incapacitated by a crossbow bolt from Jon Snow. He is then taken prisoner for interrogation.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[11]</a></sup>
+</p>
+<figure class="article-thumb tleft show-info-icon" style="width: 180px"> 	<a href="http://vignette2.wikia.nocookie.net/gameofthrones/images/c/c9/Tormund_and_Jon.png/revision/latest?cb=20140617070938" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Tormund and Jon"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Tormund_and_Jon.png" 	data-image-name="Tormund and Jon.png" 	 data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/c/c9/Tormund_and_Jon.png/revision/latest/scale-to-width-down/180?cb=20140617070938"  	 width="180"  	 height="100"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/c/c9/Tormund_and_Jon.png/revision/latest/scale-to-width-down/180?cb=20140617070938" 	 alt="Tormund and Jon"  	class="thumbimage " 	 	data-image-key="Tormund_and_Jon.png" 	data-image-name="Tormund and Jon.png" 	 	 width="180"  	 height="100"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Tormund_and_Jon.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">An imprisoned Tormund talks to Jon</p> 		 	</figcaption> </figure>After Mance's forces on the other side of the Wall are defeated by the surprise appearance of Stannis Baratheon, Jon comes to Tormund, who has had his wounds tended to by Maester <a href="/wiki/Aemon" title="Aemon">Aemon</a>. Jon informs Tormund that they will be burning the dead wildlings' bodies and asks if he wishes to say any words in their memory. Tormund scoffs at the idea, telling him that the dead can't hear them. Tormund then asks Jon if he loved Ygritte and explains that Ygritte had truly loved Jon, her constant talk of killing him being proof of that. Tormund solemnly requests that Jon take Ygritte's body north of the Wall to burn it, since that's what she would have wanted. Jon complies with Tormund's wish and soon after has Ygritte's body burned on a funeral pyre beyond the Wall.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[12]</a></sup>
+<h3><span class="mw-headline" id="Season_5"><a href="/wiki/Season_5" title="Season 5">Season 5</a></span><span class="editsection"><a href="/wiki/Tormund?action=edit&amp;section=5" title="Edit Season 5 section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h3>
+<figure class="article-thumb tleft show-info-icon" style="width: 180px"> 	<a href="http://vignette1.wikia.nocookie.net/gameofthrones/images/0/02/Game_of_Throne_Season_5_06.jpg/revision/latest?cb=20150131021459" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Game of Throne Season 5 06"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Game_of_Throne_Season_5_06.jpg" 	data-image-name="Game of Throne Season 5 06.jpg" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/0/02/Game_of_Throne_Season_5_06.jpg/revision/latest/scale-to-width-down/180?cb=20150131021459"  	 width="180"  	 height="120"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/0/02/Game_of_Throne_Season_5_06.jpg/revision/latest/scale-to-width-down/180?cb=20150131021459" 	 alt="Game of Throne Season 5 06"  	class="thumbimage " 	 	data-image-key="Game_of_Throne_Season_5_06.jpg" 	data-image-name="Game of Throne Season 5 06.jpg" 	 	 width="180"  	 height="120"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Game_of_Throne_Season_5_06.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Tormund watches the execution of Mance Rayder.</p> 		 	</figcaption> </figure>
+<p>Tormund, alongside his fellow wildlings, are present when <a href="/wiki/Mance_Rayder" title="Mance Rayder">Mance Rayder</a> is executed by <a href="/wiki/Stannis_Baratheon" title="Stannis Baratheon">Stannis Baratheon</a> for refusing to bend the knee. He is visibly distressed to see his king and longtime friend executed in such a brutal manner.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[13]</a></sup> With Mance Rayder dead, Tormund becomes the new leader of the remnants of the wildling army.
+</p><p><br />
+</p><p>Once Stannis leaves the jurisdiction of the wildling prisoners to Lord Commander Jon Snow, he suggested that Tormund might be more open to forming the same alliance Mance Rayder rejected.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[14]</a></sup> Some time later, Jon meets with a chained Tormund to discuss what will happen with the wildlings next. Jon offers Tormund lands south of the Wall for the wildlings to settle after they have rounded up the surviving Free Folk north of the Wall in return for their help in defeating the White Walkers when they march on the Wall. Tormund is reluctant at first, and after Jon unchains him, he discloses that most of the remaining Free Folk who are north of the Wall are at <a href="/wiki/Hardhome" title="Hardhome">Hardhome</a>. Jon offers him horses and men to bring them back, yet Tormund states that they will also need ships in order to bring all the wildlings to Castle Black, and that Jon must accompany them to assure the Free Folk they will not simply set fire to all the ships and kill them all. Jon agrees and says he will borrow the ships from Stannis, which he later does, just before Stannis abandons Castle Black and marches on <a href="/wiki/Winterfell" title="Winterfell">Winterfell</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[15]</a></sup>
+</p><p>Days later, Tormund alongside Jon Snow, <a href="/wiki/Dolorous_Edd" title="Dolorous Edd" class="mw-redirect">Dolorous Edd</a> and other brothers of the Night's Watch, leaves Castle Black for Eastwatch to board the ships that take them to Hardhome.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[16]</a></sup>
+</p>
+<figure class="article-thumb tright show-info-icon" style="width: 180px"> 	<a href="http://vignette1.wikia.nocookie.net/gameofthrones/images/9/91/Hardhome-boat.jpg/revision/latest?cb=20150528185140" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Hardhome-boat"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Hardhome-boat.jpg" 	data-image-name="Hardhome-boat.jpg" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/9/91/Hardhome-boat.jpg/revision/latest/scale-to-width-down/180?cb=20150528185140"  	 width="180"  	 height="120"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/9/91/Hardhome-boat.jpg/revision/latest/scale-to-width-down/180?cb=20150528185140" 	 alt="Hardhome-boat"  	class="thumbimage " 	 	data-image-key="Hardhome-boat.jpg" 	data-image-name="Hardhome-boat.jpg" 	 	 width="180"  	 height="120"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Hardhome-boat.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Jon and Tormund arrive at Hardhome.</p> 		 	</figcaption> </figure>
+<p>Tormund and Jon, along with other members of the Night's Watch and the Free Folk, arrive at the Wildling town Hardhome to convince the rest of the Wildlings to join them in the upcoming war against the White Walkers and their armies of Wights.
+</p><p>Insisting on never being an ally with a Crow, The Lord of Bones insults Tormund for being at the side of Jon Snow, causing Tormund to beat his former ally to death with his own staff. The Wildling elders decide to gather in the Townshall to hear Jon, who quickly proposes an alliance between the Free Folk and the Night's Watch in the face of their common enemy, the undead. Having not seen Mance Rayder since he was taken prisoner at The Wall, the Wildlings question his whereabouts. Snow reluctantly informs them that he is dead and that he shot him personally, with an arrow. This angers the group, but as they move in to kill him, Tormund vouches for him, describing how Rayder was about to be burned at the stake as a warning from Stannis Baratheon, and how Snow defied Stannis by ending his life quickly instead of humiliating him. Some leaders are convinced, but others begin to leave.
+</p><p>A few hours later Tormund is helping the Night's Watch load the boats and Jon queries how many wildlings have boarded estimating about 5,000 and worried that they are leaving too many behind. Tormund says he's not good at counting but that the wildlings are stubborn however, more will join because "they're running out of food and there's nothing to hunt".
+</p><p>A large host of undead wights then storm Hardhome and start breaking through the gate and wall seperating a small segment of Hardhome. Jon and Tormund fight alongside others to give as many people as possible an opportunity to make it to their ships. Edd Tollet, Wun Wun, and others are trapped inside the townhall, which is set upon by wights and catches fire – in the confusion, the bag of dragonglass weapons is lost. On top of a hill overlooking Hardhome, multiple White Walkers mounted on undead horses observe the battle, including The Night's King. The White Walkers deploy another large host of wights, hurling them over the cliffs above Hardhome. Jon, Edd, Tormund and the remaining defenders flee for their lives. Flanked by Wun Wun, who wields a burning log as a club before walking into the sea with them, they manage to get to the last remaining boat and quickly row out to a safe distance. As Jon and the others look on in horror, the Night's King raises his arms triumphantly; all around him, the slain wildlings rise up as undead wights.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[17]</a></sup>
+</p><p>Days later, Jon, Tormund, and the surviving few thousand wildlings from Hardhome, arrive at the Wall, presumably in two groups, before the gates of Castle Black and are allowed through by a very reluctant Ser <a href="/wiki/Alliser_Thorne" title="Alliser Thorne">Alliser Thorne</a>.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[18]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Season_6"><a href="/wiki/Season_6" title="Season 6">Season 6</a></span><span class="editsection"><a href="/wiki/Tormund?action=edit&amp;section=6" title="Edit Season 6 section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h3>
+<p>In response to Jon Snow's death at the hands of mutineers led by Alliser Thorne, <a href="/wiki/Eddison_Tollett" title="Eddison Tollett">Eddison Tollett</a> leaves to find Tormund and the wildlings and get their help in the coming struggle for their lives against Thorne and his men.
+</p><p>After Edd finds him, Tormund leads the wildlings to attack Castle Black. Once inside, Tormund quickly kills a brother who attacks him, and with help from <a href="/wiki/Wun_Wun" title="Wun Wun" class="mw-redirect">Wun Wun</a>, the rest surrender without a fight. After the mutineers are detained, Tormund examines Jon's body, then asks Davos to burn it as quickly as possible. Later, Tormund witnesses <a href="/wiki/Melisandre" title="Melisandre">Melisandre</a> attempt to resurrect Jon, and is the first to leave the room when she seemingly fails, seconds before Jon awakens.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[19]</a></sup>
+</p><p>When Jon awakens and is clothed by Davos, Tormund sees Jon coming from the room and explains that the wildlings think that he is a God. Tormund then remarks how he knows Jon isn't a god as no god would have a penis as small as his. He proceeds to hug Jon and welcomes him back. Tormund later watches the execution of the mutineers in the crowd.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[20]</a></sup>
+</p><p>When <a href="/wiki/Sansa_Stark" title="Sansa Stark">Sansa Stark</a> arrives at Castle Black with <a href="/wiki/Brienne_of_Tarth" title="Brienne of Tarth">Brienne of Tarth</a> and <a href="/wiki/Podrick_Payne" title="Podrick Payne">Podrick Payne</a>, a surprised Tormund can't stop staring at Brienne, then witnesses Sansa's reunion with Jon, her half-brother. Tormund later shares a meal with Jon, Sansa, Brienne, Podrick and Edd. As he eats, Tormund gives Brienne a flirtatious glance. When Jon reads <a href="/wiki/Bastard_letter" title="Bastard letter">a letter</a> from <a href="/wiki/Ramsay_Bolton" title="Ramsay Bolton">Ramsay Bolton</a>, Tormund stops eating and listens intently, visibly angered at Ramsay's threats to him and his fellow wildlings. Tormund asks Sansa how many men Ramsay has. Sansa claims he has around five thousand, and Tormund tells Jon that from the thousands of wildlings they saved from Hardhome, only two thousand are able to fight.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[21]</a></sup>
+</p><p>Tormund attends a war council with Jon, Sansa, Davos, Brienne, Podrick and Edd, remaining silent while listening to Jon, Sansa and Davos's strategies. While leaving Castle Black, Tormund again gazes at Brienne with lust, leaving Brienne uneasy.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[22]</a></sup> Tormund assists in convincing <a href="/wiki/Dim_Dalba" title="Dim Dalba">Dim Dalba</a> to join Jon and Sansa's cause, bringing with them the force of the wildlings, still in debt to Jon for saving them at <a href="/wiki/Hardhome" title="Hardhome">Hardhome</a>.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[23]</a></sup>
+</p><p>During the <a href="/wiki/Second_Battle_of_Winterfell" title="Second Battle of Winterfell" class="mw-redirect">Second Battle of Winterfell</a>, Tormund once again fights alongside Jon. When they are surrounded by the Umber pike phalanx, Tormund panics and sends his wildlings towards the hill of corpses. This unintentionally causes Jon to be trampled by the stampede, nearly suffocating. As the Stark forces are about to lose, the <a href="/wiki/Vale_of_Arryn" title="Vale of Arryn" class="mw-redirect">Knights of the Vale</a> arrive, smashing <a href="/wiki/House_Umber" title="House Umber">Umber</a> forces apart. While Lord <a href="/wiki/Smalljon_Umber" title="Smalljon Umber">Smalljon</a> is distracted by the charge, Tormund bites his throat out, then stabs him, killing him.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[24]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="editsection"><a href="/wiki/Tormund?action=edit&amp;section=7" title="Edit Appearances section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<table class="appearances" border="1" style="width: 90%; margin: 1em 1em 1em 0; border: 1px #000000 solid; border-collapse: collapse; text-align: center; font-size:11px">
+
+<tr bgcolor="#C19A6B">
+<td colspan="5"><b><a href="/wiki/Season_3" title="Season 3">Season Three</a> appearances</b>
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> <b><a href="/wiki/Valar_Dohaeris" title="Valar Dohaeris">Valar Dohaeris</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/Dark_Wings,_Dark_Words" title="Dark Wings, Dark Words">Dark Wings, Dark Words</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/Walk_of_Punishment" title="Walk of Punishment">Walk of Punishment</a></b>
+</td><td style="width: 20%;"> And Now His Watch is Ended
+</td><td style="width: 20%;"> <b><a href="/wiki/Kissed_by_Fire" title="Kissed by Fire">Kissed by Fire</a></b>
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> <b><a href="/wiki/The_Climb" title="The Climb">The Climb</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/The_Bear_and_the_Maiden_Fair_(episode)" title="The Bear and the Maiden Fair (episode)">The Bear and the Maiden Fair</a></b>
+</td><td style="width: 20%;"> Second Sons
+</td><td style="width: 20%;"> <b><a href="/wiki/The_Rains_of_Castamere_(episode)" title="The Rains of Castamere (episode)">The Rains of Castamere</a></b>
+</td><td style="width: 20%;"> Mhysa
+</td></tr></table>
+<table class="appearances" border="1" style="width: 90%; margin: 1em 1em 1em 0; border: 1px #000000 solid; border-collapse: collapse; text-align: center; font-size:11px">
+
+<tr bgcolor="#C19A6B">
+<td colspan="5"><b><a href="/wiki/Season_4" title="Season 4">Season Four</a> appearances</b>
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> <b><a href="/wiki/Two_Swords" title="Two Swords">Two Swords</a></b>
+</td><td style="width: 20%;"> The Lion and the Rose
+</td><td style="width: 20%;"> <b><a href="/wiki/Breaker_of_Chains" title="Breaker of Chains">Breaker of Chains</a></b>
+</td><td style="width: 20%;"> Oathkeeper
+</td><td style="width: 20%;"> First of His Name
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> The Laws of Gods and Men
+</td><td style="width: 20%;"> Mockingbird
+</td><td style="width: 20%;"> <b><a href="/wiki/The_Mountain_and_the_Viper" title="The Mountain and the Viper">The Mountain and the Viper</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/The_Watchers_on_the_Wall" title="The Watchers on the Wall">The Watchers on the Wall</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/The_Children" title="The Children">The Children</a></b>
+</td></tr></table>
+<table class="appearances" border="1" style="width: 90%; margin: 1em 1em 1em 0; border: 1px #000000 solid; border-collapse: collapse; text-align: center; font-size:11px">
+
+<tr bgcolor="#C19A6B">
+<td colspan="5"><b><a href="/wiki/Season_5" title="Season 5">Season Five</a> appearances</b>
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> <b><a href="/wiki/The_Wars_to_Come" title="The Wars to Come">The Wars to Come</a></b>
+</td><td style="width: 20%;"> The House of Black and White
+</td><td style="width: 20%;"> High Sparrow
+</td><td style="width: 20%;"> Sons of the Harpy
+</td><td style="width: 20%;"> <b><a href="/wiki/Kill_the_Boy" title="Kill the Boy">Kill the Boy</a></b>
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> Unbowed, Unbent, Unbroken
+</td><td style="width: 20%;"> <b><a href="/wiki/The_Gift_(episode)" title="The Gift (episode)">The Gift</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/Hardhome_(episode)" title="Hardhome (episode)">Hardhome</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/The_Dance_of_Dragons" title="The Dance of Dragons">The Dance of Dragons</a></b>
+</td><td style="width: 20%;"> Mother’s Mercy
+</td></tr></table>
+<table class="appearances" border="1" style="width: 90%; margin: 1em 1em 1em 0; border: 1px #000000 solid; border-collapse: collapse; text-align: center; font-size:11px">
+
+<tr bgcolor="#C19A6B">
+<td colspan="5"><b><a href="/wiki/Season_6" title="Season 6">Season Six</a> appearances</b>
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> The Red Woman
+</td><td style="width: 20%;"> <b><a href="/wiki/Home" title="Home">Home</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/Oathbreaker" title="Oathbreaker">Oathbreaker</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/Book_of_the_Stranger" title="Book of the Stranger">Book of the Stranger</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/The_Door" title="The Door">The Door</a></b>
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> Blood of My Blood
+</td><td style="width: 20%;"> <b><a href="/wiki/The_Broken_Man" title="The Broken Man">The Broken Man</a></b>
+</td><td style="width: 20%;"> No One
+</td><td style="width: 20%;"> <b><a href="/wiki/Battle_of_the_Bastards_(episode)" title="Battle of the Bastards (episode)">Battle of the Bastards </a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/The_Winds_of_Winter" title="The Winds of Winter">The Winds of Winter</a></b>
+</td></tr></table>
+<h2><span class="mw-headline" id="Quotes">Quotes</span><span class="editsection"><a href="/wiki/Tormund?action=edit&amp;section=8" title="Edit Quotes section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<div class="quote">
+<dl><dd><span title="Source: Valar Dohaeris">"<i>Your grace? Did you hear that? From now on, you better kneel every time I fart!</i>"</span>
+</dd><dd>&#8213;Tormund Giantsbane after Jon Snow mistakes him for the <a href="/wiki/King-Beyond-the-Wall" title="King-Beyond-the-Wall">King-Beyond-the-Wall</a>.<span class="noprint"><sup><a href="/wiki/Valar_Dohaeris" title="Valar Dohaeris">[src]</a></sup></span></div>
+</dd></dl>
+<div class="quote">
+<dl><dd><span title="Source: Valar Dohaeris">"<i>Don't panic, boy. This isn't the damned Night's Watch where we make you swear off girls.</i>"</span>
+</dd><dd>&#8213;Tormund to Jon Snow<span class="noprint"><sup><a href="/wiki/Valar_Dohaeris" title="Valar Dohaeris">[src]</a></sup></span></div>
+</dd></dl>
+<div class="quote">
+<dl><dd><span title="Source: Kissed by Fire">"<i>I like you, boy, but if you lie to me, I'll pull your guts out through your throat.</i>"</span>
+</dd><dd>&#8213;Tormund Giantsbane to Jon Snow <span class="noprint"><sup><a href="/wiki/Kissed_by_Fire" title="Kissed by Fire">[src]</a></sup></span></div>
+</dd></dl>
+<div class="quote">
+<dl><dd><span title="Source: Two Swords">"<i><a href="/wiki/Thenns" title="Thenns">Thenns</a>. I fucking hate Thenns.</i>"</span>
+</dd><dd>&#8213;Tormund Giantsbane<span class="noprint"><sup><a href="/wiki/Two_Swords" title="Two Swords">[src]</a></sup></span></div>
+</dd></dl>
+<div class="quote">
+<dl><dd><span title="Source: The Watchers on the Wall">"<i>I should have thrown you from the top of the <a href="/wiki/Wall" title="Wall" class="mw-redirect">Wall</a>, boy!</i>"</span>
+</dd><dd>&#8213;Tormund Giantsbane to Jon Snow after the <a href="/wiki/Battle_of_Castle_Black" title="Battle of Castle Black">Battle of Castle Black</a>.<span class="noprint"><sup><a href="/wiki/The_Watchers_on_the_Wall" title="The Watchers on the Wall">[src]</a></sup></span></div>
+</dd></dl>
+<div class="quote">
+<dl><dd><span title="Source: The Children">"<i>You spent too much time with us, Jon Snow. You can never be a kneeler again.</i>"</span>
+</dd><dd>&#8213;Tormund Giantsbane to Jon Snow<span class="noprint"><sup><a href="/wiki/The_Children" title="The Children">[src]</a></sup></span></div>
+</dd></dl>
+<div class="quote">
+<dl><dd><span title="Source: Kill the Boy">"<i>Hard to lead when you're in chains.</i>"</span>
+</dd><dd>&#8213;Tormund to Jon Snow<span class="noprint"><sup><a href="/wiki/Kill_the_Boy" title="Kill the Boy">[src]</a></sup></span></div><div class="quote">
+</dd><dd><span><b>Tormund</b>: "<i>The day I ask my people to fight with the crows is the day my people cut my guts from my belly and make me eat them.</i>"
+</dd><dd><b>Jon Snow</b>: "<i>And how many of your people can't fight? The women, the children, the old, the sick, what happens to them? You're condemning them to death? </i>Worse<i> than death because you're too proud to make peace? Or maybe you're not proud. Maybe you're just a coward.</i>"
+</dd><dd><b>Tormund</b>: "<i>(Stands up menacingly) Easy thing to say to a man in chains.</i>"</span>
+</dd><dd>&#8212; Tormund and Jon Snow<sup class="noprint"><a href="/wiki/Kill_the_Boy" title="Kill the Boy">[src]</a></sup>
+</dd></dl>
+</div>
+<div class="quote">
+<dl><dd><span title="Source: Kill the Boy">"<i>All right, then. But you're coming with me. You're the Lord Commander of the Night's Watch, they need to hear it from </i>you<i>. They need to know that the ships they are boarding won't be torched in the middle of the sea. You come with me, or I don't go.</i>"</span>
+</dd><dd>&#8213;Tormund demands Jon accompany him to Hardhome.<span class="noprint"><sup><a href="/wiki/Kill_the_Boy" title="Kill the Boy">[src]</a></sup></span></div>
+</dd></dl>
+<div class="quote">
+<dl><dd><span><b>Alliser Thorne</b>: "<i>You know what I think we should do with you instead of putting food in your belly and a roof over your head?</i>"
+</dd><dd><b>Tormund</b>: "<i>Probably something I wouldn't like very much.</i>"
+</dd><dd><b>Alliser Thorne</b>: "<i>No, you wouldn't.</i>"
+</dd><dd><b>Tormund</b>: "<i>You must no longer be in charge, then.</i>"</span>
+</dd><dd>&#8212; Tormund and Alliser Thorne<sup class="noprint"><a href="/wiki/Season_5" title="Season 5">[src]</a></sup>
+</dd></dl>
+</div>
+<div class="quote">
+<dl><dd><span title="Source: Hardhome (episode)">"<i>None of you saw Mance die. I did. The Southern King who broke our army, Stannis, wanted to burn him alive to send us a message. Jon Snow defied that cunt's orders. His arrow was mercy. What he did took courage, and that's what we need today, the courage to make peace with men who we've been killing for generations.</i>"</span>
+</dd><dd>&#8213;Tormund to the Hardhome wildlings.<span class="noprint"><sup><a href="/wiki/Hardhome_(episode)" title="Hardhome (episode)">[src]</a></sup></span></div>
+</dd></dl>
+<div class="quote">
+<dl><dd><span title="Source: Season 6">"<i>I thought he was the man to lead us through the Long Night, but I was wrong.</i>"</span>
+</dd><dd>&#8213;Tormund Giantsbane<span class="noprint"><sup><a href="/wiki/Season_6" title="Season 6">[src]</a></sup></span></div>
+</dd></dl>
+<div class="quote">
+<dl><dd><span title="Source: Oathbreaker">"<i>I saw your pecker. What kind of god would have a pecker that small?</i>"</span>
+</dd><dd>&#8213;Tormund to a revived  <a href="/wiki/Jon_Snow" title="Jon Snow">Jon Snow</a><span class="noprint"><sup><a href="/wiki/Oathbreaker" title="Oathbreaker">[src]</a></sup></span></div>
+</dd></dl>
+<div class="quote">
+<dl><dd><span title="Source: The Broken Man">"<i>The crows killed him because he spoke for the Free Folk when no other Southerner would. He died for us. If we're not willing to do the same for him, then we're cowards, and if that's what we are, then we deserve to be the last of the Free Folk.</i>"</span>
+</dd><dd>&#8213;Tormund to the wildlings.<span class="noprint"><sup><a href="/wiki/The_Broken_Man" title="The Broken Man">[src]</a></sup></span></div>
+</dd></dl>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="editsection"><a href="/wiki/Tormund?action=edit&amp;section=9" title="Edit Behind the scenes section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<ul><li>On the <a href="/wiki/Season_4" title="Season 4">Season 4</a> Blu-ray, Tormund narrates the <a href="/wiki/Histories_%26_Lore" title="Histories &amp; Lore">Histories &amp; Lore</a> video <b>"<a href="/wiki/The_Nations_of_the_North_(Histories_%26_Lore)" title="The Nations of the North (Histories &amp; Lore)" class="mw-redirect">The Nations of the North</a>"</b>.
+</li></ul>
+<h2><span class="mw-headline" id="Image_gallery">Image gallery</span><span class="editsection"><a href="/wiki/Tormund?action=edit&amp;section=10" title="Edit Image gallery section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<div id="gallery-0" hash="c31c110e1dd266b77a0465917229dd8a" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-small wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium"><div class="wikia-gallery-row"><div class="wikia-gallery-item" style="width:172px; "><div class="thumb" style="height:172px;"><div class="gallery-image-wrapper accent" id="Tormund_warns_Jon_s3e5-jpg" style="position: relative; height:95px; width:170px; top:37.5px;"><a class="image lightbox" href="/wiki/File:Tormund_warns_Jon_s3e5.jpg" title="Tormund warns Jon s3e5.jpg (138 KB)" style="height:95px; width:170px;"><noscript><img style="" src="http://vignette1.wikia.nocookie.net/gameofthrones/images/0/0a/Tormund_warns_Jon_s3e5.jpg/revision/latest/scale-to-width-down/170?cb=20130430020904" title="Tormund warns Jon s3e5.jpg (138 KB)" class="thumbimage" alt="Tormund warns Jon s3e5" data-image-name="Tormund warns Jon s3e5.jpg" data-image-key="Tormund_warns_Jon_s3e5.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Tormund warns Jon s3e5.jpg (138 KB)" class="thumbimage lzy lzyPlcHld" alt="Tormund warns Jon s3e5" data-image-name="Tormund warns Jon s3e5.jpg" data-image-key="Tormund_warns_Jon_s3e5.jpg" data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/0/0a/Tormund_warns_Jon_s3e5.jpg/revision/latest/scale-to-width-down/170?cb=20130430020904" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:170px;">Tormund in "<a href="/wiki/Kissed_by_Fire" title="Kissed by Fire">Kissed by Fire</a>".</div></div><div class="wikia-gallery-item" style="width:172px; "><div class="thumb" style="height:172px;"><div class="gallery-image-wrapper accent" id="Tormund_The_Climb-png" style="position: relative; height:107px; width:170px; top:31.5px;"><a class="image lightbox" href="/wiki/File:Tormund_The_Climb.png" title="Tormund The Climb.png (613 KB)" style="height:107px; width:170px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/gameofthrones/images/b/bd/Tormund_The_Climb.png/revision/latest/scale-to-width-down/170?cb=20130429050716" title="Tormund The Climb.png (613 KB)" class="thumbimage" alt="Tormund The Climb" data-image-name="Tormund The Climb.png" data-image-key="Tormund_The_Climb.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Tormund The Climb.png (613 KB)" class="thumbimage lzy lzyPlcHld" alt="Tormund The Climb" data-image-name="Tormund The Climb.png" data-image-key="Tormund_The_Climb.png" data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/b/bd/Tormund_The_Climb.png/revision/latest/scale-to-width-down/170?cb=20130429050716" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:170px;">Tormund in "<a href="/wiki/The_Climb" title="The Climb">The Climb</a>".</div></div><div class="wikia-gallery-item" style="width:172px; "><div class="thumb" style="height:172px;"><div class="gallery-image-wrapper accent" id="Got-game-of-thrones-34037196-956-537-jpg" style="position: relative; height:95px; width:170px; top:37.5px;"><a class="image lightbox" href="/wiki/File:Got-game-of-thrones-34037196-956-537.jpg" title="Got-game-of-thrones-34037196-956-537.jpg (81 KB)" style="height:95px; width:170px;"><noscript><img style="" src="http://vignette4.wikia.nocookie.net/gameofthrones/images/d/dd/Got-game-of-thrones-34037196-956-537.jpg/revision/latest/scale-to-width-down/170?cb=20130606175120" title="Got-game-of-thrones-34037196-956-537.jpg (81 KB)" class="thumbimage" alt="Got-game-of-thrones-34037196-956-537" data-image-name="Got-game-of-thrones-34037196-956-537.jpg" data-image-key="Got-game-of-thrones-34037196-956-537.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Got-game-of-thrones-34037196-956-537.jpg (81 KB)" class="thumbimage lzy lzyPlcHld" alt="Got-game-of-thrones-34037196-956-537" data-image-name="Got-game-of-thrones-34037196-956-537.jpg" data-image-key="Got-game-of-thrones-34037196-956-537.jpg" data-src="http://vignette4.wikia.nocookie.net/gameofthrones/images/d/dd/Got-game-of-thrones-34037196-956-537.jpg/revision/latest/scale-to-width-down/170?cb=20130606175120" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:170px;">Tormund and Mance Rayder.</div></div></div><div class="wikia-gallery-row"><div class="wikia-gallery-item" style="width:172px; "><div class="thumb" style="height:172px;"><div class="gallery-image-wrapper accent" id="Got-game-of-thrones-34037199-953-536-jpg" style="position: relative; height:96px; width:170px; top:37px;"><a class="image lightbox" href="/wiki/File:Got-game-of-thrones-34037199-953-536.jpg" title="Got-game-of-thrones-34037199-953-536.jpg (87 KB)" style="height:96px; width:170px;"><noscript><img style="" src="http://vignette3.wikia.nocookie.net/gameofthrones/images/9/95/Got-game-of-thrones-34037199-953-536.jpg/revision/latest/scale-to-width-down/170?cb=20130606175125" title="Got-game-of-thrones-34037199-953-536.jpg (87 KB)" class="thumbimage" alt="Got-game-of-thrones-34037199-953-536" data-image-name="Got-game-of-thrones-34037199-953-536.jpg" data-image-key="Got-game-of-thrones-34037199-953-536.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Got-game-of-thrones-34037199-953-536.jpg (87 KB)" class="thumbimage lzy lzyPlcHld" alt="Got-game-of-thrones-34037199-953-536" data-image-name="Got-game-of-thrones-34037199-953-536.jpg" data-image-key="Got-game-of-thrones-34037199-953-536.jpg" data-src="http://vignette3.wikia.nocookie.net/gameofthrones/images/9/95/Got-game-of-thrones-34037199-953-536.jpg/revision/latest/scale-to-width-down/170?cb=20130606175125" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:170px;">Tormund gazing up.</div></div><div class="wikia-gallery-item" style="width:172px; "><div class="thumb" style="height:172px;"><div class="gallery-image-wrapper accent" id="Got-game-of-thrones-34139079-500-281-jpg" style="position: relative; height:96px; width:170px; top:37px;"><a class="image lightbox" href="/wiki/File:Got-game-of-thrones-34139079-500-281.jpg" title="Got-game-of-thrones-34139079-500-281.jpg (112 KB)" style="height:96px; width:170px;"><noscript><img style="" src="http://vignette4.wikia.nocookie.net/gameofthrones/images/7/7b/Got-game-of-thrones-34139079-500-281.jpg/revision/latest/scale-to-width-down/170?cb=20130606175130" title="Got-game-of-thrones-34139079-500-281.jpg (112 KB)" class="thumbimage" alt="Got-game-of-thrones-34139079-500-281" data-image-name="Got-game-of-thrones-34139079-500-281.jpg" data-image-key="Got-game-of-thrones-34139079-500-281.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Got-game-of-thrones-34139079-500-281.jpg (112 KB)" class="thumbimage lzy lzyPlcHld" alt="Got-game-of-thrones-34139079-500-281" data-image-name="Got-game-of-thrones-34139079-500-281.jpg" data-image-key="Got-game-of-thrones-34139079-500-281.jpg" data-src="http://vignette4.wikia.nocookie.net/gameofthrones/images/7/7b/Got-game-of-thrones-34139079-500-281.jpg/revision/latest/scale-to-width-down/170?cb=20130606175130" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:170px;">Tormund looking depressed.</div></div><div class="wikia-gallery-item" style="width:172px; "><div class="thumb" style="height:172px;"><div class="gallery-image-wrapper accent" id="Got-game-of-thrones-34252400-2832-4256-jpg" style="position: relative; height:170px; width:113px;"><a class="image lightbox" href="/wiki/File:Got-game-of-thrones-34252400-2832-4256.jpg" title="Got-game-of-thrones-34252400-2832-4256.jpg (2.05 MB)" style="height:170px; width:113px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/gameofthrones/images/8/8a/Got-game-of-thrones-34252400-2832-4256.jpg/revision/latest/scale-to-width-down/113?cb=20130606175149" title="Got-game-of-thrones-34252400-2832-4256.jpg (2.05 MB)" class="thumbimage" alt="Got-game-of-thrones-34252400-2832-4256" data-image-name="Got-game-of-thrones-34252400-2832-4256.jpg" data-image-key="Got-game-of-thrones-34252400-2832-4256.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Got-game-of-thrones-34252400-2832-4256.jpg (2.05 MB)" class="thumbimage lzy lzyPlcHld" alt="Got-game-of-thrones-34252400-2832-4256" data-image-name="Got-game-of-thrones-34252400-2832-4256.jpg" data-image-key="Got-game-of-thrones-34252400-2832-4256.jpg" data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/8/8a/Got-game-of-thrones-34252400-2832-4256.jpg/revision/latest/scale-to-width-down/113?cb=20130606175149" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:170px;">Tormund lost in thought.</div></div></div><div class="wikia-gallery-row"><div class="wikia-gallery-item" style="width:172px; "><div class="thumb" style="height:172px;"><div class="gallery-image-wrapper accent" id="Got-game-of-thrones-34505706-972-475-jpg" style="position: relative; height:83px; width:170px; top:43.5px;"><a class="image lightbox" href="/wiki/File:Got-game-of-thrones-34505706-972-475.jpg" title="Got-game-of-thrones-34505706-972-475.jpg (86 KB)" style="height:83px; width:170px;"><noscript><img style="" src="http://vignette4.wikia.nocookie.net/gameofthrones/images/e/e8/Got-game-of-thrones-34505706-972-475.jpg/revision/latest/scale-to-width-down/170?cb=20130606175157" title="Got-game-of-thrones-34505706-972-475.jpg (86 KB)" class="thumbimage" alt="Got-game-of-thrones-34505706-972-475" data-image-name="Got-game-of-thrones-34505706-972-475.jpg" data-image-key="Got-game-of-thrones-34505706-972-475.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Got-game-of-thrones-34505706-972-475.jpg (86 KB)" class="thumbimage lzy lzyPlcHld" alt="Got-game-of-thrones-34505706-972-475" data-image-name="Got-game-of-thrones-34505706-972-475.jpg" data-image-key="Got-game-of-thrones-34505706-972-475.jpg" data-src="http://vignette4.wikia.nocookie.net/gameofthrones/images/e/e8/Got-game-of-thrones-34505706-972-475.jpg/revision/latest/scale-to-width-down/170?cb=20130606175157" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:170px;">Tormund looking angry.</div></div><div class="wikia-gallery-item" style="width:172px; "><div class="thumb" style="height:172px;"><div class="gallery-image-wrapper accent" id="Tormund-game-of-thrones-33956281-761-420-jpg" style="position: relative; height:94px; width:170px; top:38px;"><a class="image lightbox" href="/wiki/File:Tormund-game-of-thrones-33956281-761-420.jpg" title="Tormund-game-of-thrones-33956281-761-420.jpg (76 KB)" style="height:94px; width:170px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/gameofthrones/images/4/48/Tormund-game-of-thrones-33956281-761-420.jpg/revision/latest/scale-to-width-down/170?cb=20130606175202" title="Tormund-game-of-thrones-33956281-761-420.jpg (76 KB)" class="thumbimage" alt="Tormund-game-of-thrones-33956281-761-420" data-image-name="Tormund-game-of-thrones-33956281-761-420.jpg" data-image-key="Tormund-game-of-thrones-33956281-761-420.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Tormund-game-of-thrones-33956281-761-420.jpg (76 KB)" class="thumbimage lzy lzyPlcHld" alt="Tormund-game-of-thrones-33956281-761-420" data-image-name="Tormund-game-of-thrones-33956281-761-420.jpg" data-image-key="Tormund-game-of-thrones-33956281-761-420.jpg" data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/4/48/Tormund-game-of-thrones-33956281-761-420.jpg/revision/latest/scale-to-width-down/170?cb=20130606175202" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:170px;">Tormund talking to Mance Rayder.</div></div><div class="wikia-gallery-item" style="width:172px; "><div class="thumb" style="height:172px;"><div class="gallery-image-wrapper accent" id="Tumblr_mljqgwqhAm1rx54tto1_1280-jpg" style="position: relative; height:96px; width:170px; top:37px;"><a class="image lightbox" href="/wiki/File:Tumblr_mljqgwqhAm1rx54tto1_1280.jpg" title="Tumblr mljqgwqhAm1rx54tto1 1280.jpg (849 KB)" style="height:96px; width:170px;"><noscript><img style="" src="http://vignette1.wikia.nocookie.net/gameofthrones/images/6/66/Tumblr_mljqgwqhAm1rx54tto1_1280.jpg/revision/latest/scale-to-width-down/170?cb=20130606175210" title="Tumblr mljqgwqhAm1rx54tto1 1280.jpg (849 KB)" class="thumbimage" alt="Tumblr mljqgwqhAm1rx54tto1 1280" data-image-name="Tumblr mljqgwqhAm1rx54tto1 1280.jpg" data-image-key="Tumblr_mljqgwqhAm1rx54tto1_1280.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Tumblr mljqgwqhAm1rx54tto1 1280.jpg (849 KB)" class="thumbimage lzy lzyPlcHld" alt="Tumblr mljqgwqhAm1rx54tto1 1280" data-image-name="Tumblr mljqgwqhAm1rx54tto1 1280.jpg" data-image-key="Tumblr_mljqgwqhAm1rx54tto1_1280.jpg" data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/6/66/Tumblr_mljqgwqhAm1rx54tto1_1280.jpg/revision/latest/scale-to-width-down/170?cb=20130606175210" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:170px;">Tormund and Mance Rayder.</div></div></div><div class="wikia-gallery-row"><div class="wikia-gallery-item" style="width:172px; "><div class="thumb" style="height:172px;"><div class="gallery-image-wrapper accent" id="Tormund-202x300-jpeg" style="position: relative; height:169px; width:114px; top:0.5px;"><a class="image lightbox" href="/wiki/File:Tormund-202x300.jpeg" title="Tormund-202x300.jpeg (1.09 MB)" style="height:169px; width:114px;"><noscript><img style="" src="http://vignette4.wikia.nocookie.net/gameofthrones/images/0/05/Tormund-202x300.jpeg/revision/latest/scale-to-width-down/115?cb=20141112010938" title="Tormund-202x300.jpeg (1.09 MB)" class="thumbimage" alt="Tormund-202x300" data-image-name="Tormund-202x300.jpeg" data-image-key="Tormund-202x300.jpeg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Tormund-202x300.jpeg (1.09 MB)" class="thumbimage lzy lzyPlcHld" alt="Tormund-202x300" data-image-name="Tormund-202x300.jpeg" data-image-key="Tormund-202x300.jpeg" data-src="http://vignette4.wikia.nocookie.net/gameofthrones/images/0/05/Tormund-202x300.jpeg/revision/latest/scale-to-width-down/115?cb=20141112010938" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:170px;">Promotional image for Tormund in <a href="/wiki/Season_4" title="Season 4">Season 4</a>.</div></div><div class="wikia-gallery-item" style="width:172px; "><div class="thumb" style="height:172px;"><div class="gallery-image-wrapper accent" id="GOT_S6_45-png" style="position: relative; height:96px; width:170px; top:37px;"><a class="image lightbox" href="/wiki/File:GOT_S6_45.png" title="GOT S6 45.png (1.8 MB)" style="height:96px; width:170px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/gameofthrones/images/3/3b/GOT_S6_45.png/revision/latest/scale-to-width-down/170?cb=20160308211531" title="GOT S6 45.png (1.8 MB)" class="thumbimage" alt="GOT S6 45" data-image-name="GOT S6 45.png" data-image-key="GOT_S6_45.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="GOT S6 45.png (1.8 MB)" class="thumbimage lzy lzyPlcHld" alt="GOT S6 45" data-image-name="GOT S6 45.png" data-image-key="GOT_S6_45.png" data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/3/3b/GOT_S6_45.png/revision/latest/scale-to-width-down/170?cb=20160308211531" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:170px;">Tormund in Season 6.</div></div><div class="wikia-gallery-item" style="width:172px; "><div class="thumb" style="height:172px;"><div class="gallery-image-wrapper accent" id="Battle_of_the_Bastards_01-jpg" style="position: relative; height:169px; width:160px; top:0.5px;"><a class="image lightbox" href="/wiki/File:Battle_of_the_Bastards_01.jpg" title="Battle of the Bastards 01.jpg (1.82 MB)" style="height:169px; width:160px;"><noscript><img style="" src="http://vignette4.wikia.nocookie.net/gameofthrones/images/e/ec/Battle_of_the_Bastards_01.jpg/revision/latest/scale-to-width-down/160?cb=20160615184851" title="Battle of the Bastards 01.jpg (1.82 MB)" class="thumbimage" alt="Battle of the Bastards 01" data-image-name="Battle of the Bastards 01.jpg" data-image-key="Battle_of_the_Bastards_01.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Battle of the Bastards 01.jpg (1.82 MB)" class="thumbimage lzy lzyPlcHld" alt="Battle of the Bastards 01" data-image-name="Battle of the Bastards 01.jpg" data-image-key="Battle_of_the_Bastards_01.jpg" data-src="http://vignette4.wikia.nocookie.net/gameofthrones/images/e/ec/Battle_of_the_Bastards_01.jpg/revision/latest/scale-to-width-down/160?cb=20160615184851" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:170px;">Season 6 promo image of Tormund from "<a href="/wiki/Battle_of_the_Bastards" title="Battle of the Bastards">Battle of the Bastards</a>".</div></div></div></div><script>JSSnippetsStack.push({dependencies:[{"url":"http://slot1.images1.wikia.nocookie.net/__am/1467115692/group/-/wikia_photo_gallery_js","type":"js"},{"url":"http://slot1.images4.wikia.nocookie.net/__am/1467115692/sass/background-dynamic%3Dtrue%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb20150716154804%252Fgameofthrones%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1920%26color-body%3D%2523000%26color-body-middle%3D%2523000000%26color-buttons%3D%25231e5467%26color-header%3D%25235f4416%26color-links%3D%252347518e%26color-page%3D%2523d7cbab%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/extensions/wikia/WikiaPhotoGallery/css/gallery.scss","type":"css"}],callback:function(json){WikiaPhotoGalleryView.init(json)},id:"WikiaPhotoGalleryView.init"})</script>
+<h2><span class="mw-headline" id="In_the_books">In the books</span><span class="editsection"><a href="/wiki/Tormund?action=edit&amp;section=11" title="Edit In the books section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<p>In the <i><a href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, Tormund Giantsbane, also known as Tormund Thunderfist, is a <a href="/wiki/Wildling" title="Wildling" class="mw-redirect">wildling</a> chieftain following <a href="/wiki/Mance_Rayder" title="Mance Rayder">Mance Rayder</a>, the <a href="/wiki/King-Beyond-the-Wall" title="King-Beyond-the-Wall">King-Beyond-the-Wall</a>. He serves alongside the <a href="/wiki/Lord_of_Bones" title="Lord of Bones">Lord of Bones</a>, <a href="/wiki/Styr" title="Styr">Styr</a> the Magnar of <a href="/wiki/Thenn" title="Thenn" class="mw-redirect">Thenn</a> and several other chieftains as an advisor and lieutenant to "the Mance". He is a charismatic, hearty, good-humored man and, by wildling standards, has a rough sense of honor. He styles himself Tall-talker, Horn-blower, Breaker of Ice, Husband to Bears, Mead-King of Ruddy Hall, Speaker to Gods and Father of Hosts. He has four sons (Toregg, Torwynd, Dryn, and Dormund) and a daughter (Munda). In contrast, the TV series only mentioned in "<a href="/wiki/Hardhome_(episode)" title="Hardhome (episode)">Hardhome</a>" that he has two daughters.
+</p><p>Tormund is older in the books than in the TV series: he is described as having a white beard so he is not a young man, but he is also described as large, broad, and still very strong. He wears thick gold bands graven with runes on his massive arms, and a heavy shirt of black ringmail that could only have come from a dead ranger. Tormund likes to brag about his deeds, but he is not arrogant.
+</p><p>While Jon travels with the wildlings, he and Tormund become friends despite Jon's effort to keep his distance from the wildlings. Jon is rather amused to hear Tormund's stories, one of them is about having sex with a woman who was a she-bear (in the show, Tormund tells Ygritte a story about the same subject, but much shorter). Tormund approves of the growing romance between Jon and Ygritte, and encourages Jon to have sex with her. When the Lord of Bones acts hostilely and suspiciously toward Jon, Tormund supports Jon.
+</p><p>In the books it is not Tormund but Styr that leads the wildling party to scale the Wall. Tormund stays behind with the main wildling force, and later he and other lieutenants are sent by Mance to attack several areas of the Wall, in order to draw attention away from the main host and to draw away the defenders. <a href="/wiki/Bowen_Marsh" title="Bowen Marsh">Bowen Marsh</a> falls for the trick and takes most of the garrison from Castle Black.
+</p><p>Tormund does not take part in the repeated attacks on Castle Black. It is not him but <a href="/wiki/Lord_of_Bones" title="Lord of Bones">Lord of Bones</a> that is captured by the Watch.
+</p><p>When Jon goes to <a href="/wiki/Parley" title="Parley">parley</a> with Mance (actually, to kill him), he first meets Tormund. Although they are enemies, Tormund remains friendly toward Jon. He compliments the defenders for putting up such valiant fight against the wildlings despite being outnumbered, and is filled with awe to hear that one-armed blacksmith Donal Noye killed <a href="/wiki/Mag_Mar_Tun_Doh_Weg" title="Mag Mar Tun Doh Weg">Mag Mar Tun Doh Weg</a>. They go to Mance's tent, chatting leisurely, sharing Tormund's mead waterskin. Tormund is deeply saddened to hear about <a href="/wiki/Ygritte" title="Ygritte">Ygritte</a>'s death, and is indifferent to hear <a href="/wiki/Styr" title="Styr">Styr</a> died too. He proudly tells Jon that Longspear Ryk kidnapped his daughter Munda, and they like each other. When they reach the camp, Harma Dogshead and Varamyr Sixskins want to kill Jon, but Tormund protects him, insisting that he has the right to speak with Mance.
+</p><p>When Stannis attacks the wildlings, Tormund leads a triple line of spearmen, but they are attacked on the flank by Stannis's knights and break. Tormund and many of his troops escape. He manages to regather the dispersed wildlings, preparing for new assault.
+</p><p>Some time afterwards, Jon sends Val (Mance's sister in law) to parley with Tormund. Tormund agrees to make peace with the Watch, and surrenders willingly with three or four thousand wildlings. The negotiation between him and Jon is initially unpleasant: he roars and calls Jon a craven, a liar, and a turncloak, curses him for a black-hearted buggering kneeler, a robber, and a carrion crow. Twice he flings his drinking horn at Jon’s head, though only after he has emptied it (Tormund is not the sort of man to waste a good mead). Jon lets it all wash over him, never raises his own voice nor answers a threat with a threat, but neither does he give more ground than he had come prepared to give. Finally they reach an agreement.
+</p><p>One of the terms that Jon demands from Tormund that he and his followers give away their valuables, to pay for the food and shelter the Watch will give them. Without hesitation, Tormund give Jon as a first payment two golden heavy armbands, engraved with the ancient runes of the First Men. Jon feels sorry that such precious items will be melted down by the Braavosi, and suggests that Tormund keeps them. Tormund answers "No. I’ll not have it said that Tormund Thunderfist made the free folk give up their treasures whilst he kept his own”.
+</p><p>When Jon receives the Bastard Letter from <a href="/wiki/Ramsay_Bolton" title="Ramsay Bolton">Ramsay</a>, Tormund guesses by his expression the letter contains bad news. He admits he is illiterate: "Tormund Thunderfist had better things to do than learn to make papers talk at him".
+</p><p>Stannis asks Jon what kind of man is Tormund. Jon answers: "Tormund Giantsbane seemed to me the sort of man who would make a good friend and a bad enemy".
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="editsection"><a href="/wiki/Tormund?action=edit&amp;section=12" title="Edit See also section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<ul><li> <a href="http://vignette1.wikia.nocookie.net/gameofthrones/images/6/63/A_Wiki_of_Ice_and_Fire_favicon.PNG/revision/latest?cb=20140327143233" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="A Wiki of Ice and Fire favicon"  	class="lzy lzyPlcHld " 	 	data-image-key="A_Wiki_of_Ice_and_Fire_favicon.PNG" 	data-image-name="A Wiki of Ice and Fire favicon.PNG" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/6/63/A_Wiki_of_Ice_and_Fire_favicon.PNG/revision/latest?cb=20140327143233"  	 width="32"  	 height="32"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/6/63/A_Wiki_of_Ice_and_Fire_favicon.PNG/revision/latest?cb=20140327143233" 	 alt="A Wiki of Ice and Fire favicon"  	class="" 	 	data-image-key="A_Wiki_of_Ice_and_Fire_favicon.PNG" 	data-image-name="A Wiki of Ice and Fire favicon.PNG" 	 	 width="32"  	 height="32"  	 	 	 	></noscript></a> <a href="http://awoiaf.westeros.org/index.php/Tormund" class="extiw exitstitial" title="awoiaf:Tormund">Tormund</a> on <a rel="nofollow" class="external text exitstitial" href="http://awoiaf.westeros.org/">A Wiki of Ice and Fire</a> (MAJOR spoilers from the books)
+</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="editsection"><a href="/wiki/Tormund?action=edit&amp;section=13" title="Edit References section"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite edit-pencil" />Edit</a></span></h2>
+<div class="references-small" style="-moz-column-count:2; -webkit-column-count:2; column-count:2;">
+<ol class="references"><li id="cite_note-0"><a href="#cite_ref-0">↑</a> <span class="reference-text">"<a href="/wiki/Hardhome_(episode)" title="Hardhome (episode)">Hardhome</a>"</span>
+</li>
+<li id="cite_note-S3EP01-1">↑ <sup><a href="#cite_ref-S3EP01_1-0">2.0</a></sup> <sup><a href="#cite_ref-S3EP01_1-1">2.1</a></sup> <span class="reference-text">"<a href="/wiki/Valar_Dohaeris" title="Valar Dohaeris">Valar Dohaeris</a>"</span>
+</li>
+<li id="cite_note-2"><a href="#cite_ref-2">↑</a> <span class="reference-text">"<a href="/wiki/Walk_of_Punishment" title="Walk of Punishment">Walk of Punishment</a>"</span>
+</li>
+<li id="cite_note-3"><a href="#cite_ref-3">↑</a> <span class="reference-text">"<a href="/wiki/Kissed_by_Fire" title="Kissed by Fire">Kissed by Fire</a>"</span>
+</li>
+<li id="cite_note-Climb-4">↑ <sup><a href="#cite_ref-Climb_4-0">5.0</a></sup> <sup><a href="#cite_ref-Climb_4-1">5.1</a></sup> <span class="reference-text">"<a href="/wiki/The_Climb" title="The Climb">The Climb</a>"</span>
+</li>
+<li id="cite_note-5"><a href="#cite_ref-5">↑</a> <span class="reference-text">"<a href="/wiki/The_Bear_and_the_Maiden_Fair" title="The Bear and the Maiden Fair">The Bear and the Maiden Fair</a>"</span>
+</li>
+<li id="cite_note-Rains-6"><a href="#cite_ref-Rains_6-0">↑</a> <span class="reference-text">"<a href="/wiki/The_Rains_of_Castamere_(episode)" title="The Rains of Castamere (episode)">The Rains of Castamere</a>"</span>
+</li>
+<li id="cite_note-7"><a href="#cite_ref-7">↑</a> <span class="reference-text">"<a href="/wiki/Two_Swords" title="Two Swords">Two Swords</a>"</span>
+</li>
+<li id="cite_note-8"><a href="#cite_ref-8">↑</a> <span class="reference-text">"<a href="/wiki/Breaker_of_Chains" title="Breaker of Chains">Breaker of Chains</a>"</span>
+</li>
+<li id="cite_note-9"><a href="#cite_ref-9">↑</a> <span class="reference-text">"<a href="/wiki/The_Mountain_and_the_Viper" title="The Mountain and the Viper">The Mountain and the Viper</a>"</span>
+</li>
+<li id="cite_note-10"><a href="#cite_ref-10">↑</a> <span class="reference-text">"<a href="/wiki/The_Watchers_on_the_Wall" title="The Watchers on the Wall">The Watchers on the Wall</a>"</span>
+</li>
+<li id="cite_note-11"><a href="#cite_ref-11">↑</a> <span class="reference-text">"<a href="/wiki/The_Children" title="The Children">The Children</a>"</span>
+</li>
+<li id="cite_note-12"><a href="#cite_ref-12">↑</a> <span class="reference-text">"<a href="/wiki/The_Wars_to_Come" title="The Wars to Come">The Wars to Come</a>"</span>
+</li>
+<li id="cite_note-13"><a href="#cite_ref-13">↑</a> <span class="reference-text">"<a href="/wiki/High_Sparrow_(episode)" title="High Sparrow (episode)">High Sparrow</a></span>
+</li>
+<li id="cite_note-14"><a href="#cite_ref-14">↑</a> <span class="reference-text">"<a href="/wiki/Kill_the_Boy" title="Kill the Boy">Kill the Boy</a></span>
+</li>
+<li id="cite_note-15"><a href="#cite_ref-15">↑</a> <span class="reference-text">"<a href="/wiki/The_Gift_(episode)" title="The Gift (episode)">The Gift (episode)</a>"</span>
+</li>
+<li id="cite_note-16"><a href="#cite_ref-16">↑</a> <span class="reference-text">"<a href="/wiki/Hardhome_(episode)" title="Hardhome (episode)">Hardhome (episode)</a>"</span>
+</li>
+<li id="cite_note-17"><a href="#cite_ref-17">↑</a> <span class="reference-text">"<a href="/wiki/The_Dance_of_Dragons" title="The Dance of Dragons">The Dance of Dragons</a>"</span>
+</li>
+<li id="cite_note-18"><a href="#cite_ref-18">↑</a> <span class="reference-text">"<a href="/wiki/Home" title="Home">Home</a>"</span>
+</li>
+<li id="cite_note-19"><a href="#cite_ref-19">↑</a> <span class="reference-text">"<a href="/wiki/Oathbreaker" title="Oathbreaker">Oathbreaker</a>"</span>
+</li>
+<li id="cite_note-20"><a href="#cite_ref-20">↑</a> <span class="reference-text">"<a href="/wiki/Book_of_the_Stranger" title="Book of the Stranger">Book of the Stranger</a>"</span>
+</li>
+<li id="cite_note-21"><a href="#cite_ref-21">↑</a> <span class="reference-text">"<a href="/wiki/The_Door" title="The Door">The Door</a>"</span>
+</li>
+<li id="cite_note-22"><a href="#cite_ref-22">↑</a> <span class="reference-text">"<a href="/wiki/The_Broken_Man" title="The Broken Man">The Broken Man</a>"</span>
+</li>
+<li id="cite_note-23"><a href="#cite_ref-23">↑</a> <span class="reference-text">"<a href="/wiki/Battle_of_the_Bastards_(episode)" title="Battle of the Bastards (episode)">Battle of the Bastards (episode)</a>"</span>
+</li></ol></div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 1824/300000
+Post‐expand include size: 12308/2097152 bytes
+Template argument size: 4129/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key gameofthrones:pcache:idhash:9679-0!*!0!!en!2!* -->
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://gameofthrones.wikia.com/wiki/Tormund?oldid=275082">http://gameofthrones.wikia.com/wiki/Tormund?oldid=275082</a>"</div>
+
+				</div>
+
+															<nav class="article-categories CategorySelect articlePage userCanEdit" id="articleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="Season 3 Characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Season_3_Characters" title="Category:Season 3 Characters">Season 3 Characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Status: Alive" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Status:_Alive" title="Category:Status: Alive">Status: Alive</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Free Folk" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Free_Folk" title="Category:Free Folk">Free Folk</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Characters" title="Category:Characters">Characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Characters from beyond the Wall" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Characters_from_beyond_the_Wall" title="Category:Characters from beyond the Wall">Characters from beyond the Wall</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Season 4 Characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Season_4_Characters" title="Category:Season 4 Characters">Season 4 Characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Mance Rayder&#039;s army" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Mance_Rayder%27s_army" title="Category:Mance Rayder's army">Mance Rayder's army</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Major Characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Major_Characters" title="Category:Major Characters">Major Characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Season 5 Characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Season_5_Characters" title="Category:Season 5 Characters">Season 5 Characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Season 6 Characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Season_6_Characters" title="Category:Season 6 Characters">Season 6 Characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+							<li class="last">
+					<button class="wikia-button secondary add" id="CategorySelectAdd" type="button">Add category</button>
+					<input autocomplete="off" class="input" id="CategorySelectInput" name="CategorySelectInput" placeholder="Add category..." type="text">				</li>
+					</ul>
+	</div>
+			<div class="toolbar">
+			<button class="wikia-button secondary cancel" id="CategorySelectCancel" type="button">Cancel</button>
+			<button class="wikia-button save" id="CategorySelectSave" type="button" disabled="disabled">Save</button>
+		</div>
+	</nav>									
+				<nav class="WikiaArticleInterlang">
+	<h3>Languages: </h3>
+	<ul>
+			<li><a href="http://de.gameofthrones.wikia.com/wiki/Tormund">Deutsch</a></li>
+			<li><a href="http://ru.gameofthrones.wikia.com/wiki/%D0%A2%D0%BE%D1%80%D0%BC%D1%83%D0%BD%D0%B4">Русский</a></li>
+			<li><a href="http://graotron.wikia.com/wiki/Tormund">Polski</a></li>
+			<li><a href="http://zh.asoiaf.wikia.com/wiki/%E6%89%98%E8%92%99%E5%BE%B7">中文</a></li>
+			<li><a href="http://ja.gameofthrones.wikia.com/wiki/%E3%83%88%E3%82%A2%E3%83%9E%E3%83%B3%E3%83%89">日本語</a></li>
+		</ul>
+</nav>
+
+				
+
+
+
+
+<script>
+    if (typeof(Wikia.geo) !== 'undefined' && ['US'].indexOf(Wikia.geo.getCountryCode()) >= 0) {
+        document.write('<aside id="monetization-amazon_video-below_category" class="monetization-module amazon-video hide-for-edit below-category amazon-video-full" data-mon-type="amazon_video" data-mon-slot="below_category"><div class="affiliate" data-mon-pid="B007BVOEPI" data-mon-ptag="gameofthrones-tormund-130814-9679-B007BVOEPI-piv-fl-npr-bc-f" data-mon-pname="Game of Thrones: Season 4"><div class="affiliate-header"><a class="product-thumb" target="_blank" href="http://www.amazon.com/gp/product/B007BVOEPI/ref=atv_feed_catalog?tag=wikia-monsvc-bc-pvn-20&ascsubtag=gameofthrones-tormund-130814-9679-B007BVOEPI-piv-fl-npr-bc-f"><img  src="http://ecx.images-amazon.com/images/I/51zb7bHVqhL._SX320_SY240_.jpg"></a></div><a class="product-name" target="_blank" href="http://www.amazon.com/gp/product/B007BVOEPI/ref=atv_feed_catalog?tag=wikia-monsvc-bc-pvn-20&ascsubtag=gameofthrones-tormund-130814-9679-B007BVOEPI-piv-fl-npr-bc-f"><span class="product-title">Game of Thrones: Season 4</span><span class="product-detail">Season 1</span><span class="rating-bar"><span class="rating" style="width: 90.0%"></span></span></a><div class="product-button non-prime"><a class="amazon-logo" target="_blank" href="http://www.amazon.com/gp/product/B007BVOEPI/ref=atv_feed_catalog?tag=wikia-monsvc-bc-pvn-20&ascsubtag=gameofthrones-tormund-130814-9679-B007BVOEPI-piv-fl-npr-bc-f"></a><a class="product-btn" target="_blank" href="http://www.amazon.com/gp/product/B007BVOEPI/ref=atv_feed_catalog?tag=wikia-monsvc-bc-pvn-20&ascsubtag=gameofthrones-tormund-130814-9679-B007BVOEPI-piv-fl-npr-bc-f"></a></div></div></aside>');
+    } else 
+
+
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['AU','CA','DE','GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write('<div id="monetization-adunit-below_category" class="monetization-module adunit hide-for-edit below-category" data-mon-type="adunit" data-mon-slot="below_category"><div class="ad-header">Advertisement</div><div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><ins class="adsbygoogle ad-responsive" style="display:inline-block;" data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_bc_fsm_ffv mon_hub_tv mon_sl_bc" data-ad-type="text" data-font-size="medium"data-font-face="veranda" data-color-bg="#d7cbab" data-color-border="#d7cbab" data-color-link="#47518e" data-color-url="#47518e" data-color-text="#3a3a3a" ></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt></div></div>');
+}
+</script>
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+							<!-- BEGIN CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<div id="NATIVE_TABOOLA_ARTICLE">
+		<script>
+			window.adslots2.push(["NATIVE_TABOOLA_ARTICLE"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+<div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+								<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+										<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+						<div id="WikiaRail" class="WikiaRail">
+
+		<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+					<div class="loading"></div>
+		
+	</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	<div id="BOTTOM_LEADERBOARD"></div>
+	
+			<section>
+	<div class="header-container">
+		<h2>Around Wikia's network</h2>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/130814" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer">
+	<nav>
+		<div class="branding vertical-tv black">
+			<a class="wikia-logo" href="http://tvhub.wikia.com/wiki/TV_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>TV</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com/wiki/Help:Contents">Help</a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Sitemap">Global Sitemap</a>
+									</li>
+							<li>
+											<a href="/wiki/Special:AllPages">Local Sitemap</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Vacation like an Avenger. Explore real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;},{&quot;text&quot;:&quot;Vacation like an Avenger. Explore real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;},{&quot;text&quot;:&quot;Vacation like an Avenger. Explore real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;},{&quot;text&quot;:&quot;Vacation like an Avenger. Explore real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;},{&quot;text&quot;:&quot;Vacation like an Avenger. Explore real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["GPT_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: EVOLVE_FLUSH -->
+<div id="EVOLVE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["EVOLVE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: EVOLVE_FLUSH -->
+<!-- BEGIN SLOTNAME: HITMEDIA_FLUSH -->
+<div id="HITMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["HITMEDIA_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: HITMEDIA_FLUSH -->
+<!-- BEGIN SLOTNAME: TURTLE_FLUSH -->
+<div id="TURTLE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TURTLE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TURTLE_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"gameofthrones","kv_article_id":9679,"kv_wpage":"Tormund","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"media=tv;genre=fantasy;tv=hbo;sex=m;age=18-24;age=18-34;age=25-34;esrb=mature;media=books;gnre=action;gnre=adventure;theme=sword;theme=magic;gnre=drama;gnre=fighting;theme=dragon;theme=mature;theme=zombiesex=m;age=18-24;age=25-34;age=18-34;age=teen;media=tv;media=comics;media=books;gnre=action;theme=zombie;gnre=horror;theme=postapocalypse;gnre=3rdpersonshooter;pform=xbox360;pform=ps3;esrb=mature;tv=amc;sex=m;age=13-17;age=18-24;age=under18;age=kids;age=teen;gnre=anime;media=tv;media=comics;gnre=fighting;gnre=fantasyage=under18;age=18-24;age=teen;age=kids;media=tv;media=comics;media=cards;gnre=anime;gnre=fantasy;gnre=fighting;gnre=action;gnre=adventure;pform=xbox360;pform=ps3;pform=wii;pform=ds;esrb=teen;tv=cn;theme=heroes;tv=onhulu;tv=hulu","kv_domain":"gameofthrones.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://gameofthrones.wikia.com/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26newve%3D1%26only%3Dscripts%26skin%3Doasis/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgPageName":"Tormund","wgTitle":"Tormund","wgCurRevisionId":275082,"wgArticleId":9679,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Season 3 Characters","Status: Alive","Free Folk","Characters","Characters from beyond the Wall","Season 4 Characters","Mance Rayder\'s army","Major Characters","Season 5 Characters","Season 6 Characters"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Tormund","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"true","background-image":"http://img4.wikia.nocookie.net/__cb20150716154804/gameofthrones/images/5/50/Wiki-background","background-image-height":"720","background-image-width":"1920","color-body":"#000","color-body-middle":"#000000","color-buttons":"#1e5467","color-header":"#5f4416","color-links":"#47518e","color-page":"#d7cbab","oasisTypography":1,"page-opacity":"100","widthType":0},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"Game of Thrones Wiki","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1467115692/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1467115692/common","wgSitename":"Game of Thrones Wiki","wgMWrevId":false,"wgRevisionId":275082,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableNewAuthModal":true,"wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgWikiaMaxNameChars":50,"wgMinimalPasswordLength":1,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=Tormund","fbReturnToTitle":"Tormund","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":[],"wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"1200":true,"500":true,"501":true,"502":true,"503":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":true,"interactiveMapsApiURL":"http://maps.wikia-services.com:80/api/v1","VignettePathPrefix":null,"reCaptchaPublicKey":"6LdDSA4TAAAAANZDWjPdTiQcYsTuge5fMPQTd7D_","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgEnablePortableInfoboxBuilderInVE":true,"wgEnableVisualEditorTourExperiment":true,"wgOasisResponsive":false,"wgOasisBreakpoints":true,"verticalName":"Entertainment","wgArticleInterlangList":["de:Tormund","pl:Tormund","ru:Тормунд","zh:托蒙德","ja:トアマンド"],"WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgContentReviewExtEnabled":true,"wgContentReviewTestModeEnabled":false,"wgReviewedScriptsTimestamp":"1441727506","wgScriptsTimestamp":"1332971928","wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"Tormund"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"editor":2,"enotifwallthread":2,"wallshowsource":false,"walldelete":false,"founderemails-joins-130814":0,"founderemails-edits-130814":0,"founderemails-views-digest-130814":0,"founderemails-complete-digest-130814":0,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true,"searchNs15":false,"searchNs110":false,"searchNs111":false,"searchNs500":false,
+"searchNs501":false,"searchNs502":false,"searchNs503":false,"searchNs828":false,"searchNs829":false,"searchNs1000":false,"searchNs1010":false,"searchNs1020":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"searchNs2000":false,"searchNs2001":false,"searchNs2002":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: gameofthrones:resourceloader:filter:minify-js:7:5ffb247b4f4ef073d23e4edf309a4c85 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikia.viewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.bannerNotifications","ext.cookiePolicyMessages","ext.userLogin"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1467115692/groups/-/oasis_shared_core_js,oasis_shared_js,oasis_anon_js,adengine2_oasis_exitstitial_js,adengine2_desktop_js,liftium_ads_js,liftium_ads_extra_js,adengine2_gcs_js,adengine2_taboola_js,adengine2_revcontent_js,adengine2_interactive_maps_js,recirculation_trackers_js,recirculation_js,toc_js,qualaroo_js,wikia_maps_contribution_button_create_map_js,spotlights_js,relatedpages_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1467115692/group/-/videos_module_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1467115692/group/-/auth_modal_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1467115692/group/-/cookie_policy_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1467115692/group/-/wikia_in_your_lang_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1467115692/group/-/portable_infobox_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1467115692/group/-/visit_source_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1467115692/group/-/visual_editor_tour_experiment_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=AdEngine%2CConfirmModal%2CImagePlaceholder%2COasis-generic%2CRecirculation%2CVideosModule&amp;uselang=en&amp;cb=1467115692.274219.0"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1467115692/group/-/monetization_module_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1467115692/group/-/global_navigation_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1467115692/group/-/page_share_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1467115692/group/-/global_footer_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://gameofthrones.wikia.com/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://gameofthrones.wikia.com/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26reviewed%3D1441727506%26skin%3Doasis/site"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1467115692/group/-/facebook_client_fbtags_js"></script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/Forum\/css\/ForumTag.scss","extensions\/wikia\/Recirculation\/styles\/recirculation.scss","extensions\/wikia\/PortableInfobox\/styles\/PortableInfobox.scss","extensions\/wikia\/VisualEditorTourExperiment\/styles\/VisualEditorTourExperimentInit.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModule.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationUserLoginDropdown.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationNotifications.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","extensions\/wikia\/GlobalNavigation\/styles\/GoogleSearchAPI.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/PageShare\/styles\/PageShare.scss","extensions\/wikia\/GlobalFooter\/styles\/GlobalFooter.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+</body>
+
+
+
+</html>

@@ -1,4 +1,4 @@
-= Similar groups
+= Game of Thrones: Characters and Episodes
 :csv-url: https://raw.githubusercontent.com/mneedham/neo4j-got/master/data/import/
 :icons: font
 
@@ -6,7 +6,17 @@
 
 Now that you've got a bit of practice with the Cypher syntax it's time to work with a bigger dataset.
 
-We've extracted data from the Game of Thrones Wikia and Wikipedia pages into CSV files
+For this section it's best to start with a blank slate so run the following query to delete everything we've created so far:
+
+[source, cypher]
+----
+MATCH (n)
+DETACH DELETE n
+----
+
+The `DETACH DELETE` clause deletes a node and any relationships connected to it.
+
+Now we're ready to explore the Game of Thrones dataset.
 
 == LOAD CSV - The ETL Power Tool
 
@@ -178,7 +188,7 @@ Don't forget the link:https://neo4j.com/docs/cypher-refcard/current/[Cypher Refc
 
 [source, cypher]
 ----
-match (character:Character)-[:APPEARED_IN]->()
+MATCH (character:Character)-[:APPEARED_IN]->()
 RETURN character.name, COUNT(*) AS appearances
 ORDER BY appearances DESC
 ----
@@ -187,7 +197,7 @@ ORDER BY appearances DESC
 
 [source, cypher]
 ----
-match (character:Character)-[:APPEARED_IN]->()
+MATCH (character:Character)-[:APPEARED_IN]->()
 WHERE character.name ENDS WITH "Stark"
 RETURN character.name, COUNT(*) AS appearances
 ORDER BY appearances
@@ -198,8 +208,14 @@ LIMIT 1
 
 [source, cypher]
 ----
-match (character:Character {name: "Arya Stark"}), (episode: Episode)
+MATCH (character:Character {name: "Arya Stark"}), (episode: Episode)
 WHERE NOT (character)-[:APPEARED_IN]->(episode)
 RETURN episode
 ORDER BY episode.id
 ----
+
+== Next Step
+
+In the next section we're going to look at the relationships between different characters.
+
+pass:a[<a play-topic='{guides}/02_got.html'>Game of Thrones dataset</a>]

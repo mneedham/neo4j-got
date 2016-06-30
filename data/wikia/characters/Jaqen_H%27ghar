@@ -1,0 +1,2198 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.24" />
+<meta name="keywords" content="Game of Thrones Wiki,gameofthrones,Jaqen H'ghar,Season 1,Season 2,Season 5,Season 6,Fire and Blood,Lorath,Braavos,Faceless Men,Many-Faced God,Tom Wlaschiha" />
+<meta name="description" content="&amp;quot;Jaqen H'ghar&amp;quot; is a major character in the fifth and sixth seasons. He initially appeared as a..." />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Wikia" />
+<meta name="twitter:url" content="http://gameofthrones.wikia.com/wiki/Jaqen_H%27ghar" />
+<meta name="twitter:title" content="Jaqen H'ghar - Game of Thrones Wiki - Wikia" />
+<meta name="twitter:description" content="&quot;Jaqen H'ghar&quot; is a major character in the fifth and sixth seasons. He initially appeared as a recurring character in the second season. He is played by starring cast member Tom Wlaschiha and..." />
+<link rel="canonical" href="http://gameofthrones.wikia.com/wiki/Jaqen_H%27ghar" />
+<link rel="apple-touch-icon" href="http://img1.wikia.nocookie.net/__cb87/gameofthrones/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/gameofthrones/images/6/64/Favicon.ico/revision/latest?cb=20120302041013" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Game of Thrones Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://gameofthrones.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="Game of Thrones Wiki Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>Jaqen H'ghar - Game of Thrones Wiki - Wikia</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images1.wikia.nocookie.net/__am/1467115692/sasses/background-dynamic%3Dtrue%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb20150716154804%252Fgameofthrones%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1920%26color-body%3D%2523000%26color-body-middle%3D%2523000000%26color-buttons%3D%25231e5467%26color-header%3D%25235f4416%26color-links%3D%252347518e%26color-page%3D%2523d7cbab%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/skins/oasis/css/oasis.scss,extensions/wikia/Forum/css/ForumTag.scss,extensions/wikia/Recirculation/styles/recirculation.scss,extensions/wikia/PortableInfobox/styles/PortableInfobox.scss,extensions/wikia/VisualEditorTourExperiment/styles/VisualEditorTourExperimentInit.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationUserLoginDropdown.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationNotifications.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,extensions/wikia/GlobalNavigation/styles/GoogleSearchAPI.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/PageShare/styles/PageShare.scss,extensions/wikia/GlobalFooter/styles/GlobalFooter.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://slot1.images2.wikia.nocookie.net/__am/1467115692/sasses/background-dynamic%3Dtrue%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb20150716154804%252Fgameofthrones%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1920%26color-body%3D%2523000%26color-body-middle%3D%2523000000%26color-buttons%3D%25231e5467%26color-header%3D%25235f4416%26color-links%3D%252347518e%26color-page%3D%2523d7cbab%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/extensions/wikia/ARecoveryEngine/css/recoveryUnlock.scss" /><link rel="stylesheet" href="http://gameofthrones.wikia.com/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: gameofthrones:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="tv",
+wgWikiCategories=[],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Join the Chat","chat-start-a-chat":"Start a Chat","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live! Chat","chat-edit-count":"$1 edits","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":1,"delayBtf":true,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true,"sourcePointDetectionUrl":"http://gameofthrones.wikia.com/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/57760d8e437e238c3641afedb4a476d1","yavliUrl":"http://gameofthrones.wikia.com/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/38b0394988142491ae86c66ddc260800"},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"esrbRating":"teen","mappedVerticalName":"ent","pageArticleId":4541,"pageIsArticle":true,"pageName":"Jaqen_H\'ghar","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"media=tv;genre=fantasy;tv=hbo;sex=m;age=18-24;age=18-34;age=25-34;esrb=mature;media=books;gnre=action;gnre=adventure;theme=sword;theme=magic;gnre=drama;gnre=fighting;theme=dragon;theme=mature;theme=zombiesex=m;age=18-24;age=25-34;age=18-34;age=teen;media=tv;media=comics;media=books;gnre=action;theme=zombie;gnre=horror;theme=postapocalypse;gnre=3rdpersonshooter;pform=xbox360;pform=ps3;esrb=mature;tv=amc;sex=m;age=13-17;age=18-24;age=under18;age=kids;age=teen;gnre=anime;media=tv;media=comics;gnre=fighting;gnre=fantasyage=under18;age=18-24;age=teen;age=kids;media=tv;media=comics;media=cards;gnre=anime;gnre=fantasy;gnre=fighting;gnre=action;gnre=adventure;pform=xbox360;pform=ps3;pform=wii;pform=ds;esrb=teen;tv=cn;theme=heroes;tv=onhulu;tv=hulu","wikiDbName":"gameofthrones","wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"tv","newWikiCategories":["ent"]},"providers":{"evolve2":true,"rubiconFastlane":true,"taboola":true},"slots":{"exitstitial":true,"invisibleHighImpact":true},"forcedProvider":null},"runtime":{"sp":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[100056,100057,100058,100059,100397],
+wgWikiFactoryTagNames=["wow","t9","skyscraper","skyscrapperwow","en"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1467115692",
+wgDBname="gameofthrones",
+wgCityId="130814",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=4541,
+wgCategories=["Characters","Season 2 Characters","Status: Alive","Characters from Braavos","Assassins","Faceless Men","Season 1 Characters","Recruits of the Night\'s Watch","Major Characters","Season 5 Characters","Season 6 Characters","Clergy"],
+wgPageName="Jaqen_H\'ghar",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="character",
+wgNamespaceNumber=0,
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=true,
+wgStyleVersion="1467115692",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/complex","env":"prod","hostname":"ap-s169","php_version":"5.6.11","wiki":"gameofthrones","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"complex"},
+wgEnableOpenXSPC=true,
+wgEnableReviveSpotlights=true,
+wgSeoTestingBucket=3;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<!-- Nielsen is disabled --><script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1467115692&amp;c=130814&amp;lc=en&amp;lid=75&amp;x=gameofthrones&amp;y=c2&amp;u=0&amp;a=4541&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+		document.write('<img src="http://logs-01.loggly.com/inputs/88a88e56-77c6-49cc-af41-6f44f83fe7fe.gif?message=wikia_beacon_id%20is%20empty" style="position:absolute;top:-1000px" />');
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1467115692&amp;c=130814&amp;lc=en&amp;lid=75&amp;x=gameofthrones&amp;y=c2&amp;u=0&amp;a=4541&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1467115692/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine2_tracking_js,adengine2_amazon_match_js,adengine2_ox_bidder_js,adengine2_rubicon_fastlane_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="Game of Thrones Wiki" />
+	<meta property="og:title" content="Jaqen H'ghar" />
+	<meta property="og:description" content="&quot;Jaqen H'ghar&quot; is a major character in the fifth and sixth seasons. He initially appeared as a recurring character in the second season. He is played by starring cast member Tom Wlaschiha and debuts in &quot;The Night Lands.&quot; Jaqen H'ghar is a mysterious man - introducing himself as a Lorathi criminal - who was arrested and put in the dungeons of King's Landing, before being recruited by Yoren to join the Night's Watch. He is in Yoren's party as the latter smuggles Arya Stark out of King's..." />
+	<meta property="og:url" content="http://gameofthrones.wikia.com/wiki/Jaqen_H%27ghar" />
+	<meta property="og:image" content="http://vignette2.wikia.nocookie.net/gameofthrones/images/3/3b/AManSeason5.jpg/revision/latest?cb=20150421020227" />
+<meta name="apple-itunes-app" content="app-id=920825172, app-arguments=http://gameofthrones.wikia.com/wiki/Jaqen_H%27ghar">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Jaqen_H_ghar  TOC_hide oasis-breakpoints wikinav2 skin-oasis  user-anon background-fixed background-not-tiled background-dynamic wiki-gameofthrones" >
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fgameofthrones.wikia.com%2Fwiki%2FJaqen_H%2527ghar%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for RubiconFastlane, page_view -->
+<script id="analytics-provider-rubicon-fastlane">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.rubiconFastlane")
+	], function (geo, instantGlobals, rubiconFastlane) {
+		if (geo.isProperGeo(instantGlobals["wgAdDriverRubiconFastlaneCountries"])) {
+			rubiconFastlane.call();
+		};
+	});
+</script>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.amazonMatch"),
+	], function (geo, globals, amazon) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (geo.isProperGeo(ac)) {
+			amazon.call();
+		}
+	});
+</script>
+
+<!-- Start for OpenXBidder, page_view -->
+<script id="analytics-provider-openx-bidder">
+	require([
+		"wikia.geo",
+		"wikia.querystring",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.openXBidder")
+	], function (geo, Querystring, globals, oxBidder) {
+		var ac = globals["wgAdDriverOpenXBidderCountries"],
+			qs = new Querystring();
+
+		if (geo.isProperGeo(ac) || qs.getVal('oxbidder', '0') === '1') {
+			oxBidder.call();
+		};
+	});
+</script>
+<!-- Begin Krux Tag -->
+<script type="text/javascript">
+	require(['wikia.krux'], function (krux) {
+		krux.load('JU3_GW1b');
+	});
+</script>
+<!-- End Krux Tag -->
+<!-- Begin IVW3 Tag -->
+<script type="text/javascript">
+	var iam_data = {
+		st: 'wikia',
+		cp: 'tv/pc',
+		sv: 'i2'
+	};
+
+	if (window.Wikia &&
+		window.Wikia.InstantGlobals &&
+		!window.Wikia.InstantGlobals.wgSitewideDisableIVW3 &&
+		window.Wikia.geo.isProperGeo(["AT","CH","DE"])
+	) {
+		window.ivw3Initialized = true;
+		document.write('<script type="text/javascript" src="https://script.ioam.de/iam.js"><\/script>');
+		document.write('<script type="text/javascript">window.iom.c(iam_data, 2);<\/script>');
+	}
+</script>
+<!-- End IVW3 Tag -->
+<!-- Unsupported language for AnalyticsProviderIVW2 --><div class="WikiaSiteWrapper">
+	
+	<h2>Wikia</h2>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_LEADERBOARD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_BUTTON_WIDE"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["INVISIBLE_SKIN"]);
+	</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+<div id="InvisibleHighImpactWrapper" class="hidden">
+	<div class="background"></div>
+	<a class="close">
+		<div class="close-button"></div>
+	</a>
+	<div class="label">Advertisement</div>
+	<div id="INVISIBLE_HIGH_IMPACT_2" class="wikia-ad noprint"></div>
+</div>
+<nav class="global-navigation" id="globalNavigation">
+	<div class="global-navigation-container">
+		<div class="wikia-logo-container table-cell">
+			<a href="http://www.wikia.com/fandom"
+				class="wikia-logo final-url"
+				rel="nofollow"
+				data-id="wikia-logo">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+					height="24"
+					width="91"
+					alt="Wikia"
+					title="Wikia">
+									<span class="wikia-logo__subtitle">The Home of Fandom</span>
+							</a >
+		</div >
+					<div class="table-cell hubs-links" data-visibility="desktop">
+									<a class="cell-link top-level" href="http://fandom.wikia.com/games"
+					   data-tracking-label="hub-games">
+						Games					</a>
+									<a class="cell-link top-level" href="http://fandom.wikia.com/movies"
+					   data-tracking-label="hub-movies">
+						Movies					</a>
+									<a class="cell-link top-level" href="http://fandom.wikia.com/tv"
+					   data-tracking-label="hub-tv">
+						TV					</a>
+							</div>
+				<div class="table-cell">
+			<div class="explore-wikia-entry-point" id="exploreWikiaEntryPoint">
+				<a class="cell-link top-level final-url"
+					href="http://www.wikia.com/explore"
+					data-tracking-label="explore-wikia">
+					Explore Wikia					<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+				</a>
+				<ul class="explore-wikia-dropdown" id="exploreWikiaDropdown">
+																		<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://fandom.wikia.com/games"
+								   data-tracking-label="hub-games">
+									Games								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://fandom.wikia.com/movies"
+								   data-tracking-label="hub-movies">
+									Movies								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://fandom.wikia.com/tv"
+								   data-tracking-label="hub-tv">
+									TV								</a>
+							</li>
+																						<li>
+							<a class="cell-link"
+							   href="http://www.wikia.com/WAM"
+							   data-tracking-label="top-communities">
+								Trending Wikias							</a>
+						</li>
+											<li>
+							<a class="cell-link"
+							   href="http://community.wikia.com"
+							   data-tracking-label="community-central">
+								Community Central							</a>
+						</li>
+									</ul>
+			</div>
+		</div>
+		<div class="search-container table-cell">
+			<div class="search-form-wrapper">
+	<form action="http://gameofthrones.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search Game of Thrones Wiki..." data-search-url="http://gameofthrones.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search Game of Thrones Wiki..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+		</div>
+		<div class="account-navigation-container table-cell">
+			<ul id="AccountNavigation" class="AccountNavigation table-cell newAuth ">
+	<li class="account-navigation-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/signin?redirect=http%3A%2F%2Fgameofthrones.wikia.com%2Fwiki%2FJaqen_H%2527ghar" rel="nofollow" title="Sign In" class="auth-link sign-in" accesskey="o">			<div class="avatar-container anon-avatar-placeholder">
+							</div>
+		</a>
+						<span class="auth-label">
+					<a class="auth-link sign-in" href="/signin?redirect=http%3A%2F%2Fgameofthrones.wikia.com%2Fwiki%2FJaqen_H%2527ghar">Sign In</a> or <a class="auth-link register" href="/register?redirect=http%3A%2F%2Fgameofthrones.wikia.com%2Fwiki%2FJaqen_H%2527ghar">Register</a>				</span>
+				</div>
+		</li>
+</ul>
+		</div>
+				<div class="start-wikia-container table-cell">
+			<a href="http://www.wikia.com/Special:CreateNewWiki"
+			   class="start-wikia"
+			   title="Start a wikia"
+			   data-id="start-wikia">
+				<span>Start a wikia</span>
+			</a>
+		</div>
+			</div>
+</nav>
+
+	<!-- BEGIN CONTAINER: TOP_LEADERBOARD_AB -->
+	<div id="TOP_LEADERBOARD_AB">
+		<script>
+			window.adslots2.push(["TOP_LEADERBOARD_AB"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: TOP_LEADERBOARD_AB -->
+
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h2 class="wordmark medium graphic ">
+	<a accesskey="z" href="/wiki/Game_of_Thrones_Wiki">
+					<img src="http://img1.wikia.nocookie.net/__cb87/gameofthrones/images/8/89/Wiki-wordmark.png" alt="Game of Thrones Wiki"  width="250" height="65" >
+			</a>
+</h2>
+	<nav class="WikiNav">
+					<h2>Game of Thrones Wiki Navigation</h2>
+				<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Images" data-canonical="images">Images</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Blogs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum" data-canonical="forum">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="/wiki/Category:Episodes">Episodes</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Season_1">Season 1<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Winter_is_Coming">1 - Winter is Coming</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Kingsroad">2 - The Kingsroad</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Lord_Snow">3 - Lord Snow</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Cripples,_Bastards_and_Broken_Things">4 - Cripples, Bastards and Broken Things</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Wolf_and_the_Lion">5 - The Wolf and the Lion</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/A_Golden_Crown">6 - A Golden Crown</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/You_Win_or_You_Die">7 - You Win or You Die</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Pointy_End">8 - The Pointy End</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Baelor">9 - Baelor</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Fire_and_Blood">10 - Fire and Blood</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Season_2">Season 2<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_North_Remembers">1 - The North Remembers</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Night_Lands">2 - The Night Lands</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/What_is_Dead_May_Never_Die">3 - What is Dead May Never Die</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Garden_of_Bones">4 - Garden of Bones</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Ghost_of_Harrenhal">5 - The Ghost of Harrenhal</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Old_Gods_and_the_New">6 - The Old Gods and the New</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/A_Man_Without_Honor">7 - A Man Without Honor</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Prince_of_Winterfell">8 - The Prince of Winterfell</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Blackwater">9 - Blackwater</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Valar_Morghulis">10 - Valar Morghulis</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Season_3">Season 3<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Valar_Dohaeris">1 - Valar Dohaeris</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Dark_Wings,_Dark_Words">2 - Dark Wings, Dark Words</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Walk_of_Punishment">3 - Walk of Punishment</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/And_Now_His_Watch_is_Ended">4 - And Now His Watch is Ended</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kissed_by_Fire">5 - Kissed by Fire</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Climb">6 - The Climb</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Bear_and_the_Maiden_Fair_(episode)">7 - The Bear and the Maiden Fair</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Second_Sons_(episode)">8 - Second Sons</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Rains_of_Castamere_(episode)">9 - The Rains of Castamere</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Mhysa">10 - Mhysa</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Season_4">Season 4<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Two_Swords">1 - Two Swords</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Lion_and_the_Rose">2 - The Lion and the Rose</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Breaker_of_Chains">3 - Breaker of Chains</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Oathkeeper">4 - Oathkeeper</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/First_of_His_Name">5 - First of His Name</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Laws_of_Gods_and_Men">6 - The Laws of Gods and Men</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Mockingbird">7 - Mockingbird</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Mountain_and_the_Viper">8 - The Mountain and the Viper</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Watchers_on_the_Wall">9 - The Watchers on the Wall</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Children">10 - The Children</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Season_5">Season 5<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Wars_to_Come">1 - The Wars to Come</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_House_of_Black_and_White">2 - The House of Black and White</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/High_Sparrow_(episode)">3 - High Sparrow</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Sons_of_the_Harpy_(episode)">4 - Sons of the Harpy</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kill_the_Boy">5 - Kill the Boy</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Unbowed,_Unbent,_Unbroken">6 - Unbowed, Unbent, Unbroken</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Gift_(episode)">7 - The Gift</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Hardhome_(episode)">8 - Hardhome</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Dance_of_Dragons">9 - The Dance of Dragons</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Mother%27s_Mercy">10 - Mother's Mercy</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Season_6">Season 6<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Red_Woman">1 - The Red Woman</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Home">2 - Home</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Oathbreaker">3 - Oathbreaker</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Book_of_the_Stranger">4 - Book of the Stranger</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Door">5 - The Door</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Blood_of_My_Blood">6 - Blood of My Blood</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Broken_Man">7 - The Broken Man</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/No_One">8 - No One</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Battle_of_the_Bastards_(episode)">9 - Battle of the Bastards</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Winds_of_Winter">10 - The Winds of Winter</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Extras">Extras<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Histories_%26_Lore">Histories & Lore</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Telltale%27s_Game_of_Thrones_Super_Walkthrough">Telltale video game navigation sub-portal</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Iron_From_Ice">1 - Iron From Ice</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Lost_Lords">2 - The Lost Lords</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Sword_in_the_Darkness">3 - The Sword in the Darkness</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Sons_of_Winter">4 - Sons of Winter</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/A_Nest_of_Vipers">5 - A Nest of Vipers</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Ice_Dragon">6 - The Ice Dragon</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Category:Characters">Characters</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/House_Stark">Stark<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jon_Snow">Jon Snow</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Bran_Stark">Bran Stark</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Sansa_Stark">Sansa Stark</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Arya_Stark">Arya Stark</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Edmure_Tully">Edmure Tully</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Davos_Seaworth">Davos Seaworth</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tormund">Tormund</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Meera_Reed">Meera Reed</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Lyanna_Mormont">Lyanna Mormont</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Benjen_Stark">Benjen Stark</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/House_Lannister">Lannister<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Cersei_Lannister">Cersei Lannister</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jaime_Lannister">Jaime Lannister</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Qyburn">Qyburn</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Gregor_Clegane">Gregor Clegane</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Bronn">Ser Bronn</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Lollys_Stokeworth">Lollys Stokeworth</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tywin_Lannister">Tywin Lannister</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Joffrey_Baratheon">Joffrey Baratheon</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Myrcella_Baratheon">Myrcella Baratheon</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tommen_Baratheon">Tommen Baratheon</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/House_Targaryen">Targaryen<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Daenerys_Targaryen">Daenerys Targaryen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tyrion_Lannister">Tyrion Lannister</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Varys">Varys</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Yara_Greyjoy">Yara Greyjoy</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Theon_Greyjoy">Theon Greyjoy</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Missandei">Missandei</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Grey_Worm">Grey Worm</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Olenna_Tyrell">Olenna Tyrell</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Ellaria_Sand">Ellaria Sand</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Dragons">Dragons</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Brotherhood_Without_Banners">Allies&Enemies<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Brienne_of_Tarth">Brienne of Tarth</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Podrick_Payne">Podrick Payne</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Samwell_Tarly">Samwell Tarly</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Gilly">Gilly</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Littlefinger">Littlefinger</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Robin_Arryn">Sweetrobin Arryn</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Sandor_Clegane">Sandor Clegane</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Melisandre">Melisandre</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Euron_Greyjoy">Euron Greyjoy</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Night_King">The Night King</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Great_House">Great House<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Stark">House Stark</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Lannister">House Lannister</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Targaryen">House Targaryen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Tyrell">House Tyrell</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Greyjoy">House Greyjoy</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Tully">House Tully</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Arryn">House Arryn</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Baratheon">House Baratheon</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Martell">House Martell</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Frey">House Frey</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/The_North">North<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Mormont">House Mormont</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Reed">House Reed</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Glover">House Glover</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Cerwyn">House Cerwyn</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Manderly">House Manderly</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Hornwood">House Hornwood</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Bolton">House Bolton</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Umber">House Umber</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Karstark">House Karstark</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Forrester">House Forrester</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Noble_house">South<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Tarly">House Tarly</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Redwyne">House Redwyne</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Florent">House Florent</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Hightower">House Hightower</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Royce">House Royce</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Waynwood">House Waynwood</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Blackwood">House Blackwood</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Bracken">House Bracken</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Mallister">House Mallister</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Stokeworth">House Stokeworth</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Category:Culture_%26_Society">Culture&Society</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Timeline">Timeline<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Dawn_Age">Dawn Age</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Long_Night">The Long Night</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Andal_Invasion">Andal Invasion</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Doom_of_Valyria">Doom of Valyria</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/War_of_Conquest">The Targaryen Conquest</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Robert%27s_Rebellion">Robert's Rebellion</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Greyjoy_Rebellion">Greyjoy Rebellion</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/War_of_the_Five_Kings">War of the Five Kings</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Conflict_Beyond_the_Wall">Conflict Beyond the Wall</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Liberation_of_Slaver%27s_Bay">Targaryen campaign in Slaver's Bay</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Organizations">Organizations<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Night%27s_Watch">Night's Watch</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Maesters">Order of Maesters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Small_Council">Small Council</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/City_Watch">City Watch ("Gold Cloaks")</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kingsguard">Kingsguard</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Iron_Bank_of_Braavos">Iron Bank of Braavos</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Faceless_Men">Faceless Men</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Warlocks_of_Qarth">Warlocks of Qarth</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Unsullied">Unsullied</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Brotherhood_Without_Banners">Brotherhood Without Banners</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Religion">Religions<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Old_Gods_of_the_Forest">Old Gods of the Forest</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Faith_of_the_Seven">Faith of the Seven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Drowned_God">Drowned God</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/R%27hllor">R'hllor, the Lord of Light</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/God_of_Death">The Many-faced God of Death</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Great_Stallion">Great Stallion</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Great_Shepherd">Great Shepherd</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Ghiscari_religion">Ghiscari religion</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Bearded_Priests_of_Norvos">Bearded Priests of Norvos</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Black_Goat_of_Qohor">Black Goat of Qohor</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Social_groups">Groups<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Great_Houses">Great Houses</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Noble_houses">Noble Houses</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Bastardy">Bastardy</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Knighthood">Knighthood</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Ward">Ward</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Smallfolk">Smallfolk</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Handmaiden">Handmaiden</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Mercenary">Mercenary</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Prostitution">Prostitution</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Slavery">Slavery</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Laws_and_Customs">Customs<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Heraldry">Heraldry</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_words">House words</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Guest_right">Guest right</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Science_and_Technology">Science and Technology</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Currency">Currency</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Food_and_Drink">Food and Drink</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Languages">Languages</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Magic">Magic</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Armament">Armament</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Animals_and_Plants">Animals and Plants</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Westeros">Westeros<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/First_Men">First Men</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Andals">Andals</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Ironborn">Ironborn</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Dornishmen">Dornishmen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Northmen">Northmen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Crannogmen">Crannogmen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Hill_tribes">Hill tribes</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Free_Folk">Wildlings</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/White_Walkers">White Walkers</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Children_of_the_Forest">Children of the Forest</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Essos">Essos<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Free_Cities">Free Cities</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Valyrian_Freehold">Valyrian Freehold</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Slaver%27s_Bay">Slaver's Bay</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Rhoynar">Rhoynar</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Lhazareen">Lhazareen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Dothraki">Dothraki</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Qarth">Qarth</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Yi_Ti">Yi Ti</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Asshai">Asshai</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Sothoryos">Sothoryos</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Category:Production">Production</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Writer">Writers<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/George_R.R._Martin">George R.R. Martin</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/David_Benioff">David Benioff</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/D.B._Weiss">D.B. Weiss</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Bryan_Cogman">Bryan Cogman</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jane_Espenson">Jane Espenson (Season 1, episode 6)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Vanessa_Taylor">Vanessa Taylor (Seasons 2-3)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Dave_Hill">Dave Hill</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Director">Directors 1-3<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Daniel_Minahan">Daniel Minahan</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/David_Nutter">David Nutter</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Alan_Taylor">Alan Taylor</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/David_Petrarca">David Petrarca</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Brian_Kirk">Brian Kirk</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tim_van_Patten">Tim van Patten</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Thomas_McCarthy">Thomas McCarthy</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Director">Directors 4-5<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Michael_Slovis">Michael Slovis</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Mark_Mylod">Mark Mylod</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jeremy_Podeswa">Jeremy Podeswa</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Miguel_Sapochnik">Miguel Sapochnik</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/David_Nutter">David Nutter</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Alex_Graves">Alex Graves</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Michelle_MacLaren">Michelle MacLaren</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Alik_Sakharov">Alik Sakharov</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Neil_Marshall">Neil Marshall</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Production">Crew<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Gemma_Jackson">Gemma Jackson - Set designer (Seasons 1-3)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Deborah_Riley">Deborah Riley - Set designer (Season 4 onwards)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Michele_Clapton">Michele Clapton - Costume designer (Seasons 1-5)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/April_Ferry">April Ferry - Costume designer (Season 6 onwards)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/David_J._Peterson">David J. Peterson - Language creator (Dothraki, Valyrian)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/William_Simpson">William Simpson - Storyboard artist</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jim_Stanes">Jim Stanes - Graphic artist, heraldry and handwriting design</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Ramin_Djawadi">Ramin Djawadi - Music composer</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kimberley_Pope">Kimberley Pope - Concept artist</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tommy_Dunne">Tommy Dunne - Weapons master</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Starring_cast_appearances">Actors<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Peter_Dinklage">Peter Dinklage</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kit_Harington">Kit Harington</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Emilia_Clarke">Emilia Clarke</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Maisie_Williams">Maisie Williams</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Sophie_Turner">Sophie Turner</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Lena_Headey">Lena Headey</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Nikolaj_Coster-Waldau">Nikolaj Coster-Waldau</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Natalie_Dormer">Natalie Dormer</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Gwendoline_Christie">Gwendoline Christie</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Rose_Leslie">Rose Leslie</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Production">Production<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Game_of_Thrones_(TV_series)">Game of Thrones (TV series)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tales_of_Dunk_and_Egg">Tales of Dunk and Egg prequel</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Differences_between_books_and_TV_series">Differences between books & TV series</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Costumes">Costumes</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Title_sequence">Title sequence</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Filming_locations">Filming locations</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Pronunciation_guide">Pronunciation guide</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Visual_effects_production_companies">Visual effects production companies</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Sexposition">Sexposition</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/List_of_references_to_Game_of_Thrones_in_other_media">List of references to Game of Thrones in other media</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Merchandise">Merchandise<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/A_Song_of_Ice_and_Fire">A Song of Ice and Fire novel series</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Merchandise#Blu-ray_and_DVD_releases">Blu ray & DVD releases by TV Season</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Soundtracks">Soundtracks by TV Season</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Merchandise#Action_figures">Action figures</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Inside_HBO%27s_Game_of_Thrones">Inside HBO's Game of Thrones (Seasons 1 & 2)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Inside_HBO%27s_Game_of_Thrones:_Seasons_3_%26_4">Inside HBO's Game of Thrones: Seasons 3 & 4</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Living_Language_Dothraki">Living Language Dothraki</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Computer_games">Video games</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Game_of_Thrones:_A_Telltale_Games_Series">Game of Thrones: A Telltale Games Series</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>	</nav>
+			<div class="buttons">
+			<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Special:Maps"  data-id="maps"   class="wikia-maps-create-map">Create a Map</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+		</div>
+		<div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent changes</a>	</div>
+</header>
+		
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+					<header id="WikiaPageHeader" class="WikiaPageHeader wikia-page-header">
+		<div class="header-container">
+			<div class="header-column header-title">
+				<h1>Jaqen H'ghar</h1>
+							</div>
+			<div class="header-column header-tally">
+				<div id="PageShareContainer" class="page-share-container">
+									</div>
+									<div class="tally"><em>3,312</em><span>pages on<br /> this wiki</span></div>
+							</div>
+		</div>
+		<nav class="wikia-menu-button" >
+	<a   href="/wiki/Jaqen_H%27ghar?action=edit" data-id="source" id="ca-viewsource">
+		<img alt="" class="sprite lock" height="12" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="9" /> View source	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Jaqen_H%27ghar?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="/wiki/Talk:Jaqen_H%27ghar" class="wikia-button comments secondary talk" rel="nofollow" data-id="comment"> Talk<span class="commentsbubble">48</span></a>
+	</header>
+	
+
+												<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+										
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text"><table style="width:280px; float:right;">
+<tr>
+<td>
+</td><td><div class="floatleft"><a href="/wiki/Faceless_Men" 	class="image image-thumbnail link-internal" 	 title="Faceless Men"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Faceless Man mini coin2"  	class="lzy lzyPlcHld " 	 	data-image-key="Faceless_Man_mini_coin2.png" 	data-image-name="Faceless Man mini coin2.png" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/c/cb/Faceless_Man_mini_coin2.png/revision/latest/scale-to-width-down/50?cb=20150424091923"  	 width="50"  	 height="51"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/c/cb/Faceless_Man_mini_coin2.png/revision/latest/scale-to-width-down/50?cb=20150424091923" 	 alt="Faceless Man mini coin2"  	class="" 	 	data-image-key="Faceless_Man_mini_coin2.png" 	data-image-name="Faceless Man mini coin2.png" 	 	 width="50"  	 height="51"  	 	 	 	></noscript></a></div>
+</td><td>
+</td><td>
+</td><td>
+</td><td><div class="floatright"><a href="/wiki/Faceless_Men" 	class="image image-thumbnail link-internal" 	 title="Faceless Men"  	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Faceless Man mini coin2"  	class="lzy lzyPlcHld " 	 	data-image-key="Faceless_Man_mini_coin2.png" 	data-image-name="Faceless Man mini coin2.png" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/c/cb/Faceless_Man_mini_coin2.png/revision/latest/scale-to-width-down/50?cb=20150424091923"  	 width="50"  	 height="51"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/c/cb/Faceless_Man_mini_coin2.png/revision/latest/scale-to-width-down/50?cb=20150424091923" 	 alt="Faceless Man mini coin2"  	class="" 	 	data-image-key="Faceless_Man_mini_coin2.png" 	data-image-name="Faceless Man mini coin2.png" 	 	 width="50"  	 height="51"  	 	 	 	></noscript></a></div>
+</td></tr></table>
+
+<aside class="portable-infobox pi-background pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title">"Jaqen H'ghar"</h2>
+
+<figure class="pi-item pi-image">
+	<a href="http://vignette3.wikia.nocookie.net/gameofthrones/images/d/d2/No_One_Jaqen_S6_infobox.jpg/revision/latest?cb=20160617232159" class="image image-thumbnail"
+	   title="&quot;Jaqen H&#039;ghar&quot;">
+		<img src="http://vignette3.wikia.nocookie.net/gameofthrones/images/d/d2/No_One_Jaqen_S6_infobox.jpg/revision/latest/scale-to-width-down/270?cb=20160617232159" class="pi-image-thumbnail" alt="&quot;Jaqen H&#039;ghar&quot;" width="270" height="405"
+		     data-image-key="No_One_Jaqen_S6_infobox.jpg" data-image-name="No One Jaqen S6 infobox.jpg"/>
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Season(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Season_1" title="Season 1">1</a>, <a href="/wiki/Season_2" title="Season 2">2</a>, <a href="/wiki/Season_5" title="Season 5">5</a>, <a href="/wiki/Season_6" title="Season 6">6</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">First seen</h3>
+	
+	<div class="pi-data-value pi-font">"<a href="/wiki/Fire_and_Blood" title="Fire and Blood">Fire and Blood</a>"</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appeared in</h3>
+	
+	<div class="pi-data-value pi-font">18 episodes <small>(<a href="#Appearances">see below</a>)</small></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Category:Status:_Alive" title="Category:Status: Alive">Alive</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Origin</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Lorath" title="Lorath">Lorath</a> (claimed)<br /><a href="/wiki/Braavos" title="Braavos">Braavos</a> (actual)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Allegiance</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Faceless_Men" title="Faceless Men">Faceless Men</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Religion</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Many-Faced_God" title="Many-Faced God">Many-Faced God</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Tom_Wlaschiha" title="Tom Wlaschiha">Tom Wlaschiha</a></div>
+</div>
+</aside>
+
+<div class="quote">
+<dl><dd><span><b>Arya Stark</b>: "<i>You said I could be your apprentice. You said you'd teach me how to be a Faceless Man.</i>"
+</dd><dd><b>Jaqen H'ghar</b>: "<i>A man teaches a girl. "Valar Dohaeris." All men must serve. Faceless Men most of all.</i>"</span>
+</dd><dd>&#8212; Jaqen H'ghar instructs Arya Stark<sup class="noprint"><a href="/wiki/High_Sparrow_(episode)" title="High Sparrow (episode)">[src]</a></sup>
+</dd></dl>
+</div>
+<p><b>"Jaqen H'ghar"</b> is a major character in the <a href="/wiki/Season_5" title="Season 5">fifth</a> and <a href="/wiki/Season_6" title="Season 6">sixth</a> seasons. He initially appeared as a recurring character in the <a href="/wiki/Season_2" title="Season 2">second</a> season. He is played by starring cast member <a href="/wiki/Tom_Wlaschiha" title="Tom Wlaschiha">Tom Wlaschiha</a> and debuts in "<a href="/wiki/The_Night_Lands" title="The Night Lands">The Night Lands</a>."
+Jaqen H'ghar is a mysterious man - introducing himself as a <a href="/wiki/Lorath" title="Lorath">Lorathi</a> criminal - who was arrested and put in the dungeons of <a href="/wiki/King%27s_Landing" title="King's Landing">King's Landing</a>, before being recruited by <a href="/wiki/Yoren" title="Yoren">Yoren</a> to join the <a href="/wiki/Night%27s_Watch" title="Night's Watch">Night's Watch</a>. He is in Yoren's party as the latter smuggles <a href="/wiki/Arya_Stark" title="Arya Stark">Arya Stark</a> out of <a href="/wiki/King%27s_Landing" title="King's Landing">King's Landing</a>. He travels with them to the lands south of Harrenhal, where they are captured by Lannister forces.
+</p><p>In reality, "Jaqen H'ghar" is just an assumed identity of one of the <a href="/wiki/Faceless_Men" title="Faceless Men">Faceless Men</a> of <a href="/wiki/Braavos" title="Braavos">Braavos</a>, a feared order of mysterious <a href="/wiki/Assassin" title="Assassin">assassins</a> with the ability to change their appearance at will. After the Jaqen persona is of no more use to him, the Faceless Man shapeshifts into a new appearance and tells Arya he will train her to be a Faceless Man if she goes with him. Eventually, Arya travels to Braavos to look for Jaqen and finds him, and he trains her.
+</p>
+<nav id="toc" class="toc"><div id="toctitle"><h2>Contents</h2><span class="toctoggle">[<a href="#" class="internal" id="togglelink" data-show="show" data-hide="hide">show</a>]</span></div><ol></ol></nav>
+<h2><span class="mw-headline" id="Biography">Biography</span></h2>
+<h3><span class="mw-headline" id="Background">Background</span></h3>
+<p>Jaqen is surprisingly calm in the face of danger, yet courteous. He uses identity-less speech patterns in which he refers to people using the third person indefinite, e.g., saying "a man thanks a girl" when he is directly addressing Arya and expressing his own thanks.
+</p>
+<h3><span class="mw-headline" id="Season_1"><a href="/wiki/Season_1" title="Season 1">Season 1</a></span></h3>
+<p>Jaqen is a criminal from the <a href="/wiki/Free_Cities" title="Free Cities">Free Cities</a>, arrested by the <a href="/wiki/City_Watch" title="City Watch">City Watch</a> and thrown into the dungeons of the <a href="/wiki/Red_Keep" title="Red Keep">Red Keep</a> in <a href="/wiki/King%27s_Landing" title="King's Landing">King's Landing</a>. When looking for fresh recruits for the <a href="/wiki/Night%27s_Watch" title="Night's Watch">Night's Watch</a>, <a href="/wiki/Yoren" title="Yoren">Yoren</a> was given permission by Lord Eddard Stark, Hand of the King to go through the dungeons and take any criminals who would swear to take the black. He chose H'ghar as a potential candidate, as well as two other murderers <a href="/wiki/Biter" title="Biter">Biter</a> and <a href="/wiki/Rorge" title="Rorge">Rorge</a> from the black cells, where the worst criminals are kept.
+</p><p>Jaqen H'ghar is in the party led by Yoren that leaves King's Landing for <a href="/wiki/The_Wall" title="The Wall">the Wall</a>, along with <a href="/wiki/Hot_Pie" title="Hot Pie">Hot Pie</a>, <a href="/wiki/Lommy_Greenhands" title="Lommy Greenhands" class="mw-redirect">Lommy Greenhands</a>, <a href="/wiki/Gendry" title="Gendry">Gendry</a>, and Arya Stark who is being smuggled out to be returned to Winterfell. Because Yoren is traveling so far with so few men, the worst three are kept in a locked barred cell on the back of a wagon.<sup id="cite_ref-0" class="reference"><a href="#cite_note-0">[1]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Season_2"><a href="/wiki/Season_2" title="Season 2">Season 2</a></span></h3>
+<p>Jaqen calls over "Arry" (who is actually <a href="/wiki/Arya_Stark" title="Arya Stark">Arya Stark</a>). He asks her to fill a tankard with water and tells her that he has not drunk for a day and a night, always referring to himself as “a man” and her as “a boy”. <a href="/wiki/Rorge" title="Rorge">Rorge</a>, one of the other prisoners, rattles the cage and threatens Arya. Jaqen asks Arya for forgiveness and tells her that he has not chosen his companions. He confirms her identity as Arry and introduces himself, saying that he comes from Lorath. Rorge demands beer and insults Arya. She says that he should have asked nicely, drops all but one of her sticks and uses it to hit his hand. He recoils and then tries to grab her through the cage. <a href="/wiki/Biter" title="Biter">Biter</a> moves up behind Rorge and hisses as Rorge threatens Arya again. Jaqen smiles and tells Arya that she has more courage than sense as she backs away.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[2]</a></sup>
+</p><p>The group is resting in a barn when they are roused to arms by Yoren and told they are being attacked. As they rush outside one man trips and drops his torch, setting a fire near the prisoner wagon. They are met by Ser <a href="/wiki/Amory_Lorch" title="Amory Lorch">Amory Lorch</a> and a force of men loyal to <a href="/wiki/House_Lannister" title="House Lannister">House Lannister</a>. Lorch points out the Gold Cloaks with him and says that they have come for <a href="/wiki/Gendry" title="Gendry">Gendry</a>, a royal bastard. Lorch orders Yoren and the recruits to drop their weapons. Yoren remains defiant and Lorch orders him shot.<sup id="cite_ref-E13_2-0" class="reference"><a href="#cite_note-E13-2">[3]</a></sup>
+</p><p>Seeing their leader killed, Gendry and many of the other recruits join the fight. Arya is distracted by Jaqen calling for help as the flames lick the bars of his cage. She hands him an axe before rushing to join the fray. Gendry is overwhelmed and knocked down. As Arya runs round a corner she is knocked over and taken prisoner along with the other survivors. Jaqen does not fight against the Lannister men, though he's surprised that Arya helped him.<sup id="cite_ref-E13_2-1" class="reference"><a href="#cite_note-E13-2">[3]</a></sup>
+</p>
+<figure class="article-thumb tright show-info-icon" style="width: 180px"> 	<a href="http://vignette3.wikia.nocookie.net/gameofthrones/images/e/e7/Jaqen_makes_a_deal_with_Arya.jpg/revision/latest?cb=20120529143824" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Jaqen makes a deal with Arya"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Jaqen_makes_a_deal_with_Arya.jpg" 	data-image-name="Jaqen makes a deal with Arya.jpg" 	 data-src="http://vignette3.wikia.nocookie.net/gameofthrones/images/e/e7/Jaqen_makes_a_deal_with_Arya.jpg/revision/latest/scale-to-width-down/180?cb=20120529143824"  	 width="180"  	 height="101"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette3.wikia.nocookie.net/gameofthrones/images/e/e7/Jaqen_makes_a_deal_with_Arya.jpg/revision/latest/scale-to-width-down/180?cb=20120529143824" 	 alt="Jaqen makes a deal with Arya"  	class="thumbimage " 	 	data-image-key="Jaqen_makes_a_deal_with_Arya.jpg" 	data-image-name="Jaqen makes a deal with Arya.jpg" 	 	 width="180"  	 height="101"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Jaqen_makes_a_deal_with_Arya.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Jaqen makes a deal with Arya.</p> 		 	</figcaption> </figure>
+<p>The prisoners are taken to <a href="/wiki/Harrenhal" title="Harrenhal">Harrenhal</a>, one being picked each day by Ser <a href="/wiki/Gregor_Clegane" title="Gregor Clegane">Gregor Clegane</a> to be tortured and killed under the supervision of a man called <a href="/wiki/The_Tickler" title="The Tickler">the Tickler</a>. Lord <a href="/wiki/Tywin_Lannister" title="Tywin Lannister">Tywin Lannister</a> arrives and ends the pointless brutality, choosing Arya as his <a href="/wiki/Cupbearer" title="Cupbearer">cupbearer</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[4]</a></sup> After being told to fetch water by <a href="/wiki/Tywin_Lannister" title="Tywin Lannister">Tywin Lannister</a>, Arya meets Jaqen again; however, he is dressed in a Lannister uniform. She accuses him of being "one of them now", but he counters her, questioning for whom she is fetching water.
+</p>
+<figure class="article-thumb tright show-info-icon" style="width: 180px"> 	<a href="http://vignette3.wikia.nocookie.net/gameofthrones/images/2/2e/Jaqen_kill_Tickler.png/revision/latest?cb=20120527193112" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Jaqen kill Tickler"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Jaqen_kill_Tickler.png" 	data-image-name="Jaqen kill Tickler.png" 	 data-src="http://vignette3.wikia.nocookie.net/gameofthrones/images/2/2e/Jaqen_kill_Tickler.png/revision/latest/scale-to-width-down/180?cb=20120527193112"  	 width="180"  	 height="101"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette3.wikia.nocookie.net/gameofthrones/images/2/2e/Jaqen_kill_Tickler.png/revision/latest/scale-to-width-down/180?cb=20120527193112" 	 alt="Jaqen kill Tickler"  	class="thumbimage " 	 	data-image-key="Jaqen_kill_Tickler.png" 	data-image-name="Jaqen kill Tickler.png" 	 	 width="180"  	 height="101"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Jaqen_kill_Tickler.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Jaqen after killing the Tickler.</p> 		 	</figcaption> </figure>
+<p>Jaqen says he always knew she was a girl, but she was entitled to her secret. He then informs her of the debt he, Rorge, and Biter owe her. Because she saved three lives, she has taken three lives from <a href="/wiki/Lord_of_Light" title="Lord of Light" class="mw-redirect">the Red God</a>. He says that they must be given back and that she is to name three people who will be killed to repay the debt. Arya names the torturer known as <a href="/wiki/The_Tickler" title="The Tickler">The Tickler</a>. The Tickler is found dead in the courtyard, under the windows of a raised walkway. Arya goes to the body and looks up to see Jaqen staring down. He touches his cheek with one finger, indicating that the first death has been repaid.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[5]</a></sup>
+</p><p>Jaqen is approached by a panicked Arya, who desperately requests her second death: Ser Amory Lorch. He had become suspicious of her intent while ferreting Lannister documents. Jaqen bristles at her insistence on urgency. Arya explains the situation and he reluctantly obliges, assassinating Ser Amory with a dart dipped in wolfsbane to the neck seconds before he reaches Tywin Lannister.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[6]</a></sup>
+</p><p>The assassination triggers the suspicion of Tywin, and he orders the interrogation and execution of dozens of his own men in order to solve it, but does not uncover Jaqen.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[7]</a></sup> Tywin leaves Harrenhal while Jaqen is on patrol; Arya is frustrated as she had decided to make him her last name. Instead she asks Jaqen to aid her and her friends in escaping but he refuses, as it is outside of their arrangement. She asks if she can name anyone and Jaqen swears an oath that who ever she names he will kill. To his horror, Arya says his own name, asking him to kill himself. At Jaqen's plea, she agrees to revoke his name only if he will help her. He reluctantly tells her to assemble her friends at the courtyard gate at midnight. At midnight there is no sign of Jaqen but Arya follows his instructions anyways, only to find out that Jaqen has killed all of the guards on the gate and pinned them in place with spears to avoid arousing suspicion. They are able to walk through the gate unnoticed.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[8]</a></sup>
+</p>
+<figure class="article-thumb tright show-info-icon" style="width: 180px"> 	<a href="http://vignette2.wikia.nocookie.net/gameofthrones/images/a/a4/Jaqen_Faceless_Man_Valar.png/revision/latest?cb=20120604060325" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Jaqen Faceless Man Valar"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Jaqen_Faceless_Man_Valar.png" 	data-image-name="Jaqen Faceless Man Valar.png" 	 data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/a/a4/Jaqen_Faceless_Man_Valar.png/revision/latest/scale-to-width-down/180?cb=20120604060325"  	 width="180"  	 height="205"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette2.wikia.nocookie.net/gameofthrones/images/a/a4/Jaqen_Faceless_Man_Valar.png/revision/latest/scale-to-width-down/180?cb=20120604060325" 	 alt="Jaqen Faceless Man Valar"  	class="thumbimage " 	 	data-image-key="Jaqen_Faceless_Man_Valar.png" 	data-image-name="Jaqen Faceless Man Valar.png" 	 	 width="180"  	 height="205"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Jaqen_Faceless_Man_Valar.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">"Jaqen is dead".</p> 		 	</figcaption> </figure> Having left Harrenhal, Arya, Gendry and <a href="/wiki/Hot_Pie" title="Hot Pie">Hot Pie</a> see Jaqen on top of a cliff. Arya approaches him and he offers to take her with him to <a href="/wiki/Braavos" title="Braavos">Braavos</a> to join the <a href="/wiki/Faceless_Men" title="Faceless Men">Faceless Men</a>. Though she wants to, Arya declines saying she must find her <a href="/wiki/Robb_Stark" title="Robb Stark">brother</a>, <a href="/wiki/Catelyn_Stark" title="Catelyn Stark">mother</a> and <a href="/wiki/Sansa_Stark" title="Sansa Stark">sister</a>. Jaqen gives her a coin and tells her that if she decides to go to Braavos she must show the coin to a Braavosi and say the words "Valar Morghulis". He tells her to say the words and then announces that Jaqen H'ghar is dead. He turns his face away from Arya and when he turns back his face has changed. "Jaqen" then says "Farewell, Arya Stark" and walks away, seeming to have known her true identity all along.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[9]</a></sup>
+<h3><span class="mw-headline" id="Season_4"><a href="/wiki/Season_4" title="Season 4">Season 4</a></span></h3>
+<p>At <a href="/wiki/Saltpans" title="Saltpans">Saltpans</a>, <a href="/wiki/Arya_Stark" title="Arya Stark">Arya Stark</a> approaches <a href="/wiki/Ternesio_Terys" title="Ternesio Terys">Ternesio Terys</a> seeking passage to <a href="/wiki/The_Wall" title="The Wall">the Wall</a>. After he tells her that he is going to <a href="/wiki/Braavos" title="Braavos">Braavos</a>, their home port, Arya shows him the iron coin which Jaqen H'ghar gave her. As Terys looks in awe, she tells him "<i>valar morghulis"</i>. He promptly nods his head and replies "<i>valar dohaeris</i>", offering her a cabin aboard the <i><a href="/wiki/Titan%27s_Daughter" title="Titan's Daughter">Titan's Daughter</a></i>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[10]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Season_5"><a href="/wiki/Season_5" title="Season 5">Season 5</a></span></h3>
+<figure class="article-thumb tright show-info-icon" style="width: 180px"> 	<a href="http://vignette3.wikia.nocookie.net/gameofthrones/images/a/a7/Faceless_Men_menu_pic.jpg/revision/latest?cb=20150502180551" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Faceless Men menu pic"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Faceless_Men_menu_pic.jpg" 	data-image-name="Faceless Men menu pic.jpg" 	 data-src="http://vignette3.wikia.nocookie.net/gameofthrones/images/a/a7/Faceless_Men_menu_pic.jpg/revision/latest/scale-to-width-down/180?cb=20150502180551"  	 width="180"  	 height="101"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette3.wikia.nocookie.net/gameofthrones/images/a/a7/Faceless_Men_menu_pic.jpg/revision/latest/scale-to-width-down/180?cb=20150502180551" 	 alt="Faceless Men menu pic"  	class="thumbimage " 	 	data-image-key="Faceless_Men_menu_pic.jpg" 	data-image-name="Faceless Men menu pic.jpg" 	 	 width="180"  	 height="101"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Faceless_Men_menu_pic.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Jaqen reveals his face to Arya, claiming he is "no one".</p> 		 	</figcaption> </figure>
+<p>At <a href="/wiki/Braavos" title="Braavos">Braavos</a>, after being dropped at the <a href="/wiki/House_of_Black_and_White" title="House of Black and White">House of Black and White</a>, Arya Stark calls to the door of the ancient building. An old man answers her call and she asks for Jaqen H'ghar, only to be told that there is no one by that name inside. Some time later, Arya is saved by the same Faceless Man and follows him. Before the gates of the House of Black and White, the man assumes the visage of Jaqen H'ghar. However, he insists he's not Jaqen H'ghar, but "no one", as all Faceless Men are, and he tells Arya she must learn to be "no one" as well.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[11]</a></sup>
+</p><p>A few days later, Jaqen helps a man commit suicide while Arya watches and sweeps the floor. When she comes to him and tells him that she no longer wants to sweep the floor because she wants to train, he tells her that she is training: to serve, as all Faceless Men must.
+</p><p>Jaqen later interrupts the <a href="/wiki/The_Waif" title="The Waif" class="mw-redirect">Waif</a> as she plays the 'game of faces' with Arya, claiming that she is not ready. When he sees all her things in her room, including her sword <a href="/wiki/Needle" title="Needle">Needle</a>, he hints to her that she must dispose of all ties to her former life as Arya Stark in order to continue her training to be "no one". After Arya disposes of her belongings, Jaqen takes her deeper into the House of Black and White where she is to help the Waif clean the bodies of those who have taken their lives in the House.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[12]</a></sup>
+</p><p>Later, when Arya is asleep, Jaqen H'ghar comes to test Arya again. This time, when he asks Arya who she is, Arya tells him how she came to join the Faceless Men, trying to slip in a few lies into the story. However, Jaqen is able to tell when Arya is lying and hits her with a switch whenever she does. Before he leaves, he tells her that she is lying not only to him, but to herself as well. 
+</p>
+<figure class="article-thumb tleft show-info-icon" style="width: 180px"> 	<a href="http://vignette1.wikia.nocookie.net/gameofthrones/images/e/ea/Arya-and-Jaqen.jpg/revision/latest?cb=20150518195256" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Arya-and-Jaqen"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Arya-and-Jaqen.jpg" 	data-image-name="Arya-and-Jaqen.jpg" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/e/ea/Arya-and-Jaqen.jpg/revision/latest/scale-to-width-down/180?cb=20150518195256"  	 width="180"  	 height="101"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/e/ea/Arya-and-Jaqen.jpg/revision/latest/scale-to-width-down/180?cb=20150518195256" 	 alt="Arya-and-Jaqen"  	class="thumbimage " 	 	data-image-key="Arya-and-Jaqen.jpg" 	data-image-name="Arya-and-Jaqen.jpg" 	 	 width="180"  	 height="101"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Arya-and-Jaqen.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Jaqen takes Arya to the Hall of Faces.</p> 		 	</figcaption> </figure>
+<p>When, eventually, Arya proves herself, Jaqen brings her to the Hall of Faces, a great underground chamber that houses thousands of faces. All the faces had been taken from the corpses that the acolytes wash in the temple. The Faceless Man then asks Arya if she is ready to give up who she is to become "no one". After a moment of silence, he then states that she is not ready to become "no one", but that she is ready to become "someone else".<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[13]</a></sup>
+</p><p>Arya assumes the identity of Lanna, a clam-seller, and shows Jaqen H'ghar she can convincingly become a different person, developing an elaborate and very believable backstory. The Faceless Man sends her, as Lanna, to the harbor where she observes someone referred to as "the thin man" refuse a contract to insure a man's boat, leaving the man in desperate circumstances. Jaqen explains the thin man's business is a sort of gamble yet he does not honor his agreements; when a ship captain dies at sea, he is supposed to make good on his promise and pay the family, but he often doesn't. Jaqen instructs her to kill him, and hands her a "gift" for the thin man —a vial of poison.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[14]</a></sup>
+</p>
+<figure class="article-thumb tright show-info-icon" style="width: 180px"> 	<a href="http://vignette4.wikia.nocookie.net/gameofthrones/images/2/2d/Arya_and_Jaqen_The_Dance_of_Dragons.jpg/revision/latest?cb=20150604205310" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Arya and Jaqen The Dance of Dragons"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Arya_and_Jaqen_The_Dance_of_Dragons.jpg" 	data-image-name="Arya and Jaqen The Dance of Dragons.jpg" 	 data-src="http://vignette4.wikia.nocookie.net/gameofthrones/images/2/2d/Arya_and_Jaqen_The_Dance_of_Dragons.jpg/revision/latest/scale-to-width-down/180?cb=20150604205310"  	 width="180"  	 height="120"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette4.wikia.nocookie.net/gameofthrones/images/2/2d/Arya_and_Jaqen_The_Dance_of_Dragons.jpg/revision/latest/scale-to-width-down/180?cb=20150604205310" 	 alt="Arya and Jaqen The Dance of Dragons"  	class="thumbimage " 	 	data-image-key="Arya_and_Jaqen_The_Dance_of_Dragons.jpg" 	data-image-name="Arya and Jaqen The Dance of Dragons.jpg" 	 	 width="180"  	 height="120"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Arya_and_Jaqen_The_Dance_of_Dragons.jpg" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Arya returns empty-handed.</p> 		 	</figcaption> </figure>
+<p>The next day, Arya returns to the House of Black and White empty-handed, having abandoned her first mission for the Faceless Men. When Jaqen H'ghar asks what happened, she lies to him and says that the Thin Man simply wasn't hungry today and didn't order any over her oysters. Jaqen quips that perhaps this is why he is a "thin man", and Arya promises that she will follow through on the assassination tomorrow. She departs, and while Jaqen seems to suspect that she was lying, he makes no outward reaction to it. Arya will have a lot of work to do soon.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[15]</a></sup>
+</p>
+<figure class="article-thumb tleft show-info-icon" style="width: 180px"> 	<a href="http://vignette1.wikia.nocookie.net/gameofthrones/images/9/96/Arya-blind.png/revision/latest?cb=20150616093834" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Arya-blind"  	class="thumbimage lzy lzyPlcHld " 	 	data-image-key="Arya-blind.png" 	data-image-name="Arya-blind.png" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/9/96/Arya-blind.png/revision/latest/scale-to-width-down/180?cb=20150616093834"  	 width="180"  	 height="101"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/9/96/Arya-blind.png/revision/latest/scale-to-width-down/180?cb=20150616093834" 	 alt="Arya-blind"  	class="thumbimage " 	 	data-image-key="Arya-blind.png" 	data-image-name="Arya-blind.png" 	 	 width="180"  	 height="101"  	 	 	 	></noscript></a>  	<figcaption> 		 			<a href="/wiki/File:Arya-blind.png" class="sprite info-icon"></a> 		 		 		 			<p class="caption">Jaqen, in the Waif's body, watches as Arya loses her sight.</p> 		 	</figcaption> </figure>
+<p>After killing Meryn Trant, Arya returns to the House of Black and White and returns the face that she used to hide her identity. However, Jaqen H'ghar and the Waif appear and say that Meryn's life was not hers to take, and that a debt must be paid. The Waif grabs Arya as Jaqen pulls out a vial, presumably containing some kind of poison. He however drinks the poison himself and collapses, with Arya screaming for him to stay alive. Arya states that he was her friend, and hears Jaqen's voice behind her say 'he was no one'. She turns around to see that the Waif now has Jaqen's face, and Arya asks who the person on the floor with Jaqen's face is. Jaqen, in the Waif's body, says that he is no one, as Arya begins to remove multiple faces off the person on the floor, until she sees her own face. She then begins to lose her sight, as her eyes turn white and screams for help.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[16]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Season_6"> <a href="/wiki/Season_6" title="Season 6">Season 6</a> </span></h3>
+<p>Arya has been a blind beggar in the streets of Braavos since she lost her sight in the Hall of Faces. The Waif shows up daily to torment her and beat her with a staff. One day, after being hit by the Waif, Arya tries to strike back with her rod, only to have it caught in mid-air by Jaqen H'ghar, who has been watching. He promises that if she says her name, he would provide her shelter, clothes and have her eyesight restored. However, Arya resisted the temptations and said that she has no name. Satisfied, he tells Arya to follow him, and that she is a beggar no more. <sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[17]</a></sup>
+</p><p>Back at the House of Black and White, Jaqen observes the Waif fighting with Arya and is pleased to see Arya successfully defend herself while still blind. He offers to give Arya her sight back if she says her name, and as before, she says "A girl has no name." He calls her to come to him at the central fountain, fills a cup from the pool, and hands it to her. Arya hesitates for a moment, knowing that the water is poisoned and meant for those seeking a quick and painless death. Jaqen reminds her that as someone with no identity at all, she should be completely void of fears. Arya calmly drinks from the cup, and her sight is restored. <sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[18]</a></sup>
+</p><p>Jaqen gives Arya the task of assassinating <a href="/wiki/Lady_Crane" title="Lady Crane">Lady Crane</a>, an actress in a troupe, and implies that she will be marked for death if she is not successful. Arya reconnoiters her target at a play caricaturing the <a href="/wiki/War_of_the_Five_Kings" title="War of the Five Kings">War of the Five Kings</a>, and notes that Lady Crane is the only one who drinks from a certain bottle of rum. <sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[19]</a></sup> The two agree that poisoning the rum will be the method of assassination, and Arya proceeds to poison Lady Crane's rum at another showing of the play. When Arya prevents the assassination from occurring, Jaqen gives the Waif permission to hunt down Arya. <sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[20]</a></sup>
+</p><p>While pacing the atrium of the House of Black and White, Jaqen notices blood on the ground. He follows the trail to the Hall of Faces, where the trail stops at a new face on the wall, that of the Waif. Arya sneaks up behind him and points Needle at him. Jaqen does not offer resistance, and even walks into the sword's point. Though she rejects the tenets of the Faceless Men and reclaims her identity, Jaqen is pleased with her conduct by fully deeming her "no one", and allows her to leave. <sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[21]</a></sup>
+</p>
+
+
+
+
+
+<script>
+    if (typeof(Wikia.geo) !== 'undefined' && ['US'].indexOf(Wikia.geo.getCountryCode()) >= 0) {
+        document.write('<aside id="monetization-amazon_video-in_content" class="monetization-module amazon-video hide-for-edit in-content amazon-video-full" data-mon-type="amazon_video" data-mon-slot="in_content"><div class="affiliate" data-mon-pid="B00AN0KBJC" data-mon-ptag="gameofthrones-jaqen_h%27ghar-130814-4541-B00AN0KBJC-piv-fl-npr-ic-f" data-mon-pname="Game of Thrones Season 2"><div class="affiliate-header"><a class="product-thumb" target="_blank" href="http://www.amazon.com/gp/product/B00AN0KBJC/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=gameofthrones-jaqen_h%27ghar-130814-4541-B00AN0KBJC-piv-fl-npr-ic-f"><img  src="http://ecx.images-amazon.com/images/I/519sHX0sV9L._SX320_SY240_.jpg"></a></div><a class="product-name" target="_blank" href="http://www.amazon.com/gp/product/B00AN0KBJC/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=gameofthrones-jaqen_h%27ghar-130814-4541-B00AN0KBJC-piv-fl-npr-ic-f"><span class="product-title">Game of Thrones Season 2</span><span class="product-detail">Season 2</span><span class="rating-bar"><span class="rating" style="width: 90.0%"></span></span></a><div class="product-button non-prime"><a class="amazon-logo" target="_blank" href="http://www.amazon.com/gp/product/B00AN0KBJC/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=gameofthrones-jaqen_h%27ghar-130814-4541-B00AN0KBJC-piv-fl-npr-ic-f"></a><a class="product-btn" target="_blank" href="http://www.amazon.com/gp/product/B00AN0KBJC/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=gameofthrones-jaqen_h%27ghar-130814-4541-B00AN0KBJC-piv-fl-npr-ic-f"></a></div></div></aside>');
+    } else 
+
+
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['AU','CA','DE','GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write('<div id="monetization-adunit-in_content" class="monetization-module adunit hide-for-edit in-content" data-mon-type="adunit" data-mon-slot="in_content"><div class="ad-header">Advertisement</div><div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><ins class="adsbygoogle ad-responsive-ic" style="display:inline-block;" data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_ic_fss_ffv mon_hub_tv mon_sl_ic" data-ad-type="text" data-font-size="small"data-font-face="veranda" data-color-bg="#d7cbab" data-color-border="#d7cbab" data-color-link="#47518e" data-color-url="#47518e" data-color-text="#3a3a3a" ></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt></div></div>');
+}
+</script><h2><span class="mw-headline" id="Appearances">Appearances</span></h2>
+<table class="appearances" border="1" style="width: 90%; margin: 1em 1em 1em 0; border: 1px #000000 solid; border-collapse: collapse; text-align: center; font-size:11px">
+
+<tr bgcolor="#C19A6B">
+<td colspan="5"><b><a href="/wiki/Season_1" title="Season 1">Season One</a> appearances</b>
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;">Winter is Coming
+</td><td style="width: 20%;"> The Kingsroad
+</td><td style="width: 20%;"> Lord Snow
+</td><td style="width: 20%;"> Cripples, Bastards and Broken Things
+</td><td style="width: 20%;"> The Wolf and the Lion
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> A Golden Crown
+</td><td style="width: 20%;"> You Win or You Die
+</td><td style="width: 20%;"> The Pointy End
+</td><td style="width: 20%;"> Baelor
+</td><td style="width: 20%;"> <b><a href="/wiki/Fire_and_Blood" title="Fire and Blood">Fire and Blood</a> *</b>
+</td></tr></table>
+<p>*- played by an uncredited extra, face not shown.           
+</p>
+<table class="appearances" border="1" style="width: 90%; margin: 1em 1em 1em 0; border: 1px #000000 solid; border-collapse: collapse; text-align: center; font-size:11px">
+
+<tr bgcolor="#C19A6B">
+<td colspan="5"><b><a href="/wiki/Season_2" title="Season 2">Season Two</a> appearances</b>
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> The North Remembers
+</td><td style="width: 20%;"> <b><a href="/wiki/The_Night_Lands" title="The Night Lands">The Night Lands</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/What_is_Dead_May_Never_Die" title="What is Dead May Never Die">What is Dead May Never Die</a></b>
+</td><td style="width: 20%;"> Garden of Bones
+</td><td style="width: 20%;"> <b><a href="/wiki/The_Ghost_of_Harrenhal" title="The Ghost of Harrenhal">The Ghost of Harrenhal</a></b>
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> <b><a href="/wiki/The_Old_Gods_and_the_New" title="The Old Gods and the New">The Old Gods and the New</a></b>
+</td><td style="width: 20%;"> A Man Without Honor
+</td><td style="width: 20%;"> <b><a href="/wiki/The_Prince_of_Winterfell" title="The Prince of Winterfell">The Prince of Winterfell</a></b>
+</td><td style="width: 20%;"> Blackwater
+</td><td style="width: 20%;"> <b><a href="/wiki/Valar_Morghulis" title="Valar Morghulis">Valar Morghulis</a></b>
+</td></tr></table>
+<table class="appearances" border="1" style="width: 90%; margin: 1em 1em 1em 0; border: 1px #000000 solid; border-collapse: collapse; text-align: center; font-size:11px">
+
+<tr bgcolor="#C19A6B">
+<td colspan="5"><b><a href="/wiki/Season_5" title="Season 5">Season Five</a> appearances</b>
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> The Wars to Come
+</td><td style="width: 20%;"> <b><a href="/wiki/The_House_of_Black_and_White" title="The House of Black and White">The House of Black and White</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/High_Sparrow_(episode)" title="High Sparrow (episode)">High Sparrow</a></b>
+</td><td style="width: 20%;"> Sons of the Harpy
+</td><td style="width: 20%;"> Kill the Boy
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> <b><a href="/wiki/Unbowed,_Unbent,_Unbroken" title="Unbowed, Unbent, Unbroken">Unbowed, Unbent, Unbroken</a></b>
+</td><td style="width: 20%;"> The Gift
+</td><td style="width: 20%;"> <b><a href="/wiki/Hardhome_(episode)" title="Hardhome (episode)">Hardhome</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/The_Dance_of_Dragons" title="The Dance of Dragons">The Dance of Dragons</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/Mother%E2%80%99s_Mercy" title="Mother’s Mercy" class="mw-redirect">Mother’s Mercy</a></b>
+</td></tr></table>
+<table class="appearances" border="1" style="width: 90%; margin: 1em 1em 1em 0; border: 1px #000000 solid; border-collapse: collapse; text-align: center; font-size:11px">
+
+<tr bgcolor="#C19A6B">
+<td colspan="5"><b><a href="/wiki/Season_6" title="Season 6">Season Six</a> appearances</b>
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> The Red Woman
+</td><td style="width: 20%;"> <b><a href="/wiki/Home" title="Home">Home</a></b>
+</td><td style="width: 20%;"> <b><a href="/wiki/Oathbreaker" title="Oathbreaker">Oathbreaker</a></b>
+</td><td style="width: 20%;"> Book of the Stranger
+</td><td style="width: 20%;"> <b><a href="/wiki/The_Door" title="The Door">The Door</a></b>
+</td></tr>
+
+<tr bgcolor="#F5F5DC">
+<td style="width: 20%;"> <b><a href="/wiki/Blood_of_My_Blood" title="Blood of My Blood">Blood of My Blood</a></b>
+</td><td style="width: 20%;"> The Broken Man
+</td><td style="width: 20%;"> <b><a href="/wiki/No_One" title="No One">No One</a></b>
+</td><td style="width: 20%;"> Battle of the Bastards
+</td><td style="width: 20%;"> The Winds of Winter
+</td></tr></table>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span></h2>
+<p>Jaqen is not identified in the Season 1 finale, as the actor had not been cast at this point. Instead, a cloaked and hooded figure is seen in the wagon, obscuring his face, so the character could be cast later.
+</p><p>In the Season 5 Blu-ray commentary, it was confirmed that the showrunners <i>always</i> intended for <a href="/wiki/Tom_Wlaschiha" title="Tom Wlaschiha">Tom Wlaschiha</a> to return as "Jaqen H'ghar" in Season 5, even back when they cast him for Season 2 (at the time they felt they would be lucky if they even got renewed for Season 3 - but they hoped to eventually reach the Braavos subplot in later seasons). They always intended to have him take the role of "the Kindly Man" from the novels, in order to focus on fewer characters and maintain a visual link with the Faceless Man that Arya met a full three seasons before. It helps that the Faceless Men are shapeshifters, and of course, they specified that they always intended for "Tom Wlaschiha" <i>the actor</i> to return, while leaving it ambiguous whether or not the Faceless Man that Arya encounters in Braavos (taking the place of the Kindly Man) is the same one that she met in Westeros. In some ways it is irrelevant, given that the Faceless Men consider themselves to be "no one" and interchangeable.
+</p>
+<h2><span class="mw-headline" id="In_the_books">In the books</span></h2>
+<p>In the <i><a href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, Jaqen is described as having longish red and white hair, i.e. one half is white, and the other red. The TV series gives Jaqen red hair that has white streaks interspersed throughout it.
+</p><p><br />
+</p><p>"Jaqen H'ghar" is just a persona adopted by one of the Faceless Men of Braavos, but the Faceless Men have no personal names. While as "Jaqen H'ghar" he claimed to be from Lorath, this was just part of his fake identity, and and there is no indication that he has ever even set foot in Lorath.
+</p><p>When Arya first sees Jaqen, he somewhat reminds her of <a href="/wiki/Syrio_Forel" title="Syrio Forel">Syrio Forel</a>. This led to fan speculation that Jaqen and Syrio are the same person, but so far it has not been verified.
+</p><p>In the books, Arya asks Jaqen to kill different men than in the series. One is Chiswyck, a man-at-arms in service of Gregor Clegane. The second is Weese, the understeward of Harrenhal, who served as the basis for <a href="/wiki/Weasel" title="Weasel">Weasel</a>. Arya asks Jaqen to help her free the northern prisoners, but he refuses, until she names him as the third to be killed. Reluctantly, Jaqen agrees to her request, and together with <a href="/wiki/Rorge" title="Rorge">Rorge</a> and <a href="/wiki/Biter" title="Biter">Biter</a> they kill several guards and free the prisoners. Soon afterwards Jaqen disappears. He does not help Arya to escape from Harrenhal.
+</p><p>In the books, the man who Arya meets and is apprenticed by in the House of Black and White is a Faceless Man who she dubs "the Kindly Man", not the same Faceless Man under the guise of Jaqen that Arya had met before, as is the case in the TV series.
+</p>
+<h2><span class="mw-headline" id="Quotes">Quotes</span></h2>
+<div class="quote">
+<dl><dd><span title="Source: The Ghost of Harrenhal">"<i>You stole three deaths from the Red God. We have to give them back.</i>"</span>
+</dd><dd>&#8213;Jaqen H'ghar to <a href="/wiki/Arya_Stark" title="Arya Stark">Arya Stark</a><span class="noprint"><sup><a href="/wiki/The_Ghost_of_Harrenhal" title="The Ghost of Harrenhal">[src]</a></sup></span></div>
+</dd></dl>
+<div class="quote">
+<dl><dd><span title="Source: The Prince of Winterfell">"<i>Help was not promised, lovely girl. Only death.</i>"</span>
+</dd><dd>&#8213;Jaqen H'ghar<span class="noprint"><sup><a href="/wiki/The_Prince_of_Winterfell" title="The Prince of Winterfell">[src]</a></sup></span></div>
+</dd></dl>
+<div class="quote">
+<dl><dd><span title="Source:  The Night Lands">"<i>A man has a thirst. A boy can make a friend.</i>"</span>
+</dd><dd>&#8213;To Arya Stark<span class="noprint"><sup><a href="/wiki/The_Night_Lands" title="The Night Lands">[src]</a></sup></span></div>
+</dd></dl>
+<h2><span class="mw-headline" id="Image_gallery">Image gallery</span></h2>
+<div id="gallery-0" hash="171dfdbf6c7cac625d97a0efb9224727" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium"><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Jaqen_H-27ghar-jpg" style="position: relative; height:184px; width:125px; top:0.5px;"><a class="image lightbox" href="/wiki/File:Jaqen_H%27ghar.jpg" title="Jaqen H&#39;ghar.jpg (33 KB)" style="height:184px; width:125px;"><noscript><img style="" src="http://vignette1.wikia.nocookie.net/gameofthrones/images/9/92/Jaqen_H%27ghar.jpg/revision/latest/scale-to-width-down/126?cb=20120314165502" title="Jaqen H&#39;ghar.jpg (33 KB)" class="thumbimage" alt="Jaqen H&#39;ghar" data-image-name="Jaqen H&#39;ghar.jpg" data-image-key="Jaqen_H%27ghar.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Jaqen H&#39;ghar.jpg (33 KB)" class="thumbimage lzy lzyPlcHld" alt="Jaqen H&#39;ghar" data-image-name="Jaqen H&#39;ghar.jpg" data-image-key="Jaqen_H%27ghar.jpg" data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/9/92/Jaqen_H%27ghar.jpg/revision/latest/scale-to-width-down/126?cb=20120314165502" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Jaqen as a captive recruit of the <a href="/wiki/Night%27s_Watch" title="Night's Watch">Night's Watch</a> in "<a href="/wiki/The_Night_Lands" title="The Night Lands">The Night Lands</a>."</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Arya_hides-jpg" style="position: relative; height:104px; width:185px; top:40.5px;"><a class="image lightbox" href="/wiki/File:Arya_hides.jpg" title="Arya hides.jpg (81 KB)" style="height:104px; width:185px;"><noscript><img style="" src="http://vignette1.wikia.nocookie.net/gameofthrones/images/d/d2/Arya_hides.jpg/revision/latest/scale-to-width-down/185?cb=20120527152602" title="Arya hides.jpg (81 KB)" class="thumbimage" alt="Arya hides" data-image-name="Arya hides.jpg" data-image-key="Arya_hides.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Arya hides.jpg (81 KB)" class="thumbimage lzy lzyPlcHld" alt="Arya hides" data-image-name="Arya hides.jpg" data-image-key="Arya_hides.jpg" data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/d/d2/Arya_hides.jpg/revision/latest/scale-to-width-down/185?cb=20120527152602" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Arya hides from Jaqen.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Jaqen-png" style="position: relative; height:182px; width:185px; top:1.5px;"><a class="image lightbox" href="/wiki/File:Jaqen.png" title="Jaqen.png (157 KB)" style="height:182px; width:185px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/gameofthrones/images/b/b0/Jaqen.png/revision/latest/scale-to-width-down/185?cb=20120501125405" title="Jaqen.png (157 KB)" class="thumbimage" alt="Jaqen" data-image-name="Jaqen.png" data-image-key="Jaqen.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Jaqen.png (157 KB)" class="thumbimage lzy lzyPlcHld" alt="Jaqen" data-image-name="Jaqen.png" data-image-key="Jaqen.png" data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/b/b0/Jaqen.png/revision/latest/scale-to-width-down/185?cb=20120501125405" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Jaqen speaks with Arya in "<a href="/wiki/The_Ghost_of_Harrenhal" title="The Ghost of Harrenhal">The Ghost of Harrenhal</a>."</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Jaqen_H-27ghar_2x8_1-png" style="position: relative; height:104px; width:185px; top:40.5px;"><a class="image lightbox" href="/wiki/File:Jaqen_H%27ghar_2x8_1.png" title="Jaqen H&#39;ghar 2x8 1.png (835 KB)" style="height:104px; width:185px;"><noscript><img style="" src="http://vignette3.wikia.nocookie.net/gameofthrones/images/5/59/Jaqen_H%27ghar_2x8_1.png/revision/latest/scale-to-width-down/185?cb=20120523130824" title="Jaqen H&#39;ghar 2x8 1.png (835 KB)" class="thumbimage" alt="Jaqen H&#39;ghar 2x8 1" data-image-name="Jaqen H&#39;ghar 2x8 1.png" data-image-key="Jaqen_H%27ghar_2x8_1.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Jaqen H&#39;ghar 2x8 1.png (835 KB)" class="thumbimage lzy lzyPlcHld" alt="Jaqen H&#39;ghar 2x8 1" data-image-name="Jaqen H&#39;ghar 2x8 1.png" data-image-key="Jaqen_H%27ghar_2x8_1.png" data-src="http://vignette3.wikia.nocookie.net/gameofthrones/images/5/59/Jaqen_H%27ghar_2x8_1.png/revision/latest/scale-to-width-down/185?cb=20120523130824" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Arya gives Jaqen his own name in "<a href="/wiki/The_Prince_of_Winterfell" title="The Prince of Winterfell">The Prince of Winterfell</a>."</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Jaqen_H-27ghar_2x10-png" style="position: relative; height:104px; width:185px; top:40.5px;"><a class="image lightbox" href="/wiki/File:Jaqen_H%27ghar_2x10.png" title="Jaqen H&#39;ghar 2x10.png (826 KB)" style="height:104px; width:185px;"><noscript><img style="" src="http://vignette4.wikia.nocookie.net/gameofthrones/images/e/e9/Jaqen_H%27ghar_2x10.png/revision/latest/scale-to-width-down/185?cb=20120607133243" title="Jaqen H&#39;ghar 2x10.png (826 KB)" class="thumbimage" alt="Jaqen H&#39;ghar 2x10" data-image-name="Jaqen H&#39;ghar 2x10.png" data-image-key="Jaqen_H%27ghar_2x10.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Jaqen H&#39;ghar 2x10.png (826 KB)" class="thumbimage lzy lzyPlcHld" alt="Jaqen H&#39;ghar 2x10" data-image-name="Jaqen H&#39;ghar 2x10.png" data-image-key="Jaqen_H%27ghar_2x10.png" data-src="http://vignette4.wikia.nocookie.net/gameofthrones/images/e/e9/Jaqen_H%27ghar_2x10.png/revision/latest/scale-to-width-down/185?cb=20120607133243" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Jagen H'gar watching over Arya in "<a href="/wiki/Valar_Morghulis" title="Valar Morghulis">Valar Morghulis</a>"</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Arya_and_Jaqen_The_Dance_of_Dragons-jpg" style="position: relative; height:123px; width:185px; top:31px;"><a class="image lightbox" href="/wiki/File:Arya_and_Jaqen_The_Dance_of_Dragons.jpg" title="Arya and Jaqen The Dance of Dragons.jpg (240 KB)" style="height:123px; width:185px;"><noscript><img style="" src="http://vignette4.wikia.nocookie.net/gameofthrones/images/2/2d/Arya_and_Jaqen_The_Dance_of_Dragons.jpg/revision/latest/scale-to-width-down/185?cb=20150604205310" title="Arya and Jaqen The Dance of Dragons.jpg (240 KB)" class="thumbimage" alt="Arya and Jaqen The Dance of Dragons" data-image-name="Arya and Jaqen The Dance of Dragons.jpg" data-image-key="Arya_and_Jaqen_The_Dance_of_Dragons.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Arya and Jaqen The Dance of Dragons.jpg (240 KB)" class="thumbimage lzy lzyPlcHld" alt="Arya and Jaqen The Dance of Dragons" data-image-name="Arya and Jaqen The Dance of Dragons.jpg" data-image-key="Arya_and_Jaqen_The_Dance_of_Dragons.jpg" data-src="http://vignette4.wikia.nocookie.net/gameofthrones/images/2/2d/Arya_and_Jaqen_The_Dance_of_Dragons.jpg/revision/latest/scale-to-width-down/185?cb=20150604205310" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Jaqen with Arya at the <a href="/wiki/House_of_Black_and_White" title="House of Black and White">House of Black and White</a> in "<a href="/wiki/The_Dance_of_Dragons" title="The Dance of Dragons">The Dance of Dragons</a>"</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="AManSeason5-jpg" style="position: relative; height:185px; width:123px;"><a class="image lightbox" href="/wiki/File:AManSeason5.jpg" title="AManSeason5.jpg (124 KB)" style="height:185px; width:123px;"><noscript><img style="" src="http://vignette2.wikia.nocookie.net/gameofthrones/images/3/3b/AManSeason5.jpg/revision/latest/scale-to-width-down/123?cb=20150421020227" title="AManSeason5.jpg (124 KB)" class="thumbimage" alt="AManSeason5" data-image-name="AManSeason5.jpg" data-image-key="AManSeason5.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="AManSeason5.jpg (124 KB)" class="thumbimage lzy lzyPlcHld" alt="AManSeason5" data-image-name="AManSeason5.jpg" data-image-key="AManSeason5.jpg" data-src="http://vignette2.wikia.nocookie.net/gameofthrones/images/3/3b/AManSeason5.jpg/revision/latest/scale-to-width-down/123?cb=20150421020227" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Jaqen in Season 5.</div></div><br /><a class="wikia-photogallery-add wikia-button noprint" style="display: none"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite photo" width="26" height="16" />Add a photo to this gallery</a></div><script>JSSnippetsStack.push({dependencies:[{"url":"http://slot1.images1.wikia.nocookie.net/__am/1467115692/group/-/wikia_photo_gallery_js","type":"js"},{"url":"http://slot1.images4.wikia.nocookie.net/__am/1467115692/sass/background-dynamic%3Dtrue%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb20150716154804%252Fgameofthrones%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1920%26color-body%3D%2523000%26color-body-middle%3D%2523000000%26color-buttons%3D%25231e5467%26color-header%3D%25235f4416%26color-links%3D%252347518e%26color-page%3D%2523d7cbab%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/extensions/wikia/WikiaPhotoGallery/css/gallery.scss","type":"css"}],callback:function(json){WikiaPhotoGalleryView.init(json)},id:"WikiaPhotoGalleryView.init"})</script>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul><li><a href="http://vignette1.wikia.nocookie.net/gameofthrones/images/6/63/A_Wiki_of_Ice_and_Fire_favicon.PNG/revision/latest?cb=20140327143233" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="A Wiki of Ice and Fire favicon"  	class="lzy lzyPlcHld " 	 	data-image-key="A_Wiki_of_Ice_and_Fire_favicon.PNG" 	data-image-name="A Wiki of Ice and Fire favicon.PNG" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/6/63/A_Wiki_of_Ice_and_Fire_favicon.PNG/revision/latest?cb=20140327143233"  	 width="32"  	 height="32"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/6/63/A_Wiki_of_Ice_and_Fire_favicon.PNG/revision/latest?cb=20140327143233" 	 alt="A Wiki of Ice and Fire favicon"  	class="" 	 	data-image-key="A_Wiki_of_Ice_and_Fire_favicon.PNG" 	data-image-name="A Wiki of Ice and Fire favicon.PNG" 	 	 width="32"  	 height="32"  	 	 	 	></noscript></a> <a href="http://awoiaf.westeros.org/index.php/Jaqen_H%27ghar" class="extiw exitstitial" title="awoiaf:Jaqen H'ghar">Jaqen H&#39;ghar</a> on <a rel="nofollow" class="external text exitstitial" href="http://awoiaf.westeros.org/">A Wiki of Ice and Fire</a> (MAJOR spoilers from the books)
+</li><li><a href="http://vignette1.wikia.nocookie.net/gameofthrones/images/6/63/A_Wiki_of_Ice_and_Fire_favicon.PNG/revision/latest?cb=20140327143233" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="A Wiki of Ice and Fire favicon"  	class="lzy lzyPlcHld " 	 	data-image-key="A_Wiki_of_Ice_and_Fire_favicon.PNG" 	data-image-name="A Wiki of Ice and Fire favicon.PNG" 	 data-src="http://vignette1.wikia.nocookie.net/gameofthrones/images/6/63/A_Wiki_of_Ice_and_Fire_favicon.PNG/revision/latest?cb=20140327143233"  	 width="32"  	 height="32"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://vignette1.wikia.nocookie.net/gameofthrones/images/6/63/A_Wiki_of_Ice_and_Fire_favicon.PNG/revision/latest?cb=20140327143233" 	 alt="A Wiki of Ice and Fire favicon"  	class="" 	 	data-image-key="A_Wiki_of_Ice_and_Fire_favicon.PNG" 	data-image-name="A Wiki of Ice and Fire favicon.PNG" 	 	 width="32"  	 height="32"  	 	 	 	></noscript></a> <a href="http://awoiaf.westeros.org/index.php/Kindly_man" class="extiw exitstitial" title="awoiaf:Kindly man">Kindly man</a> on <a rel="nofollow" class="external text exitstitial" href="http://awoiaf.westeros.org/">A Wiki of Ice and Fire</a> (MAJOR spoilers from the books)
+</li></ul>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<div class="references-small" style="-moz-column-count:2; -webkit-column-count:2; column-count:2;">
+<ol class="references"><li id="cite_note-0"><a href="#cite_ref-0">↑</a> <span class="reference-text">"<a href="/wiki/Fire_and_Blood" title="Fire and Blood">Fire and Blood</a>"</span>
+</li>
+<li id="cite_note-1"><a href="#cite_ref-1">↑</a> <span class="reference-text">"<a href="/wiki/The_Night_Lands" title="The Night Lands">The Night Lands</a>"</span>
+</li>
+<li id="cite_note-E13-2">↑ <sup><a href="#cite_ref-E13_2-0">3.0</a></sup> <sup><a href="#cite_ref-E13_2-1">3.1</a></sup> <span class="reference-text">"<a href="/wiki/What_is_Dead_May_Never_Die" title="What is Dead May Never Die">What is Dead May Never Die</a>"</span>
+</li>
+<li id="cite_note-3"><a href="#cite_ref-3">↑</a> <span class="reference-text">"<a href="/wiki/Garden_of_Bones" title="Garden of Bones">Garden of Bones</a>"</span>
+</li>
+<li id="cite_note-4"><a href="#cite_ref-4">↑</a> <span class="reference-text">"<a href="/wiki/The_Ghost_of_Harrenhal" title="The Ghost of Harrenhal">The Ghost of Harrenhal</a>"</span>
+</li>
+<li id="cite_note-5"><a href="#cite_ref-5">↑</a> <span class="reference-text">"<a href="/wiki/The_Old_Gods_and_the_New" title="The Old Gods and the New">The Old Gods and the New</a>"</span>
+</li>
+<li id="cite_note-6"><a href="#cite_ref-6">↑</a> <span class="reference-text">"<a href="/wiki/A_Man_Without_Honor" title="A Man Without Honor">A Man Without Honor</a>"</span>
+</li>
+<li id="cite_note-7"><a href="#cite_ref-7">↑</a> <span class="reference-text">"<a href="/wiki/The_Prince_of_Winterfell" title="The Prince of Winterfell">The Prince of Winterfell</a>"</span>
+</li>
+<li id="cite_note-8"><a href="#cite_ref-8">↑</a> <span class="reference-text"><a href="/wiki/Valar_Morghulis" title="Valar Morghulis">Valar Morghulis</a></span>
+</li>
+<li id="cite_note-9"><a href="#cite_ref-9">↑</a> <span class="reference-text">"<a href="/wiki/The_Children" title="The Children">The Children</a>"</span>
+</li>
+<li id="cite_note-10"><a href="#cite_ref-10">↑</a> <span class="reference-text">"<a href="/wiki/The_House_of_Black_and_White" title="The House of Black and White">The House of Black and White</a>"</span>
+</li>
+<li id="cite_note-11"><a href="#cite_ref-11">↑</a> <span class="reference-text"><i><a href="/wiki/High_Sparrow_(episode)" title="High Sparrow (episode)">High Sparrow (episode)</a></i></span>
+</li>
+<li id="cite_note-12"><a href="#cite_ref-12">↑</a> <span class="reference-text">"<a href="/wiki/Unbowed,_Unbent,_Unbroken" title="Unbowed, Unbent, Unbroken">Unbowed, Unbent, Unbroken</a>"</span>
+</li>
+<li id="cite_note-13"><a href="#cite_ref-13">↑</a> <span class="reference-text">"<a href="/wiki/Hardhome_(episode)" title="Hardhome (episode)">Hardhome (episode)</a>"</span>
+</li>
+<li id="cite_note-14"><a href="#cite_ref-14">↑</a> <span class="reference-text">"<a href="/wiki/The_Dance_of_Dragons" title="The Dance of Dragons">The Dance of Dragons</a>"</span>
+</li>
+<li id="cite_note-15"><a href="#cite_ref-15">↑</a> <span class="reference-text">"<a href="/wiki/Mother%27s_Mercy" title="Mother's Mercy">Mother's Mercy</a>"</span>
+</li>
+<li id="cite_note-16"><a href="#cite_ref-16">↑</a> <span class="reference-text">"<a href="/wiki/Home" title="Home">Home</a>"</span>
+</li>
+<li id="cite_note-17"><a href="#cite_ref-17">↑</a> <span class="reference-text">Oathbreaker</span>
+</li>
+<li id="cite_note-18"><a href="#cite_ref-18">↑</a> <span class="reference-text"><a href="/wiki/The_Door" title="The Door">The Door</a></span>
+</li>
+<li id="cite_note-19"><a href="#cite_ref-19">↑</a> <span class="reference-text"><a href="/wiki/Blood_of_My_Blood" title="Blood of My Blood">Blood of My Blood</a></span>
+</li>
+<li id="cite_note-20"><a href="#cite_ref-20">↑</a> <span class="reference-text"><a href="/wiki/No_One" title="No One">No One</a></span>
+</li></ol></div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 1194/300000
+Post‐expand include size: 6552/2097152 bytes
+Template argument size: 1194/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key gameofthrones:pcache:idhash:4541-0!*!0!!en!2!* -->
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://gameofthrones.wikia.com/wiki/Jaqen_H%27ghar?oldid=273987">http://gameofthrones.wikia.com/wiki/Jaqen_H%27ghar?oldid=273987</a>"</div>
+
+				</div>
+
+															<nav class="article-categories CategorySelect articlePage" id="articleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="Characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Characters" title="Category:Characters">Characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Season 2 Characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Season_2_Characters" title="Category:Season 2 Characters">Season 2 Characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Status: Alive" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Status:_Alive" title="Category:Status: Alive">Status: Alive</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Characters from Braavos" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Characters_from_Braavos" title="Category:Characters from Braavos">Characters from Braavos</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Assassins" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Assassins" title="Category:Assassins">Assassins</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Faceless Men" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Faceless_Men" title="Category:Faceless Men">Faceless Men</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Season 1 Characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Season_1_Characters" title="Category:Season 1 Characters">Season 1 Characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Recruits of the Night&#039;s Watch" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Recruits_of_the_Night%27s_Watch" title="Category:Recruits of the Night's Watch">Recruits of the Night's Watch</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Major Characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Major_Characters" title="Category:Major Characters">Major Characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Season 5 Characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Season_5_Characters" title="Category:Season 5 Characters">Season 5 Characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Season 6 Characters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Season_6_Characters" title="Category:Season 6 Characters">Season 6 Characters</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Clergy" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Clergy" title="Category:Clergy">Clergy</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+					</ul>
+	</div>
+	</nav>									
+				<nav class="WikiaArticleInterlang">
+	<h3>Languages: </h3>
+	<ul>
+			<li><a href="http://de.gameofthrones.wikia.com/wiki/Jaqen_H%27ghar">Deutsch</a></li>
+			<li><a href="http://hieloyfuego.wikia.com/wiki/Jaqen_H%27ghar">Español</a></li>
+			<li><a href="http://ru.gameofthrones.wikia.com/wiki/%D0%AF%D0%BA%D0%B5%D0%BD_%D0%A5%D0%B3%D0%B0%D1%80">Русский</a></li>
+			<li><a href="http://it.iltronodispade.wikia.com/wiki/Jaqen_H%27ghar">Italiano</a></li>
+			<li><a href="http://zh.asoiaf.wikia.com/wiki/%E8%B4%BE%E6%98%86%C2%B7%E8%B5%AB%E5%8A%A0%E5%B0%94">中文</a></li>
+		</ul>
+</nav>
+
+				
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+							<!-- BEGIN CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<div id="NATIVE_TABOOLA_ARTICLE">
+		<script>
+			window.adslots2.push(["NATIVE_TABOOLA_ARTICLE"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+<div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+								<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+										<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+						<div id="WikiaRail" class="WikiaRail">
+
+		<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+					<div class="loading"></div>
+		
+	</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	<div id="BOTTOM_LEADERBOARD"></div>
+	
+			<section>
+	<div class="header-container">
+		<h2>Around Wikia's network</h2>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/130814" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer">
+	<nav>
+		<div class="branding vertical-tv black">
+			<a class="wikia-logo" href="http://tvhub.wikia.com/wiki/TV_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>TV</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com/wiki/Help:Contents">Help</a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Sitemap">Global Sitemap</a>
+									</li>
+							<li>
+											<a href="/wiki/Special:AllPages">Local Sitemap</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Vacation like an Avenger. Explore real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;},{&quot;text&quot;:&quot;Vacation like an Avenger. Explore real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;},{&quot;text&quot;:&quot;Vacation like an Avenger. Explore real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;},{&quot;text&quot;:&quot;Vacation like an Avenger. Explore real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;},{&quot;text&quot;:&quot;Vacation like an Avenger. Explore real-life locations from the Marvel universe!&quot;,&quot;href&quot;:&quot;http:\/\/bit.ly\/1PkosDP&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["GPT_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: EVOLVE_FLUSH -->
+<div id="EVOLVE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["EVOLVE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: EVOLVE_FLUSH -->
+<!-- BEGIN SLOTNAME: HITMEDIA_FLUSH -->
+<div id="HITMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["HITMEDIA_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: HITMEDIA_FLUSH -->
+<!-- BEGIN SLOTNAME: TURTLE_FLUSH -->
+<div id="TURTLE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TURTLE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TURTLE_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1467115692/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"gameofthrones","kv_article_id":4541,"kv_wpage":"Jaqen_H%27ghar","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"media=tv;genre=fantasy;tv=hbo;sex=m;age=18-24;age=18-34;age=25-34;esrb=mature;media=books;gnre=action;gnre=adventure;theme=sword;theme=magic;gnre=drama;gnre=fighting;theme=dragon;theme=mature;theme=zombiesex=m;age=18-24;age=25-34;age=18-34;age=teen;media=tv;media=comics;media=books;gnre=action;theme=zombie;gnre=horror;theme=postapocalypse;gnre=3rdpersonshooter;pform=xbox360;pform=ps3;esrb=mature;tv=amc;sex=m;age=13-17;age=18-24;age=under18;age=kids;age=teen;gnre=anime;media=tv;media=comics;gnre=fighting;gnre=fantasyage=under18;age=18-24;age=teen;age=kids;media=tv;media=comics;media=cards;gnre=anime;gnre=fantasy;gnre=fighting;gnre=action;gnre=adventure;pform=xbox360;pform=ps3;pform=wii;pform=ds;esrb=teen;tv=cn;theme=heroes;tv=onhulu;tv=hulu","kv_domain":"gameofthrones.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://gameofthrones.wikia.com/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26newve%3D1%26only%3Dscripts%26skin%3Doasis/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgPageName":"Jaqen_H\'ghar","wgTitle":"Jaqen H\'ghar","wgCurRevisionId":273987,"wgArticleId":4541,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Characters","Season 2 Characters","Status: Alive","Characters from Braavos","Assassins","Faceless Men","Season 1 Characters","Recruits of the Night\'s Watch","Major Characters","Season 5 Characters","Season 6 Characters","Clergy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Jaqen_H\'ghar","wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"true","background-image":"http://img4.wikia.nocookie.net/__cb20150716154804/gameofthrones/images/5/50/Wiki-background","background-image-height":"720","background-image-width":"1920","color-body":"#000","color-body-middle":"#000000","color-buttons":"#1e5467","color-header":"#5f4416","color-links":"#47518e","color-page":"#d7cbab","oasisTypography":1,"page-opacity":"100","widthType":0},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"Game of Thrones Wiki","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1467115692/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1467115692/common","wgSitename":"Game of Thrones Wiki","wgMWrevId":false,"wgRevisionId":273987,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableNewAuthModal":true,"wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgWikiaMaxNameChars":50,"wgMinimalPasswordLength":1,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=Jaqen_H%27ghar","fbReturnToTitle":"Jaqen_H\'ghar","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":[],"wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"1200":true,"500":true,"501":true,"502":true,"503":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":true,"interactiveMapsApiURL":"http://maps.wikia-services.com:80/api/v1","VignettePathPrefix":null,"reCaptchaPublicKey":"6LdDSA4TAAAAANZDWjPdTiQcYsTuge5fMPQTd7D_","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgEnablePortableInfoboxBuilderInVE":true,"wgEnableVisualEditorTourExperiment":true,"wgOasisResponsive":false,"wgOasisBreakpoints":true,"verticalName":"Entertainment","wgArticleInterlangList":["de:Jaqen H\'ghar","es:Jaqen H\'ghar","it:Jaqen H\'ghar","ru:Якен Хгар","zh:贾昆·赫加尔"],"WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgContentReviewExtEnabled":true,"wgContentReviewTestModeEnabled":false,"wgReviewedScriptsTimestamp":"1441727506","wgScriptsTimestamp":"1332971928","wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"Jaqen H\'ghar"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"editor":2,"enotifwallthread":2,"wallshowsource":false,"walldelete":false,"founderemails-joins-130814":0,"founderemails-edits-130814":0,"founderemails-views-digest-130814":0,"founderemails-complete-digest-130814":0,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true,"searchNs15":false,"searchNs110":false,"searchNs111":false,"searchNs500":false,
+"searchNs501":false,"searchNs502":false,"searchNs503":false,"searchNs828":false,"searchNs829":false,"searchNs1000":false,"searchNs1010":false,"searchNs1020":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"searchNs2000":false,"searchNs2001":false,"searchNs2002":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: gameofthrones:resourceloader:filter:minify-js:7:5ffb247b4f4ef073d23e4edf309a4c85 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikia.viewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.bannerNotifications","ext.cookiePolicyMessages","ext.userLogin"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1467115692/groups/-/oasis_shared_core_js,oasis_shared_js,oasis_anon_js,adengine2_oasis_exitstitial_js,adengine2_desktop_js,liftium_ads_js,liftium_ads_extra_js,adengine2_gcs_js,adengine2_taboola_js,adengine2_revcontent_js,adengine2_interactive_maps_js,recirculation_trackers_js,recirculation_js,toc_js,qualaroo_js,wikia_maps_contribution_button_create_map_js,spotlights_js,relatedpages_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1467115692/group/-/videos_module_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1467115692/group/-/auth_modal_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1467115692/group/-/cookie_policy_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1467115692/group/-/wikia_in_your_lang_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1467115692/group/-/portable_infobox_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1467115692/group/-/visit_source_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1467115692/group/-/visual_editor_tour_experiment_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=AdEngine%2CConfirmModal%2CImagePlaceholder%2COasis-generic%2CRecirculation%2CVideosModule&amp;uselang=en&amp;cb=1467115692.273686.0"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1467115692/group/-/monetization_module_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1467115692/group/-/global_navigation_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1467115692/group/-/page_share_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1467115692/group/-/global_footer_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://gameofthrones.wikia.com/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://gameofthrones.wikia.com/__load/-/cb%3D1467115692%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26reviewed%3D1441727506%26skin%3Doasis/site"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1467115692/group/-/facebook_client_fbtags_js"></script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/Forum\/css\/ForumTag.scss","extensions\/wikia\/Recirculation\/styles\/recirculation.scss","extensions\/wikia\/PortableInfobox\/styles\/PortableInfobox.scss","extensions\/wikia\/VisualEditorTourExperiment\/styles\/VisualEditorTourExperimentInit.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModule.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationUserLoginDropdown.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationNotifications.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","extensions\/wikia\/GlobalNavigation\/styles\/GoogleSearchAPI.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/PageShare\/styles\/PageShare.scss","extensions\/wikia\/GlobalFooter\/styles\/GlobalFooter.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+</body>
+
+
+
+</html>
