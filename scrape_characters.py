@@ -26,8 +26,6 @@ def extract_houses(elements):
         else:
             pre_parsed.append(element)
 
-    # print "pre-parsed:" + str(pre_parsed)
-
     items = []
     current = []
     for element in pre_parsed:
@@ -39,8 +37,6 @@ def extract_houses(elements):
             current.append(element)
 
     items.append(current)
-
-    # print "items: " + str(items)
 
     houses = []
     for item in items:
@@ -60,19 +56,12 @@ def process_character(character_id):
 
     if len(allegiance_element) > 0:
         houses_elements = allegiance_element[0].next_sibling.next_sibling.contents
-        # print houses_elements
         return extract_houses(houses_elements)
     else:
         return []
 
-# print process_character("data/wikia/characters/Loras_Tyrell")
-# print "---"
-# print process_character("data/wikia/characters/Arya_Stark")
-# print "---"
-# print process_character("data/wikia/characters/Wun_Weg_Wun_Dar_Wun")
-
 with open("data/import/characters.csv", "r") as characters_file, \
-     open("data/import/houses.csv", "w") as houses_file:
+     open("data/import/allegiances.csv", "w") as houses_file:
      reader = csv.reader(characters_file, delimiter = ",")
      next(reader)
 
