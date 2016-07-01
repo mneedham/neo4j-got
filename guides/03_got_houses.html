@@ -24,7 +24,7 @@
   <carousel class="deck container-fluid">
     <!--slide class="row-fluid">
       <div class="col-sm-3">
-        <h3>Game of Thrones: Characters and Episodes</h3>
+        <h3>Game of Thrones: Houses</h3>
         <p class="lead">Information</p>
 			<!dl>
 				
@@ -45,55 +45,7 @@
 
 <slide class="row-fluid">
   <div class="col-sm-12">
-    <h3>The Game of Thrones dataset</h3>
-    <br/>
-    <div>
-      <div class="paragraph">
-<p>Now that you&#8217;ve got a bit of practice with the Cypher syntax it&#8217;s time to work with a bigger dataset.</p>
-</div>
-<div class="paragraph">
-<p>For this section it&#8217;s best to start with a blank slate so run the following query to delete everything we&#8217;ve created so far:</p>
-</div>
-<div class="listingblock">
-<div class="content">
-<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->MATCH (n)
-DETACH DELETE n<!--/code--></pre>
-</div>
-</div>
-<div class="paragraph">
-<p>The <code>DETACH DELETE</code> clause deletes a node and any relationships connected to it.</p>
-</div>
-<div class="paragraph">
-<p>Now we&#8217;re ready to explore the Game of Thrones dataset.</p>
-</div>
-	</div>
-  </div>
-</slide>
-
-
-
-<slide class="row-fluid">
-  <div class="col-sm-12">
-    <h3>LOAD CSV - The ETL Power Tool</h3>
-    <br/>
-    <div>
-      <div class="paragraph">
-<p>We&#8217;re going to be using the <code>LOAD CSV</code> command in Cypher so first look at the slides for a brief introduction.</p>
-</div>
-<div class="imageblock">
-<div class="content">
-<img src="http://localhost:8001/img/slides.jpg" alt="slides">
-</div>
-</div>
-	</div>
-  </div>
-</slide>
-
-
-
-<slide class="row-fluid">
-  <div class="col-sm-12">
-    <h3>LOAD CSV - Exploring the data</h3>
+    <h3>Importing houses</h3>
     <br/>
     <div>
       <div class="paragraph">
@@ -104,8 +56,9 @@ DETACH DELETE n<!--/code--></pre>
 </div>
 <div class="listingblock">
 <div class="content">
-<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->LOAD CSV WITH HEADERS FROM "file:///characters.csv" AS row
-RETURN COUNT(*)<!--/code--></pre>
+<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->LOAD CSV WITH HEADERS FROM "file:///houses.csv" AS row
+MERGE (house:House {id: row.link})
+ON CREATE SET house.name = row.name<!--/code--></pre>
 </div>
 </div>
 <div class="paragraph">
