@@ -49,10 +49,16 @@
     <br/>
     <div>
       <div class="paragraph">
-<p>As well as importing data from CSV files we can also use <code>LOAD CSV</code> to explore those same files.</p>
+<p>In this next section we&#8217;re going to import the houses that characters belong to.</p>
 </div>
 <div class="paragraph">
-<p>Run the following query to see how many characters there are:</p>
+<p>Run the following query to explore the houses CSV file:</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->LOAD CSV WITH HEADERS FROM "file:///houses.csv" AS row
+RETURN row<!--/code--></pre>
+</div>
 </div>
 <div class="listingblock">
 <div class="content">
@@ -61,352 +67,59 @@ MERGE (house:House {id: row.link})
 ON CREATE SET house.name = row.name<!--/code--></pre>
 </div>
 </div>
-<div class="paragraph">
-<p>Refer to the <a href="https://neo4j.com/docs/cypher-refcard/current/">Cypher Refcard</a> to see the full set of commands/functions available to us.</p>
+<div class="listingblock">
+<div class="content">
+<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->MATCH (house:House)
+RETURN house<!--/code--></pre>
 </div>
-	</div>
-  </div>
-</slide>
-
-
-
-<slide class="row-fluid">
-  <div class="col-sm-12">
-    <h3>LOAD CSV - Exploring the data</h3>
-    <br/>
-    <div>
-      <div class="paragraph">
-<p>We can look at the individual rows by returning them directly rather than applying the <code>COUNT</code> function.</p>
-</div>
-<div class="paragraph">
-<p>The following query will return the first 5 rows of the CSV file.</p>
 </div>
 <div class="listingblock">
 <div class="content">
-<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->LOAD CSV WITH HEADERS FROM "file:///characters.csv" AS row
+<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->LOAD CSV WITH HEADERS FROM "file:///allegiances.csv" AS row
 RETURN row
-LIMIT 5<!--/code--></pre>
-</div>
-</div>
-<div class="paragraph">
-<p>The <code>LIMIT</code> clause works the same way as in SQL.</p>
-</div>
-<div class="paragraph">
-<p>Try returning more rows or removing the <code>LIMIT</code> clause to see what other data the file contains.</p>
-</div>
-	</div>
-  </div>
-</slide>
-
-
-
-<slide class="row-fluid">
-  <div class="col-sm-12">
-    <h3>Create the characters</h3>
-    <br/>
-    <div>
-      <div class="paragraph">
-<p>Now let&#8217;s combine <code>LOAD CSV</code> with the commands we learnt in the first half of the session and put all the GoT characters into our graph.
-Run the following query:</p>
-</div>
-<div class="listingblock">
-<div class="content">
-<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->LOAD CSV WITH HEADERS FROM "file:///characters.csv" AS row
-MERGE (c:Character {id: row.link})
-ON CREATE SET c.name = row.character<!--/code--></pre>
-</div>
-</div>
-<div class="paragraph">
-<p>This query:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p>iterates over every row in the <code>characters.csv</code> file</p>
-</li>
-<li>
-<p>creates a node with the <code>Character</code> label and an <code>id</code> property if such a node doesn&#8217;t already exist</p>
-</li>
-<li>
-<p>sets the <code>name</code> property if the node is being created</p>
-</li>
-</ul>
-</div>
-	</div>
-  </div>
-</slide>
-
-
-
-<slide class="row-fluid">
-  <div class="col-sm-12">
-    <h3>Finding characters</h3>
-    <br/>
-    <div>
-      <div class="paragraph">
-<p>Now let&#8217;s see what we&#8217;ve imported into the database.
-Run the following query to see a sample of the nodes we&#8217;ve just created:</p>
-</div>
-<div class="listingblock">
-<div class="content">
-<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->MATCH (c:Character)
-RETURN c
 ORDER BY rand()
-LIMIT 25<!--/code--></pre>
-</div>
-</div>
-<div class="paragraph">
-<p>The use of the <code>rand()</code> function means we get a different 25 characters each time.
-Try running the query a few times.</p>
-</div>
-<div class="paragraph">
-<p>Now that we&#8217;ve got the characters loaded it&#8217;s time to import some episodes for them to appear in.</p>
-</div>
-	</div>
-  </div>
-</slide>
-
-
-
-<slide class="row-fluid">
-  <div class="col-sm-12">
-    <h3>Importing episodes</h3>
-    <br/>
-    <div>
-      <div class="paragraph">
-<p>We have a CSV file containing episodes which we can explore by running the following query:</p>
-</div>
-<div class="listingblock">
-<div class="content">
-<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->LOAD CSV WITH HEADERS FROM "file:///overview.csv" AS row
-RETURN row
 LIMIT 10<!--/code--></pre>
 </div>
 </div>
 <div class="paragraph">
-<p>We&#8217;ll run the following query to create a node for each episode:</p>
+<p>If you run this query a few times you&#8217;ll see that it includes lots of allegiances, not just ones between characters and houses.
+Are we gonna import those as well?</p>
+</div>
+<div class="paragraph">
+<p>For now we&#8217;re going to filter those rows to only find allegiances between characters and houses.
+&lt;This sentence is repetitive with the one two lines before, fix it&gt;</p>
 </div>
 <div class="listingblock">
 <div class="content">
-<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->LOAD CSV WITH HEADERS FROM "file:///overview.csv" AS row
-MERGE (episode:Episode {id: TOINT(row.episodeId)})
-ON CREATE SET
-  episode.season = TOINT(row.season),
-  episode.number = TOINT(row.episode),
-  episode.title = row.title<!--/code--></pre>
-</div>
-</div>
-<div class="paragraph">
-<p>By default properties have the <code>String</code> data type.
-In this case we want <code>season</code>, <code>number</code> and <code>id</code> to be numeric so we coerce the data using the <code>TOINT</code> function.</p>
-</div>
-<div class="paragraph">
-<p>So now we&#8217;ve got characters and episodes but we still haven&#8217;t got a graph as they aren&#8217;t connected yet.
-Let&#8217;s do that next</p>
-</div>
-	</div>
-  </div>
-</slide>
-
-
-
-<slide class="row-fluid">
-  <div class="col-sm-12">
-    <h3>Connecting episodes and characters</h3>
-    <br/>
-    <div>
-      <div class="paragraph">
-<p>(Surprise, surprise) We also have a CSV file containing the episodes that characters appeared in.
-We can explore that by running the following query:</p>
-</div>
-<div class="listingblock">
-<div class="content">
-<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->LOAD CSV WITH HEADERS FROM "file:///characters_episodes.csv" AS row
-RETURN row
-LIMIT 10<!--/code--></pre>
-</div>
-</div>
-<div class="paragraph">
-<p>We&#8217;re going to create an <code>APPEARED_IN</code> relationship between a <code>Character</code> and <code>Episode</code> for each row in the file.</p>
-</div>
-<div class="listingblock">
-<div class="content">
-<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->LOAD CSV WITH HEADERS FROM "file:///characters_episodes.csv" AS row
-
-MATCH (episode:Episode {id: TOINT(row.episodeId)})
+<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->LOAD CSV WITH HEADERS FROM "file:///allegiances.csv" AS row
 MATCH (character:Character {id: row.character})
-MERGE (character)-[:APPEARED_IN]->(episode)<!--/code--></pre>
+MATCH (house:House {id: row.houseLink})
+RETURN character, house, row.houseName<!--/code--></pre>
 </div>
 </div>
 <div class="paragraph">
-<p>This query:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p>looks up an episode</p>
-</li>
-<li>
-<p>looks up a character</p>
-</li>
-<li>
-<p>creates an <code>APPEARED_IN</code> relationship between them if one doesn&#8217;t already exist.</p>
-</li>
-</ul>
-</div>
-<div class="paragraph">
-<p>If you run this query again you&#8217;ll see that it doesn&#8217;t do anything the second time around.</p>
-</div>
-	</div>
-  </div>
-</slide>
-
-
-
-<slide class="row-fluid">
-  <div class="col-sm-12">
-    <h3>Characters and Episodes</h3>
-    <br/>
-    <div>
-      <div class="paragraph">
-<p>We should now have a graph connecting Game of Thrones characters with the episodes that they appear in.</p>
-</div>
-<div class="paragraph">
-<p>Run the following query to check everything has imported correctly:</p>
+<p>These are the current allegiances:</p>
 </div>
 <div class="listingblock">
 <div class="content">
-<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->MATCH (character:Character)-[:APPEARED_IN]-&gt;(episode:Episode)
-RETURN *
-ORDER BY rand()
-LIMIT 25<!--/code--></pre>
+<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->LOAD CSV WITH HEADERS FROM "{csv-file}allegiances.csv" AS row
+WITH row WHERE (NOT tolower(row.houseName) CONTAINS "former") AND (NOT tolower(row.houseName) CONTAINS "until")
+MATCH (character:Character {id: row.character})
+MATCH (house:House {id: row.houseLink})
+RETURN character, house, row.houseName<!--/code--></pre>
 </div>
 </div>
 <div class="paragraph">
-<p>This query:</p>
+<p>Let&#8217;s create previous allegiances as well:</p>
 </div>
-<div class="ulist">
-<ul>
-<li>
-<p>looks up nodes with the label <code>Character</code></p>
-</li>
-<li>
-<p>that have an outgoing <code>APPEARED_IN</code> relationship</p>
-</li>
-<li>
-<p>to nodes with the label <code>Episode</code></p>
-</li>
-<li>
-<p>and finds 25 paths that match that pattern and returns them</p>
-</li>
-</ul>
-</div>
-<div class="paragraph">
-<p>Spend a couple of minutes clicking around the graph visualisation to get a feel for the data we&#8217;ve imported.</p>
-</div>
-	</div>
-  </div>
-</slide>
-
-
-
-<slide class="row-fluid">
-  <div class="col-sm-12">
-    <h3>Exercise</h3>
-    <br/>
-    <div>
-      <div class="paragraph">
-<p>Here&#8217;s a few questions for you to try and answer:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p>Who appeared in the most episodes?</p>
-</li>
-<li>
-<p>Which <code>Stark</code> character appeared the least times?</p>
-</li>
-<li>
-<p>Which episode does <code>Arya Stark</code> not appear in?</p>
-</li>
-</ul>
-</div>
-<div class="paragraph">
-<p>Don&#8217;t forget the <a href="https://neo4j.com/docs/cypher-refcard/current/">Cypher Refcard</a> is your friend!</p>
-</div>
-	</div>
-  </div>
-</slide>
-
-
-
-<slide class="row-fluid">
-  <div class="col-sm-12">
-    <h3>Answer: Who appeared in the most episodes?</h3>
-    <br/>
-    <div>
-      <div class="listingblock">
+<div class="listingblock">
 <div class="content">
-<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->MATCH (character:Character)-[:APPEARED_IN]-&gt;()
-RETURN character.name, COUNT(*) AS appearances
-ORDER BY appearances DESC<!--/code--></pre>
+<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->LOAD CSV WITH HEADERS FROM "{csv-file}allegiances.csv" AS row
+WITH row WHERE tolower(row.houseName) CONTAINS "former" OR tolower(row.houseName) CONTAINS "until"
+MATCH (character:Character {id: row.character})
+MATCH (house:House {id: row.houseLink})
+MERGE (character)-[:PREVIOUSLY_HAD_ALLEGIANCE_TO]->(house)<!--/code--></pre>
 </div>
-</div>
-	</div>
-  </div>
-</slide>
-
-
-
-<slide class="row-fluid">
-  <div class="col-sm-12">
-    <h3>Answer: Which <code>Stark</code> character appeared the least times?</h3>
-    <br/>
-    <div>
-      <div class="listingblock">
-<div class="content">
-<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->MATCH (character:Character)-[:APPEARED_IN]-&gt;()
-WHERE character.name ENDS WITH "Stark"
-RETURN character.name, COUNT(*) AS appearances
-ORDER BY appearances
-LIMIT 1<!--/code--></pre>
-</div>
-</div>
-	</div>
-  </div>
-</slide>
-
-
-
-<slide class="row-fluid">
-  <div class="col-sm-12">
-    <h3>Answer: Which episode does <code>Arya Stark</code> not appear in?</h3>
-    <br/>
-    <div>
-      <div class="listingblock">
-<div class="content">
-<pre mode="cypher"  class="highlight pre-scrollable programlisting cm-s-neo code runnable standalone-example ng-binding" data-lang="cypher" lang="cypher"><!--code class="cypher language-cypher"-->MATCH (character:Character {name: "Arya Stark"}), (episode: Episode)
-WHERE NOT (character)-[:APPEARED_IN]-&gt;(episode)
-RETURN episode
-ORDER BY episode.id<!--/code--></pre>
-</div>
-</div>
-	</div>
-  </div>
-</slide>
-
-
-
-<slide class="row-fluid">
-  <div class="col-sm-12">
-    <h3>Next Step</h3>
-    <br/>
-    <div>
-      <div class="paragraph">
-<p>In the next section we&#8217;re going to look at the relationships between different characters.</p>
-</div>
-<div class="paragraph">
-<p><a play-topic='http://localhost:8001/02_got.html'>Game of Thrones dataset</a></p>
 </div>
 	</div>
   </div>

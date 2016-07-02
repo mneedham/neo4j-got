@@ -4,9 +4,17 @@
 
 == Importing houses
 
-As well as importing data from CSV files we can also use `LOAD CSV` to explore those same files.
+In this next section we're going to import the houses that characters belong to.
 
-Run the following query to see how many characters there are:
+Run the following query to explore the houses CSV file:
+
+[source, cypher,subs=attributes]
+----
+LOAD CSV WITH HEADERS FROM "{csv-url}houses.csv" AS row
+RETURN row
+----
+
+Now let's create a node with the `House` label for each row in the file:
 
 [source, cypher,subs=attributes]
 ----
@@ -14,6 +22,31 @@ LOAD CSV WITH HEADERS FROM "{csv-url}houses.csv" AS row
 MERGE (house:House {id: row.link})
 ON CREATE SET house.name = row.name
 ----
+
+Run the following query to return all the houses:
+
+[source, cypher]
+----
+MATCH (house:House)
+RETURN house
+----
+
+You should see 73 nodes if the import has worked as expected. 
+
+= Exercise: Create allegiances
+
+Now it's your turn!
+Run the following query to view the allegiances between characters and houses:
+
+[source, cypher,subs=attributes]
+----
+LOAD CSV WITH HEADERS FROM "{csv-url}allegiances.csv" AS row
+RETURN row.character, row.house
+----
+
+= Answer: Create allegiances
+
+Create a `HAS_ALLEGIANCE_TO` relationship for each character/house pair in the file.
 
 [source, cypher]
 ----
