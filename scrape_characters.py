@@ -60,11 +60,11 @@ def process_character(character_id):
         return []
 
 with open("data/import/characters.csv", "r") as characters_file, \
-     open("data/import/allegiances.csv", "w") as houses_file:
+     open("data/import/allegiances.csv", "w") as allegiances_file:
      reader = csv.reader(characters_file, delimiter = ",")
      next(reader)
 
-     writer = csv.writer(houses_file, delimiter = ",")
+     writer = csv.writer(allegiances_file, delimiter = ",")
      writer.writerow(["character", "houseLink", "houseName"])
      for row in reader:
          character = row[0]

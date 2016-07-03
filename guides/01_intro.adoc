@@ -1,10 +1,13 @@
-= Similar groups
+= Intro to Neo4j and Cypher
 :csv-url: https://raw.githubusercontent.com/neo4j-meetups/modeling-worked-example/master/data/
 :icons: font
 
 == Intro to Neo4j
 
-Something something, introduction, not sure how much we should do
+Welcome to the first of a set of interactive guides.
+In these guides you'll execute some pre written Cypher queries as well as having the chance to write some yourself.
+
+Let's get started!
 
 == Your Turn - `CREATE` Arya
 

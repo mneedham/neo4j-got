@@ -10,7 +10,7 @@ For this section it's best to start with a blank slate but first a quick overvie
 
 image::{img}/slides.jpg[]
 
-= Delete all the things
+== Delete all the things
 
 Run the following query to delete all the data we've created so far:
 
@@ -204,6 +204,8 @@ RETURN character.name, COUNT(*) AS appearances
 ORDER BY appearances DESC
 ----
 
+Look at the slides for a quick explanation of this query:
+
 image::{img}/slides.jpg[]
 
 == Exercise
@@ -236,7 +238,7 @@ ORDER BY appearances
 LIMIT 1
 ----
 
-== Answer: Which episode does `Arya Stark` not appear in?
+== Answer: Which episodes does `Arya Stark` not appear in?
 
 [source, cypher]
 ----
@@ -248,6 +250,6 @@ ORDER BY episode.id
 
 == Next Step
 
-In the next section we're going to look at the relationships between different characters.
+In the next section we're going to look at the relationships between different characters and the houses they belong to.
 
-pass:a[<a play-topic='{guides}/02_got.html'>Game of Thrones dataset</a>]
+pass:a[<a play-topic='{guides}/03_got_houses.html'>Houses and Relationships</a>]
