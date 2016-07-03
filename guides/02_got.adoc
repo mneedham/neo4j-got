@@ -6,7 +6,13 @@
 
 Now that you've got a bit of practice with the Cypher syntax it's time to work with a bigger dataset.
 
-For this section it's best to start with a blank slate so run the following query to delete everything we've created so far:
+For this section it's best to start with a blank slate but first a quick overview about deleting graph data.
+
+image::{img}/slides.jpg[]
+
+= Delete all the things
+
+Run the following query to delete all the data we've created so far:
 
 [source, cypher]
 ----
@@ -15,6 +21,15 @@ DETACH DELETE n
 ----
 
 The `DETACH DELETE` clause deletes a node and any relationships connected to it.
+
+We'll also delete the constraint that we created on `:Character(name)`.
+In the real dataset some characters have the same name and are distinguished by having a different `id`.
+
+[source, cypher]
+----
+DROP CONSTRAINT ON (c:Character)
+ASSERT c.name IS UNIQUE;
+----
 
 Now we're ready to explore the Game of Thrones dataset.
 
@@ -174,22 +189,39 @@ This query:
 
 Spend a couple of minutes clicking around the graph visualisation to get a feel for the data we've imported.
 
-== Exercise
+== Aggregation queries
 
-Here's a few questions for you to try and answer:
+In the next section we'll have an exercise where you will write queries to answer some questions.
+A couple of these queries will require use of aggregation functions so we'll quickly go over those.
 
-* Who appeared in the most episodes?
-* Which `Stark` character appeared the least times?
-* Which episode does `Arya Stark` not appear in?
-
-Don't forget the link:https://neo4j.com/docs/cypher-refcard/current/[Cypher Refcard] is your friend!
-
-== Answer: Who appeared in the most episodes?
+Perhaps the most obvious question to answer after after importing characters and episodes is `Who appeared in the most episodes?`.
+We can write the following query to answer that question:
 
 [source, cypher]
 ----
 MATCH (character:Character)-[:APPEARED_IN]->()
 RETURN character.name, COUNT(*) AS appearances
+ORDER BY appearances DESC
+----
+
+image::{img}/slides.jpg[]
+
+== Exercise
+
+Here's a few questions for you to try and answer:
+
+* Who appeared in the most episodes in season 4?
+* Which `Stark` character appeared the least times?
+* Which episodes does `Arya Stark` not appear in? (You'll need to write a `WHERE NOT` clause in this query)
+
+Don't forget the link:https://neo4j.com/docs/cypher-refcard/current/[Cypher Refcard] is your friend!
+
+== Answer: Who appeared in the most episodes in season 4?
+
+[source, cypher]
+----
+MATCH (character:Character)-[:APPEARED_IN]->({season: 4})
+RETURN character.id, character.name, COUNT(*) AS appearances
 ORDER BY appearances DESC
 ----
 
@@ -199,7 +231,7 @@ ORDER BY appearances DESC
 ----
 MATCH (character:Character)-[:APPEARED_IN]->()
 WHERE character.name ENDS WITH "Stark"
-RETURN character.name, COUNT(*) AS appearances
+RETURN character.id, character.name, COUNT(*) AS appearances
 ORDER BY appearances
 LIMIT 1
 ----
@@ -208,8 +240,8 @@ LIMIT 1
 
 [source, cypher]
 ----
-MATCH (character:Character {name: "Arya Stark"}), (episode: Episode)
-WHERE NOT (character)-[:APPEARED_IN]->(episode)
+MATCH (episode: Episode)
+WHERE NOT (:Character {name: "Arya Stark"})-[:APPEARED_IN]->(episode)
 RETURN episode
 ORDER BY episode.id
 ----

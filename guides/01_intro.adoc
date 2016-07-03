@@ -83,16 +83,7 @@ image::{img}/slides.jpg[]
 
 == Constraints
 
-Neo4j is schema optional and by default no schema is applied which we saw on the previous section.
-
-We'd like to ensure that we don't have two characters with the same `name`.
-We'll create a unique constraint to do this.
-
-A unique constraint will:
-
-* Assert uniqueness
-* For a given property
-* On a particular Label
+Let's create a constraint on the `name` property for any `Character` nodes so we don't end up with duplicates.
 
 [source, cypher]
 ----
@@ -159,7 +150,7 @@ image::{img}/nodes.png[]
 
 [source,cypher]
 ----
-MERGE (allegiance:Allegiance {name: 'House Stark'})
+MERGE (allegiance:House {name: 'House Stark'})
 RETURN allegiance
 ----
 
@@ -177,27 +168,27 @@ We'll start by writing a query to find and return `Arya Stark` and `House Stark`
 
 [source, cypher]
 ----
-MATCH (allegiance:Allegiance {name: 'House Stark'})
+MATCH (house:House {name: 'House Stark'})
 MATCH (character:Character {name: 'Arya Stark'})
-RETURN character, allegiance
+RETURN character, house
 ----
 
 To create a relationship between them we can use the `CREATE` or `MERGE` keywords.
 
 [source, cypher]
 ----
-MATCH (allegiance:Allegiance {name: 'House Stark'})
+MATCH (house:House {name: 'House Stark'})
 MATCH (character:Character {name: 'Arya Stark'})
-CREATE (character)-[:HAS_ALLEGIANCE_TO]->(allegiance)
+CREATE (character)-[:HAS_ALLEGIANCE_TO]->(house)
 ----
 
 or
 
 [source, cypher]
 ----
-MATCH (allegiance:Allegiance {name: 'House Stark'})
+MATCH (house:House {name: 'House Stark'})
 MATCH (character:Character {name: 'Arya Stark'})
-MERGE (character)-[:HAS_ALLEGIANCE_TO]->(allegiance)
+MERGE (character)-[:HAS_ALLEGIANCE_TO]->(house)
 ----
 
 The `MERGE` version of the query will only create the relationship once no matter how many times we run it.
