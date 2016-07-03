@@ -110,7 +110,6 @@ with open("data/import/characters_episodes.csv", "w") as characters_episodes_fil
                 character = links[1].get("href")
                 writer.writerow([episode_id, character])
 
-
 sys.exit(1)
 
 with open("data/import/locations.csv", "w") as locations_file:

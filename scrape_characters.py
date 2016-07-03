@@ -47,7 +47,7 @@ def extract_houses(elements):
             houses.append((link, name))
     return houses
 
-def process_character(character_id):
+def get_houses(character_id):
     print character_id
     file_name = character_id.split("/")[-1]
     wikia = BeautifulSoup(open("data/wikia/characters/{0}".format(file_name), "r"), "html.parser")
@@ -59,17 +59,47 @@ def process_character(character_id):
     else:
         return []
 
-with open("data/import/characters.csv", "r") as characters_file, \
-     open("data/import/allegiances.csv", "w") as allegiances_file:
-     reader = csv.reader(characters_file, delimiter = ",")
-     next(reader)
+def get_family(character_id):
+    print character_id
+    file_name = character_id.split("/")[-1]
+    wikia = BeautifulSoup(open("data/wikia/characters/{0}".format(file_name), "r"), "html.parser")
+    family_element = [tag for tag in select(wikia, 'h3') if tag.text == "Family"]
+    if len(family_element) > 0:
+        family = family_element[0].next_sibling.next_sibling
+        collapsed = select(family, "div.mw-collapsed")
 
-     writer = csv.writer(allegiances_file, delimiter = ",")
-     writer.writerow(["character", "houseLink", "houseName"])
-     for row in reader:
-         character = row[0]
-         houses = process_character(row[0])
-         for house in houses:
-             link = house[0].encode("utf-8") if house[0] else house[0]
-             name = house[1].encode("utf-8") if house[1] else house[1]
-             writer.writerow([character, link, name])
+        if len(collapsed) > 0:
+            return extract_houses(select(family, "div.mw-collapsed")[0].contents)
+        else:
+            return extract_houses(family.contents)
+    else:
+        return []
+
+# characters = ["/wiki/Arya_Stark", "/wiki/Bran_Stark", "/wiki/Catelyn_Stark"]
+#
+# for character in characters:
+#     for family in get_family(character):
+#         print family
+
+with open("data/import/characters.csv", "r") as characters_file:
+    reader = csv.reader(characters_file, delimiter = ",")
+    next(reader)
+    for row in reader:
+        character = row[0]
+        for family in get_family(character):
+            print family
+
+# with open("data/import/characters.csv", "r") as characters_file, \
+#      open("data/import/allegiances.csv", "w") as allegiances_file:
+#      reader = csv.reader(characters_file, delimiter = ",")
+#      next(reader)
+#
+#      writer = csv.writer(allegiances_file, delimiter = ",")
+#      writer.writerow(["character", "houseLink", "houseName"])
+#      for row in reader:
+#          character = row[0]
+#          houses = get_houses(row[0])
+#          for house in houses:
+#              link = house[0].encode("utf-8") if house[0] else house[0]
+#              name = house[1].encode("utf-8") if house[1] else house[1]
+#              writer.writerow([character, link, name])
