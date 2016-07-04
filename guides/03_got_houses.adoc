@@ -202,3 +202,9 @@ WHERE appearances >= 30
 RETURN character.id, character.name, houses, appearances
 ORDER BY appearances DESC
 ----
+
+== Next Step
+
+In the next section we're going to look at the relationships between different characters and the houses they belong to.
+
+pass:a[<a play-topic='{guides}/04_got_families.html'>Family Ties</a>]

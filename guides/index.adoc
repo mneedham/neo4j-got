@@ -5,6 +5,7 @@
 . pass:a[<a play-topic='{guides}/01_intro.html'>Intro to Cypher</a>]
 . pass:a[<a play-topic='{guides}/02_got.html'>Game of Thrones: Characters and Episodes</a>]
 . pass:a[<a play-topic='{guides}/03_got_houses.html'>Game of Thrones: Houses</a>]
+. pass:a[<a play-topic='{guides}/04_got_families.html'>Game of Thrones: Family Ties</a>]
 
 == Further Resources
 

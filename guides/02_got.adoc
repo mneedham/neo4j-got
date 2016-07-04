@@ -250,6 +250,6 @@ ORDER BY episode.id
 
 == Next Step
 
-In the next section we're going to look at the relationships between different characters and the houses they belong to.
+In the next section we're going to look at the houses that characters belong to.
 
-pass:a[<a play-topic='{guides}/03_got_houses.html'>Houses and Relationships</a>]
+pass:a[<a play-topic='{guides}/03_got_houses.html'>Houses</a>]
