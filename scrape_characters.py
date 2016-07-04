@@ -105,17 +105,17 @@ with open("data/characters_to_download.csv", "r") as characters_file, \
                 if not any(x in family_member for x in ["mother-in-law", "step-mother", "cousin"]):
                     writer.writerow([character, family_member_id, "mother", ""])
 
-# with open("data/import/characters.csv", "r") as characters_file, \
-#      open("data/import/allegiances.csv", "w") as allegiances_file:
-#      reader = csv.reader(characters_file, delimiter = ",")
-#      next(reader)
-#
-#      writer = csv.writer(allegiances_file, delimiter = ",")
-#      writer.writerow(["character", "houseLink", "houseName"])
-#      for row in reader:
-#          character = row[0]
-#          houses = get_houses(row[0])
-#          for house in houses:
-#              link = house[0].encode("utf-8") if house[0] else house[0]
-#              name = house[1].encode("utf-8") if house[1] else house[1]
-#              writer.writerow([character, link, name])
+with open("data/import/characters.csv", "r") as characters_file, \
+     open("data/import/allegiances.csv", "w") as allegiances_file:
+     reader = csv.reader(characters_file, delimiter = ",")
+     next(reader)
+
+     writer = csv.writer(allegiances_file, delimiter = ",")
+     writer.writerow(["character", "houseLink", "houseName"])
+     for row in reader:
+         character = row[0]
+         houses = get_houses(row[0])
+         for house in houses:
+             link = house[0].encode("utf-8") if house[0] else house[0]
+             name = house[1].encode("utf-8") if house[1] else house[1]
+             writer.writerow([character, link, name])

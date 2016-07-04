@@ -81,6 +81,7 @@ character1,character2,relationship,type
 /wiki/Daenerys_Targaryen,/wiki/Rhaella_Targaryen,mother,
 /wiki/Arya_Stark,/wiki/Eddard_Stark,father,biological
 /wiki/Arya_Stark,/wiki/Catelyn_Stark,mother,
+/wiki/Cley_Cerwyn,/wiki/Medger_Cerwyn,father,biological
 /wiki/Aemon,/wiki/Maekar_I_Targaryen,father,biological
 /wiki/Aemon,/wiki/Dyanna_Dayne,mother,
 /wiki/Rickon_Stark,/wiki/Eddard_Stark,father,biological
@@ -143,12 +144,17 @@ character1,character2,relationship,type
 /wiki/Tommen_Baratheon,/wiki/Jaime_Lannister,father,biological
 /wiki/Benjen_Stark,/wiki/Rickard_Stark,father,biological
 /wiki/Wendel_Manderly,/wiki/Wyman_Manderly,father,biological
-/wiki/Dorna_Lannister,/wiki/Harys_Swyft,father,biological
 /wiki/Aegon_V_Targaryen,/wiki/Maekar_Targaryen,father,biological
 /wiki/Aegon_V_Targaryen,/wiki/Dyanna_Dayne,mother,
+/wiki/Baelish_(father_of_Petyr),/wiki/Baelish_(hedge_knight),father,biological
+/wiki/Baelish_(hedge_knight),/wiki/Baelish_(founder),father,biological
+/wiki/Maekar_Targaryen,/wiki/Daeron_II_Targaryen,father,biological
+/wiki/Maekar_Targaryen,/wiki/Myriah_Martell,mother,
+/wiki/Daeron_II_Targaryen,/wiki/Aegon_IV_Targaryen,father,biological
+/wiki/Daeron_II_Targaryen,/wiki/Naerys_Targaryen,mother,
 /wiki/Rhaella_Targaryen,/wiki/Aegon_V_Targaryen,father,biological
 /wiki/Maekar_I_Targaryen,/wiki/Daeron_II_Targaryen,father,biological
 /wiki/Maekar_I_Targaryen,/wiki/Myriah_Martell,mother,
 /wiki/Rhaegar_Targaryen,/wiki/Aerys_II_Targaryen,father,biological
 /wiki/Rhaegar_Targaryen,/wiki/Rhaella_Targaryen,mother,
-/wiki/Baelish_(father_of_Petyr),/wiki/Baelish_(hedge_knight),father,biological
+/wiki/Dorna_Lannister,/wiki/Harys_Swyft,father,biological

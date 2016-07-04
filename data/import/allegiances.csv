@@ -153,6 +153,7 @@ character,houseLink,houseName
 /wiki/Willem_Lannister,/wiki/House_Lannister,House Lannister
 /wiki/Meera_Reed,/wiki/House_Reed,House Reed (by birth)
 /wiki/Meera_Reed,/wiki/House_Stark,House Stark
+/wiki/Arthur,/wiki/Qyburn,Qyburn
 /wiki/Talisa_Maegyr,/wiki/House_Stark,House Stark
 /wiki/Talisa_Maegyr,/wiki/Maegyr_family,Maegyr family
 /wiki/Kevan_Lannister,/wiki/House_Lannister,House Lannister
@@ -168,6 +169,8 @@ character,houseLink,houseName
 /wiki/Brotherhood_Member,/wiki/Brotherhood_Without_Banners,The Brotherhood Without Banners
 /wiki/Yara_Greyjoy,/wiki/House_Greyjoy,House Greyjoy
 /wiki/Yara_Greyjoy,/wiki/House_Targaryen,House Targaryen
+/wiki/Belicho_Paenymion,/wiki/Volantis,Volantis
+/wiki/Frances,/wiki/Qyburn,Qyburn
 /wiki/Loboda,/wiki/Mance_Rayder,Mance Rayder
 /wiki/Loboda,/wiki/Thenn,Thenn
 /wiki/Galbart_Glover,/wiki/House_Stark,House Stark
@@ -252,6 +255,7 @@ character,houseLink,houseName
 /wiki/White_Walker_1_(Winter_is_Coming),/wiki/White_Walkers,White Walkers
 /wiki/Marei,/wiki/Petyr_Baelish,Petyr Baelish
 /wiki/Gatins,/wiki/Brotherhood_without_Banners,The Brotherhood without Banners (former)
+/wiki/Captain_of_the_archers_(House_Bolton),/wiki/House_Bolton,House Bolton
 /wiki/Helliweg,/wiki/Maesters,Maesters
 /wiki/Helliweg,/wiki/House_Royce,House Royce
 /wiki/Ros,/wiki/Petyr_Baelish,Petyr Baelish
@@ -384,6 +388,8 @@ character,houseLink,houseName
 /wiki/Mallister_supporter,/wiki/Night%27s_Watch,Night's Watch
 /wiki/Morgan,/wiki/Brotherhood_without_Banners,The Brotherhood without Banners (former)
 /wiki/Polliver,/wiki/House_Lannister,House Lannister
+/wiki/Cley_Cerwyn,/wiki/House_Cerwyn,House Cerwyn
+/wiki/Cley_Cerwyn,/wiki/House_Stark,House Stark
 /wiki/Yoren,/wiki/Night%27s_Watch,The Night's Watch
 /wiki/Euron_Greyjoy,/wiki/House_Greyjoy,House Greyjoy
 /wiki/Aemon,/wiki/Night%27s_Watch,Night's Watch (by oath)
@@ -449,6 +455,7 @@ character,houseLink,houseName
 /wiki/Doreah,/wiki/Xaro_Xhoan_Daxos,Xaro Xhoan Daxos
 /wiki/Doreah,/wiki/House_Targaryen,House Targaryen (Former)
 /wiki/White_Walker_(Hardhome),/wiki/Night%27s_King,Night's King
+/wiki/Bolton_general,/wiki/House_Bolton,House Bolton
 /wiki/Hugh,/wiki/House_Arryn,House Arryn
 /wiki/Goldcloak_2_(Lord_Snow),/wiki/City_Watch,City Watch
 /wiki/Jaime_Lannister,/wiki/House_Lannister,House Lannister
@@ -462,6 +469,8 @@ character,houseLink,houseName
 /wiki/Eyrie_Guard,/wiki/House_Arryn,House Arryn
 /wiki/Walder_Frey,/wiki/House_Frey,House Frey
 /wiki/Qhorin_Halfhand,/wiki/Night%27s_Watch,The Night's Watch
+/wiki/Wyman_Manderly,/wiki/House_Manderly,House Manderly
+/wiki/Wyman_Manderly,/wiki/House_Stark,House Stark
 /wiki/Ryger_Rivers,/wiki/House_Frey,House Frey
 /wiki/Leaf,/wiki/Children_of_the_Forest,Children of the Forest
 /wiki/Amory_Lorch,/wiki/House_Lannister,House Lannister
@@ -612,6 +621,7 @@ character,houseLink,houseName
 /wiki/First_Mate,/wiki/House_Greyjoy,House Greyjoy
 /wiki/Ironborn_2_(The_Door),/wiki/Euron_Greyjoy,Euron Greyjoy
 /wiki/Doran_Martell,/wiki/House_Martell,House Martell
+/wiki/Citadel_maester_(The_Winds_of_Winter),/wiki/The_Citadel,The Citadel
 /wiki/Whore_(Breaker_of_Chains),/wiki/Petyr_Baelish,Petyr Baelish
 /wiki/Melessa_Tarly,/wiki/House_Tarly,House Tarly - by marriage
 /wiki/Melessa_Tarly,/wiki/House_Florent,House Florent - by birth
@@ -622,3 +632,46 @@ character,houseLink,houseName
 /wiki/Weasel,/wiki/House_Lannister,House Lannister
 /wiki/Weasel,/wiki/House_Clegane,House Clegane
 /wiki/High_Septon_(After_the_Riot_of_King%E2%80%99s_Landing),/wiki/Faith_of_the_Seven,The Faith of the Seven
+/wiki/Marya_Seaworth,/wiki/House_Seaworth,House Seaworth
+/wiki/Aegon_V_Targaryen,/wiki/House_Targaryen,House Targaryen
+/wiki/Minisa_Tully,/wiki/House_Tully,House Tully - by marriage
+/wiki/Minisa_Tully,/wiki/House_Whent,House Whent - by birth
+/wiki/Joanna_Lannister,/wiki/House_Lannister,House Lannister
+/wiki/Alerie_Tyrell,/wiki/House_Hightower,House Hightower - by birth
+/wiki/Alerie_Tyrell,/wiki/House_Tyrell,House Tyrell - by marriage
+/wiki/Myriah_Martell,/wiki/House_Martell,House Martell (by birth)
+/wiki/Myriah_Martell,/wiki/House_Targaryen,House Targaryen (by marriage)
+/wiki/Baelish_(father_of_Petyr),/wiki/House_Baelish,House Baelish
+/wiki/Alannys_Greyjoy,/wiki/House_Harlaw,House Harlaw - by birth
+/wiki/Alannys_Greyjoy,/wiki/House_Greyjoy,House Greyjoy - by marriage
+/wiki/Stokeworth_(Lord),/wiki/House_Stokeworth,House Stokeworth
+/wiki/Selwyn_Tarth,/wiki/House_Tarth,House Tarth
+/wiki/Baelish_(hedge_knight),/wiki/House_Baelish,House Baelish
+/wiki/Selyse_Florent,/wiki/House_Baratheon_of_Dragonstone,House Baratheon of Dragonstone - by marriage
+/wiki/Selyse_Florent,/wiki/House_Florent,House Florent - by birth
+/wiki/Maekar_Targaryen,/wiki/House_Targaryen,House Targaryen
+/wiki/Cynda_Lannister,/wiki/House_Lannister,House Lannister
+/wiki/Daeron_II_Targaryen,/wiki/House_Targaryen,House Targaryen
+/wiki/Rhaella_Targaryen,/wiki/House_Targaryen,House Targaryen
+/wiki/Maekar_I_Targaryen,/wiki/House_Targaryen,House Targaryen
+/wiki/Tytos_Lannister,/wiki/House_Lannister,House Lannister
+/wiki/Jasper_Arryn,/wiki/House_Arryn,House Arryn
+/wiki/Steffon_Baratheon,/wiki/House_Baratheon,House Baratheon
+/wiki/Miller%27s_wife,/wiki/House_Bolton,House Bolton
+/wiki/Harys_Swyft,/wiki/House_Lannister,House Lannister
+/wiki/Harys_Swyft,/wiki/House_Swyft,House Swyft
+/wiki/Cheyk,/wiki/Black_Ears,Black Ears
+/wiki/Cassana_Baratheon,/wiki/House_Baratheon,House Baratheon - by marriage
+/wiki/Cassana_Baratheon,/wiki/House_Estermont,House Estermont - by birth
+/wiki/Farmer,/wiki/House_Tully,House Tully
+/wiki/Rhaegar_Targaryen,/wiki/House_Targaryen,House Targaryen
+/wiki/Beric_Dayne,/wiki/House_Dayne,House Dayne
+/wiki/Tanda_Stokeworth,/wiki/House_Stokeworth,House Stokeworth
+/wiki/Dyanna_Dayne,/wiki/House_Targaryen,House Targaryen - by marriage
+/wiki/Dyanna_Dayne,/wiki/House_Dayne,House Dayne - by birth
+/wiki/Damon_Marbrand,/wiki/House_Marbrand,House Marbrand
+/wiki/Damon_Marbrand,/wiki/House_Lannister,House Lannister
+/wiki/Luthor_Tyrell,/wiki/House_Tyrell,House Tyrell
+/wiki/Dorna_Lannister,/wiki/House_Swyft,House Swyft - by birth
+/wiki/Dorna_Lannister,/wiki/House_Lannister,House Lannister - by marriage
+/wiki/Dolf,/wiki/Stone_Crows,Stone Crows
