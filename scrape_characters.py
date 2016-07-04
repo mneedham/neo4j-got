@@ -78,7 +78,7 @@ def get_family(character_id):
 def find_word(word):
     return re.compile(r'\b({0})\b'.format(word), flags=re.IGNORECASE).search
 
-with open("data/import/characters.csv", "r") as characters_file, \
+with open("data/characters_to_download.csv", "r") as characters_file, \
      open("data/import/family_ties.csv", "w") as families_file:
     reader = csv.reader(characters_file, delimiter = ",")
     next(reader)
