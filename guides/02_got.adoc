@@ -1,5 +1,5 @@
 = Game of Thrones: Characters and Episodes
-:csv-url: https://raw.githubusercontent.com/mneedham/neo4j-got/master/data/import/
+:csv-url: https://raw.githubusercontent.com/mneedham/neo4j-got/master/data/import
 :icons: font
 
 == The Game of Thrones dataset
@@ -47,7 +47,7 @@ Run the following query to see how many characters there are:
 
 [source, cypher,subs=attributes]
 ----
-LOAD CSV WITH HEADERS FROM "{csv-url}characters.csv" AS row
+LOAD CSV WITH HEADERS FROM "{csv-url}/characters.csv" AS row
 RETURN COUNT(*)
 ----
 
@@ -61,7 +61,7 @@ The following query will return the first 5 rows of the CSV file.
 
 [source, cypher,subs=attributes]
 ----
-LOAD CSV WITH HEADERS FROM "{csv-url}characters.csv" AS row
+LOAD CSV WITH HEADERS FROM "{csv-url}/characters.csv" AS row
 RETURN row
 LIMIT 5
 ----
@@ -77,7 +77,7 @@ Run the following query:
 
 [source, cypher,subs=attributes]
 ----
-LOAD CSV WITH HEADERS FROM "{csv-url}characters.csv" AS row
+LOAD CSV WITH HEADERS FROM "{csv-url}/characters.csv" AS row
 MERGE (c:Character {id: row.link})
 ON CREATE SET c.name = row.character
 ----
@@ -112,7 +112,7 @@ We have a CSV file containing episodes which we can explore by running the follo
 
 [source, cypher, subs=attributes]
 ----
-LOAD CSV WITH HEADERS FROM "{csv-url}overview.csv" AS row
+LOAD CSV WITH HEADERS FROM "{csv-url}/overview.csv" AS row
 RETURN row
 LIMIT 10
 ----
@@ -121,7 +121,7 @@ We'll run the following query to create a node for each episode:
 
 [source, cypher, subs=attributes]
 ----
-LOAD CSV WITH HEADERS FROM "{csv-url}overview.csv" AS row
+LOAD CSV WITH HEADERS FROM "{csv-url}/overview.csv" AS row
 MERGE (episode:Episode {id: TOINT(row.episodeId)})
 ON CREATE SET
   episode.season = TOINT(row.season),
@@ -142,7 +142,7 @@ We can explore that by running the following query:
 
 [source, cypher, subs=attributes]
 ----
-LOAD CSV WITH HEADERS FROM "{csv-url}characters_episodes.csv" AS row
+LOAD CSV WITH HEADERS FROM "{csv-url}/characters_episodes.csv" AS row
 RETURN row
 LIMIT 10
 ----
@@ -151,7 +151,7 @@ We're going to create an `APPEARED_IN` relationship between a `Character` and `E
 
 [source, cypher, subs=attributes]
 ----
-LOAD CSV WITH HEADERS FROM "{csv-url}characters_episodes.csv" AS row
+LOAD CSV WITH HEADERS FROM "{csv-url}/characters_episodes.csv" AS row
 
 MATCH (episode:Episode {id: TOINT(row.episodeId)})
 MATCH (character:Character {id: row.character})

@@ -118,6 +118,13 @@ CREATE CONSTRAINT ON (c:Character)
 ASSERT c.name IS UNIQUE;
 ----
 
+You can see which constraints and indexes have been created by running the following command:
+
+[source, cypher]
+----
+:schema
+----
+
 == MERGE - Get-Or-Create
 
 Now let's try and create Arya again:
@@ -145,7 +152,7 @@ RETURN character
 == Exercise: Create some more nodes
 
 Now it's your turn!
-We need to create nodes to represent `House Stark` and `Winterfell`.
+We need to create nodes to represent `House Stark` and `Winter is Coming`.
 
 image::{img}/nodes.png[]
 
@@ -159,7 +166,8 @@ RETURN allegiance
 
 [source,cypher]
 ----
-MERGE (location:Location {name: 'Winterfell'})
+MERGE (episode:Episode {number: 1})
+ON CREATE SET episode.title = 'Winter is Coming'
 RETURN location
 ----
 
@@ -197,17 +205,17 @@ MERGE (character)-[:HAS_ALLEGIANCE_TO]->(house)
 The `MERGE` version of the query will only create the relationship once no matter how many times we run it.
 The `CREATE` version will create a new relationship each time we run it.
 
-== Exercise: Create a relationship between `Arya Stark` and `Winterfell`
+== Exercise: Create a relationship between `Arya Stark` and `Winter is Coming`
 
-Following the example in the previous example, let's now create a relationship with Arya and Winterfell.
+Following the example in the previous example, let's now create a relationship with Arya and Winter is Coming.
 
-== Answer: Create a relationship between `Arya Stark` and `Winterfell`
+== Answer: Create a relationship between `Arya Stark` and `Winter is Coming`
 
 [source, cypher]
 ----
 MATCH (character:Character {name: 'Arya Stark'})
-MATCH (location:Location {name: 'Winterfell'})
-MERGE (character)-[:COMES_FROM]->(location)
+MATCH (episode:Episode {number: 1})
+MERGE (character)-[:APPEARED_IN]->(episode)
 ----
 
 == Next Step

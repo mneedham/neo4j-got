@@ -10,7 +10,7 @@ Run the following query to explore the houses CSV file:
 
 [source, cypher,subs=attributes]
 ----
-LOAD CSV WITH HEADERS FROM "{csv-url}houses.csv" AS row
+LOAD CSV WITH HEADERS FROM "{csv-url}/houses.csv" AS row
 RETURN row
 ----
 
@@ -18,7 +18,7 @@ Now let's create a node with the `House` label for each row in the file:
 
 [source, cypher,subs=attributes]
 ----
-LOAD CSV WITH HEADERS FROM "{csv-url}houses.csv" AS row
+LOAD CSV WITH HEADERS FROM "{csv-url}/houses.csv" AS row
 MERGE (house:House {id: row.link})
 ON CREATE SET house.name = row.name
 ----
@@ -40,7 +40,7 @@ Run the following query to view the allegiances between characters and houses:
 
 [source, cypher,subs=attributes]
 ----
-LOAD CSV WITH HEADERS FROM "{csv-url}characters_houses.csv" AS row
+LOAD CSV WITH HEADERS FROM "{csv-url}/characters_houses.csv" AS row
 RETURN row.character, row.house
 ----
 
@@ -50,7 +50,7 @@ Now create a `HAS_ALLEGIANCE_TO` relationship for each character/house pair in t
 
 [source, cypher,subs=attributes]
 ----
-LOAD CSV WITH HEADERS FROM "{csv-url}characters_houses.csv" AS row
+LOAD CSV WITH HEADERS FROM "{csv-url}/characters_houses.csv" AS row
 MATCH (character:Character {id: row.character})
 MATCH (house:House {id: row.house})
 MERGE (character)-[:HAS_ALLEGIANCE_TO]->(house)

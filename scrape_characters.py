@@ -60,7 +60,7 @@ def get_houses(character_id):
         return []
 
 def get_family(character_id):
-    print character_id
+    # print character_id
     file_name = character_id.split("/")[-1]
     wikia = BeautifulSoup(open("data/wikia/characters/{0}".format(file_name), "r"), "html.parser")
     family_element = [tag for tag in select(wikia, 'h3') if tag.text == "Family"]
@@ -75,19 +75,35 @@ def get_family(character_id):
     else:
         return []
 
-# characters = ["/wiki/Arya_Stark", "/wiki/Bran_Stark", "/wiki/Catelyn_Stark"]
-#
-# for character in characters:
-#     for family in get_family(character):
-#         print family
+def find_word(word):
+    return re.compile(r'\b({0})\b'.format(word), flags=re.IGNORECASE).search
 
-with open("data/import/characters.csv", "r") as characters_file:
+with open("data/import/characters.csv", "r") as characters_file, \
+     open("data/import/family_ties.csv", "w") as families_file:
     reader = csv.reader(characters_file, delimiter = ",")
     next(reader)
+
+    writer = csv.writer(families_file, delimiter = ",")
+    writer.writerow(["character1", "character2", "relationship", "type"])
+
     for row in reader:
         character = row[0]
         for family in get_family(character):
-            print family
+            family_member_id, family_member = family
+
+            if find_word("father")(family_member):
+                type = "biological"
+                if not any(x in family_member for x in ["father-in-law", "father-by-law", "father-by-marriage"]):
+                    if "legal father" in family_member:
+                        type = "legal"
+                    if "adoptive father" in family_member:
+                        type = "adoptive"
+
+                    writer.writerow([character, family_member_id, "father", type])
+
+            if find_word("mother")(family_member):
+                if not any(x in family_member for x in ["mother-in-law", "step-mother", "cousin"]):
+                    writer.writerow([character, family_member_id, "mother", ""])
 
 # with open("data/import/characters.csv", "r") as characters_file, \
 #      open("data/import/allegiances.csv", "w") as allegiances_file:
