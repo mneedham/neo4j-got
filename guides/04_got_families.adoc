@@ -77,7 +77,7 @@ RETURN path
 
 [source, cypher]
 ----
-MATCH path = (character:Character {name: "Jon Snow"})<-[parentOf:PARENT_OF*]-(parent)
+MATCH path = (character:Character {name: "Jon Snow"})<-[parentOf:PARENT_OF*..2]-(parent)
 WHERE ALL(x in rels(path) WHERE x.type IN ["mother", "biological father"])
 RETURN path
 ----
