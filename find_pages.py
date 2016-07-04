@@ -24,6 +24,8 @@ with open("data/wikiaEpisodes.csv", "w") as episodes_file:
     writer.writerow([56, "http://gameofthrones.wikia.com/wiki/Blood_of_My_Blood"])
     writer.writerow([57, "http://gameofthrones.wikia.com/wiki/The_Broken_Man"])
     writer.writerow([58, "http://gameofthrones.wikia.com/wiki/No_One"])
+    writer.writerow([59, "http://gameofthrones.wikia.com/wiki/Battle_of_the_Bastards_(episode)"])
+    writer.writerow([60, "http://gameofthrones.wikia.com/wiki/The_Winds_of_Winter"])
 
 rows = select(wikipedia, "table tr.vevent")
 

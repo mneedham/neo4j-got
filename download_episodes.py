@@ -1,6 +1,7 @@
 import bs4
 import csv
 import requests
+import os
 
 with open("data/wikiaEpisodes.csv", "r") as episodes_file:
     reader = csv.reader(episodes_file, delimiter = ",")
@@ -8,10 +9,12 @@ with open("data/wikiaEpisodes.csv", "r") as episodes_file:
 
     for row in reader:
         print row
-
-        page = requests.get(row[1])
-        with open("data/wikia/{0}".format(row[0]), 'wb') as test:
-            test.write(page.content)
+        file_name = "data/wikia/{0}".format(row[0])
+        if not os.path.isfile(file_name):
+            print "downloading..."
+            page = requests.get(row[1])
+            with open(file_name, 'wb') as test:
+                test.write(page.content)
 
 with open("data/wikipediaEpisodes.csv", "r") as episodes_file:
     reader = csv.reader(episodes_file, delimiter = ",")
@@ -19,7 +22,9 @@ with open("data/wikipediaEpisodes.csv", "r") as episodes_file:
 
     for row in reader:
         print row
-
-        page = requests.get(row[1])
-        with open("data/wikipedia/{0}".format(row[0]), 'wb') as test:
-            test.write(page.content)
+        file_name = "data/wikipedia/{0}".format(row[0])
+        if not os.path.isfile(file_name):
+            print "downloading..."
+            page = requests.get(row[1])
+            with open(file_name, 'wb') as test:
+                test.write(page.content)
