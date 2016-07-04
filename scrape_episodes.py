@@ -81,7 +81,7 @@ for episode_id in episodes:
         if len(links) == 2:
             characters[links[1].get("href")] = links[1].text
 
-with open("data/import/characters.csv", "w") as characters_file:
+with open("data/characters_to_download.csv", "w") as characters_file:
     writer = csv.writer(characters_file, delimiter = ",")
     writer.writerow(["link", "character"])
 

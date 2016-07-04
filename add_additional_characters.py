@@ -11,10 +11,9 @@ rows = session.run("""load csv with headers from "file:///family_ties.csv" AS ro
                       WITH row where character2 is  null
                       return DISTINCT row.character2 AS missing""")
 
-with open("data/import/characters.csv", "a") as characters_file:
-    writer = csv.writer(characters_houses_file, delimiter = ",")
+with open("data/characters_to_download.csv", "a") as characters_file:
+    writer = csv.writer(characters_file, delimiter = ",")
 
     for row in rows:
-        row = row["row"]
         for row in rows:
             writer.writerow([row["missing"], ""])
