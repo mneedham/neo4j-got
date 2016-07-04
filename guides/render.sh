@@ -7,6 +7,7 @@ $GUIDES/run.sh index.adoc index.html +1 "$@"
 $GUIDES/run.sh 01_intro.adoc 01_intro.html +1 "$@"
 $GUIDES/run.sh 02_got.adoc 02_got.html +1 "$@"
 $GUIDES/run.sh 03_got_houses.adoc 03_got_houses.html +1 "$@"
+$GUIDES/run.sh 04_got_families.adoc 04_got_families.html +1 "$@"
 }
 
 # -a env-training is a flag to enable full content, if you comment it out, the guides are rendered minimally e.g. for a presentation

@@ -1,0 +1,34 @@
+= Game of Thrones: Families
+:csv-url: https://raw.githubusercontent.com/mneedham/neo4j-got/master/data/import
+:icons: font
+
+== Importing families
+
+In this next section we're going to import the family relationships between characters.
+
+Run the following query to explore the family ties CSV file:
+
+[source, cypher,subs=attributes]
+----
+LOAD CSV WITH HEADERS FROM "{csv-url}/family_ties.csv" AS row
+RETURN row
+----
+
+
+[source, cypher,subs=attributes]
+----
+LOAD CSV WITH HEADERS FROM "{csv-url}/family_ties.csv" AS row
+WITH row WHERE row.relationship = "mother"
+MATCH (character1:Character {id: row.character1})
+MATCH (character2:Character {id: row.character2})
+MERGE (character2)-[:PARENT_OF {type: "mother"}]->(character1)
+----
+
+[source, cypher, subs = attributes]
+----
+LOAD CSV WITH HEADERS FROM "{csv-url}/family_ties.csv" AS row
+WITH row WHERE row.relationship = "father"
+MATCH (character1:Character {id: row.character1})
+MATCH (character2:Character {id: row.character2})
+MERGE (character2)-[:PARENT_OF {type: row.type + " " + row.relationship}]->(character1)
+----
