@@ -73,7 +73,7 @@ RETURN path
 
 == Who are Jon Snow's biological grandparents?
 
-
+And finally we can find Jon Snow's biological grandparents!
 
 [source, cypher]
 ----
