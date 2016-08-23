@@ -168,7 +168,7 @@ RETURN allegiance
 ----
 MERGE (episode:Episode {number: 1})
 ON CREATE SET episode.title = 'Winter is Coming'
-RETURN location
+RETURN episode
 ----
 
 == Create relationships
