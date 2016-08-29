@@ -36,7 +36,7 @@ def process_episode(episode_id):
         characters = select(starring_element, "li") + select(guest_starring_element, "li") + select(uncredited_element, "li")
 
     actors_locations = []
-    for section in [section for section in  select(wikipedia, "h3 span.mw-headline") if not section.text in ["Writing", "Casting", "Filming", "Ratings", "Critical reception"] ]:
+    for section in [section for section in  select(wikipedia, "h3 span.mw-headline") if not section.text in ["Writing", "Casting", "Filming", "Ratings", "Critical reception", "Conception and development", "Critical response", "International", "Filming locations", "The original pilot", "Preview", "Accolades", "Props", "Choreography", "Dedication", "Aired episode", "Direwolves", "Airings and ratings", "Staging and props"] ]:
         content = []
         next_bit = section.parent.next_sibling
         while True:
@@ -81,36 +81,34 @@ for episode_id in episodes:
         if len(links) == 2:
             characters[links[1].get("href")] = links[1].text
 
-with open("data/characters_to_download.csv", "w") as characters_file:
-    writer = csv.writer(characters_file, delimiter = ",")
-    writer.writerow(["link", "character"])
-
-    for key in characters:
-        writer.writerow([key, characters[key]])
-
-with open("data/import/overview.csv", "w") as overview_file:
-    writer = csv.writer(overview_file, delimiter = ",")
-    writer.writerow(["episodeId", "season", "episode", "title"])
-
-    for episode_id in episodes:
-        season = episodes[episode_id]['season']
-        episode = episodes[episode_id]['episode']
-        title = episodes[episode_id]['title']
-        writer.writerow([episode_id, season, episode, title])
-
-with open("data/import/characters_episodes.csv", "w") as characters_episodes_file:
-    writer = csv.writer(characters_episodes_file, delimiter = ",")
-    # writer.writerow(["episodeId", "locationId", "locationName", "actor"])
-    writer.writerow(["episodeId", "character"])
-
-    for episode_id in episodes:
-        for raw_character in episodes[episode_id]['characters']:
-            links = select(raw_character, "a")
-            if len(links) == 2:
-                character = links[1].get("href")
-                writer.writerow([episode_id, character])
-
-sys.exit(1)
+# with open("data/characters_to_download.csv", "w") as characters_file:
+#     writer = csv.writer(characters_file, delimiter = ",")
+#     writer.writerow(["link", "character"])
+#
+#     for key in characters:
+#         writer.writerow([key, characters[key]])
+#
+# with open("data/import/overview.csv", "w") as overview_file:
+#     writer = csv.writer(overview_file, delimiter = ",")
+#     writer.writerow(["episodeId", "season", "episode", "title"])
+#
+#     for episode_id in episodes:
+#         season = episodes[episode_id]['season']
+#         episode = episodes[episode_id]['episode']
+#         title = episodes[episode_id]['title']
+#         writer.writerow([episode_id, season, episode, title])
+#
+# with open("data/import/characters_episodes.csv", "w") as characters_episodes_file:
+#     writer = csv.writer(characters_episodes_file, delimiter = ",")
+#     # writer.writerow(["episodeId", "locationId", "locationName", "actor"])
+#     writer.writerow(["episodeId", "character"])
+#
+#     for episode_id in episodes:
+#         for raw_character in episodes[episode_id]['characters']:
+#             links = select(raw_character, "a")
+#             if len(links) == 2:
+#                 character = links[1].get("href")
+#                 writer.writerow([episode_id, character])
 
 with open("data/import/locations.csv", "w") as locations_file:
     writer = csv.writer(locations_file, delimiter = ",")
