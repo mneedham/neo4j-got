@@ -47,11 +47,6 @@ episodeId,locationId,locationName,actor
 1,In_Pentos,In Pentos,Jorah Mormont
 1,In_Pentos,In Pentos,Iain Glen
 1,In_Pentos,In Pentos,Roger Allam
-1,Aired_episode,Aired episode,[32]
-1,Aired_episode,Aired episode,[27]
-1,Aired_episode,Aired episode,35 mm film
-1,Aired_episode,Aired episode,film grain
-1,Aired_episode,Aired episode,[24]
 2,In_the_Dothraki_Sea,In the Dothraki Sea,Iain Glen
 2,In_the_Dothraki_Sea,In the Dothraki Sea,Harry Lloyd
 2,In_the_Dothraki_Sea,In the Dothraki Sea,Jason Momoa
@@ -77,12 +72,6 @@ episodeId,locationId,locationName,actor
 2,At_the_Inn_at_the_Crossroads,At the Inn at the Crossroads,butcher
 2,At_the_Inn_at_the_Crossroads,At the Inn at the Crossroads,Lena Headey
 2,At_the_Inn_at_the_Crossroads,At the Inn at the Crossroads,Rory McCann
-2,Direwolves,Direwolves,direwolves
-2,Direwolves,Direwolves,Northern Inuit Dogs
-2,Direwolves,Direwolves,[7]
-2,Direwolves,Direwolves,[8]
-2,Direwolves,Direwolves,Sophie Turner
-2,Direwolves,Direwolves,[9]
 3,In_the_Dothraki_Sea,In the Dothraki Sea,Emilia Clarke
 3,In_the_Dothraki_Sea,In the Dothraki Sea,Iain Glen
 3,In_the_Dothraki_Sea,In the Dothraki Sea,Harry Lloyd
@@ -108,8 +97,6 @@ episodeId,locationId,locationName,actor
 3,In_King.27s_Landing,In King's Landing,Maisie Williams
 3,In_King.27s_Landing,In King's Landing,Sophie Turner
 3,In_King.27s_Landing,In King's Landing,Miltos Yerolemou
-3,Other,Other,Duncan and his squire Egg
-3,Other,Other,[10]
 4,In_King.27s_Landing,In King's Landing,Julian Glover
 4,In_King.27s_Landing,In King's Landing,Aidan Gillen
 4,In_King.27s_Landing,In King's Landing,King Robert
@@ -164,17 +151,6 @@ episodeId,locationId,locationName,actor
 6,In_Vaes_Dothrak,In Vaes Dothrak,Emilia Clarke
 6,In_Vaes_Dothrak,In Vaes Dothrak,Harry Lloyd
 6,In_Vaes_Dothrak,In Vaes Dothrak,Iain Glen
-6,Staging_and_props,Staging and props,The Paint Hall
-6,Staging_and_props,Staging and props,Marsh Arab
-6,Staging_and_props,Staging and props,[5]
-6,Staging_and_props,Staging and props,gummi bear
-6,Staging_and_props,Staging and props,bleach
-6,Staging_and_props,Staging and props,[6]
-6,Staging_and_props,Staging and props,[5]
-6,Staging_and_props,Staging and props,Bryan Cogman
-6,Staging_and_props,Staging and props,"Cripples, Bastards, and Broken Things"
-6,Staging_and_props,Staging and props,[7]
-6,Staging_and_props,Staging and props,[8]
 7,At_the_Lannister_camp,At the Lannister camp,Charles Dance
 7,At_the_Lannister_camp,At the Lannister camp,Nikolaj Coster-Waldau
 7,At_Winterfell,At Winterfell,Natalia Tena
@@ -224,11 +200,6 @@ episodeId,locationId,locationName,actor
 8,In_King.27s_Landing,In King's Landing,fealty
 8,In_King.27s_Landing,In King's Landing,Charles Dance
 8,In_King.27s_Landing,In King's Landing,Ian McElhinney
-8,Emmy_nomination,Emmy nomination,Emmy Award
-8,Emmy_nomination,Emmy nomination,Outstanding Costumes for a Series
-8,Emmy_nomination,Emmy nomination,[23]
-8,Emmy_nomination,Emmy nomination,The Borgias
-8,Emmy_nomination,Emmy nomination,[24]
 9,At_the_Lannister_camp,At the Lannister camp,Charles Dance
 9,At_the_Lannister_camp,At the Lannister camp,Peter Dinklage
 9,At_the_Lannister_camp,At the Lannister camp,vanguard
@@ -257,7 +228,6 @@ episodeId,locationId,locationName,actor
 9,In_King.27s_Landing,In King's Landing,Sophie Turner
 9,In_King.27s_Landing,In King's Landing,Francis Magee
 9,In_King.27s_Landing,In King's Landing,Wilko Johnson
-9,Execution,Execution,[7]
 10,In_the_North,In the North,Isaac Hempstead-Wright
 10,In_the_North,In the North,Natalia Tena
 10,In_the_North,In the North,Art Parkinson
@@ -291,12 +261,6 @@ episodeId,locationId,locationName,actor
 10,In_Lhazar,In Lhazar,Mia Soteriou
 10,In_Lhazar,In Lhazar,Jason Momoa
 10,In_Lhazar,In Lhazar,catatonic state
-10,Airings_and_ratings,Airings and ratings,Canada
-10,Airings_and_ratings,Airings and ratings,[11]
-10,Airings_and_ratings,Airings and ratings,[11]
-10,Airings_and_ratings,Airings and ratings,[11]
-10,Airings_and_ratings,Airings and ratings,[12]
-10,Airings_and_ratings,Airings and ratings,[13]
 11,At_Dragonstone,At Dragonstone,Stephen Dillane
 11,At_Dragonstone,At Dragonstone,Liam Cunningham
 11,At_Dragonstone,At Dragonstone,Carice van Houten
@@ -396,9 +360,6 @@ episodeId,locationId,locationName,actor
 14,In_the_Stormlands,In the Stormlands,Stephen Dillane
 14,In_the_Stormlands,In the Stormlands,Carice van Houten
 14,In_the_Stormlands,In the Stormlands,Liam Cunningham
-14,Staging_and_props,Staging and props,[12]
-14,Staging_and_props,Staging and props,[13]
-14,Staging_and_props,Staging and props,[14]
 15,In_the_Stormlands,In the Stormlands,Gethin Anthony
 15,In_the_Stormlands,In the Stormlands,Michelle Fairley
 15,In_the_Stormlands,In the Stormlands,Gwendoline Christie
@@ -426,9 +387,6 @@ episodeId,locationId,locationName,actor
 15,At_Harrenhal,At Harrenhal,Maisie Williams
 15,At_Harrenhal,At Harrenhal,Charles Dance
 15,At_Harrenhal,At Harrenhal,Tom Wlaschiha
-15,Awards_and_nominations,Awards and nominations,Portal Award
-15,Awards_and_nominations,Awards and nominations,64th Primetime Emmy Awards
-15,Awards_and_nominations,Awards and nominations,ADG Excellence in Production Design Award
 16,At_Winterfell,At Winterfell,Alfie Allen
 16,At_Winterfell,At Winterfell,Isaac Hempstead-Wright
 16,At_Winterfell,At Winterfell,Ron Donachie
@@ -536,25 +494,6 @@ episodeId,locationId,locationName,actor
 19,In_King.27s_Landing,In King's Landing,Daniel Portman
 19,In_King.27s_Landing,In King's Landing,Finn Jones
 19,In_King.27s_Landing,In King's Landing,Charles Dance
-19,Music,Music,Music of Game of Thrones
-19,Music,Music,A Song of Ice and Fire
-19,Music,Music,Ramin Djawadi
-19,Music,Music,indie rock
-19,Music,Music,The National
-19,Music,Music,Matt Berninger
-19,Music,Music,[7]
-19,Music,Music,[8]
-19,Music,Music,stanza
-19,Awards_and_nominations,Awards and nominations,Primetime Creative Arts Emmy Awards
-19,Awards_and_nominations,Awards and nominations,British Society of Cinematographers
-19,Awards_and_nominations,Awards and nominations,IGN Awards
-19,Awards_and_nominations,Awards and nominations,IGN People's Choice Award
-19,Awards_and_nominations,Awards and nominations,Cinema Audio Society Awards
-19,Awards_and_nominations,Awards and nominations,Golden Reel Awards
-19,Awards_and_nominations,Awards and nominations,Hugo Awards
-19,Awards_and_nominations,Awards and nominations,"Best Dramatic Presentation, Short Form"
-19,Awards_and_nominations,Awards and nominations,Neil Marshall
-19,Awards_and_nominations,Awards and nominations,George R. R. Martin
 20,In_King.27s_Landing,In King's Landing,Jack Gleeson
 20,In_King.27s_Landing,In King's Landing,Charles Dance
 20,In_King.27s_Landing,In King's Landing,Aidan Gillen
@@ -596,10 +535,6 @@ episodeId,locationId,locationName,actor
 20,Beyond_the_Wall,Beyond the Wall,Ben Crompton
 20,Beyond_the_Wall,Beyond the Wall,White Walkers'
 20,Beyond_the_Wall,Beyond the Wall,wights
-20,Awards_and_nominations,Awards and nominations,Primetime Creative Arts Emmy Awards
-20,Awards_and_nominations,Awards and nominations,Outstanding Special Visual Effects
-20,Awards_and_nominations,Awards and nominations,Golden Reel Awards
-20,Awards_and_nominations,Awards and nominations,Visual Effects Society
 21,Beyond_the_Wall,Beyond the Wall,John Bradley
 21,Beyond_the_Wall,Beyond the Wall,James Cosmo
 21,Beyond_the_Wall,Beyond the Wall,Kit Harington
@@ -628,17 +563,6 @@ episodeId,locationId,locationName,actor
 21,Across_the_Narrow_Sea,Across the Narrow Sea,Emilia Clarke
 21,Across_the_Narrow_Sea,Across the Narrow Sea,Iain Glen
 21,Across_the_Narrow_Sea,Across the Narrow Sea,Ian McElhinney
-21,Valyrian,Valyrian,Dothraki language
-21,Valyrian,Valyrian,constructed language
-21,Valyrian,Valyrian,Valyrian
-21,Valyrian,Valyrian,Classical Latin
-21,Valyrian,Valyrian,Vulgar Latin
-21,Valyrian,Valyrian,[6]
-21,Awards_and_nominations,Awards and nominations,Primetime Creative Arts Emmy Awards
-21,Awards_and_nominations,Awards and nominations,Outstanding Special Visual Effects
-21,Awards_and_nominations,Awards and nominations,Hollywood Post Alliance Awards
-21,Awards_and_nominations,Awards and nominations,American Society of Cinematographers
-21,Awards_and_nominations,Awards and nominations,Visual Effects Society
 22,In_King.27s_Landing,In King's Landing,Sophie Turner
 22,In_King.27s_Landing,In King's Landing,Natalie Dormer
 22,In_King.27s_Landing,In King's Landing,Diana Rigg
@@ -711,17 +635,6 @@ episodeId,locationId,locationName,actor
 23,In_the_Riverlands,In the Riverlands,Noah Taylor
 23,In_the_Riverlands,In the Riverlands,Nikolaj Coster-Waldau
 23,In_the_Riverlands,In the Riverlands,Gwendoline Christie
-23,Directing,Directing,Directors Guild of America
-23,Directing,Directing,[4]
-23,Music,Music,The Bear and the Maiden Fair
-23,Music,Music,Ramin Djawadi
-23,Music,Music,Snow Patrol
-23,Music,Music,Gary Lightbody
-23,Music,Music,[7]
-23,Music,Music,The Hold Steady
-23,Music,Music,[8]
-23,Music,Music,[9]
-23,Music,Music,[10]
 24,In_King.27s_Landing,In King's Landing,Peter Dinklage
 24,In_King.27s_Landing,In King's Landing,Conleth Hill
 24,In_King.27s_Landing,In King's Landing,Esme Bianco
@@ -754,8 +667,6 @@ episodeId,locationId,locationName,actor
 24,In_Astapor,In Astapor,Emilia Clarke
 24,In_Astapor,In Astapor,Dan Hildebrand
 24,In_Astapor,In Astapor,Valyrian
-24,Directing,Directing,Alex Graves
-24,Directing,Directing,[3]
 25,At_Dragonstone,At Dragonstone,Tara Fitzgerald
 25,At_Dragonstone,At Dragonstone,Stephen Dillane
 25,At_Dragonstone,At Dragonstone,Kerry Ingram
@@ -829,8 +740,6 @@ episodeId,locationId,locationName,actor
 26,Beyond_the_Wall,Beyond the Wall,Kit Harington
 26,Beyond_the_Wall,Beyond the Wall,Rose Leslie
 26,Beyond_the_Wall,Beyond the Wall,Mackenzie Crook
-26,Awards_and_nominations,Awards and nominations,Hollywood Post Alliance Awards
-26,Awards_and_nominations,Awards and nominations,Visual Effects Society
 27,In_King.27s_Landing,In King's Landing,Sophie Turner
 27,In_King.27s_Landing,In King's Landing,Natalie Dormer
 27,In_King.27s_Landing,In King's Landing,Peter Dinklage
@@ -926,24 +835,6 @@ episodeId,locationId,locationName,actor
 29,At_the_Twins,At the Twins,chainmail
 29,At_the_Twins,At the Twins,Kelly Long
 29,At_the_Twins,At the Twins,Tim Plester
-29,Viewer_reception,Viewer reception,[7]
-29,Viewer_reception,Viewer reception,[20]
-29,Viewer_reception,Viewer reception,[21]
-29,Awards_and_nominations,Awards and nominations,Primetime Emmy Awards
-29,Awards_and_nominations,Awards and nominations,David Benioff
-29,Awards_and_nominations,Awards and nominations,D.B. Weiss
-29,Awards_and_nominations,Awards and nominations,Primetime Creative Arts Emmy Awards
-29,Awards_and_nominations,Awards and nominations,IGN Awards
-29,Awards_and_nominations,Awards and nominations,American Cinema Editors
-29,Awards_and_nominations,Awards and nominations,Cinema Audio Society Awards
-29,Awards_and_nominations,Awards and nominations,Directors Guild of America Award
-29,Awards_and_nominations,Awards and nominations,David Nutter
-29,Awards_and_nominations,Awards and nominations,Golden Reel Awards
-29,Awards_and_nominations,Awards and nominations,Hugo Awards
-29,Awards_and_nominations,Awards and nominations,"Best Dramatic Presentation, Short Form"
-29,Awards_and_nominations,Awards and nominations,David Benioff
-29,Awards_and_nominations,Awards and nominations,David Nutter
-29,Awards_and_nominations,Awards and nominations,D. B. Weiss
 30,In_King.27s_Landing,In King's Landing,Peter Dinklage
 30,In_King.27s_Landing,In King's Landing,Sophie Turner
 30,In_King.27s_Landing,In King's Landing,Jack Gleeson
@@ -978,18 +869,6 @@ episodeId,locationId,locationName,actor
 30,At_Dragonstone,At Dragonstone,Carice van Houten
 30,Across_the_Narrow_Sea,Across the Narrow Sea,Emilia Clarke
 30,Across_the_Narrow_Sea,Across the Narrow Sea,Nathalie Emmanuel
-30,Television_ratings,Television ratings,HBO
-30,Television_ratings,Television ratings,Nielsen Media Research
-30,Television_ratings,Television ratings,[9]
-30,Television_ratings,Television ratings,second season
-30,Television_ratings,Television ratings,Valar Morghulis
-30,Television_ratings,Television ratings,[9]
-30,Television_ratings,Television ratings,[10]
-30,Television_ratings,Television ratings,True Blood
-30,Television_ratings,Television ratings,The Sopranos
-30,Television_ratings,Television ratings,[9]
-30,Television_ratings,Television ratings,[10]
-30,Television_ratings,Television ratings,[11]
 31,In_King.27s_Landing,In King's Landing,Charles Dance
 31,In_King.27s_Landing,In King's Landing,Nikolaj Coster-Waldau
 31,In_King.27s_Landing,In King's Landing,Peter Dinklage
@@ -1026,14 +905,6 @@ episodeId,locationId,locationName,actor
 31,In_the_Riverlands,In the Riverlands,Maisie Williams
 31,In_the_Riverlands,In the Riverlands,Andy Kellegher
 31,In_the_Riverlands,In the Riverlands,murdered Lommy
-31,Television_ratings,Television ratings,[6]
-31,Television_ratings,Television ratings,[7]
-31,Television_ratings,Television ratings,the finale episode
-31,Television_ratings,Television ratings,The Sopranos
-31,Television_ratings,Television ratings,[8]
-31,Television_ratings,Television ratings,[9]
-31,Television_ratings,Television ratings,Sky Atlantic
-31,Television_ratings,Television ratings,[10]
 32,At_the_Dreadfort,At the Dreadfort,Iwan Rheon
 32,At_the_Dreadfort,At the Dreadfort,Alfie Allen
 32,At_the_Dreadfort,At the Dreadfort,Charlotte Hope
@@ -1068,12 +939,6 @@ episodeId,locationId,locationName,actor
 32,In_King.27s_Landing,In King's Landing,Indira Varma
 32,In_King.27s_Landing,In King's Landing,Sophie Turner
 32,In_King.27s_Landing,In King's Landing,Tony Way
-32,Awards_and_nominations,Awards and nominations,Primetime Creative Arts Emmy Awards
-32,Awards_and_nominations,Awards and nominations,Outstanding Costumes For A Series
-32,Awards_and_nominations,Awards and nominations,Outstanding Cinematography For A Single-Camera Series
-32,Awards_and_nominations,Awards and nominations,Writers Guild of America Awards
-32,Awards_and_nominations,Awards and nominations,Episodic Drama
-32,Awards_and_nominations,Awards and nominations,George R. R. Martin
 33,In_King.27s_Landing,In King's Landing,Jack Gleeson
 33,In_King.27s_Landing,In King's Landing,Tony Way
 33,In_King.27s_Landing,In King's Landing,Sophie Turner
@@ -1106,58 +971,6 @@ episodeId,locationId,locationName,actor
 33,Outside_Meereen,Outside Meereen,Emilia Clarke
 33,Outside_Meereen,Outside Meereen,Iain Glen
 33,Outside_Meereen,Outside Meereen,Michiel Huisman
-33,Ratings_and_general_reception,Ratings and general reception,[10]
-33,Ratings_and_general_reception,Ratings and general reception,Rotten Tomatoes
-33,Ratings_and_general_reception,Ratings and general reception,[11]
-33,Ratings_and_general_reception,Ratings and general reception,IGN
-33,Ratings_and_general_reception,Ratings and general reception,[12]
-33,Rape_scene,Rape scene,source novel
-33,Rape_scene,Rape scene,[4]
-33,Rape_scene,Rape scene,[13]
-33,Rape_scene,Rape scene,[5]
-33,Rape_scene,Rape scene,Alan Sepinwall
-33,Rape_scene,Rape scene,HitFix
-33,Rape_scene,Rape scene,[14]
-33,Rape_scene,Rape scene,Philadelphia
-33,Rape_scene,Rape scene,[15]
-33,Rape_scene,Rape scene,Forbes
-33,Rape_scene,Rape scene,[9]
-33,Rape_scene,Rape scene,A.V. Club
-33,Rape_scene,Rape scene,[4]
-33,Rape_scene,Rape scene,Time
-33,Rape_scene,Rape scene,[16]
-33,Rape_scene,Rape scene,Slate
-33,Rape_scene,Rape scene,[17]
-33,Rape_scene,Rape scene,Washington Post
-33,Rape_scene,Rape scene,[18]
-33,Rape_scene,Rape scene,Alex Graves
-33,Rape_scene,Rape scene,The Hollywood Reporter
-33,Rape_scene,Rape scene,[19]
-33,Rape_scene,Rape scene,[14]
-33,Rape_scene,Rape scene,Vulture
-33,Rape_scene,Rape scene,[20]
-33,Rape_scene,Rape scene,[14]
-33,Rape_scene,Rape scene,David Benioff
-33,Rape_scene,Rape scene,showrunner
-33,Rape_scene,Rape scene,D. B. Weiss
-33,Rape_scene,Rape scene,[21]
-33,Rape_scene,Rape scene,George R.R. Martin
-33,Rape_scene,Rape scene,[16]
-33,Rape_scene,Rape scene,[22]
-33,Rape_scene,Rape scene,[23]
-33,Rape_scene,Rape scene,exploitation
-33,Rape_scene,Rape scene,[4]
-33,Rape_scene,Rape scene,MTV
-33,Rape_scene,Rape scene,[17]
-33,Rape_scene,Rape scene,[24]
-33,Rape_scene,Rape scene,Salon
-33,Rape_scene,Rape scene,[25]
-33,Rape_scene,Rape scene,The Daily Beast
-33,Rape_scene,Rape scene,[26]
-33,Rape_scene,Rape scene,consent
-33,Rape_scene,Rape scene,[15]
-33,Rape_scene,Rape scene,Wired
-33,Rape_scene,Rape scene,[27]
 34,In_King.27s_Landing,In King's Landing,Nikolaj Coster-Waldau
 34,In_King.27s_Landing,In King's Landing,Jerome Flynn
 34,In_King.27s_Landing,In King's Landing,Peter Dinklage
@@ -1211,7 +1024,6 @@ episodeId,locationId,locationName,actor
 35,Beyond_the_Wall,Beyond the Wall,Thomas Brodie-Sangster
 35,Beyond_the_Wall,Beyond the Wall,Kristian Nairn
 35,Beyond_the_Wall,Beyond the Wall,Ben Crompton
-35,Television_ratings,Television ratings,[5]
 36,In_Braavos,In Braavos,Stephen Dillane
 36,In_Braavos,In Braavos,Liam Cunningham
 36,In_Braavos,In Braavos,Mark Gatiss
@@ -1234,7 +1046,6 @@ episodeId,locationId,locationName,actor
 36,In_King.27s_Landing,In King's Landing,Sibel Kekilli
 36,In_King.27s_Landing,In King's Landing,dwarfism
 36,In_King.27s_Landing,In King's Landing,trial by combat
-36,Television_ratings,Television ratings,[5]
 37,In_King.27s_Landing,In King's Landing,Nikolaj Coster-Waldau
 37,In_King.27s_Landing,In King's Landing,Peter Dinklage
 37,In_King.27s_Landing,In King's Landing,Jerome Flynn
@@ -1264,7 +1075,6 @@ episodeId,locationId,locationName,actor
 37,At_the_Eyrie,At the Eyrie,Lino Facioli
 37,At_the_Eyrie,At the Eyrie,Aidan Gillen
 37,At_the_Eyrie,At the Eyrie,Kate Dickie
-37,Television_ratings,Television ratings,[6]
 38,At_the_Wall,At the Wall,Hannah Murray
 38,At_the_Wall,At the Wall,Kristofer Hivju
 38,At_the_Wall,At the Wall,Rose Leslie
@@ -1291,11 +1101,6 @@ episodeId,locationId,locationName,actor
 38,In_King.27s_Landing,In King's Landing,Hafþór Júlíus Björnsson
 38,In_King.27s_Landing,In King's Landing,Charles Dance
 38,In_King.27s_Landing,In King's Landing,regicide
-38,Television_ratings,Television ratings,[5]
-38,Awards_and_nominations,Awards and nominations,Primetime Creative Arts Emmy Awards
-38,Awards_and_nominations,Awards and nominations,Ramin Djawadi
-38,Awards_and_nominations,Awards and nominations,SFX Awards
-38,Awards_and_nominations,Awards and nominations,Hugo Awards
 39,At_the_Wall,At the Wall,John Bradley
 39,At_the_Wall,At the Wall,Rose Leslie
 39,At_the_Wall,At the Wall,Joseph Gatt
@@ -1309,8 +1114,6 @@ episodeId,locationId,locationName,actor
 39,At_the_Wall,At the Wall,Josef Altin
 39,At_the_Wall,At the Wall,Ben Crompton
 39,At_the_Wall,At the Wall,Brenock O'Connor
-39,Television_ratings,Television ratings,[6]
-39,Television_ratings,Television ratings,[7]
 40,In_Meereen,In Meereen,Emilia Clarke
 40,Beyond_the_Wall,Beyond the Wall,Kit Harington
 40,Beyond_the_Wall,Beyond the Wall,Ciarán Hinds
@@ -1338,27 +1141,6 @@ episodeId,locationId,locationName,actor
 40,In_the_Vale,In the Vale,Maisie Williams
 40,In_the_Vale,In the Vale,Rory McCann
 40,In_the_Vale,In the Vale,the coin Jaqen H'ghar gave her
-40,Television_ratings,Television ratings,previous season finale
-40,Television_ratings,Television ratings,[7]
-40,Television_ratings,Television ratings,[8]
-40,Piracy,Piracy,BitTorrent
-40,Piracy,Piracy,[13]
-40,Awards_and_nominations,Awards and nominations,Primetime Emmy Awards
-40,Awards_and_nominations,Awards and nominations,Outstanding Writing for a Drama Series
-40,Awards_and_nominations,Awards and nominations,David Benioff
-40,Awards_and_nominations,Awards and nominations,D.B. Weiss
-40,Awards_and_nominations,Awards and nominations,Primetime Creative Arts Emmy Awards
-40,Awards_and_nominations,Awards and nominations,Outstanding Special and Visual Effects
-40,Awards_and_nominations,Awards and nominations,Hollywood Professional Alliance
-40,Awards_and_nominations,Awards and nominations,IGN Awards
-40,Awards_and_nominations,Awards and nominations,Cinema Audio Society Awards
-40,Awards_and_nominations,Awards and nominations,American Society of Cinematographers
-40,Awards_and_nominations,Awards and nominations,Directors Guild of America Award
-40,Awards_and_nominations,Awards and nominations,Alex Graves
-40,Awards_and_nominations,Awards and nominations,Golden Reel Award
-40,Awards_and_nominations,Awards and nominations,Visual Effects Society
-41,Prologue.2C_in_the_Westerlands,"Prologue, in the Westerlands",Nell Williams
-41,Prologue.2C_in_the_Westerlands,"Prologue, in the Westerlands",Jodhi May
 41,In_King.27s_Landing,In King's Landing,Lena Headey
 41,In_King.27s_Landing,In King's Landing,Charles Dance
 41,In_King.27s_Landing,In King's Landing,Nikolaj Coster-Waldau
@@ -1386,26 +1168,6 @@ episodeId,locationId,locationName,actor
 41,At_the_Wall,At the Wall,Carice van Houten
 41,At_the_Wall,At the Wall,Stephen Dillane
 41,At_the_Wall,At the Wall,Ciarán Hinds
-41,Television_ratings,Television ratings,[4]
-41,Television_ratings,Television ratings,[5]
-41,Television_ratings,Television ratings,Sky Atlantic
-41,Television_ratings,Television ratings,[6]
-41,Television_ratings,Television ratings,Mother's Mercy
-41,Television_ratings,Television ratings,[7]
-41,Critical_reviews,Critical reviews,Rotten Tomatoes
-41,Critical_reviews,Critical reviews,[8]
-41,Critical_reviews,Critical reviews,BBC
-41,Critical_reviews,Critical reviews,Peter Dinklage
-41,Critical_reviews,Critical reviews,first season
-41,Critical_reviews,Critical reviews,[9]
-41,Critical_reviews,Critical reviews,IGN
-41,Critical_reviews,Critical reviews,[10]
-41,Critical_reviews,Critical reviews,The A.V. Club
-41,Critical_reviews,Critical reviews,[11]
-41,Critical_reviews,Critical reviews,[12]
-41,Critical_reviews,Critical reviews,[12]
-41,Critical_reviews,Critical reviews,The Daily Telegraph
-41,Critical_reviews,Critical reviews,[13]
 42,In_King.27s_Landing,In King's Landing,Lena Headey
 42,In_King.27s_Landing,In King's Landing,Nikolaj Coster-Waldau
 42,In_King.27s_Landing,In King's Landing,Jerome Flynn
@@ -1446,12 +1208,6 @@ episodeId,locationId,locationName,actor
 42,In_Meereen,In Meereen,Reece Noi
 42,In_Meereen,In Meereen,Emilia Clarke
 42,In_Meereen,In Meereen,Ian McElhinney
-42,Television_ratings,Television ratings,[7]
-42,Television_ratings,Television ratings,[8]
-42,Critical_reviews,Critical reviews,IGN
-42,Critical_reviews,Critical reviews,[9]
-42,Critical_reviews,Critical reviews,Rotten Tomatoes
-42,Critical_reviews,Critical reviews,[10]
 43,In_King.27s_Landing,In King's Landing,Dean-Charles Chapman
 43,In_King.27s_Landing,In King's Landing,Natalie Dormer
 43,In_King.27s_Landing,In King's Landing,consummate
@@ -1479,13 +1235,6 @@ episodeId,locationId,locationName,actor
 43,In_Volantis,In Volantis,Conleth Hill
 43,In_Volantis,In Volantis,Rila Fukushima
 43,In_Volantis,In Volantis,Iain Glen
-43,Television_ratings,Television ratings,[9]
-43,Television_ratings,Television ratings,[10]
-43,Critical_reviews,Critical reviews,Rotten Tomatoes
-43,Critical_reviews,Critical reviews,[11]
-43,Critical_reviews,Critical reviews,[6]
-43,Critical_reviews,Critical reviews,[5]
-43,Critical_reviews,Critical reviews,[6]
 44,In_King.27s_Landing,In King's Landing,Roger Ashton-Griffiths
 44,In_King.27s_Landing,In King's Landing,Lena Headey
 44,In_King.27s_Landing,In King's Landing,Ian Beattie
@@ -1511,12 +1260,6 @@ episodeId,locationId,locationName,actor
 44,In_Meereen,In Meereen,Emilia Clarke
 44,In_Meereen,In Meereen,Joel Fry
 44,In_Meereen,In Meereen,Jacob Anderson
-44,Television_ratings,Television ratings,[11]
-44,Television_ratings,Television ratings,[12]
-44,Critical_reviews,Critical reviews,Rotten Tomatoes
-44,Critical_reviews,Critical reviews,[13]
-44,Critical_reviews,Critical reviews,[10]
-44,Critical_reviews,Critical reviews,[14]
 45,In_the_North,In the North,Gwendoline Christie
 45,In_the_North,In the North,Daniel Portman
 45,In_the_North,In the North,Sophie Turner
@@ -1542,17 +1285,6 @@ episodeId,locationId,locationName,actor
 45,In_Valyria,In Valyria,Peter Dinklage
 45,In_Valyria,In Valyria,Iain Glen
 45,In_Valyria,In Valyria,sandbar
-45,Television_ratings,Television ratings,[5]
-45,Television_ratings,Television ratings,[6]
-45,Television_ratings,Television ratings,[7]
-45,Critical_reviews,Critical reviews,Vanity Fair
-45,Critical_reviews,Critical reviews,[8]
-45,Critical_reviews,Critical reviews,IGN
-45,Critical_reviews,Critical reviews,[9]
-45,Critical_reviews,Critical reviews,The Atlantic
-45,Critical_reviews,Critical reviews,[10]
-45,Critical_reviews,Critical reviews,Rotten Tomatoes
-45,Critical_reviews,Critical reviews,[11]
 46,In_Braavos,In Braavos,Maisie Williams
 46,In_Braavos,In Braavos,Faye Marsay
 46,In_Braavos,In Braavos,Tom Wlaschiha
@@ -1582,41 +1314,6 @@ episodeId,locationId,locationName,actor
 46,In_Winterfell,In Winterfell,Sophie Turner
 46,In_Winterfell,In Winterfell,Iwan Rheon
 46,In_Winterfell,In Winterfell,Alfie Allen
-46,Critical_reviews_and_controversy,Critical reviews and controversy,Rotten Tomatoes
-46,Critical_reviews_and_controversy,Critical reviews and controversy,rating average
-46,Critical_reviews_and_controversy,Critical reviews and controversy,[3]
-46,Critical_reviews_and_controversy,Critical reviews and controversy,The Daily Telegraph
-46,Critical_reviews_and_controversy,Critical reviews and controversy,[15]
-46,Critical_reviews_and_controversy,Critical reviews and controversy,[16]
-46,Critical_reviews_and_controversy,Critical reviews and controversy,[17]
-46,Critical_reviews_and_controversy,Critical reviews and controversy,The A.V. Club
-46,Critical_reviews_and_controversy,Critical reviews and controversy,[9]
-46,Critical_reviews_and_controversy,Critical reviews and controversy,Vanity Fair
-46,Critical_reviews_and_controversy,Critical reviews and controversy,[16]
-46,Critical_reviews_and_controversy,Critical reviews and controversy,[18]
-46,Critical_reviews_and_controversy,Critical reviews and controversy,[19]
-46,Critical_reviews_and_controversy,Critical reviews and controversy,[20]
-46,Critical_reviews_and_controversy,Critical reviews and controversy,[21]
-46,Critical_reviews_and_controversy,Critical reviews and controversy,[22]
-46,Critical_reviews_and_controversy,Critical reviews and controversy,[8]
-46,Critical_reviews_and_controversy,Critical reviews and controversy,Cathy Young
-46,Critical_reviews_and_controversy,Critical reviews and controversy,Reason
-46,Critical_reviews_and_controversy,Critical reviews and controversy,[23]
-46,Critical_reviews_and_controversy,Critical reviews and controversy,[16]
-46,Critical_reviews_and_controversy,Critical reviews and controversy,[24]
-46,Critical_reviews_and_controversy,Critical reviews and controversy,[25]
-46,Critical_reviews_and_controversy,Critical reviews and controversy,Claire McCaskill
-46,Critical_reviews_and_controversy,Critical reviews and controversy,[25]
-46,Critical_reviews_and_controversy,Critical reviews and controversy,[26]
-46,Critical_reviews_and_controversy,Critical reviews and controversy,The Gift
-46,Critical_reviews_and_controversy,Critical reviews and controversy,[27]
-46,Critical_reviews_and_controversy,Critical reviews and controversy,Wetpaint
-46,Critical_reviews_and_controversy,Critical reviews and controversy,[28]
-46,Critical_reviews_and_controversy,Critical reviews and controversy,Blackwater
-46,Critical_reviews_and_controversy,Critical reviews and controversy,[29]
-46,Critical_reviews_and_controversy,Critical reviews and controversy,[30]
-46,Critical_reviews_and_controversy,Critical reviews and controversy,Hardhome
-46,Critical_reviews_and_controversy,Critical reviews and controversy,[31]
 47,At_the_Wall,At the Wall,Kit Harington
 47,At_the_Wall,At the Wall,Kristofer Hivju
 47,At_the_Wall,At the Wall,Owen Teale
@@ -1650,12 +1347,6 @@ episodeId,locationId,locationName,actor
 47,In_King.27s_Landing,In King's Landing,Lena Headey
 47,In_King.27s_Landing,In King's Landing,Eugene Simon
 47,In_King.27s_Landing,In King's Landing,Hannah Waddingham
-47,Critical_reviews,Critical reviews,Rotten Tomatoes
-47,Critical_reviews,Critical reviews,rating average
-47,Critical_reviews,Critical reviews,[15]
-47,Critical_reviews,Critical reviews,The A.V. Club
-47,Critical_reviews,Critical reviews,[4]
-47,Critical_reviews,Critical reviews,[16]
 48,In_King.27s_Landing,In King's Landing,Lena Headey
 48,In_King.27s_Landing,In King's Landing,Hannah Waddingham
 48,In_King.27s_Landing,In King's Landing,Anton Lesser
@@ -1748,48 +1439,6 @@ episodeId,locationId,locationName,actor
 50,At_the_Wall,At the Wall,Owen Teale
 50,At_the_Wall,At the Wall,Michael Condron
 50,At_the_Wall,At the Wall,Brian Fortune
-50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,
-50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,
-50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,Cersei Lannister
-50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,Lena Headey
-50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,Dubrovnik
-50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,close-ups
-50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,long shots
-50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,CGI
-50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,[6]
-50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,[7]
-50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,[8]
-50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,[9]
-50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,[10]
-50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,[9]
-50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,[11]
-50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,[12]
-50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,Belfast
-50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,David Nutter
-50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,[8]
-50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,[6]
-50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,[10]
-50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,[13]
-50,Cersei.27s_walk_of_atonement,Cersei's walk of atonement,[6]
-50,Fate_of_Jon_Snow,Fate of Jon Snow,when we cut Ned’s head off
-50,Fate_of_Jon_Snow,Fate of Jon Snow,[14]
-50,Fate_of_Jon_Snow,Fate of Jon Snow,[15]
-50,Fate_of_Jon_Snow,Fate of Jon Snow,[14]
-50,Fate_of_Jon_Snow,Fate of Jon Snow,[16]
-50,Fate_of_Jon_Snow,Fate of Jon Snow,[14]
-50,Fate_of_Jon_Snow,Fate of Jon Snow,[16]
-50,Fate_of_Jon_Snow,Fate of Jon Snow,[17]
-50,Fate_of_Jon_Snow,Fate of Jon Snow,[18]
-50,Fate_of_Jon_Snow,Fate of Jon Snow,[19]
-50,Fate_of_Jon_Snow,Fate of Jon Snow,[17]
-50,Fate_of_Jon_Snow,Fate of Jon Snow,[20]
-50,Fate_of_Jon_Snow,Fate of Jon Snow,Charles Dance
-50,Fate_of_Jon_Snow,Fate of Jon Snow,Tywin Lannister
-50,Fate_of_Jon_Snow,Fate of Jon Snow,[20]
-50,Fate_of_Jon_Snow,Fate of Jon Snow,[21]
-50,Fate_of_Jon_Snow,Fate of Jon Snow,[22]
-50,Fate_of_Jon_Snow,Fate of Jon Snow,[23]
-50,Fates_of_other_characters,Fates of other characters,[24]
 51,In_the_North,In the North,Ramsay
 51,In_the_North,In the North,Iwan Rheon
 51,In_the_North,In the North,Charlotte Hope
@@ -2186,28 +1835,3 @@ episodeId,locationId,locationName,actor
 60,In_Meereen,In Meereen,Emilia Clarke
 60,In_Meereen,In Meereen,Michiel Huisman
 60,In_Meereen,In Meereen,Peter Dinklage
-60,Costuming,Costuming,
-60,Costuming,Costuming,
-60,Costuming,Costuming,[30]
-60,Costuming,Costuming,[30]
-60,Costuming,Costuming,Vanity Fair
-60,Costuming,Costuming,[30]
-60,Costuming,Costuming,[30]
-60,Costuming,Costuming,[30]
-60,Costuming,Costuming,[30]
-60,Costuming,Costuming,[31]
-60,Costuming,Costuming,[31]
-60,Musical_score,Musical score,
-60,Musical_score,Musical score,
-60,Musical_score,Musical score,Ramin Djawadi
-60,Musical_score,Musical score,Ramin Djawadi
-60,Musical_score,Musical score,The Hollywood Reporter
-60,Musical_score,Musical score,[32]
-60,Musical_score,Musical score,[32]
-60,Musical_score,Musical score,[32]
-60,Musical_score,Musical score,[32]
-60,Musical_score,Musical score,[32]
-60,Musical_score,Musical score,[33]
-60,Musical_score,Musical score,[34]
-60,Musical_score,Musical score,The Week
-60,Musical_score,Musical score,[34]

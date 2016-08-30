@@ -36,7 +36,7 @@ def process_episode(episode_id):
         characters = select(starring_element, "li") + select(guest_starring_element, "li") + select(uncredited_element, "li")
 
     actors_locations = []
-    for section in [section for section in  select(wikipedia, "h3 span.mw-headline") if not section.text in ["Writing", "Casting", "Filming", "Ratings", "Critical reception", "Conception and development", "Critical response", "International", "Filming locations", "The original pilot", "Preview", "Accolades", "Props", "Choreography", "Dedication", "Aired episode", "Direwolves", "Airings and ratings", "Staging and props"] ]:
+    for section in [section for section in  select(wikipedia, "h3 span.mw-headline") if not section.text in ["Writing", "Casting", "Filming", "Ratings", "Critical reception", "Conception and development", "Critical response", "International", "Filming locations", "The original pilot", "Preview", "Accolades", "Props", "Choreography", "Dedication", "Aired episode", "Direwolves", "Airings and ratings", "Staging and props", "Other", "Emmy nomination", "Awards and nominations", "Music", "Directing", "Television ratings", "Critical reviews", "Critical reviews and controversy", "Fate of Jon Snow", "Musical score", "Costuming", "Ratings and general reception", "Viewer reception", "Piracy", "Fates of other characters", "Cersei's walk of atonement", "Execution", "Valyrian", "Rape scene", "Prologue, in the Westerlands"] ]:
         content = []
         next_bit = section.parent.next_sibling
         while True:
@@ -60,6 +60,29 @@ def process_episode(episode_id):
 
         for actor in actors:
             actors_locations.append([episode_id, section.get("id").encode("utf-8"), section.text.encode("utf-8"), actor.encode("utf-8")])
+
+    # Doesn't work because some episodes (10, 19, 39) aren't structured correctly
+    # actors_locations = []
+    # summary = select(wikia, "span#Summary")
+    #
+    # parent = summary[0].parent
+    # next_element = parent.next_sibling
+    # locations = []
+    # while True:
+    #     if next_element.name == "h2":
+    #         print locations
+    #         break
+    #     if next_element.name == "h3":
+    #         location = select(next_element, "span.mw-headline")[0].text
+    #         locations.append(location)
+    #     else:
+    #         try:
+    #             links = select(next_element, "a")
+    #             for link in links:
+    #                 actors_locations.append([episode_id, location, link.get("href")])
+    #         except AttributeError:
+    #             pass
+    #     next_element = next_element.next_sibling
 
     return {
         'season': season,
